@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-09T14:40:37.518320+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-06-09T18:28:31.411446+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：内塔尼亚胡，你最好小心点！",
           "url": "https://news.ifeng.com/c/8toEUKCFcdF",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 18时28分]"
         },
         {
           "title": "特朗普：未来两周将对伊朗全面胜利",
@@ -36,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -58,9 +59,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "特朗普：未来两周将对伊朗“全面胜利” 油价将会暴跌！",
+          "url": "https://www.cls.cn/detail/2394559",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "特朗普提名前私人律师，任司法部长",
@@ -75,22 +87,23 @@
           "time_info": "[10时13分 ~ 14时40分]"
         },
         {
-          "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
-          "url": "https://www.zhihu.com/question/2047287128892224880",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 14时40分]"
-        },
-        {
           "title": "特朗普“积极介入斡旋”后，伊朗宣布对以打击“告一段落”",
           "url": "https://wallstreetcn.com/articles/3774122",
           "source": "华尔街见闻",
           "ranks": [
             7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 18时28分]"
+        },
+        {
+          "title": "伊朗时隔两个月再袭以色列，特朗普称「希望以色列不要还击」，局势将如何发展？美伊谈判是否会受影响？",
+          "url": "https://www.zhihu.com/question/2047287128892224880",
+          "source": "知乎",
+          "ranks": [
             6
           ],
           "is_new": false,
@@ -127,9 +140,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "特朗普出席NBA总决赛遭全场狂嘘，事后“挽尊”辩解",
+          "url": "https://v.ifeng.com/c/8tojH1TtuMo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美军“阿帕奇”武装直升机在霍尔木兹附近坠毁，特朗普却预告“两周内全面胜利”",
@@ -138,7 +173,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -149,9 +184,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        },
+        {
+          "title": "克里姆林宫：目前没有关于美国总统特朗普与俄罗斯总统普京进行通话的安排。",
+          "url": "https://flash.jin10.com/detail/20260609181043954800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "特朗普观战NBA总决赛",
@@ -163,13 +209,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "特朗普称美伊谈判进入“最后关头”，将在“两到三天内”达成协议",
+          "url": "https://wallstreetcn.com/livenews/3116681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
     {
       "keyword_group": "涨停 跌停",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "大V“白毛股神”跨境吹票，提一嘴20CM涨停？信息倒灌要警惕了",
+          "url": "https://www.cls.cn/detail/2394549",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 18时28分]"
+        },
         {
           "title": "南山控股股价跌停，公司回应",
           "url": "https://flash.jin10.com/detail/20260609142650522800",
@@ -177,7 +246,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -188,7 +257,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -204,24 +273,13 @@
           "time_info": "10时13分"
         },
         {
-          "title": "大V“白毛股神”跨境吹票，提一嘴20CM涨停？信息倒灌要警惕了",
-          "url": "https://www.cls.cn/detail/2394549",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
           "title": "南山控股股价跌停，公司回应",
           "url": "https://wallstreetcn.com/livenews/3116594",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -236,6 +294,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时13分 ~ 14时40分]"
+        },
+        {
+          "title": "股价盘中触及跌停，业绩扭亏受益库存白银上涨，福达合金回应",
+          "url": "https://wallstreetcn.com/livenews/3116707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "A股文化传媒板块拉升，天地在线涨停，天娱数科此前涨停，视觉中国、佳云科技、世纪天鸿涨幅居前。消息面上，市场监管总局、国家发展改革委、中央网信办等六部门近日发布《关于大力促进新时代广告产业高质量发展的意见》。",
@@ -255,7 +324,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -288,7 +357,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -299,87 +368,15 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "两部门：到2026年底人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署 开启“作业模式”",
-          "url": "https://www.cls.cn/detail/2394324",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "灵心巧手、继峰股份合资成立智能机器人公司",
-          "url": "https://flash.jin10.com/detail/20260609095917237800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "A股机器人概念反复活跃，埃斯顿2连板，晋拓股份涨停，景业智能涨超12%，豪恩汽电、中科三环、秦川机床、征和工业等个股跟涨。消息面上，工业和信息化部、国务院国资委联合开展2026年度人形机器人与具身智能实景实训专项行动。",
-          "url": "https://flash.jin10.com/detail/20260609095401249800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "人形机器人进厂 效率只有人工3成",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82+%E6%95%88%E7%8E%87%E5%8F%AA%E6%9C%89%E4%BA%BA%E5%B7%A53%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "两部门联合开展2026年度人形机器人与具身智能实景实训专项行动",
-          "url": "https://wallstreetcn.com/livenews/3116428",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "工人抢着学编程 争着操作机器人",
-          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E6%8A%A2%E7%9D%80%E5%AD%A6%E7%BC%96%E7%A8%8B+%E4%BA%89%E7%9D%80%E6%93%8D%E4%BD%9C%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗首都国际机场恢复航班运营",
@@ -416,6 +413,28 @@
           "time_info": "10时13分"
         },
         {
+          "title": "美国5月小企业信心下滑，因伊朗战争令通胀担忧加剧",
+          "url": "https://flash.jin10.com/detail/20260609180346148800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "伊朗足协世界杯配额门票被收回",
+          "url": "https://wallstreetcn.com/livenews/3116683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "伊朗导弹直指以色列：新的进攻性地区野心正在浮现",
           "url": "https://flash.jin10.com/detail/20260609093355639800",
           "source": "金十数据",
@@ -440,8 +459,152 @@
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "创业板指涨超2%，沪指涨0.06%，深成指涨1.04%，半导体芯片、算力硬件等方向领涨，沪深京三市上涨个股近1900只。",
+          "url": "https://wallstreetcn.com/livenews/3116451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "创业板指高开高走涨近4%",
+          "url": "https://www.toutiao.com/trending/7648934213622579227/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
+          "url": "https://wallstreetcn.com/articles/3774065",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨近4%，科技股迎集体反弹，PCB、芯片产业链联袂领涨",
+          "url": "https://www.cls.cn/detail/2394851",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "科创50指数涨超4%",
+          "url": "https://flash.jin10.com/detail/20260609140651055800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "创业板指盘中涨超2%，MLCC、存储、半导体、PCB等概念涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260609093916104800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "两部门：到2026年底人形机器人等重点产品在一批代表性场景中率先完成应用验证和常态部署 开启“作业模式”",
+          "url": "https://www.cls.cn/detail/2394324",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "灵心巧手、继峰股份合资成立智能机器人公司",
+          "url": "https://flash.jin10.com/detail/20260609095917237800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "A股机器人概念反复活跃，埃斯顿2连板，晋拓股份涨停，景业智能涨超12%，豪恩汽电、中科三环、秦川机床、征和工业等个股跟涨。消息面上，工业和信息化部、国务院国资委联合开展2026年度人形机器人与具身智能实景实训专项行动。",
+          "url": "https://flash.jin10.com/detail/20260609095401249800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "人形机器人进厂 效率只有人工3成",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%9B%E5%8E%82+%E6%95%88%E7%8E%87%E5%8F%AA%E6%9C%89%E4%BA%BA%E5%B7%A53%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "两部门联合开展2026年度人形机器人与具身智能实景实训专项行动",
+          "url": "https://wallstreetcn.com/livenews/3116428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "工人抢着学编程 争着操作机器人",
+          "url": "https://www.baidu.com/s?wd=%E5%B7%A5%E4%BA%BA%E6%8A%A2%E7%9D%80%E5%AD%A6%E7%BC%96%E7%A8%8B+%E4%BA%89%E7%9D%80%E6%93%8D%E4%BD%9C%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片 光模块",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
@@ -451,8 +614,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 18时28分]"
         },
         {
           "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
@@ -460,11 +623,12 @@
           "source": "澎湃新闻",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 18时28分]"
         },
         {
           "title": "存储芯片板块集体反弹，圣泉集团一字涨停，盈方微涨超7%，东芯股份、商络电子、华特气体、博敏电子纷纷高开。",
@@ -487,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "芯片、造船与火炮：李在明临危受命这一年，韩国如何吃下“乱世红利”？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333977",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "港股芯片股走强，天数智芯(09903.HK)涨超4%，澜起科技(06809.HK)、兆易创新(03986.HK)、中兴通讯(00763.HK)、华虹宏力(01347.HK)等个股跟涨。",
@@ -512,7 +687,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -523,7 +698,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -545,59 +720,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "创业板指涨超2%，沪指涨0.06%，深成指涨1.04%，半导体芯片、算力硬件等方向领涨，沪深京三市上涨个股近1900只。",
-          "url": "https://wallstreetcn.com/livenews/3116451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "创业板重挫超3%，芯片半导体集体下跌，机器人逆势拉升，恒科指跌超2%，沪银狂泻10%",
-          "url": "https://wallstreetcn.com/articles/3774065",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "科创50指数涨超4%",
-          "url": "https://flash.jin10.com/detail/20260609140651055800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
-        },
-        {
-          "title": "创业板指盘中涨超2%，MLCC、存储、半导体、PCB等概念涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260609093916104800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
         }
       ]
     },
@@ -612,7 +737,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -623,7 +748,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -634,7 +759,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -645,9 +770,111 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "复盘",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "NBA总决赛G3复盘",
+          "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG3%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        },
+        {
+          "title": "AL场馆复盘,粉丝:净整这出",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354997&amp;topic_name=AL%E5%9C%BA%E9%A6%86%E5%A4%8D%E7%9B%98%2C%E7%B2%89%E4%B8%9D%3A%E5%87%80%E6%95%B4%E8%BF%99%E5%87%BA",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 18时28分]"
+        },
+        {
+          "title": "BLG战胜AL赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CAL%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
+          "url": "https://www.cls.cn/detail/2394903",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "回到2025年底！国际金价跌破4300美元，短期偏弱格局还将持续多久？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33334905",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 14时40分]"
+        },
+        {
+          "title": "A股可控核聚变概念短线拉升，爱科赛博涨超16%，宏微科技、炬光科技、融发核电、冰轮环境等个股跟涨。据媒体报道，阿里巴巴接洽核电央企，探讨小型反应堆为数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20260609100104888800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "光纤“祖师爷”康宁股价拉升 与亚马逊达成数十亿美元生产协议",
+          "url": "https://www.cls.cn/detail/2394091",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "富时A50中国指数期货尾盘拉升，收涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3116680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
@@ -660,11 +887,12 @@
           "url": "https://wallstreetcn.com/articles/3774056",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 14时40分]"
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 18时28分]"
         },
         {
           "title": "【早报】美股芯片、光通信股全线反弹，半导体指数大涨5.6%；油价冲高回落，金银探底企稳",
@@ -724,77 +952,54 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         }
       ]
     },
     {
-      "keyword_group": "跌破 拉升",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "回到2025年底！国际金价跌破4300美元，短期偏弱格局还将持续多久？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33334905",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 14时40分]"
-        },
-        {
-          "title": "A股可控核聚变概念短线拉升，爱科赛博涨超16%，宏微科技、炬光科技、融发核电、冰轮环境等个股跟涨。据媒体报道，阿里巴巴接洽核电央企，探讨小型反应堆为数据中心供电。",
-          "url": "https://flash.jin10.com/detail/20260609100104888800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        },
-        {
-          "title": "光纤“祖师爷”康宁股价拉升 与亚马逊达成数十亿美元生产协议",
-          "url": "https://www.cls.cn/detail/2394091",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "复盘",
+      "keyword_group": "全球第一",
       "match_count": 2,
       "titles": [
         {
-          "title": "NBA总决赛G3复盘",
-          "url": "https://search.bilibili.com/all?keyword=NBA%E6%80%BB%E5%86%B3%E8%B5%9BG3%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
+          "title": "王传福：5年后比亚迪将做到全球第一",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E4%BC%A0%E7%A6%8F%EF%BC%9A5%E5%B9%B4%E5%90%8E%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%B0%86%E5%81%9A%E5%88%B0%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
           "ranks": [
-            2
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "18时28分"
         },
         {
-          "title": "AL场馆复盘,粉丝:净整这出",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354997&amp;topic_name=AL%E5%9C%BA%E9%A6%86%E5%A4%8D%E7%9B%98%2C%E7%B2%89%E4%B8%9D%3A%E5%87%80%E6%95%B4%E8%BF%99%E5%87%BA",
-          "source": "贴吧",
+          "title": "王传福：五年后比亚迪将在规模上做到真正的全球第一",
+          "url": "https://wallstreetcn.com/livenews/3116573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "花旗：交易员大举搭建美股空仓 诸多重大风险事件临近",
+          "url": "https://wallstreetcn.com/livenews/3116699",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "18时28分"
         }
       ]
     },
@@ -817,19 +1022,19 @@
       ]
     },
     {
-      "keyword_group": "全球第一",
+      "keyword_group": "CPI",
       "match_count": 1,
       "titles": [
         {
-          "title": "王传福：五年后比亚迪将在规模上做到真正的全球第一",
-          "url": "https://wallstreetcn.com/livenews/3116573",
-          "source": "华尔街见闻-快讯",
+          "title": "美国银行：美国5月整体CPI料创三年高位 核心CPI相对温和",
+          "url": "https://flash.jin10.com/detail/20260609180438795800",
+          "source": "金十数据",
           "ranks": [
-            20
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时40分"
+          "time_info": "18时28分"
         }
       ]
     },
