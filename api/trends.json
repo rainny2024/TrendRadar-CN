@@ -1,40 +1,42 @@
 {
-  "generated_at": "2026-06-11T08:09:08.922041+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-06-11T13:21:18.673516+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 74,
+      "match_count": 80,
       "titles": [
-        {
-          "title": "伊朗战争最新动态丨伊朗彻底关闭霍尔木兹海峡",
-          "url": "https://ishare.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
-        },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3774300",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时21分]"
         },
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
           "url": "https://www.cls.cn/detail/2396599",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时21分]"
+        },
+        {
+          "title": "伊朗战争最新动态丨伊朗彻底关闭霍尔木兹海峡",
+          "url": "https://ishare.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -80,7 +82,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -102,7 +104,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -118,6 +120,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时51分 ~ 08时09分]"
+        },
+        {
+          "title": "伊朗：用12枚导弹摧毁美军大量战机",
+          "url": "https://news.ifeng.com/c/8trqmYEuo1k",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "以媒：以色列现阶段并未打击伊朗",
@@ -137,7 +150,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -176,33 +189,35 @@
           "time_info": "[06时47分 ~ 08时09分]"
         },
         {
-          "title": "伊朗对所有船只关闭霍尔木兹海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E6%89%80%E6%9C%89%E8%88%B9%E5%8F%AA%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
-        },
-        {
           "title": "伊朗全面关闭霍尔木兹海峡",
           "url": "https://www.toutiao.com/trending/7649365955310718483/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时21分]"
         },
         {
           "title": "伊朗对所有船只关闭霍尔木兹海峡 国际原油价格持续走高 | 环球市场",
           "url": "https://www.cls.cn/detail/2396606",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时21分]"
+        },
+        {
+          "title": "伊朗对所有船只关闭霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AF%B9%E6%89%80%E6%9C%89%E8%88%B9%E5%8F%AA%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -253,13 +268,35 @@
           "time_info": "06时47分"
         },
         {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2048301839200642048",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.00%，现报91.76美元/桶。布伦特原油回落至93美元/桶下方，日内跌0.80%。",
+          "url": "https://flash.jin10.com/detail/20260611124806085800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "美军称没有美军舰被伊朗击中",
           "url": "https://wallstreetcn.com/livenews/3117778",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -281,7 +318,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -363,6 +400,17 @@
           "time_info": "06时47分"
         },
         {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "伊朗总统：国家将坚决抵制任何威胁",
           "url": "https://wallstreetcn.com/livenews/3117632",
           "source": "华尔街见闻-快讯",
@@ -402,7 +450,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -600,7 +648,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -644,7 +692,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -666,7 +714,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -677,7 +725,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -721,7 +769,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -743,7 +791,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -787,7 +835,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -803,6 +851,17 @@
           "time_info": "06时47分"
         },
         {
+          "title": "伊朗称用12枚导弹摧毁约旦美军基地“大量战机”",
+          "url": "https://wallstreetcn.com/livenews/3117893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "美防长称美军将轰炸伊朗境内关键设施",
           "url": "https://wallstreetcn.com/livenews/3117711",
           "source": "华尔街见闻-快讯",
@@ -812,6 +871,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "伊朗称美国试图让霍尔木兹海峡不安全",
+          "url": "https://wallstreetcn.com/livenews/3117888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "伊朗击落美军“阿帕奇”直升机",
@@ -828,7 +898,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 42,
       "titles": [
         {
           "title": "美贸易法院：特朗普，快退钱！",
@@ -848,11 +918,23 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普公开了一个秘密，全世界都有点懵",
+          "url": "https://news.ifeng.com/c/8tos3hBXZVW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "以色列消息人士称内塔尼亚胡与特朗普保持密切沟通",
@@ -875,6 +957,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "美媒：如今特朗普最头痛的是这件事",
+          "url": "https://news.ifeng.com/c/8trayef73Wv",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美国5月CPI爆了，特朗普语出惊人：我爱通胀！",
+          "url": "https://www.cls.cn/detail/2396641",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "特朗普透露生日愿望",
+          "url": "https://news.ifeng.com/c/8trjoJ9cLMY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "特朗普称美“秘密”帮助200多艘商船通过霍尔木兹海峡",
@@ -930,7 +1045,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -941,7 +1056,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -963,7 +1078,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -974,7 +1089,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -985,7 +1100,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -996,7 +1111,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -1007,7 +1122,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -1018,7 +1133,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -1029,7 +1144,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -1062,7 +1177,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -1073,7 +1188,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -1084,7 +1199,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -1095,7 +1210,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
@@ -1257,7 +1372,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -1268,8 +1383,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 13时21分]"
         },
         {
           "title": "公安部网安局公布6类高发涉考网络风险",
@@ -1281,6 +1396,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "公安部网安局公布6类涉考网络风险",
+          "url": "https://www.toutiao.com/trending/7649363496248954404/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时21分]"
+        },
+        {
+          "title": "网警公布6类高发涉考网络风险",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%836%E7%B1%BB%E9%AB%98%E5%8F%91%E6%B6%89%E8%80%83%E7%BD%91%E7%BB%9C%E9%A3%8E%E9%99%A9",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时21分]"
+        },
+        {
+          "title": "网警公布6类高发涉考网络风险",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%836%E7%B1%BB%E9%AB%98%E5%8F%91%E6%B6%89%E8%80%83%E7%BD%91%E7%BB%9C%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时21分]"
         },
         {
           "title": "专家：美伊再爆大规模冲突风险增大",
@@ -1295,37 +1443,15 @@
           "time_info": "[01时51分 ~ 06时47分]"
         },
         {
-          "title": "公安部网安局公布6类涉考网络风险",
-          "url": "https://www.toutiao.com/trending/7649363496248954404/",
-          "source": "今日头条",
+          "title": "市场分析：欧洲央行加息时刻已到，7月份有再次行动的风险",
+          "url": "https://flash.jin10.com/detail/20260611124200193800",
+          "source": "金十数据",
           "ranks": [
-            6
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
-        },
-        {
-          "title": "网警公布6类高发涉考网络风险",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%836%E7%B1%BB%E9%AB%98%E5%8F%91%E6%B6%89%E8%80%83%E7%BD%91%E7%BB%9C%E9%A3%8E%E9%99%A9",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
-        },
-        {
-          "title": "网警公布6类高发涉考网络风险",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%836%E7%B1%BB%E9%AB%98%E5%8F%91%E6%B6%89%E8%80%83%E7%BD%91%E7%BB%9C%E9%A3%8E%E9%99%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
           "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
@@ -1348,6 +1474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "淘宝、京东、拼多多、抖音、小红书被约谈，旨在防范化解“6·18”期间网络集中促销可能引发的“内卷式”竞争风险",
+          "url": "https://wallstreetcn.com/livenews/3117895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
@@ -1360,11 +1497,12 @@
           "url": "https://wallstreetcn.com/articles/3774348",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时09分]"
+          "appearance_count": 6,
+          "time_info": "[01时51分 ~ 13时21分]"
         },
         {
           "title": "今夜美国CPI“喜忧参半”？整体通胀或破4创三年新高，核心通胀或显著低于预期！",
@@ -1450,6 +1588,234 @@
       ]
     },
     {
+      "keyword_group": "立案调查",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "极兔速递(01519.HK)午后回升，跌幅收窄至5.01%；公司回应被立案调查：极兔速递中国区高度重视，诚恳接受，坚决服从、全力配合主管部门依法依规开展的各项调查工作。",
+          "url": "https://flash.jin10.com/detail/20260611130706155800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "极兔回应被立案调查：高度重视，全面整改",
+          "url": "https://wallstreetcn.com/livenews/3117930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "极兔回应被立案调查：高度重视，全面整改",
+          "url": "https://flash.jin10.com/detail/20260611130006982800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "极兔速递被立案调查",
+          "url": "https://www.baidu.com/s?wd=%E6%9E%81%E5%85%94%E9%80%9F%E9%80%92%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "极兔速递股价跌超10%，此前国家邮政局依法对极兔速递有限公司立案调查。",
+          "url": "https://wallstreetcn.com/livenews/3117912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "极兔速递股价跳水跌超4%。此前国家邮政局依法对极兔速递有限公司立案调查。",
+          "url": "https://wallstreetcn.com/livenews/3117907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "国家邮政局依法对极兔速递有限公司立案调查",
+          "url": "https://wallstreetcn.com/livenews/3117906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "5月我国汽车出口量同比增长68.7%",
+          "url": "https://www.toutiao.com/trending/7649650397719760410/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 08时09分]"
+        },
+        {
+          "title": "5月新能源汽车产销量同比增长",
+          "url": "https://www.douyin.com/hot/2530030",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 08时09分]"
+        },
+        {
+          "title": "5月汽车出口延续快速增长态势",
+          "url": "https://www.douyin.com/hot/2530408",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "5月末百亿私募升至139家创新高，年内备案产品增长近五成",
+          "url": "https://wallstreetcn.com/livenews/3117759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "IDC：第一季度全球智能手表市场出货量3703万台，同比增长4.8%",
+          "url": "https://wallstreetcn.com/livenews/3117909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "中国汽车动力电池产业创新联盟：5月我国动力和储能电池销量同比增长47.4%",
+          "url": "https://wallstreetcn.com/livenews/3117891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国5月CPI重返4%时代！能源价格飙升推高通胀 市场押注美联储继续观望",
+          "url": "https://www.cls.cn/detail/2396409",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 08时09分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的3.87亿美元。",
+          "url": "https://flash.jin10.com/detail/20260611011616610800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "周三（6月10日），美联储隔夜逆回购协议（RRP）使用规模为3.87亿美元（交易对手4家），上个交易日报5.77亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3117645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国CPI创三年新高，华尔街不慌，“新美联储通讯社”：这份报告什么都没解决",
+          "url": "https://wallstreetcn.com/articles/3774356",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "美联储6月维持利率不变的概率为98.4%",
+          "url": "https://flash.jin10.com/detail/20260611060112840800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "美联储加息预期飙升，ING称黄金、比特币与瑞郎惨遭通胀定价清算",
+          "url": "https://wallstreetcn.com/livenews/3117660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "纳斯达克 标普 道琼斯",
       "match_count": 5,
       "titles": [
@@ -1511,70 +1877,132 @@
       ]
     },
     {
-      "keyword_group": "美联储 非农",
+      "keyword_group": "科创 创业 创业板 科创板",
       "match_count": 5,
       "titles": [
         {
-          "title": "美国5月CPI重返4%时代！能源价格飙升推高通胀 市场押注美联储继续观望",
-          "url": "https://www.cls.cn/detail/2396409",
+          "title": "韩国交易所启动SIDECAR机制，暂停韩国创业板指（KOSDAQ）程序化买入。",
+          "url": "https://flash.jin10.com/detail/20260611130053572800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落跌0.65%，算力硬件板块再陷低迷，资金逆势抱团银行等红利股",
+          "url": "https://www.cls.cn/detail/2396101",
           "source": "财联社热门",
           "ranks": [
-            1,
-            2
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时51分 ~ 08时09分]"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的3.87亿美元。",
-          "url": "https://flash.jin10.com/detail/20260611011616610800",
-          "source": "金十数据",
+          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
+          "url": "https://www.cls.cn/detail/2396047",
+          "source": "财联社热门",
           "ranks": [
-            3
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 5,
+          "time_info": "[01时51分 ~ 08时09分]"
         },
         {
-          "title": "周三（6月10日），美联储隔夜逆回购协议（RRP）使用规模为3.87亿美元（交易对手4家），上个交易日报5.77亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3117645",
+          "title": "大学生返乡创业12年：从“省标杆家庭农场”到被强制清退，行政诉讼被驳后上诉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331622",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "6月11日午间收评：创业板指冲高回落跌1.79%，全市场下跌个股超4500只",
+          "url": "https://wallstreetcn.com/livenews/3117900",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "中韩半导体ETF华泰柏瑞：将于6月11日下午开市起至当日收市停牌。",
+          "url": "https://wallstreetcn.com/livenews/3117934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
-          "title": "美联储6月维持利率不变的概率为98.4%",
-          "url": "https://flash.jin10.com/detail/20260611060112840800",
+          "title": "半导体材料六氟化钨冲击全球供应链",
+          "url": "https://www.toutiao.com/trending/7649693905515974198/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时08分 ~ 08时09分]"
+        },
+        {
+          "title": "Omdia：第一季度半导体市场营收突破3000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3117925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
+          "title": "中韩半导体ETF华泰柏瑞：本基金将于2026年6月11日下午开市起至当日收市停牌。",
+          "url": "https://flash.jin10.com/detail/20260611124115455800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时47分"
+          "time_info": "13时21分"
         },
         {
-          "title": "美联储加息预期飙升，ING称黄金、比特币与瑞郎惨遭通胀定价清算",
-          "url": "https://wallstreetcn.com/livenews/3117660",
-          "source": "华尔街见闻-快讯",
+          "title": "Omdia：第一季度半导体市场营收突破3000亿美元",
+          "url": "https://flash.jin10.com/detail/20260611123137041800",
+          "source": "金十数据",
           "ranks": [
-            23
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时10分"
+          "time_info": "13时21分"
         }
       ]
     },
     {
       "keyword_group": "跌破 拉升",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科技股抛售潮再袭，纳指跌破上周五低点，消费股撑道指收涨，金银油齐跌",
@@ -1611,6 +2039,17 @@
           "time_info": "06时47分"
         },
         {
+          "title": "金价跌破4100美元",
+          "url": "https://www.douyin.com/hot/2530456",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        },
+        {
           "title": "纽元兑美元NZD/USD跌破0.58，日内跌0.28%。",
           "url": "https://flash.jin10.com/detail/20260611040331953800",
           "source": "金十数据",
@@ -1624,71 +2063,41 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
+      "keyword_group": "日经 韩国股市",
       "match_count": 3,
       "titles": [
         {
-          "title": "5月我国汽车出口量同比增长68.7%",
-          "url": "https://www.toutiao.com/trending/7649650397719760410/",
-          "source": "今日头条",
+          "title": "韩国股市连续三日熔断，外资出逃 760 亿美元，股民被强平 3000 亿韩元，散户仍借钱抄底，当下是「底」吗？",
+          "url": "https://www.zhihu.com/question/2048187195110993970",
+          "source": "知乎",
           "ranks": [
-            3
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时09分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         },
         {
-          "title": "5月新能源汽车产销量同比增长",
-          "url": "https://www.douyin.com/hot/2530030",
-          "source": "抖音",
+          "title": "日经225指数期货在早盘交易中下跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3117779",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时09分]"
+          "appearance_count": 1,
+          "time_info": "08时09分"
         },
         {
-          "title": "5月末百亿私募升至139家创新高，年内备案产品增长近五成",
-          "url": "https://wallstreetcn.com/livenews/3117759",
+          "title": "日经225指数、韩国首尔综指均接近转涨，稍早盘中一度二次跳水。",
+          "url": "https://wallstreetcn.com/livenews/3117911",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【焦点复盘】科创50冲高回落跌0.65%，算力硬件板块再陷低迷，资金逆势抱团银行等红利股",
-          "url": "https://www.cls.cn/detail/2396101",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时09分]"
-        },
-        {
-          "title": "【每日收评】深成指与创业板指双双跌超2%，科技股分化加剧，半导体材料逆势走强",
-          "url": "https://www.cls.cn/detail/2396047",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时51分 ~ 08时09分]"
+          "time_info": "13时21分"
         }
       ]
     },
@@ -1716,7 +2125,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         }
@@ -1742,28 +2151,57 @@
           "url": "https://www.cls.cn/detail/2396570",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 08时09分]"
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 13时21分]"
         }
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 1,
+      "keyword_group": "涨停 跌停",
+      "match_count": 2,
       "titles": [
         {
-          "title": "日经225指数期货在早盘交易中下跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3117779",
+          "title": "A股锂矿股午后冲高，永杉锂业触达涨停，国城矿业、盛新锂能双双涨超7%，天华新能、融捷股份、西藏矿业、永兴材料、赣锋锂业、天齐锂业等个股跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3117932",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "13时21分"
+        },
+        {
+          "title": "A股锂矿股午后冲高，永杉锂业触达涨停，国城矿业、盛新锂能双双涨超7%，天华新能、融捷股份、西藏矿业、永兴材料、赣锋锂业、天齐锂业等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20260611130221349800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3964.24点，跌0.73%。 深证成指早盘收报14756.97点，跌1.32%。 创业板指早盘收报3785.63点，跌1.79%。 沪深300早盘收报4697.77点，跌1.07%。 科创50早盘收报1634.93点，跌1.05%。 中证500早盘收报7976.17点，跌1.09%。 中证1000早盘收报8097.40点，跌1.24%。",
+          "url": "https://wallstreetcn.com/livenews/3117901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     },
@@ -1777,28 +2215,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时47分 ~ 08时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "半导体材料六氟化钨冲击全球供应链",
-          "url": "https://www.toutiao.com/trending/7649693905515974198/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 13时21分]"
         }
       ]
     },
@@ -1830,11 +2252,12 @@
           "url": "https://www.zhihu.com/question/2047749282292299196",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时08分 ~ 08时09分]"
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 13时21分]"
         }
       ]
     },
@@ -1852,6 +2275,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "康方生物：拟斥资不超2亿港元在公开市场上回购公司股份",
+          "url": "https://flash.jin10.com/detail/20260611120300932800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时21分"
         }
       ]
     }
