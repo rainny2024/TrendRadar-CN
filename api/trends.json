@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T10:29:53.632889+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-06-12T15:12:45.037451+08:00",
+  "total_titles_processed": 945,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 53,
       "titles": [
         {
           "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 10时29分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 15时12分]"
         },
         {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
@@ -32,6 +32,53 @@
           "time_info": "[02时02分 ~ 05时13分]"
         },
         {
+          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
+          "url": "https://www.cls.cn/detail/2397775",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 15时12分]"
+        },
+        {
+          "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
+          "url": "https://news.ifeng.com/c/8tt5oJT4pDG",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 15时12分]"
+        },
+        {
+          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
+          "url": "https://wallstreetcn.com/articles/3774457",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 15时12分]"
+        },
+        {
+          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
+          "url": "https://news.ifeng.com/c/8ttDG767op3",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 15时12分]"
+        },
+        {
           "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
           "url": "https://news.ifeng.com/c/8tso5G96e80",
           "source": "凤凰网",
@@ -41,28 +88,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时14分 ~ 10时29分]"
-        },
-        {
-          "title": "【早报】特朗普取消打击伊朗；黄金、白银大涨；世界杯开幕，墨西哥2比0战胜南非",
-          "url": "https://www.cls.cn/detail/2397775",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "特朗普再次180度大转弯，全世界都目瞪口呆",
-          "url": "https://news.ifeng.com/c/8tt5oJT4pDG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
         },
         {
           "title": "据华尔街日报：特朗普与盟友正制定计划以“抹除”弹劾记录。",
@@ -98,17 +123,6 @@
           "time_info": "07时14分"
         },
         {
-          "title": "特朗普为何在夺取伊朗岛屿问题上反复横跳？",
-          "url": "https://news.ifeng.com/c/8ttDG767op3",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
           "title": "巴西雷亚尔兑美元涨1.4%，创最近两个月最佳盘中表现，美国总统特朗普取消打击伊朗的计划，称即将宣布签署协议的时间和地点。",
           "url": "https://wallstreetcn.com/livenews/3118342",
           "source": "华尔街见闻-快讯",
@@ -120,17 +134,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
           "title": "特朗普：取消了对伊朗的打击计划，海上封锁照旧",
           "url": "https://wallstreetcn.com/livenews/3118340",
           "source": "华尔街见闻-快讯",
@@ -140,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美伊局势再陷“迷雾”：特朗普称有望周末签署协议，伊朗“光速否认”！",
+          "url": "https://www.cls.cn/detail/2397803",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
@@ -232,6 +246,18 @@
           "time_info": "[05时12分 ~ 07时14分]"
         },
         {
+          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
+          "url": "https://www.cls.cn/detail/2397778",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 15时12分]"
+        },
+        {
           "title": "特朗普表示相信伊朗最高领袖已批准美伊协议",
           "url": "https://wallstreetcn.com/livenews/3118393",
           "source": "华尔街见闻-快讯",
@@ -241,6 +267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "林肯纪念堂倒影池翻新：成本飙升，承包给特朗普的熟人",
+          "url": "https://news.ifeng.com/c/8ttODxEJJNz",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "特朗普：取消今晚对伊朗打击 将于近期公布协议签署时间和地点",
@@ -309,15 +346,15 @@
           "time_info": "05时13分"
         },
         {
-          "title": "特朗普称有望周末签署美伊协议 伊朗称尚未达成最终结论 | 环球市场",
-          "url": "https://www.cls.cn/detail/2397778",
+          "title": "特朗普称取消原定对伊朗的打击行动",
+          "url": "https://www.cls.cn/detail/2397723",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "15时12分"
         },
         {
           "title": "美国总统特朗普：协议签署的时间和地点将很快公布。",
@@ -414,7 +451,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -507,6 +544,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "外媒：就美国法官裁定将特朗普名字从肯尼迪中心移除，美政府提出上诉",
+          "url": "https://wallstreetcn.com/livenews/3118629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
           "title": "特朗普暗示协议即将达成，新兴市场货币与股票ETF集体大涨",
           "url": "https://wallstreetcn.com/livenews/3118418",
           "source": "华尔街见闻-快讯",
@@ -546,7 +594,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
@@ -554,7 +602,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -631,7 +679,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -656,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
+        },
+        {
+          "title": "美军袭击油轮致3名印度船员死亡，伊朗：海盗行径",
+          "url": "https://news.ifeng.com/c/8ttEGd5sAPh",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "伊朗外交部发言人：伊朗尚未就协议作出最终决定。",
@@ -686,7 +745,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -764,13 +823,25 @@
           "time_info": "[02时02分 ~ 05时13分]"
         },
         {
+          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
+          "url": "https://wallstreetcn.com/articles/3774438",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 15时12分]"
+        },
+        {
           "title": "美财长：如有必要，将拿伊朗的钱补偿海湾国家",
           "url": "https://news.ifeng.com/c/8tsaDtvEdEP",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -784,17 +855,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
         },
         {
           "title": "布伦特原油向下触及89美元/桶，日内跌5.06%。",
@@ -946,7 +1006,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -979,7 +1039,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1064,8 +1124,22 @@
     },
     {
       "keyword_group": "实体清单 制裁",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "中方宣布制裁菲律宾国防部长特奥多罗及其亲属",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33360339",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时12分 ~ 15时12分]"
+        },
         {
           "title": "中方对菲律宾国防部长特奥多罗及其亲属实施制裁，释放了什么信号？会对其产生哪些影响？",
           "url": "https://www.zhihu.com/question/2048497172845442555",
@@ -1073,11 +1147,12 @@
           "ranks": [
             3,
             2,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时12分 ~ 10时29分]"
+          "appearance_count": 5,
+          "time_info": "[05时12分 ~ 15时12分]"
         },
         {
           "title": "中方宣布制裁菲律宾国防部长",
@@ -1105,26 +1180,13 @@
           "time_info": "[02时02分 ~ 05时13分]"
         },
         {
-          "title": "中方宣布制裁菲律宾国防部长特奥多罗及其亲属",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33360339",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时12分 ~ 10时29分]"
-        },
-        {
           "title": "被制裁的菲防长曾钻后厨躲中国记者",
           "url": "https://www.toutiao.com/trending/7650087937069023241/",
           "source": "今日头条",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1173,6 +1235,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美媒：美伊协议涉及“免费”重开海峡和减免制裁",
+          "url": "https://wallstreetcn.com/livenews/3118628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "CPI",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "法国5月CPI同比终值 2.4%，预期 2.4%，初值 2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3118646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "西班牙5月调和CPI月率终值 0.1%，预期0.1%，前值0.10%。",
+          "url": "https://flash.jin10.com/detail/20260612150002430800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "法国5月调和CPI环比终值 0.1%，预期 0.1%，初值 0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3118645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "西班牙5月CPI年率终值 3.2%，预期3.2%，前值3.20%。",
+          "url": "https://flash.jin10.com/detail/20260612150002428800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "法国5月CPI环比终值 0.1%，预期 0.1%，初值 0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3118644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "西班牙5月调和CPI年率终值 3.6%，预期3.6%，前值3.60%。",
+          "url": "https://flash.jin10.com/detail/20260612150002429800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "法国5月调和CPI同比终值 2.8%，预期 2.8%，初值 2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3118643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "西班牙5月CPI月率终值 0.1%，预期0.1%，前值0.10%。",
+          "url": "https://flash.jin10.com/detail/20260612150002421800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         }
       ]
     },
@@ -1186,11 +1353,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 10时29分]"
+          "appearance_count": 3,
+          "time_info": "[07时14分 ~ 15时12分]"
         },
         {
           "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
@@ -1199,9 +1367,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 15时12分]"
         },
         {
           "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
@@ -1261,6 +1429,89 @@
       ]
     },
     {
+      "keyword_group": "存储 半导体",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "广州：全力推进智能网联与新能源汽车、人工智能、半导体及集成电路、低空经济等重大项目的落地",
+          "url": "https://flash.jin10.com/detail/20260612095700182800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "华尔街“拔网线”：韩国半导体狂欢遭遇杠杆急刹车！",
+          "url": "https://flash.jin10.com/detail/20260612150017992800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "半导体产业链集体高开，蓝箭电子、江丰电子、富创精密涨超12%，康强电子、炬光科技、中科飞测、神工股份涨超8%。",
+          "url": "https://wallstreetcn.com/livenews/3118502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "A股四大股指高开 半导体板块活跃",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%9B%9B%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E6%B4%BB%E8%B7%83",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "佰维存储盘中涨近10%，股价突破358元，市值逼近1700亿元，创历史新高。",
+          "url": "https://flash.jin10.com/detail/20260612095007549800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "日本存储巨头铠侠（KIOXIA）超越丰田，成为日本市值最高的公司。",
+          "url": "https://wallstreetcn.com/livenews/3118630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "韩美半导体将使用500亿韩元投资于SpaceX",
+          "url": "https://wallstreetcn.com/livenews/3118482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "跌破 拉升",
       "match_count": 7,
       "titles": [
@@ -1271,7 +1522,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1293,7 +1544,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1326,7 +1577,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1412,67 +1663,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "广州：全力推进智能网联与新能源汽车、人工智能、半导体及集成电路、低空经济等重大项目的落地",
-          "url": "https://flash.jin10.com/detail/20260612095700182800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "半导体产业链集体高开，蓝箭电子、江丰电子、富创精密涨超12%，康强电子、炬光科技、中科飞测、神工股份涨超8%。",
-          "url": "https://wallstreetcn.com/livenews/3118502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "A股四大股指高开 半导体板块活跃",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%9B%9B%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%BF%E5%9D%97%E6%B4%BB%E8%B7%83",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "佰维存储盘中涨近10%，股价突破358元，市值逼近1700亿元，创历史新高。",
-          "url": "https://flash.jin10.com/detail/20260612095007549800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        },
-        {
-          "title": "韩美半导体将使用500亿韩元投资于SpaceX",
-          "url": "https://wallstreetcn.com/livenews/3118482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
         }
       ]
     },
@@ -1564,6 +1754,18 @@
           "time_info": "07时14分"
         },
         {
+          "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
+          "url": "https://www.cls.cn/detail/2397810",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 15时12分]"
+        },
+        {
           "title": "膳魔师在多国紧急召回产品，瓶塞存在弹出的风险，已致 3 人永久失明，普通用户该如何避险？",
           "url": "https://www.zhihu.com/question/2047639647103214727",
           "source": "知乎",
@@ -1574,17 +1776,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时02分 ~ 07时14分]"
-        },
-        {
-          "title": "6月12日投资避雷针：中巨芯、昊华科技等六氟化钨概念股密集提示风险",
-          "url": "https://www.cls.cn/detail/2397810",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
         }
       ]
     },
@@ -1599,7 +1790,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1610,7 +1801,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1632,7 +1823,86 @@
           "ranks": [
             20
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩国股市连续三日熔断，外资出逃 760 亿美元，股民被强平 3000 亿韩元，散户仍借钱抄底，当下是「底」吗？",
+          "url": "https://www.zhihu.com/question/2048187195110993970",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时12分 ~ 07时14分]"
+        },
+        {
+          "title": "日产汽车将在未来一年左右发布七款新车。 公司将新车研发周期减半，至两年。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3118428",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "日经225指数收涨2.8%，报66,020.04点。 日本东证指数收涨1.3%，报3,881.96点。 韩国首尔综指收涨4.49%，报8112.58点。",
+          "url": "https://wallstreetcn.com/livenews/3118634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国上证综指6月12日（周五）收盘上涨44.5点，涨幅：1.12%，报4031.51点；<br/>中国深证成指6月12日（周五）收盘上涨111.43点，涨幅：0.75%，报14963.41点；<br/>中国沪深300指数6月12日（周五）收盘上涨54.91点，涨幅：1.16%，报4777.32点；<br/>中国创业板指数6月12日（周五）收盘上涨19.11点，涨幅：0.5%，报3830.35点；<br/>中国科创50指数6月12日（周五）收盘上涨0.78点，涨幅：0.05%，报1663.22点。",
+          "url": "https://flash.jin10.com/detail/20260612150302461800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "上证指数开盘报4017.86点，涨0.77%。 深证成指开盘报15149.52点，涨2.00%。 创业板指开盘报3921.09点，涨2.88%。 沪深300开盘报4784.64点，涨1.32%。 科创50开盘报1726.01点，涨3.82%。 中证500开盘报8189.21点，涨1.91%。 中证1000开盘报8294.90点，涨1.66%。",
+          "url": "https://wallstreetcn.com/livenews/3118498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "上证指数涨超1%，商业航天、半导体、元件、小金属等板块涨幅居前；全市约3200股上涨，2100股下跌。",
+          "url": "https://flash.jin10.com/detail/20260612094634507800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
@@ -1681,6 +1951,45 @@
       ]
     },
     {
+      "keyword_group": "增长 亮眼",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "广州：“十五五”期间社会消费品零售总额年均增长5%",
+          "url": "https://flash.jin10.com/detail/20260612095455738800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "联合国贸发会议：2024年至2040年，锂需求将增长353%",
+          "url": "https://wallstreetcn.com/livenews/3118640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        },
+        {
+          "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
+          "url": "https://wallstreetcn.com/livenews/3118623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "回购",
       "match_count": 3,
       "titles": [
@@ -1715,64 +2024,64 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
+      "keyword_group": "涨价 核心材料",
       "match_count": 2,
       "titles": [
         {
-          "title": "韩国股市连续三日熔断，外资出逃 760 亿美元，股民被强平 3000 亿韩元，散户仍借钱抄底，当下是「底」吗？",
-          "url": "https://www.zhihu.com/question/2048187195110993970",
-          "source": "知乎",
+          "title": "原料涨价助推 全球六氟化钨供给持续收紧 新增产能短期或难释放",
+          "url": "https://www.cls.cn/detail/2397862",
+          "source": "财联社热门",
           "ranks": [
             9,
-            8
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时12分 ~ 07时14分]"
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 15时12分]"
         },
         {
-          "title": "日产汽车将在未来一年左右发布七款新车。 公司将新车研发周期减半，至两年。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3118428",
-          "source": "华尔街见闻-快讯",
+          "title": "瑞银警告笔记本内存成本压力山大，未来笔记本电脑会迎来普遍涨价吗？",
+          "url": "https://www.zhihu.com/question/2044570580813449191",
+          "source": "知乎",
           "ranks": [
-            17
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时14分"
+          "time_info": "15时12分"
         }
       ]
     },
     {
-      "keyword_group": "上证 深证",
+      "keyword_group": "芯片 光模块",
       "match_count": 2,
       "titles": [
         {
-          "title": "上证指数开盘报4017.86点，涨0.77%。 深证成指开盘报15149.52点，涨2.00%。 创业板指开盘报3921.09点，涨2.88%。 沪深300开盘报4784.64点，涨1.32%。 科创50开盘报1726.01点，涨3.82%。 中证500开盘报8189.21点，涨1.91%。 中证1000开盘报8294.90点，涨1.66%。",
-          "url": "https://wallstreetcn.com/livenews/3118498",
-          "source": "华尔街见闻-快讯",
+          "title": "SK海力士、三星、台积电同时被限！华尔街大行限制对冲基金对亚洲芯片股的杠杠押注",
+          "url": "https://wallstreetcn.com/articles/3774508",
+          "source": "华尔街见闻",
           "ranks": [
-            14
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "15时12分"
         },
         {
-          "title": "上证指数涨超1%，商业航天、半导体、元件、小金属等板块涨幅居前；全市约3200股上涨，2100股下跌。",
-          "url": "https://flash.jin10.com/detail/20260612094634507800",
-          "source": "金十数据",
+          "title": "亏损下谋变？蓝箭电子拟3.36亿元收购成都芯翼60%股权 切入芯片设计赛道|速读公告",
+          "url": "https://www.cls.cn/detail/2397667",
+          "source": "财联社热门",
           "ranks": [
-            24
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
@@ -1789,7 +2098,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         },
@@ -1800,7 +2109,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时29分"
         }
@@ -1836,53 +2145,19 @@
       ]
     },
     {
-      "keyword_group": "涨价 核心材料",
+      "keyword_group": "复盘",
       "match_count": 1,
       "titles": [
         {
-          "title": "原料涨价助推 全球六氟化钨供给持续收紧 新增产能短期或难释放",
-          "url": "https://www.cls.cn/detail/2397862",
-          "source": "财联社热门",
+          "title": "世界杯揭幕战赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "广州：“十五五”期间社会消费品零售总额年均增长5%",
-          "url": "https://flash.jin10.com/detail/20260612095455738800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亏损下谋变？蓝箭电子拟3.36亿元收购成都芯翼60%股权 切入芯片设计赛道|速读公告",
-          "url": "https://www.cls.cn/detail/2397667",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "15时12分"
         }
       ]
     }
