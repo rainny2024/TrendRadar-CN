@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T03:51:50.722631+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-13T05:28:13.392851+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 37,
+      "match_count": 50,
       "titles": [
         {
           "title": "美国政府高级官员：伊朗承诺永不发展核武器。",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -50,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
-        },
-        {
-          "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
-          "url": "https://wallstreetcn.com/livenews/3119059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
         },
         {
           "title": "伊朗发布“头骨世界杯”海报",
@@ -103,7 +92,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -125,7 +114,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -136,9 +125,44 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
+          "url": "https://wallstreetcn.com/livenews/3119059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 05时28分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2048669431962625669",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 05时28分]"
+        },
+        {
+          "title": "伊朗外长：协议尚未签署；如果协议最终签署，我将对每一项条款进行详细说明。",
+          "url": "https://wallstreetcn.com/livenews/3119051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 05时28分]"
         },
         {
           "title": "美国政府高级官员：一些伊朗强硬派希望破坏协议。",
@@ -158,7 +182,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -169,18 +193,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "伊朗外长：协议尚未签署；如果协议最终签署，我将对每一项条款进行详细说明。",
-          "url": "https://wallstreetcn.com/livenews/3119051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -202,18 +215,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2048669431962625669",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -224,9 +226,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
+          "url": "https://flash.jin10.com/detail/20260613040333383800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "伊朗外长阿拉格齐：尚未签署谅解备忘录，可能会有变动。",
@@ -235,7 +248,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -246,7 +259,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -268,7 +281,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -279,9 +292,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长：伊美谅解备忘录可能在几天内签署",
+          "url": "https://wallstreetcn.com/livenews/3119069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "法国外交部长：我们呼吁美国和伊朗抓住这个机会结束这种不可持续的局面。",
@@ -290,7 +314,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -312,9 +336,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
+          "url": "https://flash.jin10.com/detail/20260613035630897800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "美国政府高级官员：根据伊朗的履约情况，将有大幅制裁减免。",
@@ -326,6 +361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
+          "url": "https://flash.jin10.com/detail/20260613035052032800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "美国政府高级官员：伊朗人表现越好，他们能获得的就越多。",
@@ -345,7 +391,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
         },
@@ -361,15 +407,48 @@
           "time_info": "01时32分"
         },
         {
+          "title": "伊朗外长阿拉格齐：我们的剑将始终高悬在霍尔木兹海峡上。",
+          "url": "https://flash.jin10.com/detail/20260613034446617800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
           "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
           "url": "https://wallstreetcn.com/livenews/3119037",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://wallstreetcn.com/livenews/3119061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：霍尔木兹海峡不存在国际水域。",
+          "url": "https://flash.jin10.com/detail/20260613034424534800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "美国政府高级官员：伊朗方面正在解决围绕该协议存在的内部分歧。",
@@ -383,15 +462,37 @@
           "time_info": "01时32分"
         },
         {
+          "title": "伊朗外长阿拉格齐：对德黑兰而言，处置高浓缩铀库存的唯一优选方案是将相关材料降纯稀释。",
+          "url": "https://flash.jin10.com/detail/20260613034201146800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
           "title": "【伊朗外交部：伊方正在审议谅解备忘录草案】伊朗外交部发言人巴加埃表示，目前伊美双方已经在大多数问题上达成谅解，伊朗内部正在对谅解备忘录文本进行最后阶段的汇总。因此，伊朗外长阿拉格齐此前关于“双方已非常接近达成谅解”的表态是准确且值得关注的。相关决策机构的会议正在举行，这是一个持续推进的过程。为达成一个最终且具有决定性的结果，决策机构和相关部门之间必须形成共识。 巴加埃还表示，目前有关协议文本内容的各种猜测均未获得证实。虽然外交进程中的具体细节暂不便公开讨论，但这并不意味着公众没有知情权。（央视）",
           "url": "https://wallstreetcn.com/livenews/3119035",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长：谅解备忘录草案内容涵盖黎巴嫩战线止战",
+          "url": "https://flash.jin10.com/detail/20260613033925939800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
@@ -400,9 +501,42 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗被冻结资金将被释放。",
+          "url": "https://flash.jin10.com/detail/20260613033747065800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争，霍尔木兹海峡相关服务将收费",
+          "url": "https://wallstreetcn.com/livenews/3119056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗将确保船只安全通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260613033658913800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         },
         {
           "title": "洲际交易所（ICE）：6月9日当周，投机者所持ICE 布伦特原油净多头头寸减少43,609手合约，至208,891手合约，创21周新低。 所持白糖净多头头寸达到31,834手合约，创18周新高。 所持罗布斯塔咖啡净多头头寸创三周新低。 所持伦敦可可净空头头寸创五周新高。",
@@ -411,15 +545,203 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
+          "url": "https://flash.jin10.com/detail/20260613033606513800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "周五（6月12日）纽约尾盘，标普500股指期货最终涨0.50%，道指期货涨0.68%，纳斯达克100股指期货涨0.71%。 罗素2000股指期货涨0.91%。",
+          "url": "https://wallstreetcn.com/livenews/3119084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "SpaceX在纳斯达克敲钟上市",
+          "url": "https://www.baidu.com/s?wd=SpaceX%E5%9C%A8%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B%E6%95%B2%E9%92%9F%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
+        },
+        {
+          "title": "标普：预计伊拉克的财政和国际收支状况将在2026年持续承压。",
+          "url": "https://flash.jin10.com/detail/20260613040711331800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "道琼斯指数6月12日（周五）收盘上涨353.51点，涨幅0.70%，报51202.26点；<br/>标普500指数6月12日（周五）收盘上涨37.16点，涨幅0.50%，报7431.46点；<br/>纳斯达克综合指数6月12日（周五）收盘上涨79.18点，涨幅0.31%，报25888.84点。",
+          "url": "https://flash.jin10.com/detail/20260613040429018800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "标普500指数的11个板块普遍收涨，原材料板块涨1.83%，金融、公用事业板块至多涨1.35%，信息技术/科技板块涨0.37%，保健板块跌0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3119070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨0.48%，报6326.73点，本周累计下跌0.56%，整体呈现出W形走势。 热门中概股里，晶科能源初步收涨6.5%，阿特斯太阳能涨5.8%，日月光半导体涨4%，理想涨3.9%，新东方涨3.5%，美团跌超1%。 ETF中，德银嘉实沪深300指数ETF（ASHR）收涨0.83%，本周反弹1.23%； XtrackersHarvest中证50（ASHS）收涨0.68%，本周反弹0.34%； 中国科技指数ETF（CQQQ）收跌1.27%，本周反弹0.37%； 中概互联网指数ETF（KWEB）收跌0.30%，本周反弹0.42%； MSCI新兴市场ex中国ETF（EMXC）收涨0.05%，本周反弹6.23%。",
+          "url": "https://wallstreetcn.com/livenews/3119067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "标普500指数收涨37.16点，涨幅0.50%，报7431.46点。 道琼斯工业平均指数收涨353.51点，涨幅0.70%，报51202.26点。 纳斯达克综合指数（纳指）收涨79.184点，涨幅0.31%，报25888.844点。 纳斯达克100指数收涨189.772点，涨幅0.64%，报29635.948点。 纳斯达克科技市值加权指数收涨0.64%，报2883.0029点。 费城半导体指数收涨1.52%，报13371.47点。 费城证交所KBW银行指数收涨1.73%，报179.80点，继续创收盘历史新高。 道琼斯KBW地区银行指数收涨1.55%，报141.66点。 罗素2000指数收涨0.79%，报2943.992点。 纳斯达克生物科技指数收涨0.25%，报5938.51点。 标普中盘股400指数收涨0.71%，报3796.32点，继续创收盘历史新高。 纳斯达克美国中等市值指数涨0.72%，报3769.4355点，突破6月4日所创收盘历史最高位3764.3550点。 恐慌指数VIX收跌9%，报17.69。",
+          "url": "https://wallstreetcn.com/livenews/3119064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "纳斯达克100指数转跌，此前一度涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3118991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
+        },
+        {
+          "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
+          "url": "https://wallstreetcn.com/livenews/3119078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周五（6月12日），美国科技股七巨头（Magnificent 7）指数跌0.23%，报210.45点，本周累跌2.86%，6月8-11日持续走低，期内主要持稳于210点附近。 “超大”市值科技股指数涨0.60%，报433.85点，本周累跌1.50%。",
+          "url": "https://wallstreetcn.com/livenews/3119077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "周五（6月12日），彭博电动汽车价格回报指数涨3.59%，报3785.58点，北京时间08:00高开高走，12:00之前开始持稳于3760点附近，美股开盘后略微扩大涨幅。 本周累计上涨0.07%，整体呈现出W形走势。 成分股中，淡水河谷印尼公司收涨10.30%，ITM能源涨8.98%，“特斯拉劲敌”Rivian涨7.85%，理想汽车H股涨7.24%，美国雅宝涨7.14%表现第五，在下跌的六只成分股中，普拉格动力跌2.47%，MobilEye跌2.51%。",
+          "url": "https://wallstreetcn.com/livenews/3119076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "周五（6月12日），美股行业ETF多数收涨，全球航空业ETF涨1.93%，半导体ETF、区域银行ETF、银行业ETF、金融业ETF、公用事业ETF至多涨1.72%，科技行业ETF、能源业ETF、全球科技股指数ETF至多涨0.87%，网络股指数ETF跌0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3119072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美元指数本周跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3119062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
+          "url": "https://wallstreetcn.com/livenews/3118990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -440,8 +762,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
         },
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
@@ -452,8 +774,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
         },
         {
           "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
@@ -465,6 +787,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
+          "url": "https://wallstreetcn.com/livenews/3119074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
+          "url": "https://flash.jin10.com/detail/20260613033812680800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         }
       ]
     },
@@ -480,8 +824,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
         },
         {
           "title": "被制裁的菲律宾防长称将“坚守本职”，中方回应",
@@ -491,8 +835,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
         },
         {
           "title": "对菲律宾防长的制裁是否会影响中国未来对菲援助？外交部回应",
@@ -502,64 +846,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
-        },
-        {
-          "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
-          "url": "https://wallstreetcn.com/livenews/3118990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SpaceX在纳斯达克敲钟上市",
-          "url": "https://www.baidu.com/s?wd=SpaceX%E5%9C%A8%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B%E6%95%B2%E9%92%9F%E4%B8%8A%E5%B8%82",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
-        },
-        {
-          "title": "纳斯达克100指数转跌，此前一度涨0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3118991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
         }
       ]
     },
@@ -575,8 +863,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
         },
         {
           "title": "【焦点复盘】创业板指高开低走涨0.5%，个股炸板率超四成，半导体材料股遭深幅回调",
@@ -587,8 +875,36 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的4.54亿美元。",
+          "url": "https://flash.jin10.com/detail/20260613012414038800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.296万亿美元，之前一周19.338万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3119075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时28分"
         }
       ]
     },
@@ -604,8 +920,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
         }
       ]
     },
@@ -635,28 +951,12 @@
           "url": "https://wallstreetcn.com/articles/3774508",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 03时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美联储 非农",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的4.54亿美元。",
-          "url": "https://flash.jin10.com/detail/20260613012414038800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 05时28分]"
         }
       ]
     }
