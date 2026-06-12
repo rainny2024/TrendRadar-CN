@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-13T01:32:10.278199+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-13T03:51:50.722631+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 15,
+      "match_count": 37,
       "titles": [
-        {
-          "title": "伊朗发布“头骨世界杯”海报",
-          "url": "https://www.toutiao.com/trending/7650111233802731539/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
-        },
         {
           "title": "美国政府高级官员：伊朗承诺永不发展核武器。",
           "url": "https://flash.jin10.com/detail/20260613012815818800",
@@ -25,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：黎巴嫩战争结束意味着以色列从被占领地区撤退。",
+          "url": "https://flash.jin10.com/detail/20260613032615737800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国官员：与伊朗的协议将重新开放海峡，解除封锁。",
@@ -36,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -47,9 +47,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
+          "url": "https://wallstreetcn.com/livenews/3119059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗发布“头骨世界杯”海报",
+          "url": "https://www.toutiao.com/trending/7650111233802731539/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         },
         {
           "title": "美国政府高级官员：我们有一份伊朗和美国都满意的文本。",
@@ -58,7 +81,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -69,9 +92,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：双方将相互尊重彼此的主权。47年来，美国首次尊重伊朗主权，并承诺不干涉伊朗内政。",
+          "url": "https://flash.jin10.com/detail/20260613032434946800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国政府高级官员：根据协议，美方将取得伊朗浓缩核材料。",
@@ -80,9 +114,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国对伊朗的威胁应停止，德黑兰绝不会屈服于压力。",
+          "url": "https://flash.jin10.com/detail/20260613032219287800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "【伊朗外长：美国在谅解备忘录中承诺不发动战争】据伊朗媒体12日报道，伊朗外长阿拉格齐参加当晚的一档电视节目时表示，正在进行的伊美谅解备忘录谈判中，美国承诺不发动战争，也不使用威胁手段，双方彼此尊重主权，互不干涉内政。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3119056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国政府高级官员：一些伊朗强硬派希望破坏协议。",
@@ -91,9 +147,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：以色列等敌对势力反对伊朗与美国达成协议。",
+          "url": "https://flash.jin10.com/detail/20260613031938398800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国封锁结束和霍尔木兹海重开是临时协议的一部分。",
+          "url": "https://flash.jin10.com/detail/20260613031742805800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长：协议尚未签署；如果协议最终签署，我将对每一项条款进行详细说明。",
+          "url": "https://wallstreetcn.com/livenews/3119051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国政府高级官员：伊朗方面有一些人并不喜欢这项协议。我们认为这种反对意见相当有限。",
@@ -102,9 +191,64 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：根据临时协议，包括黎巴嫩在内的所有战线都将宣布停战。",
+          "url": "https://flash.jin10.com/detail/20260613031559788800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 105 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2048669431962625669",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：核问题将在后期阶段讨论。",
+          "url": "https://flash.jin10.com/detail/20260613031412338800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：尚未签署谅解备忘录，可能会有变动。",
+          "url": "https://flash.jin10.com/detail/20260613031330847800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：协议尚未签署；如果协议最终签署，我将对每一项条款进行详细说明。",
+          "url": "https://flash.jin10.com/detail/20260613031314947800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国政府高级官员：伊朗方面已经表示“可以接受（协议）相关表述措辞”。协议签署的日期和地点尚未最终确认。我认为我们已经接近确定签署日期和地点。",
@@ -113,9 +257,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "法国外交部长：（在周五上午与伊朗外长阿拉格齐通话后）我保持谨慎态度，但积极的迹象正在积累。",
+          "url": "https://flash.jin10.com/detail/20260613031223486800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗是与美国战争的赢家。伊朗在与美国的战争后变得更强大。",
+          "url": "https://flash.jin10.com/detail/20260613031131836800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "法国外交部长：我们呼吁美国和伊朗抓住这个机会结束这种不可持续的局面。",
+          "url": "https://flash.jin10.com/detail/20260613030913295800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "巴基斯坦总理：伊朗和美国已就协议文本达成一致",
@@ -124,9 +301,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：作出的承诺就必须兑现。没有“如果”、没有“但是”、也没有借口。对于即将达成的协议，别无他法。",
+          "url": "https://flash.jin10.com/detail/20260613030848089800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国政府高级官员：根据伊朗的履约情况，将有大幅制裁减免。",
@@ -135,7 +323,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         },
@@ -146,9 +334,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "真主党：根据伊朗官员向我们传达的信息，以色列将依据该协议从黎巴嫩领土撤军。黎巴嫩也被纳入伊朗与美国停火协议之中。",
+          "url": "https://flash.jin10.com/detail/20260613024716162800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国政府高级官员：伊朗协议对开放霍尔木兹海峡、解除封锁措施及转移浓缩材料作出了明确规定。",
@@ -157,9 +356,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3119037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         },
         {
           "title": "美国政府高级官员：伊朗方面正在解决围绕该协议存在的内部分歧。",
@@ -168,9 +378,42 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "【伊朗外交部：伊方正在审议谅解备忘录草案】伊朗外交部发言人巴加埃表示，目前伊美双方已经在大多数问题上达成谅解，伊朗内部正在对谅解备忘录文本进行最后阶段的汇总。因此，伊朗外长阿拉格齐此前关于“双方已非常接近达成谅解”的表态是准确且值得关注的。相关决策机构的会议正在举行，这是一个持续推进的过程。为达成一个最终且具有决定性的结果，决策机构和相关部门之间必须形成共识。 巴加埃还表示，目前有关协议文本内容的各种猜测均未获得证实。虽然外交进程中的具体细节暂不便公开讨论，但这并不意味着公众没有知情权。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3119035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
+          "url": "https://wallstreetcn.com/livenews/3119033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
+        },
+        {
+          "title": "洲际交易所（ICE）：6月9日当周，投机者所持ICE 布伦特原油净多头头寸减少43,609手合约，至208,891手合约，创21周新低。 所持白糖净多头头寸达到31,834手合约，创18周新高。 所持罗布斯塔咖啡净多头头寸创三周新低。 所持伦敦可可净空头头寸创五周新高。",
+          "url": "https://wallstreetcn.com/livenews/3119028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         }
       ]
     },
@@ -186,8 +429,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         },
         {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
@@ -197,19 +440,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         },
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
           "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         },
         {
           "title": "美国总统特朗普称伊朗外长阿拉格齐在X上发的帖子“非常积极”。 特朗普称他已要求伊朗澄清有关美伊协议的报道。 可能会在周末、或下周一签署协议。（Axios）",
@@ -218,7 +462,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         }
@@ -236,8 +480,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         },
         {
           "title": "被制裁的菲律宾防长称将“坚守本职”，中方回应",
@@ -247,8 +491,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         },
         {
           "title": "对菲律宾防长的制裁是否会影响中国未来对菲援助？外交部回应",
@@ -258,8 +502,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         }
       ]
     },
@@ -275,8 +519,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         },
         {
           "title": "SpaceX美国IPO首日盘初涨幅扩大至25%，报168.75美元，盘中市值2.206575万亿美元；马斯克成为全球第一位万亿美元级别的富豪。 特斯拉跌幅扩大至2.2%，标普500指数涨幅收窄至0.36%，纳指涨0.11%，半导体指数涨1.77%。",
@@ -285,7 +529,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         }
@@ -303,8 +547,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         },
         {
           "title": "纳斯达克100指数转跌，此前一度涨0.9%。",
@@ -313,7 +557,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         }
@@ -331,19 +575,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         },
         {
           "title": "【焦点复盘】创业板指高开低走涨0.5%，个股炸板率超四成，半导体材料股遭深幅回调",
           "url": "https://www.cls.cn/detail/2398416",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         }
       ]
     },
@@ -359,8 +604,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         }
       ]
     },
@@ -375,7 +620,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         }
@@ -393,8 +638,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时31分 ~ 01时32分]"
+          "appearance_count": 3,
+          "time_info": "[01时31分 ~ 03时51分]"
         }
       ]
     },
@@ -409,7 +654,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
         }
