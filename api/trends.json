@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-06-13T10:11:03.437425+08:00",
-  "total_titles_processed": 684,
+  "generated_at": "2026-06-13T14:47:35.934838+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
-        {
-          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
-          "url": "https://news.ifeng.com/c/8tuft4KELYT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
-        },
         {
           "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
           "url": "https://news.ifeng.com/c/8tuse7CSv3h",
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时47分]"
+        },
+        {
+          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
+          "url": "https://news.ifeng.com/c/8tuft4KELYT",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -63,15 +63,15 @@
           "time_info": "01时32分"
         },
         {
-          "title": "美军称伊朗发射多架单向攻击无人机",
-          "url": "https://wallstreetcn.com/livenews/3119115",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
+          "url": "https://news.ifeng.com/c/8tuxeZuZndm",
+          "source": "凤凰网",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时11分"
+          "time_info": "14时47分"
         },
         {
           "title": "美国政府高级官员：与伊朗达成的协议包含一项广泛的地区和平协议，涉及黎巴嫩、伊朗以及海湾国家。",
@@ -91,7 +91,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -174,6 +174,18 @@
           "time_info": "03时51分"
         },
         {
+          "title": "美军称伊朗发射多架单向攻击无人机",
+          "url": "https://wallstreetcn.com/livenews/3119115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 14时47分]"
+        },
+        {
           "title": "美国内政部长伯格姆谈伊朗谈判：市场反应积极并不意外。",
           "url": "https://wallstreetcn.com/livenews/3119059",
           "source": "华尔街见闻-快讯",
@@ -202,11 +214,24 @@
           "url": "https://wallstreetcn.com/articles/3774522",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时47分]"
+        },
+        {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时47分]"
         },
         {
           "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
@@ -256,6 +281,18 @@
           "time_info": "[05时28分 ~ 07时07分]"
         },
         {
+          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
+          "url": "https://wallstreetcn.com/livenews/3119102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 14时47分]"
+        },
+        {
           "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
           "url": "https://wallstreetcn.com/livenews/3119085",
           "source": "华尔街见闻-快讯",
@@ -289,17 +326,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 07时07分]"
-        },
-        {
-          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
         },
         {
           "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
@@ -401,6 +427,17 @@
           "time_info": "[05时28分 ~ 07时07分]"
         },
         {
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "美国政府高级官员：一些伊朗强硬派希望破坏协议。",
           "url": "https://flash.jin10.com/detail/20260613012446661800",
           "source": "金十数据",
@@ -429,7 +466,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -478,17 +515,6 @@
           "time_info": "03时51分"
         },
         {
-          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
-          "url": "https://wallstreetcn.com/livenews/3119102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "伊朗外长阿拉格齐：尚未签署谅解备忘录，可能会有变动。",
           "url": "https://flash.jin10.com/detail/20260613031330847800",
           "source": "金十数据",
@@ -531,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "美媒：忧心美国可能采取行动夺取核材料，伊朗封存铀库存并布设地雷",
+          "url": "https://flash.jin10.com/detail/20260613121408335800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗是与美国战争的赢家。伊朗在与美国的战争后变得更强大。",
@@ -588,6 +625,17 @@
           "time_info": "01时32分"
         },
         {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "美国政府高级官员：伊朗人表现越好，他们能获得的就越多。",
           "url": "https://flash.jin10.com/detail/20260613011338145800",
           "source": "金十数据",
@@ -627,7 +675,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -671,7 +719,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -723,7 +771,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
@@ -732,11 +780,12 @@
           "ranks": [
             13,
             14,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 10时11分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 14时47分]"
         },
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -761,26 +810,27 @@
           "time_info": "[01时31分 ~ 07时07分]"
         },
         {
-          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
-          "url": "https://wallstreetcn.com/livenews/3119112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
           "title": "特朗普：美军打死“阿拉瓜火车”组织首领尼尼奥·格雷罗",
           "url": "https://flash.jin10.com/detail/20260613092918763800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普说打死委内瑞拉一黑帮团伙头目",
+          "url": "https://wallstreetcn.com/livenews/3119112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 14时47分]"
         },
         {
           "title": "华纳兄弟探索公司（WBD）美股盘后增长2%，据Politico报道，美国总统特朗普的司法部批准派拉蒙天舞（Paramount SkyDance）收购该公司的交易。",
@@ -817,13 +867,35 @@
           "time_info": "01时32分"
         },
         {
+          "title": "美法院驳回上诉 维持肯尼迪中心移除特朗普名字裁决",
+          "url": "https://flash.jin10.com/detail/20260613135132785800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
+          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
           "title": "美国总统特朗普：此次行动是在与我们委内瑞拉的朋友密切协调下进行的，我们与委内瑞拉方面合作得非常顺利。",
           "url": "https://flash.jin10.com/detail/20260613090715507800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -834,7 +906,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
         },
@@ -845,9 +917,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗外长被指控为迎合特朗普路线而损害伊朗谈判立场。",
+          "url": "https://flash.jin10.com/detail/20260613104207547800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
         }
       ]
     },
@@ -874,8 +968,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时47分]"
         },
         {
           "title": "周五（6月12日），美股存储芯片与硬件供应链指数涨3.91%，报233.15点，美股早盘显著上涨，北京时间22:00以来持续交投于2340点附近、高位窄幅震荡，本周累计上涨17.34%。 成分股普遍走高，希捷科技涨7.25%，西部数据涨6.35%，泰瑞达、闪迪至少涨5.24%，应用材料、Rambus、拉姆研究至少涨1.18%，美光科技则收跌1.43%。",
@@ -931,11 +1025,12 @@
           "url": "https://wallstreetcn.com/livenews/3119107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 14时47分]"
         },
         {
           "title": "美元指数本周跌超0.3%",
@@ -1060,6 +1155,45 @@
       ]
     },
     {
+      "keyword_group": "复盘",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "HLE战胜T1赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=HLE%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "单线逻辑失效！为何这轮通胀没救起金价？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260613095629145800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "世界杯揭幕战赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "实体清单 制裁",
       "match_count": 3,
       "titles": [
@@ -1092,11 +1226,12 @@
           "ranks": [
             18,
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 10时11分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 14时47分]"
         }
       ]
     },
@@ -1112,8 +1247,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 10时11分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 14时47分]"
         },
         {
           "title": "【焦点复盘】创业板指高开低走涨0.5%，个股炸板率超四成，半导体材料股遭深幅回调",
@@ -1139,22 +1274,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[07时07分 ~ 14时47分]"
         },
         {
           "title": "医生：常吃胡萝卜有助于降低患癌风险",
           "url": "https://www.baidu.com/s?wd=%E5%8C%BB%E7%94%9F%EF%BC%9A%E5%B8%B8%E5%90%83%E8%83%A1%E8%90%9D%E5%8D%9C%E6%9C%89%E5%8A%A9%E4%BA%8E%E9%99%8D%E4%BD%8E%E6%82%A3%E7%99%8C%E9%A3%8E%E9%99%A9",
           "source": "百度热搜",
           "ranks": [
-            28
+            28,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时10分 ~ 10时11分]"
+          "appearance_count": 3,
+          "time_info": "[10时10分 ~ 14时47分]"
         }
       ]
     },
@@ -1180,9 +1317,37 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "沪指涨超1%重返4000点，商业航天爆发，芯片半导体午后急跌，恒指涨2%，有色金属掀涨停超",
+          "url": "https://wallstreetcn.com/articles/3774489",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时47分"
+        },
+        {
+          "title": "海南省航天领导小组会议：稳扎稳打推进商业航天高质量发展高水平安全",
+          "url": "https://wallstreetcn.com/livenews/3119003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时32分"
         }
       ]
     },
@@ -1216,23 +1381,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "海南省航天领导小组会议：稳扎稳打推进商业航天高质量发展高水平安全",
-          "url": "https://wallstreetcn.com/livenews/3119003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 光模块",
       "match_count": 1,
       "titles": [
@@ -1248,23 +1396,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时31分 ~ 10时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "复盘",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世界杯揭幕战赛后复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%8F%AD%E5%B9%95%E6%88%98%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
         }
       ]
     }
