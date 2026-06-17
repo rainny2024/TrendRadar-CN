@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T18:55:09.605165+08:00",
-  "total_titles_processed": 1087,
+  "generated_at": "2026-06-17T22:24:28.105883+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "翻脸不认球,美国驱赶伊朗队",
@@ -15,11 +15,12 @@
             3,
             4,
             10,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 22时24分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -29,11 +30,27 @@
             5,
             6,
             7,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 22时24分]"
+        },
+        {
+          "title": "两度扳平!伊朗2-2新西兰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            13,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 22时24分]"
         },
         {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
@@ -59,20 +76,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 08时09分]"
-        },
-        {
-          "title": "两度扳平!伊朗2-2新西兰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 18时55分]"
         },
         {
           "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
@@ -168,6 +171,19 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
+          "url": "https://wallstreetcn.com/articles/3774848",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 22时24分]"
+        },
+        {
           "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
           "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
           "source": "澎湃新闻",
@@ -180,18 +196,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时37分 ~ 14时00分]"
-        },
-        {
-          "title": "美伊协议核心条款曝光：伊朗石油出口即刻解禁，核项目维持现状，海峡快速重启仍存变数",
-          "url": "https://wallstreetcn.com/articles/3774848",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 18时55分]"
         },
         {
           "title": "伊朗队突然被勒令离开美国",
@@ -286,6 +290,17 @@
           "time_info": "14时00分"
         },
         {
+          "title": "布伦特原油突破80美元/桶，日内涨0.98%。",
+          "url": "https://flash.jin10.com/detail/20260617214029524800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "伊朗副总统：德黑兰将维持对霍尔木兹海峡的控制权",
           "url": "https://flash.jin10.com/detail/20260617033850014800",
           "source": "金十数据",
@@ -314,7 +329,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -336,9 +351,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        },
+        {
+          "title": "勒令伊朗队离境 美方辩称本应如此",
+          "url": "https://www.toutiao.com/trending/7652270116297690634/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "海事情报公司称伊朗近两月来首次出口原油",
@@ -369,7 +395,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -498,7 +524,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 30,
       "titles": [
         {
           "title": "特朗普：关我们啥事？就是卖卖武器",
@@ -524,6 +550,18 @@
           "time_info": "[01时54分 ~ 06时51分]"
         },
         {
+          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
+          "url": "https://wallstreetcn.com/articles/3774815",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时59分 ~ 22时24分]"
+        },
+        {
           "title": "“马克龙想借中国，来跟特朗普讨价还价”",
           "url": "https://news.ifeng.com/c/8u1zHWun1pQ",
           "source": "凤凰网",
@@ -531,8 +569,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 22时24分]"
         },
         {
           "title": "特朗普大发雷霆后，内塔尼亚胡回应：以军不撤",
@@ -574,17 +612,6 @@
           "time_info": "[01时54分 ~ 06时51分]"
         },
         {
-          "title": "特朗普称霍尔木兹海峡周五全面重开、或近期恢复俄油制裁，伊朗称协议要求以从黎撤军",
-          "url": "https://wallstreetcn.com/articles/3774815",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时59分 ~ 18时55分]"
-        },
-        {
           "title": "泽连斯基向特朗普提议：这样普京更难拒绝",
           "url": "https://news.ifeng.com/c/8tzn14Ioj6Y",
           "source": "凤凰网",
@@ -594,6 +621,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 08时09分]"
+        },
+        {
+          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
+          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 22时24分]"
+        },
+        {
+          "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
+          "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 22时24分]"
         },
         {
           "title": "“特朗普，你要打击报复就找我，别动我老婆、家人”",
@@ -607,28 +656,6 @@
           "time_info": "[08时09分 ~ 14时00分]"
         },
         {
-          "title": "特朗普罕见批评以色列：不能每次为找一个人，炸掉整栋楼",
-          "url": "https://news.ifeng.com/c/8u1h2zVfjEK",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
-        },
-        {
-          "title": "特朗普又炮轰内塔尼亚胡：没我，就没以色列",
-          "url": "https://news.ifeng.com/c/8u1wV2q6hDQ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
-        },
-        {
           "title": "现场：马克龙夫人险摔倒，不抓身旁老公，反而抓住特朗普",
           "url": "https://v.ifeng.com/c/8u1lYy22fhi",
           "source": "凤凰网",
@@ -636,8 +663,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 22时24分]"
+        },
+        {
+          "title": "特朗普为何急着重启对俄石油制裁",
+          "url": "https://www.toutiao.com/trending/7652294991342997033/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "“特朗普这么干，又给中国打广告”",
+          "url": "https://news.ifeng.com/c/8u2Dv7mxUaG",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国加州州长Newsom：（对于总统特朗普挑起的司法调查）我们（夫妻俩）没啥好隐藏的。",
@@ -649,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "阿联酋总统太小声？特朗普当面调侃：像他那么有钱，确实不用大声",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33397131",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "特朗普政府再次推动转移教育部职能",
@@ -684,6 +744,17 @@
           "time_info": "06时51分"
         },
         {
+          "title": "特朗普说有钱都不用大声说话",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E6%9C%89%E9%92%B1%E9%83%BD%E4%B8%8D%E7%94%A8%E5%A4%A7%E5%A3%B0%E8%AF%B4%E8%AF%9D%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "特朗普：美方或恢复对俄石油制裁",
           "url": "https://www.toutiao.com/trending/7652117439001477139/",
           "source": "今日头条",
@@ -701,7 +772,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -761,15 +832,208 @@
           "time_info": "01时54分"
         },
         {
+          "title": "美国参议员沃伦：特朗普阻碍美联储降息。",
+          "url": "https://wallstreetcn.com/livenews/3121027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "特朗普称美国不会投资伊朗",
+          "url": "https://wallstreetcn.com/livenews/3121024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "报道：特朗普顾问考虑美国政府入股AI巨头的可能结构",
           "url": "https://wallstreetcn.com/livenews/3120898",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日美国5月零售销售数据将公布，次日凌晨两点美联储公布利率决议",
+          "url": "https://flash.jin10.com/detail/20260617075521201800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时09分"
+        },
+        {
+          "title": "今夜全球瞩目，沃什“美联储首秀”会向市场扔炸弹吗？",
+          "url": "https://wallstreetcn.com/articles/3774886",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
+          "url": "https://flash.jin10.com/detail/20260617064209134800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "周二（6月16日），美联储隔夜逆回购协议（RRP）使用规模为107.21亿美元（交易对手5家），上个交易日报5.81亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3120449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "富达称沃什在美联储决议后对通胀的阐释可能引发债市波动",
+          "url": "https://wallstreetcn.com/livenews/3121060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "策略师：美联储最不愿看到10年期美债收益率飙升",
+          "url": "https://flash.jin10.com/detail/20260617214501736800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美联储点阵图或缺失关键一“点”？沃什“首秀”倒计时 或打破14年惯例",
+          "url": "https://www.cls.cn/detail/2401823",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
+          "title": "全程解码美联储决议：沃什时代首份声明将有大变化？",
+          "url": "https://www.cls.cn/detail/2401855",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
+          "title": "美联储内部鸽派集体转鹰，沃什首秀“左右为难”",
+          "url": "https://wallstreetcn.com/articles/3774866",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "沃什或拒绝给出美联储点阵图预期，打破14年来的惯例",
+          "url": "https://flash.jin10.com/detail/20260617061402737800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的107.21亿美元。",
+          "url": "https://flash.jin10.com/detail/20260617011619138800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美联储本周维持利率不变的概率为99.5%",
+          "url": "https://flash.jin10.com/detail/20260617060719222800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
+          "url": "https://wallstreetcn.com/livenews/3120522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
+        },
+        {
+          "title": "金十整理：机构前瞻美联储利率路径——按兵不动几无悬念，利率前景各执一词",
+          "url": "https://flash.jin10.com/detail/20260617132240565800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "美国城堡证券：随着通胀持续且广泛，美联储最早可能在9月开始一系列加息。",
+          "url": "https://flash.jin10.com/detail/20260617025941824800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
         }
       ]
     },
@@ -852,7 +1116,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -874,7 +1138,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -903,135 +1167,8 @@
       ]
     },
     {
-      "keyword_group": "美联储 非农",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日美国5月零售销售数据将公布，次日凌晨两点美联储公布利率决议",
-          "url": "https://flash.jin10.com/detail/20260617075521201800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时09分"
-        },
-        {
-          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
-          "url": "https://flash.jin10.com/detail/20260617064209134800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "周二（6月16日），美联储隔夜逆回购协议（RRP）使用规模为107.21亿美元（交易对手5家），上个交易日报5.81亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3120449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "美联储点阵图或缺失关键一“点”？沃什“首秀”倒计时 或打破14年惯例",
-          "url": "https://www.cls.cn/detail/2401823",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
-        },
-        {
-          "title": "全程解码美联储决议：沃什时代首份声明将有大变化？",
-          "url": "https://www.cls.cn/detail/2401855",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
-        },
-        {
-          "title": "沃什或拒绝给出美联储点阵图预期，打破14年来的惯例",
-          "url": "https://flash.jin10.com/detail/20260617061402737800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的107.21亿美元。",
-          "url": "https://flash.jin10.com/detail/20260617011619138800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "美联储本周维持利率不变的概率为99.5%",
-          "url": "https://flash.jin10.com/detail/20260617060719222800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "美债期权交易员对美联储利率路径看法分化，聚焦沃什发布会基调",
-          "url": "https://wallstreetcn.com/livenews/3120522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时51分"
-        },
-        {
-          "title": "金十整理：机构前瞻美联储利率路径——按兵不动几无悬念，利率前景各执一词",
-          "url": "https://flash.jin10.com/detail/20260617132240565800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "美国城堡证券：随着通胀持续且广泛，美联储最早可能在9月开始一系列加息。",
-          "url": "https://flash.jin10.com/detail/20260617025941824800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 光模块",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
@@ -1092,6 +1229,28 @@
           "time_info": "[13时59分 ~ 14时00分]"
         },
         {
+          "title": "沃什“美联储首秀”来袭 SpaceX延续涨势 英特尔带动芯片股反弹 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2402766",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "金字火腿异动 公告回应光芯片概念：持股中晟微仅9.09% 标的尚未盈利|速读公告",
+          "url": "https://www.cls.cn/detail/2402755",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "A股存储芯片板块震荡拉升，香农芯创涨超15%，协创数据涨超10%，通富微电、东芯股份、中微公司跟涨。",
           "url": "https://wallstreetcn.com/livenews/3120755",
           "source": "华尔街见闻-快讯",
@@ -1120,7 +1279,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1134,6 +1293,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
+          "url": "https://wallstreetcn.com/livenews/3120489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "道琼斯指数6月16日（周二）收盘上涨331.17点，涨幅0.64%，报52002.20点；<br/>标普500指数6月16日（周二）收盘下跌42.86点，跌幅0.57%，报7511.43点；<br/>纳斯达克综合指数6月16日（周二）收盘下跌307.60点，跌幅1.15%，报26376.34点。",
+          "url": "https://flash.jin10.com/detail/20260617040527183800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌2.4%。 热门中概股里，日月光半导体跌4.5%，小马智行、小鹏跌超4%，腾讯、美团、蔚来、百度、网易跌超3%。 ETF中，KWEB跌2.8%，CQQQ跌1.6%，EMXC跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3120485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "SpaceX初步收涨4.9%。 标普500指数初步收跌0.5%，科技板块跌2.1%，能源板块跌0.4%，金融板块涨1.4%。 纳斯达克100指数初步收跌1.8%，成分股中，Lumentum初步收跌8.4%，MPWR跌8.2%，迈威尔科技跌8.1%，英特尔跌7.8%，科磊跌超7%，Strategy跌6.1%，闪迪跌5.8%，美光科技跌5.4%，核电股CEG涨2.1%，西部数据涨5.2%，游戏公司Take-Two Interactive Software Inc.涨6%。 道指初步收涨大约380点，成分股摩根大通涨3.6%，Visa、3MN、家得宝、美国运通、卡特彼勒、高盛至少涨1.4%，微软、Salesforce、英伟达则至多跌1.9%表现最差。 半导体指数跌5.3%。",
+          "url": "https://wallstreetcn.com/livenews/3120483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "标普500指数期货上涨0.3%，纳斯达克指数期货上涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20260617132825615800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "标普500指数高开13.15点，涨幅0.18%，报7524.50点； 道琼斯工业平均指数低开62.11点，跌幅0.12%，报51937.56点； 纳斯达克综合指数高开117.48点，涨幅0.45%，报26493.82点。",
+          "url": "https://wallstreetcn.com/livenews/3121049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "标普500指数跌超0.5%，纳指跌1%，纳斯达克100指数跌超1.7%，半导体指数跌4.8%，道指目前涨345点、涨幅0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3120473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "周二（6月16日）纽约尾盘，标普500股指期货最终跌0.60%，道指期货涨0.63%，纳斯达克100股指期货跌1.90%。 罗素2000股指期货跌0.88%。",
+          "url": "https://wallstreetcn.com/livenews/3120505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时51分"
         }
       ]
     },
@@ -1153,6 +1406,17 @@
           "time_info": "[01时54分 ~ 08时09分]"
         },
         {
+          "title": "欧盟新一轮对俄制裁新增4家中企，中方：坚决反对",
+          "url": "https://news.ifeng.com/c/8u23fBsDLVN",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 22时24分]"
+        },
+        {
           "title": "17个国家加入联合声明：愿意解除对伊制裁",
           "url": "https://news.ifeng.com/c/8u0i6iKDdom",
           "source": "凤凰网",
@@ -1163,17 +1427,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时54分 ~ 14时00分]"
-        },
-        {
-          "title": "欧盟新一轮对俄制裁新增4家中企，中方：坚决反对",
-          "url": "https://news.ifeng.com/c/8u23fBsDLVN",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
         },
         {
           "title": "俄罗斯禁止103名加拿大人入境以回应加方制裁",
@@ -1233,85 +1486,86 @@
       ]
     },
     {
-      "keyword_group": "纳斯达克 标普 道琼斯",
+      "keyword_group": "风险",
       "match_count": 7,
       "titles": [
         {
-          "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
-          "url": "https://wallstreetcn.com/livenews/3120489",
-          "source": "华尔街见闻-快讯",
+          "title": "一批热门股提示风险，涉电子布、玻璃基板两大热门赛道",
+          "url": "https://www.cls.cn/detail/2402638",
+          "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时37分"
+          "time_info": "22时24分"
         },
         {
-          "title": "道琼斯指数6月16日（周二）收盘上涨331.17点，涨幅0.64%，报52002.20点；<br/>标普500指数6月16日（周二）收盘下跌42.86点，跌幅0.57%，报7511.43点；<br/>纳斯达克综合指数6月16日（周二）收盘下跌307.60点，跌幅1.15%，报26376.34点。",
-          "url": "https://flash.jin10.com/detail/20260617040527183800",
+          "title": "信息披露不准确、不完整 风险提示不充分 宿迁联盛跨界“追光”遭警示|速读公告",
+          "url": "https://www.cls.cn/detail/2401570",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 08时09分]"
+        },
+        {
+          "title": "这三类运动猝死风险更高",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%89%E7%B1%BB%E8%BF%90%E5%8A%A8%E7%8C%9D%E6%AD%BB%E9%A3%8E%E9%99%A9%E6%9B%B4%E9%AB%98%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 04时37分]"
+        },
+        {
+          "title": "多家A股公司提示风险",
+          "url": "https://www.toutiao.com/trending/7652205334456025130/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "欧洲央行行长拉加德发出警告 称AI对金融稳定构成巨大风险",
+          "url": "https://wallstreetcn.com/livenews/3121046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "世名科技：年产5000吨LCD显示光刻胶专用纳米颜料分散液项目存在研发量产、客户批量导入不及预期风险",
+          "url": "https://wallstreetcn.com/livenews/3121040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "上纬新材：公司外部流通盘较小，存在非理性炒作风险",
+          "url": "https://flash.jin10.com/detail/20260617180912163800",
           "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌2.4%。 热门中概股里，日月光半导体跌4.5%，小马智行、小鹏跌超4%，腾讯、美团、蔚来、百度、网易跌超3%。 ETF中，KWEB跌2.8%，CQQQ跌1.6%，EMXC跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3120485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "SpaceX初步收涨4.9%。 标普500指数初步收跌0.5%，科技板块跌2.1%，能源板块跌0.4%，金融板块涨1.4%。 纳斯达克100指数初步收跌1.8%，成分股中，Lumentum初步收跌8.4%，MPWR跌8.2%，迈威尔科技跌8.1%，英特尔跌7.8%，科磊跌超7%，Strategy跌6.1%，闪迪跌5.8%，美光科技跌5.4%，核电股CEG涨2.1%，西部数据涨5.2%，游戏公司Take-Two Interactive Software Inc.涨6%。 道指初步收涨大约380点，成分股摩根大通涨3.6%，Visa、3MN、家得宝、美国运通、卡特彼勒、高盛至少涨1.4%，微软、Salesforce、英伟达则至多跌1.9%表现最差。 半导体指数跌5.3%。",
-          "url": "https://wallstreetcn.com/livenews/3120483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "标普500指数期货上涨0.3%，纳斯达克指数期货上涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20260617132825615800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "标普500指数跌超0.5%，纳指跌1%，纳斯达克100指数跌超1.7%，半导体指数跌4.8%，道指目前涨345点、涨幅0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3120473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        },
-        {
-          "title": "周二（6月16日）纽约尾盘，标普500股指期货最终跌0.60%，道指期货涨0.63%，纳斯达克100股指期货跌1.90%。 罗素2000股指期货跌0.88%。",
-          "url": "https://wallstreetcn.com/livenews/3120505",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时51分"
+          "time_info": "18时55分"
         }
       ]
     },
@@ -1342,6 +1596,18 @@
           "time_info": "[01时54分 ~ 04时37分]"
         },
         {
+          "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
+          "url": "https://www.cls.cn/detail/2402510",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 22时24分]"
+        },
+        {
           "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
           "url": "https://www.cls.cn/detail/2401317",
           "source": "财联社热门",
@@ -1355,24 +1621,13 @@
           "time_info": "[01时54分 ~ 08时09分]"
         },
         {
-          "title": "【焦点复盘】沪指尾盘翻红收复4100点，科技上游通胀行情持续火爆，4000亿存储龙头午后涨停",
-          "url": "https://www.cls.cn/detail/2402510",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 18时55分]"
-        },
-        {
           "title": "彩虹股份：没有产品进入半导体封装相关领域的测试",
           "url": "https://flash.jin10.com/detail/20260617181756963800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1383,7 +1638,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         },
@@ -1401,8 +1656,80 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20260617040255849800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌3.34%，暂报2380.03点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌3.40%，报2730.06点，出现一波V形走势之后转跌、在北京时间22:33刷新期内最低位至2712.52点。 MarketVector数字资产100指数跌2.53%，报13051.20点，22:33也刷新期内最低位至12983.30点。 目前，Solana跌2.87%，狗狗币跌2.86%，XRP跌4.97%。 比特币跌1.42%，暂报65665.81美元；以太坊跌2.52%，暂报1777.06美元。",
+          "url": "https://wallstreetcn.com/livenews/3120444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨近3%，全球科技股指数ETF、科技行业ETF涨超1%，医疗业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3121054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.5%，费城半导体指数涨近3%，SpaceX涨约4%",
+          "url": "https://wallstreetcn.com/livenews/3121050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "周二（6月16日）纽约尾盘，ICE美元指数跌0.09%，报99.543点，日内交投区间为99.791-99.461点。 彭博美元指数跌0.12%，报1204.72点，日内交投区间为1207.31-1204.02点。",
+          "url": "https://wallstreetcn.com/livenews/3120470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时37分"
+        },
+        {
+          "title": "美股开盘，道指小幅高开，标普500指数涨0.12%，纳指涨0.43%。SpaceX(SPCX.O)涨3.6%，涨势延续至第四个交易日。半导体概念股走强，阿斯麦(ASML.O)涨5%、迈威尔科技(MRVL.O)涨5%、博通(AVGO.O)涨2.4%、英特尔(INTC.O)涨4.1%。",
+          "url": "https://flash.jin10.com/detail/20260617213040246800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "科创50指数涨幅扩大至4%，半导体板块持续拉升，盛美上海20cm涨停，此前赛腾股份、盛剑科技涨停，拓荆科技涨超10%，华峰测控、华海清科、精智达、长川科技、中微公司等涨超6%。",
@@ -1448,83 +1775,65 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美元指数16日下跌",
-          "url": "https://flash.jin10.com/detail/20260617040255849800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌3.34%，暂报2380.03点，整体持续走低。 MarketVectorTM数字资产100中盘指数跌3.40%，报2730.06点，出现一波V形走势之后转跌、在北京时间22:33刷新期内最低位至2712.52点。 MarketVector数字资产100指数跌2.53%，报13051.20点，22:33也刷新期内最低位至12983.30点。 目前，Solana跌2.87%，狗狗币跌2.86%，XRP跌4.97%。 比特币跌1.42%，暂报65665.81美元；以太坊跌2.52%，暂报1777.06美元。",
-          "url": "https://wallstreetcn.com/livenews/3120444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "周二（6月16日）纽约尾盘，ICE美元指数跌0.09%，报99.543点，日内交投区间为99.791-99.461点。 彭博美元指数跌0.12%，报1204.72点，日内交投区间为1207.31-1204.02点。",
-          "url": "https://wallstreetcn.com/livenews/3120470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "信息披露不准确、不完整 风险提示不充分 宿迁联盛跨界“追光”遭警示|速读公告",
-          "url": "https://www.cls.cn/detail/2401570",
+          "title": "【每日收评】科创50低开高走涨超4.5%，AI硬件反复活跃，半导体产业链再迎爆发",
+          "url": "https://www.cls.cn/detail/2402436",
           "source": "财联社热门",
           "ranks": [
-            8,
-            11
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "硬核数据看商业航天成绩单",
+          "url": "https://www.douyin.com/hot/2537158",
+          "source": "抖音",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时54分 ~ 08时09分]"
         },
         {
-          "title": "这三类运动猝死风险更高",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%89%E7%B1%BB%E8%BF%90%E5%8A%A8%E7%8C%9D%E6%AD%BB%E9%A3%8E%E9%99%A9%E6%9B%B4%E9%AB%98%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "中国机器人开始治理沙漠了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B2%BB%E7%90%86%E6%B2%99%E6%BC%A0%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            22
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 04时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
-          "title": "上纬新材：公司外部流通盘较小，存在非理性炒作风险",
-          "url": "https://flash.jin10.com/detail/20260617180912163800",
-          "source": "金十数据",
+          "title": "凯迪股份：机器人业务仍处开发阶段",
+          "url": "https://wallstreetcn.com/livenews/3120910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时55分"
+        },
+        {
+          "title": "越疆将推出陪伴交互AI人形机器人",
+          "url": "https://wallstreetcn.com/livenews/3120908",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时55分"
         }
@@ -1576,45 +1885,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "硬核数据看商业航天成绩单",
-          "url": "https://www.douyin.com/hot/2537158",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时54分 ~ 08时09分]"
-        },
-        {
-          "title": "凯迪股份：机器人业务仍处开发阶段",
-          "url": "https://wallstreetcn.com/livenews/3120910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        },
-        {
-          "title": "越疆将推出陪伴交互AI人形机器人",
-          "url": "https://wallstreetcn.com/livenews/3120908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "跌破 拉升",
       "match_count": 3,
       "titles": [
@@ -1650,6 +1920,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "利好 利空",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "最大利空消失 金属要王者归来了吗",
+          "url": "https://www.toutiao.com/trending/7651933308435041842/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时51分]"
+        },
+        {
+          "title": "陆家嘴论坛上 央行带来新政策利好",
+          "url": "https://www.baidu.com/s?wd=%E9%99%86%E5%AE%B6%E5%98%B4%E8%AE%BA%E5%9D%9B%E4%B8%8A+%E5%A4%AE%E8%A1%8C%E5%B8%A6%E6%9D%A5%E6%96%B0%E6%94%BF%E7%AD%96%E5%88%A9%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
@@ -1693,6 +2004,34 @@
       ]
     },
     {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
+          "url": "https://www.cls.cn/detail/2401113",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 06时51分]"
+        },
+        {
+          "title": "铝电容大厂尼吉康全线涨价",
+          "url": "https://wallstreetcn.com/livenews/3121039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "复盘",
       "match_count": 2,
       "titles": [
@@ -1722,36 +2061,6 @@
       ]
     },
     {
-      "keyword_group": "利好 利空",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最大利空消失 金属要王者归来了吗",
-          "url": "https://www.toutiao.com/trending/7651933308435041842/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 06时51分]"
-        },
-        {
-          "title": "陆家嘴论坛上 央行带来新政策利好",
-          "url": "https://www.baidu.com/s?wd=%E9%99%86%E5%AE%B6%E5%98%B4%E8%AE%BA%E5%9D%9B%E4%B8%8A+%E5%A4%AE%E8%A1%8C%E5%B8%A6%E6%9D%A5%E6%96%B0%E6%94%BF%E7%AD%96%E5%88%A9%E5%A5%BD",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 14时00分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "日经 韩国股市",
       "match_count": 1,
       "titles": [
@@ -1769,23 +2078,6 @@
       ]
     },
     {
-      "keyword_group": "涨价 核心材料",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
-          "url": "https://www.cls.cn/detail/2401113",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 06时51分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "暴涨",
       "match_count": 1,
       "titles": [
@@ -1797,11 +2089,12 @@
             2,
             3,
             9,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时54分 ~ 18时55分]"
+          "appearance_count": 9,
+          "time_info": "[01时54分 ~ 22时24分]"
         }
       ]
     },
