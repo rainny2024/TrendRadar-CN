@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T15:42:32.041284+08:00",
-  "total_titles_processed": 865,
+  "generated_at": "2026-06-20T18:26:33.121246+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 49,
+      "match_count": 55,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 15时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 18时26分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 15时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 18时26分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规",
@@ -65,11 +65,12 @@
           "ranks": [
             7,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 15时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 18时26分]"
         },
         {
           "title": "伊朗革命卫队发表致最高领袖公开信",
@@ -155,6 +156,28 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美伊谈判能否顺利举行？伊朗有何先决条件？凤凰记者解读",
+          "url": "https://news.ifeng.com/c/8u6rTy30ATU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "据阿拉伯卫星电视台：消息人士称，目前谈判中的主要棘手问题是黎巴嫩。伊朗代表团威胁称，如果以色列继续在黎巴嫩进行攻击，他们将退出谈判。",
+          "url": "https://flash.jin10.com/detail/20260620174109237800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "伊朗外交部副部长赛义德·哈提卜扎德：伊朗将继续在与阿曼协调并在国际法规则下提供航行服务。在谅解备忘录所规定的60天期限内，伊朗不会收取通行费用，但之后将引入新的航道管理机制，并提交给地区国家。 未来要达成的任何协议都必须包括解冻所有伊朗被冻结资金。（央视）",
           "url": "https://wallstreetcn.com/livenews/3122185",
           "source": "华尔街见闻-快讯",
@@ -199,11 +222,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 18时26分]"
         },
         {
           "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
@@ -211,11 +235,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 18时26分]"
         },
         {
           "title": "布伦特原油日内涨幅达1.0%，报80.34美元/桶。",
@@ -295,7 +320,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -317,7 +342,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -328,7 +353,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -350,7 +375,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -361,9 +386,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "伊朗国防部：持续努力提升军事准备，改善防御能力。",
+          "url": "https://flash.jin10.com/detail/20260620161710499800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "伊朗革命卫队：美国内部混乱局势、美军士兵疲惫与准备不足、在霍尔木兹海峡缺乏军事解决方案、国会阻挠、盟友不予配合，以及包括西班牙在内的国际社会压力——这些是美以敌人在第三次战争期间陷入僵局的最重要因素。",
@@ -372,7 +408,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -405,7 +441,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -427,9 +463,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "伊朗队进球功臣还在穿2014年的球鞋",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E8%BF%9B%E7%90%83%E5%8A%9F%E8%87%A3%E8%BF%98%E5%9C%A8%E7%A9%BF2014%E5%B9%B4%E7%9A%84%E7%90%83%E9%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "伊朗革命卫队：伊朗武装力量重创了美国最先进的技术装备。",
@@ -438,7 +485,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -460,7 +507,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -471,7 +518,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -504,9 +551,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
+        },
+        {
+          "title": "伊朗外长将会见巴基斯坦内政部长",
+          "url": "https://flash.jin10.com/detail/20260620155452920800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "伊朗伊斯兰革命卫队说“坚定支持国家领导层”",
@@ -518,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "伊朗内政部发言人：在谈判问题上我们不存在“激进派”与“温和派”的区别。",
+          "url": "https://flash.jin10.com/detail/20260620154600607800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "伊朗否认邀请国际原子能机构对其核设施进行检查",
@@ -578,7 +647,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普和高市早苗因珍珠港发生争吵",
@@ -641,6 +710,19 @@
           "time_info": "[01时11分 ~ 11时36分]"
         },
         {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 18时26分]"
+        },
+        {
           "title": "美国总统特朗普：我们拥有全球顶尖的军队，拥有世上最先进的各类军机，我们也理应配备最顶级的总统专机。",
           "url": "https://flash.jin10.com/detail/20260620040416605800",
           "source": "金十数据",
@@ -686,18 +768,6 @@
           "time_info": "[03时25分 ~ 07时59分]"
         },
         {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 15时42分]"
-        },
-        {
           "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
           "url": "https://flash.jin10.com/detail/20260620025928900800",
           "source": "金十数据",
@@ -733,6 +803,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时06分 ~ 11时36分]"
+        },
+        {
+          "title": "特朗普：今年将再次访问中国",
+          "url": "https://news.ifeng.com/c/8u6mys1KcVF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "万斯警告以色列：只有特朗普同情你们",
@@ -772,6 +853,19 @@
           "time_info": "[01时11分 ~ 06时06分]"
         },
         {
+          "title": "因特朗普言论 意大利副总理取消访美",
+          "url": "https://wallstreetcn.com/livenews/3122210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时36分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普视察新专机，专家担心安全性可能不如现有的“空军一号”",
           "url": "https://wallstreetcn.com/livenews/3122195",
           "source": "华尔街见闻-快讯",
@@ -794,18 +888,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 11时36分]"
-        },
-        {
-          "title": "因特朗普言论 意大利副总理取消访美",
-          "url": "https://wallstreetcn.com/livenews/3122210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 15时42分]"
         },
         {
           "title": "美国总统特朗普：我结束了8场战争，与伊朗的战争是最艰难的。",
@@ -1006,6 +1088,39 @@
           "time_info": "[01时11分 ~ 03时25分]"
         },
         {
+          "title": "意外长取消访美：特朗普冒犯了意大利",
+          "url": "https://www.toutiao.com/trending/7653072490532556324/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "特朗普坚称伊朗无条件投降了",
+          "url": "https://news.ifeng.com/c/8u6jGmZtj71",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "特朗普“剧透”，意大利怒了",
+          "url": "https://news.ifeng.com/c/8u70Bz5ivT7",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "特朗普：“我是老大”的言论只是在开玩笑 没想到传遍全世界",
           "url": "https://flash.jin10.com/detail/20260620024147988800",
           "source": "金十数据",
@@ -1056,7 +1171,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -1070,6 +1185,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "特朗普在摇摆州支持率大跌",
+          "url": "https://www.toutiao.com/trending/7652819170371420203/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "据AXIOS：美国总统特朗普表示，我们将能够控制以色列不攻击黎巴嫩。",
@@ -1170,6 +1296,18 @@
           "time_info": "[03时24分 ~ 03时25分]"
         },
         {
+          "title": "苹果全面涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%A8%E9%9D%A2%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 18时26分]"
+        },
+        {
           "title": "苹果计划涨价，库克称供应链过去四十多年从未见过如此情况，9 月的 iPhone18 系列会大幅加价吗？",
           "url": "https://www.zhihu.com/question/2050957003342733424",
           "source": "知乎",
@@ -1179,17 +1317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
-        },
-        {
-          "title": "苹果全面涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%85%A8%E9%9D%A2%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
         }
       ]
     },
@@ -1324,6 +1451,18 @@
           "time_info": "[01时11分 ~ 07时59分]"
         },
         {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 18时26分]"
+        },
+        {
           "title": "美联储：美国上周银行存款19.354万亿美元，之前一周19.295万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3122180",
           "source": "华尔街见闻-快讯",
@@ -1335,17 +1474,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 07时59分]"
-        },
-        {
-          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
-          "url": "https://wallstreetcn.com/articles/3775106",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
         },
         {
           "title": "美联储监管副主席静默期出席美银私人晚宴 合规性遭质疑",
@@ -1393,7 +1521,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
@@ -1444,8 +1572,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 15时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 18时26分]"
         },
         {
           "title": "韩国门将复盘失误：没听清队友呼喊",
@@ -1540,8 +1668,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 15时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 18时26分]"
         }
       ]
     },
@@ -1560,8 +1688,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时11分 ~ 15时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时11分 ~ 18时26分]"
         }
       ]
     },
