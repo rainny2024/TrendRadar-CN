@@ -1,283 +1,11 @@
 {
-  "generated_at": "2026-06-26T03:02:16.690317+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-06-26T05:21:47.064597+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "涨价 核心材料",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "苹果官宣涨价，Mac 及 iPad 多款产品调价幅度达 20%，此次涨价影响有多大？你能接受吗？",
-          "url": "https://www.zhihu.com/question/2053590927633900087",
-          "source": "知乎",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "苹果回应涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "苹果多款产品涨价",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%A4%9A%E6%AC%BE%E4%BA%A7%E5%93%81%E6%B6%A8%E4%BB%B7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
-          "url": "https://www.cls.cn/detail/2409516",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "苹果涨价iPhone未涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "苹果官宣涨价！",
-          "url": "https://news.ifeng.com/c/8uFfRkA5q1Y",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "苹果官宣涨价：iPad和Mac率先调价",
-          "url": "https://www.douyin.com/hot/2547734",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "苹果官宣涨价",
-          "url": "https://www.toutiao.com/trending/7655312912900603914/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "苹果涨价",
-          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "微软：在全球范围内更新Xbox价格，8月1日生效。 512 GB的Xbox游戏手柄将涨价100美元，1 TB游戏手柄将涨价150美元。",
-          "url": "https://wallstreetcn.com/livenews/3124792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "苹果重挫6%，创去年4月以来最大跌幅，该公司产品涨价、预留继续上调的空间",
-          "url": "https://wallstreetcn.com/livenews/3124783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "一位接近谈判团队的伊朗消息人士表示，以色列从黎巴嫩撤军是伊朗与美国达成最终协议的条件，也是伊朗的“红线”。",
-          "url": "https://flash.jin10.com/detail/20260626000157341800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "布伦特原油日内涨3.00%，现报75.63美元/桶。WTI原油日内涨3.00%，现报72.60美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260626023049963800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3124808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
-          "url": "https://wallstreetcn.com/livenews/3124766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "意大利外长否认美军使用该国军事基地轰炸伊朗",
-          "url": "https://flash.jin10.com/detail/20260625233908276800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美媒：伊朗袭击货船，考验美伊停火协议",
-          "url": "https://flash.jin10.com/detail/20260626021302970800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
-          "url": "https://flash.jin10.com/detail/20260625233541514800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
-          "url": "https://wallstreetcn.com/livenews/3124790",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "美媒：伊朗估计每年海峡服务收费将达400亿美元",
-          "url": "https://wallstreetcn.com/livenews/3124750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美国：预计伊朗石油出口将达到200万桶/日",
-          "url": "https://wallstreetcn.com/livenews/3124749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -287,8 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "据AXIOS网站：美国众议院议长约翰逊表示，将在与特朗普会晤后将住房法案提交给白宫。",
+          "url": "https://flash.jin10.com/detail/20260626052048013800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
@@ -296,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
         },
         {
           "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
@@ -312,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "特朗普寻求为陷入困境的美国农民提供111亿美元新援助",
+          "url": "https://wallstreetcn.com/livenews/3124855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "加拿大总理卡尼：周三没有与美国总统特朗普讨论美墨加协定（USMCA）。",
@@ -334,6 +85,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "特朗普拟提名FCC总法律顾问掌管美国司法部反垄断局",
+          "url": "https://flash.jin10.com/detail/20260626043110139800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "据The Information：特朗普政府要求OpenAI出于安全考虑分批发布新模型。",
+          "url": "https://flash.jin10.com/detail/20260626041922109800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "市场消息：特朗普拟任命电信法律专家亚当·坎德布（Adam Candeub）担任司法部反垄断局局长。",
+          "url": "https://flash.jin10.com/detail/20260626041609697800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "加拿大总理卡尼：与美国总统特朗普讨论的主题包括北约和伊朗问题。",
@@ -382,8 +166,285 @@
       ]
     },
     {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "苹果官宣涨价，Mac 及 iPad 多款产品调价幅度达 20%，此次涨价影响有多大？你能接受吗？",
+          "url": "https://www.zhihu.com/question/2053590927633900087",
+          "source": "知乎",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33453348",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "苹果回应涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "苹果多款产品涨价",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E5%A4%9A%E6%AC%BE%E4%BA%A7%E5%93%81%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
+          "url": "https://www.cls.cn/detail/2409516",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "苹果涨价iPhone未涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7iPhone%E6%9C%AA%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "苹果官宣涨价！",
+          "url": "https://news.ifeng.com/c/8uFfRkA5q1Y",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "苹果官宣涨价：iPad和Mac率先调价",
+          "url": "https://www.douyin.com/hot/2547734",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "苹果官宣涨价",
+          "url": "https://www.toutiao.com/trending/7655312912900603914/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "苹果涨价",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "微软：在全球范围内更新Xbox价格，8月1日生效。 512 GB的Xbox游戏手柄将涨价100美元，1 TB游戏手柄将涨价150美元。",
+          "url": "https://wallstreetcn.com/livenews/3124792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "苹果重挫6%，创去年4月以来最大跌幅，该公司产品涨价、预留继续上调的空间",
+          "url": "https://wallstreetcn.com/livenews/3124783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            12,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "一位接近谈判团队的伊朗消息人士表示，以色列从黎巴嫩撤军是伊朗与美国达成最终协议的条件，也是伊朗的“红线”。",
+          "url": "https://flash.jin10.com/detail/20260626000157341800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "布伦特原油日内涨3.00%，现报75.63美元/桶。WTI原油日内涨3.00%，现报72.60美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260626023049963800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3124808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
+          "url": "https://wallstreetcn.com/livenews/3124766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "意大利外长否认美军使用该国军事基地轰炸伊朗",
+          "url": "https://flash.jin10.com/detail/20260625233908276800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美媒：伊朗袭击货船，考验美伊停火协议",
+          "url": "https://flash.jin10.com/detail/20260626021302970800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
+          "url": "https://flash.jin10.com/detail/20260625233541514800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
+          "url": "https://wallstreetcn.com/livenews/3124790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美媒：伊朗估计每年海峡服务收费将达400亿美元",
+          "url": "https://wallstreetcn.com/livenews/3124750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美国：预计伊朗石油出口将达到200万桶/日",
+          "url": "https://wallstreetcn.com/livenews/3124749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美联储 非农",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美联储古尔斯比：欢迎精简美联储声明之举。",
@@ -392,7 +453,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -403,7 +464,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -414,7 +475,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -425,7 +486,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -436,7 +497,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -447,7 +508,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -458,7 +519,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -469,9 +530,115 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美联储三把手威廉姆斯：美国到2028年将实现通胀目标",
+          "url": "https://wallstreetcn.com/livenews/3124837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "纳斯达克100指数涨幅扩大至1%，半导体指数涨超4.1%。",
+          "url": "https://wallstreetcn.com/livenews/3124781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "周四（6月25日）纽约尾盘，标普500股指期货最终涨0.08%，道指期货涨0.30%，纳斯达克100股指期货涨0.77%。 罗素2000股指期货涨0.81%。",
+          "url": "https://wallstreetcn.com/livenews/3124862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "法国兴业银行：上调标普500指数目标至8000点（之前为7300点），更加强劲的业绩周期将支撑这样的预期。",
+          "url": "https://wallstreetcn.com/livenews/3124778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "标普500指数的11个板块涨跌各异，可选消费板块收跌1.78%，日用消费品、电信板块至多跌1.08%，信息技术/科技板块跌0.09%，原材料板块涨1.39%，保健板块涨1.49%，工业板块涨2.19%。",
+          "url": "https://wallstreetcn.com/livenews/3124853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌2.70%，报5690.24点，日内整体呈现出长尾L形走势，逼近2024年9月18日收盘位5639.37点、当年8月28日收盘位5399.48点（当年8月5日盘中曾走低至5373.21点）。 热门中概股里，携程初步收跌12.5%，万国数据跌6.3%，金山云跌5.6%，阿里巴巴跌4.8%，拼多多跌3.2%，日月光半导体涨0.8%。 ETF中，中概互联网指数ETF（KWEB）收跌2.76%，中国科技指数ETF（CQQQ）收涨1.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.67%，XtrackersHarvest中证50（ASHS）收涨2.01%，德银嘉实沪深300指数ETF（ASHR）收涨2.31%。",
+          "url": "https://wallstreetcn.com/livenews/3124845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "标普、纳指四连跌，半导体指数涨约3.6%，银行指数、生物科技指数、小盘股指创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3124843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "道琼斯指数6月25日（周四）收盘上涨71.72点，涨幅0.14%，报51920.62点；<br/>标普500指数6月25日（周四）收盘下跌0.33点，跌幅0.00%，报7357.89点；<br/>纳斯达克综合指数6月25日（周四）收盘下跌118.03点，跌幅0.46%，报25358.60点。",
+          "url": "https://flash.jin10.com/detail/20260626040316530800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         }
       ]
     },
@@ -487,8 +654,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
         },
         {
           "title": "IBM开创“亚1纳米”芯片时代：指甲盖大小塞进千亿晶体管",
@@ -499,8 +666,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
         },
         {
           "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
@@ -510,8 +677,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
         },
         {
           "title": "苹果股价跌幅扩大至6.5%。媒体报道称，苹果调整Mac芯片战略，下一代高端芯片将直接跃升至M7系列。",
@@ -520,7 +687,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -531,108 +698,15 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         }
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "券商股大涨的逻辑变了？领涨的华安、长江都“站在科创里”",
-          "url": "https://www.cls.cn/detail/2409111",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
-          "url": "https://www.cls.cn/detail/2409229",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3775467",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
-          "url": "https://www.cls.cn/detail/2409159",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "纳斯达克100指数涨幅扩大至1%，半导体指数涨超4.1%。",
-          "url": "https://wallstreetcn.com/livenews/3124781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "法国兴业银行：上调标普500指数目标至8000点（之前为7300点），更加强劲的业绩周期将支撑这样的预期。",
-          "url": "https://wallstreetcn.com/livenews/3124778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储 半导体",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
@@ -642,8 +716,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "安森美半导体将按大约70亿美元估值收购Synaptics Inc.。",
+          "url": "https://wallstreetcn.com/livenews/3124854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "市场消息：由罗伯特·弗里德兰（Robert Friedland）联合创立的 I-Pulse Inc. 将获得 2.5 亿美元的美国资金，用于半导体和脉冲功率技术的开发。",
+          "url": "https://flash.jin10.com/detail/20260626040337981800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
         },
         {
           "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
@@ -670,6 +766,109 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数25日下跌",
+          "url": "https://flash.jin10.com/detail/20260626045241323800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "新兴市场外汇指数回吐涨幅，报道称伊朗袭击霍尔木兹海峡的船只。 布伦特原油日内涨幅达2.0%，报75.38美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3124812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "周四（6月25日），美股行业ETF多数收涨，半导体ETF涨2.90%，全球航空业ETF、医疗业ETF、生物科技指数ETF、全球科技股指数ETF、银行业ETF至多涨1.54%，网络股指数ETF则收跌1.39%，可选消费ETF跌1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3124851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "周四（6月25日）纽约尾盘，ICE美元指数跌0.16%，报101.443点，在一波W形反转行情结束时，于北京时间19:39刷新日高至101.746点，随后持续走低，00:28刷新日低至101.305点。 彭博美元指数跌0.25%，报1222.78点，日内交投区间为1227.65-1222.78点。",
+          "url": "https://wallstreetcn.com/livenews/3124835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "券商股大涨的逻辑变了？领涨的华安、长江都“站在科创里”",
+          "url": "https://www.cls.cn/detail/2409111",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "【焦点复盘】科创50指数连续2日涨近4%，多只存储芯片股迭创历史新高，超级电容概念大放异彩",
+          "url": "https://www.cls.cn/detail/2409229",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3775467",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "风险",
       "match_count": 2,
       "titles": [
@@ -692,7 +891,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         }
@@ -728,19 +927,19 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
+      "keyword_group": "空单",
       "match_count": 1,
       "titles": [
         {
-          "title": "新兴市场外汇指数回吐涨幅，报道称伊朗袭击霍尔木兹海峡的船只。 布伦特原油日内涨幅达2.0%，报75.38美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3124812",
+          "title": "“大空头”Michael Burry：已经对Palantir空单回补一半的头寸。 加仓Fiserv、京东、Adobe。",
+          "url": "https://wallstreetcn.com/livenews/3124841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "05时21分"
         }
       ]
     },
@@ -774,8 +973,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
         }
       ]
     }
