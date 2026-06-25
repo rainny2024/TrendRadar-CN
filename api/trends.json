@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T07:58:48.757110+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-06-25T10:43:58.000618+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -50,7 +50,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -132,6 +132,17 @@
           "time_info": "06时07分"
         },
         {
+          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
+          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "美国总统特朗普：石油公司没有足够降低汽油价格；今天与石油公司进行了交谈。",
           "url": "https://flash.jin10.com/detail/20260625045731556800",
           "source": "金十数据",
@@ -152,6 +163,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "美媒：就涉伊朗问题，特朗普与共和党籍议员比尔·卡西迪当面发生激烈争吵",
+          "url": "https://wallstreetcn.com/livenews/3124377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "据Politico：特朗普政府官员已告知国会山共和党关键人物，预计本周结束前将提交一份关于伊朗战事相关费用的追加拨款请求。",
@@ -278,7 +300,7 @@
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "韩国引爆“黑色星期二”，全球芯片股大牛市遭“当头棒喝”，只是“技术性调整”吗？",
@@ -298,11 +320,12 @@
           "url": "https://www.cls.cn/detail/2408547",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时43分]"
         },
         {
           "title": "全球芯片股灾的暴风眼：韩股暴跌背后的“各种鬼故事”",
@@ -326,6 +349,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "港股芯片股震荡走高，兆易创新(03986.HK)涨超9%，天数智芯(09903.HK)涨超8%，澜起科技(06809.HK)涨超6%，中芯国际(00981.HK)涨超3%。",
+          "url": "https://flash.jin10.com/detail/20260625095837342800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "A股开盘：存储芯片概念大幅高开",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%A6%82%E5%BF%B5%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "获英特尔支持的AI芯片公司SambaNova估值将翻五倍，达到100亿美元。SambaNova计划筹集8亿-10亿美元。 General Atlantic正洽谈领投SambaNova的一轮融资，该轮融资规模将超过10亿美元，并有望最早于下周完成。（The Information）",
@@ -372,6 +417,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "中国成功研制超表面芯片",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%88%90%E5%8A%9F%E7%A0%94%E5%88%B6%E8%B6%85%E8%A1%A8%E9%9D%A2%E8%8A%AF%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "高通投资者日活动开始，数据中心主管表示：将于2028年年中推出数据中心CPU。 从2027年第一季度（即2026年底）开始，高通的定制芯片（Custom Silicon）业务将开始贡献实质性收入。 微软将在其Azure数据中心部署高通的高带宽计算（HBC）芯片。 配备AI250的高通第一代高带宽计算（HBC Gen 1）芯片预计将于2027年年中开启商业采样。 高通将于2028年推出第二代高带宽计算（HBC）芯片。 Meta计划在其数据中心使用C1000 CPU。 计划2027年推出第三代AI芯片。",
           "url": "https://wallstreetcn.com/livenews/3124200",
           "source": "华尔街见闻-快讯",
@@ -389,138 +445,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
-          "url": "https://www.cls.cn/detail/2408054",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 07时58分]"
-        },
-        {
-          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 04时28分]"
-        },
-        {
-          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
-          "url": "https://www.zhihu.com/question/2052869201178652833",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 07时58分]"
-        },
-        {
-          "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
-          "url": "https://wallstreetcn.com/articles/3775325",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时08分 ~ 04时28分]"
-        },
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
         {
-          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
-          "url": "https://wallstreetcn.com/articles/3775422",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时27分 ~ 07时58分]"
-        },
-        {
-          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3124222",
+          "title": "存储芯片板块延续涨势，太极实业2连板，股价续创历史新高，汇成股份涨超10%，雅克科技、佰维存储、江波龙、长电科技、深科技、聚辰股份涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3124348",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
-          "url": "https://www.cls.cn/detail/2408544",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "高通(QCOM.O)：到2029财年，手机业务预计将占其核心半导体业务部门收入的约三分之一。",
-          "url": "https://flash.jin10.com/detail/20260625045153805800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "半导体板块迎来一只十倍股",
-          "url": "https://www.toutiao.com/trending/7654875013652856883/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
+          "time_info": "10时43分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -545,6 +489,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时08分 ~ 04时28分]"
+        },
+        {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "伊朗外长与沙特外交大臣通电话。",
@@ -578,6 +533,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "布伦特原油抹去伊朗战争期间的涨幅，霍尔木兹海峡开放使得供应增加。",
+          "url": "https://wallstreetcn.com/livenews/3124365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "伊朗外交部发言人：美国军事与干涉主义阻碍地区和平",
@@ -622,6 +588,249 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
+          "url": "https://www.cls.cn/detail/2408054",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 07时58分]"
+        },
+        {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            4,
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 10时43分]"
+        },
+        {
+          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时28分]"
+        },
+        {
+          "title": "存储暴跌的导火索之一！韩媒“小作文”：英伟达Rubin预期减产，SK海力士HBM4扩产放缓",
+          "url": "https://wallstreetcn.com/articles/3775325",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 04时28分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时43分]"
+        },
+        {
+          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
+          "url": "https://wallstreetcn.com/articles/3775422",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时27分 ~ 10时43分]"
+        },
+        {
+          "title": "存储超级周期实锤！美光财报会实录：16份SCA改写周期逻辑 行业紧缺持续至2027年",
+          "url": "https://www.cls.cn/detail/2408555",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时58分 ~ 10时43分]"
+        },
+        {
+          "title": "美光科技第三财季调整后营收414.6亿美元，分析师预期356.9亿美元。 第三财季核心数据中心营收115.2亿美元，分析师预期68亿美元。 第三财季云存储营收137.7亿美元，分析师预期106.9亿美元。 第三财季移动与客户营收115.2亿美元，分析师预期97.3亿美元。 第三财季调整后每股收益（EPS）为25.11美元，分析师预期20.49美元。 第三财季调整后运营利润336.8亿美元，分析师预期278.6亿美元。 第三财季调整后毛利润率84.9%，分析师预期81.9%。 预计第四财季资本支出约为100亿美元，预计2026财年全年资本支出约为270亿美元；2027财年各季度的资本支出将高于2026第四财季的水平。 预计第四财季调整后营收490亿-510亿美元，分析师预期432.4亿美元。 预计第四财季调整后EPS为30-32美元，分析师预期25.31美元。 美光（MU）美股盘后涨11%，闪迪、西部数据、希捷科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3124222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "高通(QCOM.O)：到2029财年，手机业务预计将占其核心半导体业务部门收入的约三分之一。",
+          "url": "https://flash.jin10.com/detail/20260625045153805800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "半导体板块迎来一只十倍股",
+          "url": "https://www.toutiao.com/trending/7654875013652856883/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "标普纳指三连跌但跌势缓和，金银油大跳水，盘后美光高通拉动芯片大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "标普500指数的11个板块涨跌各异，工业板块收涨1.18%，电信板块跌0.61%，信息技术/科技板块跌0.64%，能源板块跌1.73%。",
+          "url": "https://wallstreetcn.com/livenews/3124230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 06时07分]"
+        },
+        {
+          "title": "SK海力士赴美上市！暂定7月10日登陆纳斯达克，拟募资296亿美元扩建AI产能",
+          "url": "https://flash.jin10.com/detail/20260625100947414800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，蔚来、美团、阿里至少跌约3%，百度跌2.3%，拼多多跌1%，腾讯涨2.4%，日月光半导体涨3.5%。KWEB跌0.7%，CQQQ涨0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3124220",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "周三（6月24日）纽约尾盘，标普500股指期货最终涨0.58%，道指期货涨0.59%，纳斯达克100股指期货涨1.49%。 罗素2000股指期货涨0.79%。",
+          "url": "https://wallstreetcn.com/livenews/3124243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "标普500指数初步收跌0.2%，能源板块跌1.7%，科技板块跌0.8%，电信板块跌0.7%，工业板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Rocket Lab初步收跌10%，Strategy、Nebius集团、CoreWeave、西部数据、希捷科技至少跌超4%，高通跌3.7%，闪迪跌2.6%，星巴克则涨2.5%，Axon涨5.6%，Shopify涨5.9%，Booking涨7.1%。 家得宝初步收涨5.1%，与SHW、3M、霍尼韦尔、波音领跑道指成分股，英伟达跌1%，雪佛龙跌2.3%，微软跌2.4%。 费城半导体指数跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3124218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至0.5%，刷新日低。标普500指数大致持平，道指涨234点、涨幅0.4%，纳指跌0.2%，半导体指数跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3124169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时28分"
+        },
+        {
+          "title": "高通跌幅扩大至6%，刷新日低。 纳斯达克100指数跌幅扩大至1.1%，标普跌0.3%，纳指跌0.8%，半导体指数跌2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3124201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
         }
       ]
     },
@@ -731,6 +940,203 @@
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2408036",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 07时58分]"
+        },
+        {
+          "title": "创业板指下行翻绿，此前一度涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3124398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "创业板指翻绿，此前一度涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3124396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
+          "url": "https://www.cls.cn/detail/2407987",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时08分 ~ 06时07分]"
+        },
+        {
+          "title": "创业板指涨超2%，科创50指数涨超3%，沪指涨0.14%，深成指涨1.47%，存储芯片、超级电容、先进封装、光通信等方向领涨，沪深京三市上涨个股超1300只。",
+          "url": "https://wallstreetcn.com/livenews/3124372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指跌0.43%，深成指涨0.67%，存储芯片、民航机场、超级电容、光纤等方向领涨，沪深京三市上涨个股近1100只。",
+          "url": "https://wallstreetcn.com/livenews/3124363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "科创50指数涨超1%，首次突破2000点，年内累计涨近50%。",
+          "url": "https://wallstreetcn.com/livenews/3124357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "A股盘初扩大涨幅，创业板指涨超2%，深成指涨超1.5%，沪指涨0.15%。全市场上涨个股超1400只。",
+          "url": "https://flash.jin10.com/detail/20260625094737308800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美光科技业绩亮眼 盘后涨近10%",
+          "url": "https://flash.jin10.com/detail/20260625041232266800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
+          "url": "https://wallstreetcn.com/articles/3775365",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 10时43分]"
+        },
+        {
+          "title": "高通CFO：营收与每股收益（EPS）将在未来按更快的速度增长。",
+          "url": "https://wallstreetcn.com/livenews/3124227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 06时07分]"
+        },
+        {
+          "title": "央行将开展5000亿元MLF操作 呵护月末流动性 市场人士预计三季度稳增长政策或发力",
+          "url": "https://www.cls.cn/detail/2408352",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 10时43分]"
+        },
+        {
+          "title": "受美国出口增长带动 英国汽车产量在5月首次回升",
+          "url": "https://flash.jin10.com/detail/20260625072621553800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "欧洲央行执委施纳贝尔：战争、通胀和增长等因素决定加息的时机和幅度。",
+          "url": "https://flash.jin10.com/detail/20260624232350106800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "高通：预计安卓系统硬件设备营收将增长大约5%。 在2029财年，预计硬件将在收入占比大约三分之一。",
+          "url": "https://wallstreetcn.com/livenews/3124234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "花旗将新易盛目标价上调近翻倍 称全球光互连市场三年增长率有望达65%",
+          "url": "https://wallstreetcn.com/livenews/3124346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "跌破 拉升",
       "match_count": 8,
       "titles": [
@@ -740,11 +1146,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时27分 ~ 07时58分]"
+          "appearance_count": 6,
+          "time_info": "[02时27分 ~ 10时43分]"
         },
         {
           "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
@@ -916,178 +1323,8 @@
       ]
     },
     {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "标普纳指三连跌但跌势缓和，金银油大跳水，盘后美光高通拉动芯片大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "标普500指数的11个板块涨跌各异，工业板块收涨1.18%，电信板块跌0.61%，信息技术/科技板块跌0.64%，能源板块跌1.73%。",
-          "url": "https://wallstreetcn.com/livenews/3124230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 06时07分]"
-        },
-        {
-          "title": "纳斯达克金龙中国指数初步收跌1.8%。 热门中概股里，蔚来、美团、阿里至少跌约3%，百度跌2.3%，拼多多跌1%，腾讯涨2.4%，日月光半导体涨3.5%。KWEB跌0.7%，CQQQ涨0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3124220",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "周三（6月24日）纽约尾盘，标普500股指期货最终涨0.58%，道指期货涨0.59%，纳斯达克100股指期货涨1.49%。 罗素2000股指期货涨0.79%。",
-          "url": "https://wallstreetcn.com/livenews/3124243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "标普500指数初步收跌0.2%，能源板块跌1.7%，科技板块跌0.8%，电信板块跌0.7%，工业板块涨1.2%。 纳斯达克100指数初步收跌0.6%，成分股中，Rocket Lab初步收跌10%，Strategy、Nebius集团、CoreWeave、西部数据、希捷科技至少跌超4%，高通跌3.7%，闪迪跌2.6%，星巴克则涨2.5%，Axon涨5.6%，Shopify涨5.9%，Booking涨7.1%。 家得宝初步收涨5.1%，与SHW、3M、霍尼韦尔、波音领跑道指成分股，英伟达跌1%，雪佛龙跌2.3%，微软跌2.4%。 费城半导体指数跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3124218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "纳斯达克100指数跌幅扩大至0.5%，刷新日低。标普500指数大致持平，道指涨234点、涨幅0.4%，纳指跌0.2%，半导体指数跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3124169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时28分"
-        },
-        {
-          "title": "高通跌幅扩大至6%，刷新日低。 纳斯达克100指数跌幅扩大至1.1%，标普跌0.3%，纳指跌0.8%，半导体指数跌2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3124201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美光科技业绩亮眼 盘后涨近10%",
-          "url": "https://flash.jin10.com/detail/20260625041232266800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "高通CFO：营收与每股收益（EPS）将在未来按更快的速度增长。",
-          "url": "https://wallstreetcn.com/livenews/3124227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 06时07分]"
-        },
-        {
-          "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
-          "url": "https://wallstreetcn.com/articles/3775365",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 07时58分]"
-        },
-        {
-          "title": "央行将开展5000亿元MLF操作 呵护月末流动性 市场人士预计三季度稳增长政策或发力",
-          "url": "https://www.cls.cn/detail/2408352",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 02时28分]"
-        },
-        {
-          "title": "受美国出口增长带动 英国汽车产量在5月首次回升",
-          "url": "https://flash.jin10.com/detail/20260625072621553800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "欧洲央行执委施纳贝尔：战争、通胀和增长等因素决定加息的时机和幅度。",
-          "url": "https://flash.jin10.com/detail/20260624232350106800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "高通：预计安卓系统硬件设备营收将增长大约5%。 在2029财年，预计硬件将在收入占比大约三分之一。",
-          "url": "https://wallstreetcn.com/livenews/3124234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "风险",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待 41 岁 C 罗生物年龄仅 28.9 岁，他的食谱永远只有鸡肉、鱼类、蔬菜？普通人效仿可能面临哪些风险？",
@@ -1125,6 +1362,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时27分 ~ 04时28分]"
+        },
+        {
+          "title": "外卖吃出大量血迹，店员承认伤口却拒做传染筛查，消费者自服阻断药，后厨带伤操作，可能会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2050899468078387427",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "欧洲央行执委施纳贝尔：二轮效应的风险正在增加。",
@@ -1223,7 +1471,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -1241,41 +1489,47 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
+      "keyword_group": "涨停 跌停",
+      "match_count": 3,
       "titles": [
         {
-          "title": "【焦点复盘】创业板、深成指缩量涨超1%，全市场超150股涨超10%，AI硬件产业链卷土重来",
-          "url": "https://www.cls.cn/detail/2408036",
-          "source": "财联社热门",
+          "title": "大金融板块再度拉升，长江证券触及涨停，走出4天3板，方正证券涨超7%，中信建投、财达证券、东方财富、中国人寿、新华保险、中国人保、宁波银行跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3124387",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            4,
-            5,
-            9
+            8
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 07时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
-          "title": "【每日收评】科创50指数涨近4%，科技赛道全线回暖，半导体芯片产业链领涨",
-          "url": "https://www.cls.cn/detail/2407987",
-          "source": "财联社热门",
+          "title": "A股游戏板块震荡上扬，巨人网络涨停，中青宝、冰川网络、三七互娱、完美世界、吉比特跟涨。",
+          "url": "https://flash.jin10.com/detail/20260625095707740800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            8,
-            9
+            16
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 06时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "证券板块再度拉升，华安证券冲击涨停，招商证券、财达证券、天风证券、长江证券、国元证券纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3124359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -1288,6 +1542,51 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时08分 ~ 02时28分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "截至早盘收盘，日经225指数涨3.9%，东证指数涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3124392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "存储芯片涨价",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         }
       ]
     },
@@ -1305,6 +1604,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "降息",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美财长贝森特：美元主导地位至关重要 降息未必会削弱美元",
+          "url": "https://www.cls.cn/detail/2408518",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         }
       ]
     }
