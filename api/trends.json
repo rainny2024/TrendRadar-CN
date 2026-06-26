@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T18:14:18.800307+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-06-26T21:04:09.068265+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "涨价 核心材料",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "涨价约20%！苹果官宣涨价：iPad和Mac率先调价，存储成本压力“前所未有”",
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 18时14分]"
+          "appearance_count": 12,
+          "time_info": "[00时15分 ~ 21时04分]"
         },
         {
           "title": "苹果正式涨价！MacBook、iPad最高涨300美元 iPhone未来或跟进",
@@ -60,6 +60,18 @@
           "time_info": "[00时15分 ~ 07时07分]"
         },
         {
+          "title": "半导体硅片新一轮涨价潮将至？多家供应商开始协商调价",
+          "url": "https://www.cls.cn/detail/2409929",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 21时04分]"
+        },
+        {
           "title": "苹果官宣涨价：iPad和Mac率先调价",
           "url": "https://www.douyin.com/hot/2547734",
           "source": "抖音",
@@ -74,16 +86,15 @@
           "time_info": "[00时15分 ~ 14时43分]"
         },
         {
-          "title": "半导体硅片新一轮涨价潮将至？多家供应商开始协商调价",
-          "url": "https://www.cls.cn/detail/2409929",
+          "title": "苹果一声“涨价”，亚洲“果链”几乎全线遭殃",
+          "url": "https://www.cls.cn/detail/2410034",
           "source": "财联社热门",
           "ranks": [
-            5,
-            1
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时42分 ~ 18时14分]"
+          "time_info": "[18时14分 ~ 21时04分]"
         },
         {
           "title": "苹果多款产品涨价",
@@ -129,15 +140,17 @@
           "time_info": "[00时15分 ~ 07时07分]"
         },
         {
-          "title": "苹果一声“涨价”，亚洲“果链”几乎全线遭殃",
-          "url": "https://www.cls.cn/detail/2410034",
-          "source": "财联社热门",
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 21时04分]"
         },
         {
           "title": "苹果官宣涨价！",
@@ -176,16 +189,50 @@
           "time_info": "[14时42分 ~ 14时43分]"
         },
         {
-          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
-          "url": "https://wallstreetcn.com/articles/3775558",
-          "source": "华尔街见闻",
+          "title": "亚股遭遇“黑色星期五”！华尔街热议背后推手 苹果涨价是多重利空之一",
+          "url": "https://www.cls.cn/detail/2410279",
+          "source": "财联社热门",
           "ranks": [
-            8,
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时42分 ~ 18时14分]"
+          "time_info": "[18时14分 ~ 21时04分]"
+        },
+        {
+          "title": "苹果涨价引山姆代购潮",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7%E5%BC%95%E5%B1%B1%E5%A7%86%E4%BB%A3%E8%B4%AD%E6%BD%AE%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 21时04分]"
+        },
+        {
+          "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
+          "url": "https://wallstreetcn.com/articles/3775599",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "笔记本电脑大批量涨价",
+          "url": "https://www.baidu.com/s?wd=%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E5%A4%A7%E6%89%B9%E9%87%8F%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "苹果涨价iPhone未涨 官方回应",
@@ -216,29 +263,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "亚股遭遇“黑色星期五”！华尔街热议背后推手 苹果涨价是多重利空之一",
-          "url": "https://www.cls.cn/detail/2410279",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "苹果涨价引山姆代购潮",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7%E5%BC%95%E5%B1%B1%E5%A7%86%E4%BB%A3%E8%B4%AD%E6%BD%AE%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -279,7 +304,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -291,6 +316,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时15分 ~ 07时07分]"
+        },
+        {
+          "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
+          "url": "https://news.ifeng.com/c/8uHCasu8tQC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "特朗普政府首次介入AI模型发布：要求OpenAI限制首批开放范围",
@@ -523,7 +559,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
@@ -539,15 +575,15 @@
           "time_info": "[10时09分 ~ 18时14分]"
         },
         {
-          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
-          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
-          "source": "凤凰网",
+          "title": "据伊朗Press TV：美国与伊朗在霍尔木兹海峡的沟通旨在防止军事升级。",
+          "url": "https://flash.jin10.com/detail/20260626205040361800",
+          "source": "金十数据",
           "ranks": [
-            5
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "21时04分"
         },
         {
           "title": "摩根大通：即使和平协议得以维持，伊朗冲突仍将影响EMEA（欧洲、中东及非洲）地区市场的市场状况。",
@@ -559,6 +595,41 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "伊朗和美国开设沟通渠道，就霍尔木兹海峡进行协调。美伊霍尔木兹沟通渠道将防止军事升级。（伊朗Press TV）",
+          "url": "https://wallstreetcn.com/livenews/3125327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 21时04分]"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 21时04分]"
         },
         {
           "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
@@ -575,16 +646,15 @@
           "time_info": "[00时15分 ~ 07时07分]"
         },
         {
-          "title": "在伊华商：战争改变伊朗民众对中国的看法",
-          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
-          "source": "凤凰网",
+          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
+          "url": "https://wallstreetcn.com/articles/3775543",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[14时42分 ~ 18时14分]"
+          "time_info": "[18时14分 ~ 21时04分]"
         },
         {
           "title": "一位接近谈判团队的伊朗消息人士表示，以色列从黎巴嫩撤军是伊朗与美国达成最终协议的条件，也是伊朗的“红线”。",
@@ -609,15 +679,15 @@
           "time_info": "03时02分"
         },
         {
-          "title": "霍尔木兹海峡再起波澜：伊朗被曝谋求一年400亿“买路钱”，船只遇袭后疏散行动暂停",
-          "url": "https://wallstreetcn.com/articles/3775543",
-          "source": "华尔街见闻",
+          "title": "伊朗外交部谴责美国与海合会联合声明",
+          "url": "https://wallstreetcn.com/livenews/3125318",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "21时04分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外长今日与韩国外长通话，双方就地区最新局势及双边关系交换了意见。",
@@ -626,9 +696,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
+        },
+        {
+          "title": "以色列国防部长：如果伊朗攻击以色列，将“犯下最大的错误”。",
+          "url": "https://flash.jin10.com/detail/20260626203708830800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
@@ -742,11 +823,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 18时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 21时04分]"
         },
         {
           "title": "美联储威廉姆斯“放鸽”：当前货币政策立场足以推动通胀回落至2%",
@@ -766,7 +848,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -887,7 +969,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -905,6 +987,278 @@
       ]
     },
     {
+      "keyword_group": "存储 半导体",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
+          "url": "https://wallstreetcn.com/articles/3775531",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时07分 ~ 21时04分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 05时21分]"
+        },
+        {
+          "title": "科技股拖累全球股市，美股盘前半导体股普跌，美光跌近6%，金银走高，油价跌近4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "多氟多：半导体级氢氟酸价格上涨约20%-30%，批量供应台积电、长鑫存储等",
+          "url": "https://wallstreetcn.com/livenews/3125330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "半导体产业链延续强势，新莱应材20cm涨停，股价创历史新高，上海合晶、中科飞测、正帆科技涨超10%，彤程新材、南大光电、圣晖集成涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3124944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "安森美半导体将按大约70亿美元估值收购Synaptics Inc.。",
+          "url": "https://wallstreetcn.com/livenews/3124854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 07时07分]"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
+          "url": "https://www.cls.cn/detail/2410338",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "协创数据：拟定增募资不超过80亿元，用于协创数据智算中心建设项目、数据存储拓展升级扩产项目、补充流动资金及偿还银行贷款。",
+          "url": "https://wallstreetcn.com/livenews/3125323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "A股半导体硅片概念持续活跃，有研硅触及20CM涨停，TCL中环此前封板，立昂微、沪硅产业、西安奕材跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3125065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "市场消息：由罗伯特·弗里德兰（Robert Friedland）联合创立的 I-Pulse Inc. 将获得 2.5 亿美元的美国资金，用于半导体和脉冲功率技术的开发。",
+          "url": "https://flash.jin10.com/detail/20260626040337981800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
+          "url": "https://wallstreetcn.com/livenews/3124752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "中国半导体行业协会魏少军：八成以上集成电路设计企业为小微企业",
+          "url": "https://wallstreetcn.com/livenews/3125171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "长鑫存储年底产能有望超越美光",
+          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E5%B9%B4%E5%BA%95%E4%BA%A7%E8%83%BD%E6%9C%89%E6%9C%9B%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%85%89&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
+          "url": "https://www.cls.cn/detail/2409639",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时07分 ~ 14时43分]"
+        },
+        {
+          "title": "IBM开创“亚1纳米”芯片时代：指甲盖大小塞进千亿晶体管",
+          "url": "https://www.cls.cn/detail/2409405",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时15分 ~ 10时10分]"
+        },
+        {
+          "title": "高通承认：受制于美国，要为中国定制芯片",
+          "url": "https://news.ifeng.com/c/8uFFpyMCBmU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 07时07分]"
+        },
+        {
+          "title": "市场消息：三星电子或将在韩国新建芯片工厂，投资规模或达300万亿韩元。",
+          "url": "https://flash.jin10.com/detail/20260626065012470800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "物理极限被打破！IBM推出全球首款0.7纳米芯片技术，半导体迈入“埃米时代”",
+          "url": "https://wallstreetcn.com/articles/3775516",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时09分 ~ 18时14分]"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 07时07分]"
+        },
+        {
+          "title": "芯片行情还能撑多久",
+          "url": "https://www.toutiao.com/trending/7655645498920930867/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "沃什重创\"美元贬值交易\"！黄金崩了，比特币重挫，芯片狂欢还能撑多久？",
+          "url": "https://wallstreetcn.com/articles/3775489",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
+        {
+          "title": "苹果股价跌幅扩大至6.5%。媒体报道称，苹果调整Mac芯片战略，下一代高端芯片将直接跃升至M7系列。",
+          "url": "https://wallstreetcn.com/livenews/3124789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "苹果罕见地变更战略：将跳过高端M6 Mac芯片，青睐侧重于AI的M7",
+          "url": "https://wallstreetcn.com/livenews/3124788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "纳斯达克 标普 道琼斯",
       "match_count": 9,
       "titles": [
@@ -916,8 +1270,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时07分 ~ 18时14分]"
+          "appearance_count": 8,
+          "time_info": "[07时07分 ~ 21时04分]"
         },
         {
           "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
@@ -1013,223 +1367,6 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美股收盘：科技巨头回落拖累纳指收跌 芯片股暴拉难挽大盘颓势",
-          "url": "https://www.cls.cn/detail/2409639",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时07分 ~ 14时43分]"
-        },
-        {
-          "title": "IBM开创“亚1纳米”芯片时代：指甲盖大小塞进千亿晶体管",
-          "url": "https://www.cls.cn/detail/2409405",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时15分 ~ 10时10分]"
-        },
-        {
-          "title": "高通承认：受制于美国，要为中国定制芯片",
-          "url": "https://news.ifeng.com/c/8uFFpyMCBmU",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 07时07分]"
-        },
-        {
-          "title": "市场消息：三星电子或将在韩国新建芯片工厂，投资规模或达300万亿韩元。",
-          "url": "https://flash.jin10.com/detail/20260626065012470800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "物理极限被打破！IBM推出全球首款0.7纳米芯片技术，半导体迈入“埃米时代”",
-          "url": "https://wallstreetcn.com/articles/3775516",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 18时14分]"
-        },
-        {
-          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
-          "url": "https://wallstreetcn.com/articles/3775441",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时15分 ~ 07时07分]"
-        },
-        {
-          "title": "沃什重创\"美元贬值交易\"！黄金崩了，比特币重挫，芯片狂欢还能撑多久？",
-          "url": "https://wallstreetcn.com/articles/3775489",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 10时10分]"
-        },
-        {
-          "title": "苹果股价跌幅扩大至6.5%。媒体报道称，苹果调整Mac芯片战略，下一代高端芯片将直接跃升至M7系列。",
-          "url": "https://wallstreetcn.com/livenews/3124789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "苹果罕见地变更战略：将跳过高端M6 Mac芯片，青睐侧重于AI的M7",
-          "url": "https://wallstreetcn.com/livenews/3124788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 05时21分]"
-        },
-        {
-          "title": "存储成本压力山大！苹果罕见全球提价，直言“无法再保护消费者”",
-          "url": "https://wallstreetcn.com/articles/3775531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时07分 ~ 18时14分]"
-        },
-        {
-          "title": "半导体产业链延续强势，新莱应材20cm涨停，股价创历史新高，上海合晶、中科飞测、正帆科技涨超10%，彤程新材、南大光电、圣晖集成涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3124944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "安森美半导体将按大约70亿美元估值收购Synaptics Inc.。",
-          "url": "https://wallstreetcn.com/livenews/3124854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 07时07分]"
-        },
-        {
-          "title": "A股半导体硅片概念持续活跃，有研硅触及20CM涨停，TCL中环此前封板，立昂微、沪硅产业、西安奕材跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3125065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "市场消息：由罗伯特·弗里德兰（Robert Friedland）联合创立的 I-Pulse Inc. 将获得 2.5 亿美元的美国资金，用于半导体和脉冲功率技术的开发。",
-          "url": "https://flash.jin10.com/detail/20260626040337981800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "台积电闭门会预计全球半导体市场将在今年突破1万亿美元，业内：再度坚定业界的AI信仰",
-          "url": "https://wallstreetcn.com/livenews/3124752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "中国半导体行业协会魏少军：八成以上集成电路设计企业为小微企业",
-          "url": "https://wallstreetcn.com/livenews/3125171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "长鑫存储年底产能有望超越美光",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E5%B9%B4%E5%BA%95%E4%BA%A7%E8%83%BD%E6%9C%89%E6%9C%9B%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%85%89&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
       "match_count": 7,
       "titles": [
@@ -1315,80 +1452,8 @@
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "韩国股市为何会急涨急跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%80%A5%E6%B6%A8%E6%80%A5%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "日经225指数收跌4.2%，报69360.88点。 日本东证指数收跌1.3%，报3963.36点。 韩国首尔综指收跌5.8%，报8411.21点。",
-          "url": "https://wallstreetcn.com/livenews/3125087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
-          "url": "https://www.zhihu.com/question/2053782944448082432",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
-          "url": "https://wallstreetcn.com/articles/3775570",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "日经225指数日内跌幅扩大至2.4%，软银跌10%。",
-          "url": "https://wallstreetcn.com/livenews/3124912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "日经225指数低开近1%，韩国首尔综指低开1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3124909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "创业板、科创50均创历史新高，超4200股下跌，存储芯片、GPU大爆发，恒指跌超1%，科网股普跌",
@@ -1447,11 +1512,23 @@
           "url": "https://www.cls.cn/detail/2410276",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 21时04分]"
+        },
+        {
+          "title": "创业板改革落地后首单收购未盈利标的重组项目过会",
+          "url": "https://wallstreetcn.com/livenews/3125312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "21时04分"
         },
         {
           "title": "创业板指跌超2%，深成指跌1.6%，沪指跌0.9%。科创50指数跌超1%。",
@@ -1468,7 +1545,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "加码国际业务，券商竞逐业绩新增长极",
@@ -1493,13 +1570,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "美国5月商品进口环比增长3.6%；5月商品出口环比下降5.4%。",
+          "url": "https://flash.jin10.com/detail/20260626203332880800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "圣元环保：预计2026年上半年净利润同比增长55.00%-80.00%",
           "url": "https://wallstreetcn.com/livenews/3125189",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -1510,7 +1598,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -1540,7 +1628,7 @@
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美光“定心丸”带动芯片股反攻 人形机器人或接棒算力成存储应用下一站",
@@ -1583,7 +1671,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -1608,6 +1696,179 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时43分"
+        },
+        {
+          "title": "优必选正式发布轮式工业人形机器人Cruzr Y1",
+          "url": "https://wallstreetcn.com/livenews/3125280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 21时04分]"
+        },
+        {
+          "title": "近千股跌破“924”起点！两大板块成“破位”聚集地，这些千亿市值权重在列",
+          "url": "https://www.cls.cn/detail/2410343",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 21时04分]"
+        },
+        {
+          "title": "智谱股价跌破2000港元，现跌超15%。",
+          "url": "https://wallstreetcn.com/livenews/3125089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "阿里巴巴股价创年内新低，市值跌破 2 万亿港元，有哪些影响因素？何时能重回估值上行通道？",
+          "url": "https://www.zhihu.com/question/2053441953073718137",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时42分 ~ 21时04分]"
+        },
+        {
+          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
+          "url": "https://www.zhihu.com/question/2053415711725151834",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 03时02分]"
+        },
+        {
+          "title": "黄金跌破4000后，会加速跌向下个心理位吗？",
+          "url": "https://flash.jin10.com/detail/20260625233307870800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "黄金日内上演过山车行情！低位反弹出现急速拉升，空头布局还是多头反攻？金十VIP正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260626201139799800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
+          "url": "https://www.zhihu.com/question/2053782944448082432",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 21时04分]"
+        },
+        {
+          "title": "韩国股市为何会急涨急跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%80%A5%E6%B6%A8%E6%80%A5%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "日经225指数收跌4.2%，报69360.88点。 日本东证指数收跌1.3%，报3963.36点。 韩国首尔综指收跌5.8%，报8411.21点。",
+          "url": "https://wallstreetcn.com/livenews/3125087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时43分"
+        },
+        {
+          "title": "外资出逃、散户爆买！摩根大通详解韩国股市巨震背后的资金博弈",
+          "url": "https://wallstreetcn.com/articles/3775570",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时14分 ~ 21时04分]"
+        },
+        {
+          "title": "日经225指数日内跌幅扩大至2.4%，软银跌10%。",
+          "url": "https://wallstreetcn.com/livenews/3124912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "日经225指数低开近1%，韩国首尔综指低开1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3124909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     },
@@ -1684,81 +1945,6 @@
       ]
     },
     {
-      "keyword_group": "跌破 拉升",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "智谱股价跌破2000港元，现跌超15%。",
-          "url": "https://wallstreetcn.com/livenews/3125089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时43分"
-        },
-        {
-          "title": "国际金价跌破4000美元后重返关口，华安黄金ETF近三日遭净赎回21亿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33454301",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 18时14分]"
-        },
-        {
-          "title": "阿里巴巴股价创年内新低，市值跌破 2 万亿港元，有哪些影响因素？何时能重回估值上行通道？",
-          "url": "https://www.zhihu.com/question/2053441953073718137",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时42分 ~ 18时14分]"
-        },
-        {
-          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
-          "url": "https://www.zhihu.com/question/2053415711725151834",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时15分 ~ 03时02分]"
-        },
-        {
-          "title": "近千股跌破“924”起点！两大板块成“破位”聚集地，这些千亿市值权重在列",
-          "url": "https://www.cls.cn/detail/2410343",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "黄金跌破4000后，会加速跌向下个心理位吗？",
-          "url": "https://flash.jin10.com/detail/20260625233307870800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "风险",
       "match_count": 5,
       "titles": [
@@ -1771,8 +1957,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 18时14分]"
+          "appearance_count": 7,
+          "time_info": "[10时09分 ~ 21时04分]"
         },
         {
           "title": "宏和科技：股票交易异常波动，市盈率804倍提示估值过高风险",
@@ -1781,7 +1967,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -1804,7 +1990,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         },
@@ -1910,7 +2096,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时14分"
         }
