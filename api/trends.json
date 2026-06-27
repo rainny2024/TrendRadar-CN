@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T04:49:47.574774+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-06-28T05:53:56.321387+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "伊朗战事将如何影响美军中东布局？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "伊朗补刀,韩国队命悬一线",
@@ -38,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "是灾难还是运气差？伊朗的世界杯之旅与VAR争议仍在继续",
@@ -49,8 +49,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "谅解备忘录签署后美伊再起冲突，美军以新加坡籍货船遇袭为由打击伊朗，伊朗打击美军驻点，如何看待当前局势？",
@@ -60,8 +60,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "埃及1-1伊朗",
@@ -74,8 +74,30 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
+        },
+        {
+          "title": "伊朗媒体称有更多船只申请通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3125594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "time_info": "[00时55分 ~ 05时53分]"
+        },
+        {
+          "title": "伊朗指责美方在霍尔木兹海峡制造紧张局势",
+          "url": "https://wallstreetcn.com/livenews/3125590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "市场消息：伊朗在霍尔木兹海峡袭击了一艘油轮。造成损坏，但没有人员伤亡。",
@@ -91,6 +113,19 @@
           "time_info": "[00时55分 ~ 03时03分]"
         },
         {
+          "title": "以色列总理内塔尼亚胡：通过与美国签署协议，黎巴嫩政府实际上是在告诉伊朗和黎巴嫩真主党离开黎巴嫩，把事务交给黎巴嫩自己处理。",
+          "url": "https://flash.jin10.com/detail/20260628022511273800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 05时53分]"
+        },
+        {
           "title": "据CNN：美国官员称，当伊朗声称对中东的美军目标发动袭击时，美国“探测到几架无人机”，但这些无人机并未击中目标。",
           "url": "https://flash.jin10.com/detail/20260628012929211800",
           "source": "金十数据",
@@ -101,18 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时56分 ~ 03时03分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：通过与美国签署协议，黎巴嫩政府实际上是在告诉伊朗和黎巴嫩真主党离开黎巴嫩，把事务交给黎巴嫩自己处理。",
-          "url": "https://flash.jin10.com/detail/20260628022511273800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时49分]"
         },
         {
           "title": "以色列国防部长卡茨：若伊朗阻挠协议落实，以色列将予以反击。以色列国防军将做好长期驻守黎巴嫩安全区的准备。",
@@ -133,33 +156,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时49分]"
-        },
-        {
-          "title": "伊朗媒体称有更多船只申请通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3125594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时49分]"
-        },
-        {
-          "title": "伊朗指责美方在霍尔木兹海峡制造紧张局势",
-          "url": "https://wallstreetcn.com/livenews/3125590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 05时53分]"
         },
         {
           "title": "美军深夜空袭伊朗",
@@ -170,8 +172,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时49分]"
+          "appearance_count": 3,
+          "time_info": "[03时03分 ~ 05时53分]"
         },
         {
           "title": "伊朗6月通胀率同比升至88.6%",
@@ -214,11 +216,12 @@
           "url": "https://flash.jin10.com/detail/20260628030933700800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时53分]"
         },
         {
           "title": "伊朗绝杀越位：超了半只球鞋",
@@ -257,7 +260,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "欧盟回应特朗普关税威胁：坚决捍卫自身权利",
@@ -267,8 +270,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "“特朗普在伊朗碰了钉子，所以默许乌克兰袭击莫斯科”",
@@ -278,41 +281,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
-          "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
-          "url": "https://flash.jin10.com/detail/20260628041744920800",
+          "title": "黎巴嫩总统府表示，特朗普向黎巴嫩总统奥恩确认，美国将支持黎巴嫩经济和合法安全力量。",
+          "url": "https://flash.jin10.com/detail/20260628050053611800",
           "source": "金十数据",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
-          "url": "https://flash.jin10.com/detail/20260628035930738800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
-          "url": "https://flash.jin10.com/detail/20260628035130525800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "05时53分"
         },
         {
           "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
@@ -322,8 +303,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
+        },
+        {
+          "title": "黎巴嫩总统府表示，黎巴嫩总统奥恩在与美国总统特朗普的电话中表示，黎巴嫩将承担与以色列实施框架协议的责任。黎巴嫩总统奥恩已请求美国协助防止协议被违反，并施压以色列撤出南部地区。",
+          "url": "https://flash.jin10.com/detail/20260628045321794800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "特朗普孙女发逛白宫vlog美国网友破防",
@@ -332,11 +324,60 @@
           "ranks": [
             23,
             13,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 05时53分]"
+        },
+        {
+          "title": "机构：特朗普施压美联储降息导致通胀高于2%的情景不太可能发生",
+          "url": "https://flash.jin10.com/detail/20260628041744920800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时53分]"
+        },
+        {
+          "title": "特朗普提名兰斯·施罗耶出任美移民与海关执法局局长",
+          "url": "https://flash.jin10.com/detail/20260628035930738800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时53分]"
+        },
+        {
+          "title": "据MSNow白宫记者：美国总统特朗普已经从弗吉尼亚高尔夫俱乐部返回白宫。",
+          "url": "https://flash.jin10.com/detail/20260628035130525800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时53分]"
+        },
+        {
+          "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
+          "url": "https://flash.jin10.com/detail/20260628033654937800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时53分]"
         },
         {
           "title": "特朗普公布“爱国者护照”新版效果图",
@@ -351,26 +392,16 @@
           "time_info": "[00时55分 ~ 01时56分]"
         },
         {
-          "title": "特朗普提名兰斯·施罗耶担任美国移民与海关执法局（ICE）的下一任局长职务。",
-          "url": "https://flash.jin10.com/detail/20260628033654937800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
           "title": "美媒：特朗普和内塔尼亚胡的交流比以前少了很多",
           "url": "https://flash.jin10.com/detail/20260628025551765800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 05时53分]"
         }
       ]
     },
@@ -386,8 +417,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -397,8 +428,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "半导体龙头集体加注 先进封装何以成为最具壁垒环节？",
@@ -409,8 +440,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "日本半导体王牌为何开始担心中国",
@@ -438,8 +469,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "国家统计局：1—5月份电子行业利润增长103.9% 对全部规模以上工业企业利润增长的贡献率达43.1%",
@@ -450,8 +481,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "2025年人口增长10强城市出炉",
@@ -460,7 +491,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -471,6 +502,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "报道称苹果游说美国政府希望获批采购长鑫存储内存芯片，成功概率有多大？国产芯片打入苹果高端机型难点在哪？",
+          "url": "https://www.zhihu.com/question/2054233145457874875",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
+        },
+        {
           "title": "外媒：苹果寻求获准从长鑫存储购买内存芯片",
           "url": "https://wallstreetcn.com/articles/3775675",
           "source": "华尔街见闻",
@@ -479,21 +524,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
-        },
-        {
-          "title": "报道称苹果游说美国政府希望获批采购长鑫存储内存芯片，成功概率有多大？国产芯片打入苹果高端机型难点在哪？",
-          "url": "https://www.zhihu.com/question/2054233145457874875",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "存储芯片大涨 苹果美光打口水战",
@@ -503,8 +535,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         }
       ]
     },
@@ -520,8 +552,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -532,8 +564,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         }
       ]
     },
@@ -549,8 +581,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时53分]"
         },
         {
           "title": "招商证券：铜价短期关注流动性收紧与地缘风险变化，中长期仍看供需格局演变",
@@ -560,8 +592,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[00时55分 ~ 05时53分]"
         }
       ]
     },
@@ -577,8 +609,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         }
       ]
     },
@@ -594,8 +626,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         }
       ]
     },
@@ -612,8 +644,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时55分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时55分 ~ 05时53分]"
         }
       ]
     }
