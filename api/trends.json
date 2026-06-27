@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-27T07:54:40.141503+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-06-27T10:05:17.696472+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
-        {
-          "title": "消息人士称伊朗南部港口城市码头传出爆炸声",
-          "url": "https://flash.jin10.com/detail/20260627045710710800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时54分]"
-        },
         {
           "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
           "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
@@ -26,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时05分]"
         },
         {
           "title": "关关难过关关过，伊朗终于迎来世界杯命运一战",
@@ -39,19 +28,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 07时54分]"
-        },
-        {
-          "title": "据福克斯新闻：美国针对伊朗目标的打击行动目前“正在进行中”。",
-          "url": "https://flash.jin10.com/detail/20260627045216065800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时05分]"
         },
         {
           "title": "美国中央司令部：美国对伊朗发动打击，以回应其袭击商船的行为",
@@ -74,6 +52,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时54分]"
+        },
+        {
+          "title": "消息人士称伊朗南部港口城市码头传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260627045710710800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 10时05分]"
+        },
+        {
+          "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
+          "url": "https://wallstreetcn.com/articles/3775654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时05分]"
+        },
+        {
+          "title": "据福克斯新闻：美国针对伊朗目标的打击行动目前“正在进行中”。",
+          "url": "https://flash.jin10.com/detail/20260627045216065800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 10时05分]"
         },
         {
           "title": "美国官员：美方现在完成对伊朗的袭击。（CNN）",
@@ -122,6 +136,17 @@
           "time_info": "[06时02分 ~ 07时54分]"
         },
         {
+          "title": "美军深夜空袭伊朗",
+          "url": "https://www.toutiao.com/trending/7655846117610884671/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
           "title": "美军称对伊朗发动打击以回应商船遭袭事件",
           "url": "https://wallstreetcn.com/livenews/3125461",
           "source": "华尔街见闻-快讯",
@@ -143,6 +168,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 07时54分]"
+        },
+        {
+          "title": "美军深夜空袭伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E6%B7%B1%E5%A4%9C%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "伊朗媒体称，一枚导弹击中了伊朗南部锡里克地区的码头区域。",
@@ -212,15 +248,26 @@
           "time_info": "00时07分"
         },
         {
-          "title": "美伊签协议后美军首次开火，称空袭伊朗回应商船在霍尔木兹遭袭，伊方称挫败美袭击、将严厉回应",
-          "url": "https://wallstreetcn.com/articles/3775654",
-          "source": "华尔街见闻",
+          "title": "美副总统威胁：若伊朗诉诸暴力，将遭武力回击",
+          "url": "https://flash.jin10.com/detail/20260627090443331800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "10时05分"
+        },
+        {
+          "title": "美副总统威胁：若伊朗诉诸暴力，将遭武力回击",
+          "url": "https://wallstreetcn.com/livenews/3125513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "布伦特原油日内跌幅达4.5%，报72.06美元/桶；WTI原油日内跌幅达4.5%，报68.64美元/桶。",
@@ -251,7 +298,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -273,7 +320,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -284,7 +331,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -317,7 +364,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -339,7 +386,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -350,7 +397,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -364,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "伊朗革命卫队称打击美军驻点以回应沿海地区遭袭",
+          "url": "https://flash.jin10.com/detail/20260627080705930800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "伊朗伊斯兰革命卫队发言人：驳斥有关“与美国建立霍尔木兹海峡‘热线’”的说法，海峡是伊朗的领海，与美国没有任何关系。（NourNews）",
@@ -383,9 +441,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "伊朗革命卫队：多份与美冲突相关声明为伪造内容",
+          "url": "https://flash.jin10.com/detail/20260627080638466800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "阿联酋与伊朗外长通话讨论地区局势",
@@ -427,7 +496,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -446,7 +515,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "委内瑞拉强震突发，特朗普火速援救背后全是霸权算计",
@@ -456,8 +525,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时05分]"
         },
         {
           "title": "美国总统特朗普：伊朗向穿越霍尔木兹海峡的船只发射了至少四架单向攻击无人机。这是对我们停火协议的愚蠢违反。",
@@ -504,6 +573,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
+          "url": "https://www.cls.cn/detail/2410771",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时05分]"
+        },
+        {
           "title": "据一位美国官员透露：尽管特朗普总统表示伊朗违反了停火协议，美国与伊朗的谈判预计仍将进行。（NewsNation）",
           "url": "https://wallstreetcn.com/livenews/3125418",
           "source": "华尔街见闻-快讯",
@@ -527,6 +607,28 @@
           "time_info": "[00时06分 ~ 00时07分]"
         },
         {
+          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
+          "url": "https://wallstreetcn.com/livenews/3125517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "伊朗高级官员：特朗普不遵守谈判和停火原则",
+          "url": "https://flash.jin10.com/detail/20260627092527227800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
           "title": "市场消息：美国总统特朗普施压参议员丽莎·默科斯基投票支持《拯救美国法案》。",
           "url": "https://flash.jin10.com/detail/20260627021241822800",
           "source": "金十数据",
@@ -536,17 +638,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
-        },
-        {
-          "title": "美军再次对伊朗实施打击 特朗普指责伊朗违反停火协议",
-          "url": "https://www.cls.cn/detail/2410771",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
@@ -599,7 +690,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -610,7 +701,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -651,7 +742,7 @@
     },
     {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "苹果微软拖累标普收平，美光飙升15%领涨芯片股，油价涨，黄金重回4000",
@@ -663,6 +754,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时06分 ~ 06时02分]"
+        },
+        {
+          "title": "半导体拖累美股，标普、纳指五连跌，美光跌6%，金银走高，原油一度跌4%",
+          "url": "https://wallstreetcn.com/articles/3775571",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "标普：广泛的收入韧性（包括稳健的关税收入）应有助于缓解美国财政状况恶化的风险。",
@@ -840,6 +942,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "SpaceX将于7月7日起纳入纳斯达克100指数",
+          "url": "https://flash.jin10.com/detail/20260627082029311800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "纳斯达克交易所：SpaceX(SPCX.O)将于2026年7月7日加入纳斯达克100指数。",
+          "url": "https://flash.jin10.com/detail/20260627080907760800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "SpaceX成为纳斯达克100指数史上最快纳入成分股之一，预计权重将低于1%",
+          "url": "https://wallstreetcn.com/livenews/3125499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
@@ -971,9 +1106,128 @@
       ]
     },
     {
+      "keyword_group": "增长 亮眼",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "国家统计局：1—5月份规模以上原材料制造业利润同比增长83.1%",
+          "url": "https://flash.jin10.com/detail/20260627093657035800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "国家统计局：1—5月石油加工行业同比扭亏为盈，化工行业利润增长71.6%",
+          "url": "https://wallstreetcn.com/livenews/3125523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "国家统计局：1—5月份电子专用材料制造、电子电路制造行业利润分别增长665.4%、19.7%",
+          "url": "https://flash.jin10.com/detail/20260627093559928800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "国家统计局：1—5月份电子行业利润增长103.9% 对全部规模以上工业企业利润增长的贡献率达43.1%",
+          "url": "https://flash.jin10.com/detail/20260627093413545800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "国家统计局：1-5月电子行业利润增长103.9%，对全部规模以上工业企业利润增长的贡献率达43.1%",
+          "url": "https://wallstreetcn.com/livenews/3125520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "2026年1—5月份全国规模以上工业企业利润增长18.8%",
+          "url": "https://flash.jin10.com/detail/20260627093323734800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "SemiAnalysis：我们相信中国的刻蚀本地化进程比沉积更快。前端进口数据显示，刻蚀同比下降18%，而沉积同比增长3%。 全球蚀刻行业现任企业的财务数据传达了同样的信息，AMAT（应用材料） 在FY25财年的中国收入同比下降16%，TEL（泰科电子）在FY26财年的中国收入同比下降18%。 我们将Naura视为关键驱动力。",
+          "url": "https://wallstreetcn.com/livenews/3125389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "全球最大锂生产商美国雅宝（Albemarle）认为，其电池储能业务需求正稳步增长，与电动汽车需求的不规律形成反差。 该公司首席商务官Eric Norris）表示：“电网储能在全球的分布更加均匀，这是一个很有意思的需求驱动因素。”（路透）",
+          "url": "https://wallstreetcn.com/livenews/3125490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时05分]"
+        },
+        {
+          "title": "上下游扩产忙，半导体设备迎来增长大年",
+          "url": "https://wallstreetcn.com/livenews/3125506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 7,
       "titles": [
+        {
+          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
+          "url": "https://www.cls.cn/detail/2410765",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时02分 ~ 10时05分]"
+        },
         {
           "title": "SemiAnalysis：H100云端指数现货价格正在下跌，现在每小时2.42美元，比5月峰值低约40%。生态系统担心这表明计算需求以及由此延伸的人工智能AI需求正在减弱。 重要的信号是，这很可能是一个现货价格指数，而不是期限定价。我们针对1年期H100合同价格的新云调查显示，该价格反而从去年末的大约每小时1.70美元的低谷攀升至如今的每小时约2.65美元。",
           "url": "https://wallstreetcn.com/livenews/3125392",
@@ -986,27 +1240,28 @@
           "time_info": "00时07分"
         },
         {
+          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
+          "url": "https://www.cls.cn/detail/2410784",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时05分]"
+        },
+        {
           "title": "周五（6月26日），美股纳斯达克生物科技指数收涨超2.2%，连续五天创收盘历史新高。 成分股Pyxis Oncology收涨24.22%，Humacyte、ATAI Beckley、Moderna（莫德纳）、Immunitybio Inc.、GH Research、Abcellera Biologics涨18.05%-10.81%，Compass Pathways涨9.20%紧随其后。 Kymera则收跌7.26%、表现倒数第四，Ardelyx跌8.50%，Mesoblast跌9.03%，奥麦罗制药（OMER）跌19.17%。",
           "url": "https://wallstreetcn.com/livenews/3125495",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
-          "url": "https://www.cls.cn/detail/2410765",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5
+            2,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时54分]"
+          "time_info": "[07时54分 ~ 10时05分]"
         },
         {
           "title": "美元指数本周涨约0.6%",
@@ -1019,17 +1274,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 06时02分]"
-        },
-        {
-          "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
-          "url": "https://www.cls.cn/detail/2410784",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近3%，生物科技指数ETF涨超2%，半导体ETF跌超3%，科技行业ETF跌1.5%。",
@@ -1057,7 +1301,7 @@
     },
     {
       "keyword_group": "涨价 核心材料",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -1065,11 +1309,25 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时05分]"
+        },
+        {
+          "title": "亚股遭遇“黑色星期五”！华尔街热议背后推手 苹果涨价是多重利空之一",
+          "url": "https://www.cls.cn/detail/2410279",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时05分]"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -1084,27 +1342,27 @@
           "time_info": "[00时06分 ~ 07时54分]"
         },
         {
-          "title": "亚股遭遇“黑色星期五”！华尔街热议背后推手 苹果涨价是多重利空之一",
-          "url": "https://www.cls.cn/detail/2410279",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 07时54分]"
-        },
-        {
           "title": "苹果与美光就涨价问题互相指责",
           "url": "https://www.douyin.com/hot/2548359",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时05分]"
+        },
+        {
+          "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
+          "url": "https://wallstreetcn.com/articles/3775589",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
           "title": "iPhone未涨价原因",
@@ -1140,22 +1398,24 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时05分]"
         },
         {
           "title": "韩国排名滑至第7 出线概率跌破5成",
           "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%9B%BD%E6%8E%92%E5%90%8D%E6%BB%91%E8%87%B3%E7%AC%AC7+%E5%87%BA%E7%BA%BF%E6%A6%82%E7%8E%87%E8%B7%8C%E7%A0%B45%E6%88%90",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时05分]"
         },
         {
           "title": "跌破4000，黄金正在经历一场\"信仰瓦解\"",
@@ -1163,11 +1423,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[06时02分 ~ 10时05分]"
         },
         {
           "title": "纽约油价自美伊战事以来首次跌破每桶70美元",
@@ -1192,11 +1453,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时05分]"
         },
         {
           "title": "韩国 5200 万人竟开了 1.08 亿股票账户，如何看待韩国股市当前的氛围？",
@@ -1214,11 +1476,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33454989",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 10时05分]"
         }
       ]
     },
@@ -1264,6 +1527,47 @@
       ]
     },
     {
+      "keyword_group": "存储 半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
+          "url": "https://www.cls.cn/detail/2410338",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时05分]"
+        },
+        {
+          "title": "网传 WPS 存储占用 C 盘、基础功能收费，官方回应已反馈产品部门调整，商家这类小动作暴露哪些问题？",
+          "url": "https://www.zhihu.com/question/2052171917809938898",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
+        },
+        {
+          "title": "费城半导体指数本周下跌7.9%，创下4月初以来的最大单周跌幅。",
+          "url": "https://flash.jin10.com/detail/20260627041033190800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "风险",
       "match_count": 2,
       "titles": [
@@ -1292,59 +1596,30 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
+      "keyword_group": "商业航天 机器人",
       "match_count": 2,
       "titles": [
         {
-          "title": "SemiAnalysis：我们相信中国的刻蚀本地化进程比沉积更快。前端进口数据显示，刻蚀同比下降18%，而沉积同比增长3%。 全球蚀刻行业现任企业的财务数据传达了同样的信息，AMAT（应用材料） 在FY25财年的中国收入同比下降16%，TEL（泰科电子）在FY26财年的中国收入同比下降18%。 我们将Naura视为关键驱动力。",
-          "url": "https://wallstreetcn.com/livenews/3125389",
-          "source": "华尔街见闻-快讯",
+          "title": "机器人“真干活”时代来了",
+          "url": "https://www.toutiao.com/trending/7655112029447323654/",
+          "source": "今日头条",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
+          "appearance_count": 2,
+          "time_info": "[10时04分 ~ 10时05分]"
         },
         {
-          "title": "全球最大锂生产商美国雅宝（Albemarle）认为，其电池储能业务需求正稳步增长，与电动汽车需求的不规律形成反差。 该公司首席商务官Eric Norris）表示：“电网储能在全球的分布更加均匀，这是一个很有意思的需求驱动因素。”（路透）",
-          "url": "https://wallstreetcn.com/livenews/3125490",
+          "title": "京东：在欧洲推出机器人维修服务，已在英德等国建立JoyRobocare维修中心",
+          "url": "https://wallstreetcn.com/livenews/3125522",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指缩量跌超2%失守半年线，光通信概念遭重挫，半导体设备股强势依旧",
-          "url": "https://www.cls.cn/detail/2410338",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 07时54分]"
-        },
-        {
-          "title": "费城半导体指数本周下跌7.9%，创下4月初以来的最大单周跌幅。",
-          "url": "https://flash.jin10.com/detail/20260627041033190800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
+          "time_info": "10时05分"
         }
       ]
     },
@@ -1358,11 +1633,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时06分 ~ 07时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 10时05分]"
         }
       ]
     },
