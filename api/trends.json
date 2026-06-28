@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T05:54:25.136688+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-06-29T06:54:27.808905+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击",
@@ -13,35 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
-        },
-        {
-          "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470204",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
-        },
-        {
-          "title": "伊拉克在反腐行动中拘留的官员包括负责分销事务的副石油部长，美以发动伊朗战争后曾制裁该官员",
-          "url": "https://wallstreetcn.com/livenews/3125697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "伊朗队队长怒斥：这届世界杯是场灾难",
@@ -51,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
@@ -64,19 +41,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "阿根廷奥地利阿尔及利亚三队出线，伊朗被淘汰了",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470581",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "伊朗补刀,韩国队命悬一线",
@@ -84,7 +62,45 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
+        },
+        {
+          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
+        },
+        {
+          "title": "伊拉克在反腐行动中拘留的官员包括负责分销事务的副石油部长，美以发动伊朗战争后曾制裁该官员",
+          "url": "https://wallstreetcn.com/livenews/3125697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时54分]"
+        },
+        {
+          "title": "伊朗锡里克地区传出爆炸声，美军称再对伊实施打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470204",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -105,38 +121,17 @@
           "time_info": "[00时57分 ~ 05时54分]"
         },
         {
-          "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
-        },
-        {
-          "title": "德国外长：我与阿联酋副总理就海湾地区的未来安全安排以及邻国伊朗带来的风险进行了富有成效的交流。我们一致认为，霍尔木兹海峡的航行自由绝不能受到损害，近期针对巴林和科威特的袭击行为是不可接受的。",
-          "url": "https://flash.jin10.com/detail/20260629053242125800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
           "title": "伊朗将从下周一恢复迪拜航班。（伊朗媒体IRNA）",
           "url": "https://wallstreetcn.com/livenews/3125691",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时54分]"
         },
         {
           "title": "报道：美国和伊朗即将举行的谈判已被取消。",
@@ -163,6 +158,30 @@
           "time_info": "[02时02分 ~ 03时25分]"
         },
         {
+          "title": "德国外长：我与阿联酋副总理就海湾地区的未来安全安排以及邻国伊朗带来的风险进行了富有成效的交流。我们一致认为，霍尔木兹海峡的航行自由绝不能受到损害，近期针对巴林和科威特的袭击行为是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260629053242125800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时54分]"
+        },
+        {
+          "title": "美国和伊朗即将举行的谈判已被取消。（以色列i24NEWS）",
+          "url": "https://wallstreetcn.com/livenews/3125699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 06时54分]"
+        },
+        {
           "title": "伊朗队队长怒斥国际足联",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E9%98%9F%E9%95%BF%E6%80%92%E6%96%A5%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -186,17 +205,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时57分 ~ 03时25分]"
-        },
-        {
-          "title": "美国和伊朗即将举行的谈判已被取消。（以色列i24NEWS）",
-          "url": "https://wallstreetcn.com/livenews/3125699",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 05时54分]"
         },
         {
           "title": "伊朗球员道歉 说着说着哭了",
@@ -233,6 +241,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时52分 ~ 05时54分]"
+        },
+        {
+          "title": "据AXIOS：美国官员透露，美国和伊朗同意停止袭击，并将在本周会晤。",
+          "url": "https://flash.jin10.com/detail/20260629042328972800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 06时54分]"
         },
         {
           "title": "伊朗官员称伊朗未参加周日的谈判",
@@ -293,15 +313,37 @@
           "time_info": "[00时57分 ~ 00时58分]"
         },
         {
-          "title": "据AXIOS：美国官员透露，美国和伊朗同意停止袭击，并将在本周会晤。",
-          "url": "https://flash.jin10.com/detail/20260629042328972800",
-          "source": "金十数据",
+          "title": "布伦特原油期货周一亚市盘初涨1.9%，至每桶73.39美元；WTI原油期货接近每桶70美元。此前美伊停火协议陷入紧张状态。",
+          "url": "https://wallstreetcn.com/livenews/3125712",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时54分"
+          "time_info": "06时54分"
+        },
+        {
+          "title": "伊朗官员：受遭袭事件影响，伊方缺席28日的美伊技术性谈判",
+          "url": "https://wallstreetcn.com/livenews/3125716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
+          "title": "伊朗队队长：这届世界杯是场灾难",
+          "url": "https://www.toutiao.com/trending/7655334803939885099/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "伊朗球员道歉 说着说着哭了",
@@ -310,7 +352,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -350,8 +392,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -361,8 +403,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -372,8 +414,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -384,8 +426,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
@@ -397,19 +439,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
@@ -417,11 +460,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时54分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时54分]"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
@@ -484,8 +528,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "苹果和美光关于存储涨价的口水战，你认为谁说的更有道理？",
@@ -525,8 +569,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -536,8 +580,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         },
         {
           "title": "半导体龙头集体加注 先进封装何以成为最具壁垒环节？",
@@ -545,11 +589,58 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "7月美联储决议前，沃什有两次\"重要亮相\"，下周是第一次！",
+          "url": "https://wallstreetcn.com/articles/3775687",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
+        },
+        {
+          "title": "美联储7月维持利率不变的概率为69.5%",
+          "url": "https://flash.jin10.com/detail/20260629055348536800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据韩国《每日经济》报道，三星与SK集团未来10年的投资计划总额或将达到2000万亿韩元（约合1.3万亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260629063120992800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         }
       ]
     },
@@ -585,8 +676,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         }
       ]
     },
@@ -620,11 +711,12 @@
             4,
             7,
             9,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         }
       ]
     },
@@ -640,25 +732,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 06时54分]"
         }
       ]
     },
     {
-      "keyword_group": "美联储 非农",
+      "keyword_group": "跌破 拉升",
       "match_count": 1,
       "titles": [
         {
-          "title": "7月美联储决议前，沃什有两次\"重要亮相\"，下周是第一次！",
-          "url": "https://wallstreetcn.com/articles/3775687",
-          "source": "华尔街见闻",
+          "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
+          "url": "https://flash.jin10.com/detail/20260629060352549800",
+          "source": "金十数据",
           "ranks": [
-            8
+            13
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 05时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         }
       ]
     }
