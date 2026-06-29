@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T04:49:06.006231+08:00",
-  "total_titles_processed": 486,
+  "generated_at": "2026-06-30T06:04:22.683680+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普新关税阴霾笼罩！全球零售商抢先囤货 中美航线运费飙涨六成",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         },
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -26,8 +26,44 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
+        },
+        {
+          "title": "美国总统特朗普：（最高法院）裁决后预计不会有更多解职。",
+          "url": "https://wallstreetcn.com/livenews/3126299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
+        },
+        {
+          "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
+          "url": "https://flash.jin10.com/detail/20260630040343836800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为他们（伊朗方面）已经动身去参加多哈会议。 多哈会议或许重要，或许不重要。",
+          "url": "https://wallstreetcn.com/livenews/3126296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
         },
         {
           "title": "特朗普政府取消能源公司Duke Energy在美国北卡莱罗纳州近海的风电租赁合同。",
@@ -41,37 +77,26 @@
           "time_info": "00时35分"
         },
         {
-          "title": "美国总统特朗普：（最高法院）裁决后预计不会有更多解职。",
-          "url": "https://wallstreetcn.com/livenews/3126299",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：白宫正临时启用多名特朗普长期顾问，以加强沟通与选举筹备，应对共和党在2026年中期选举中可能失去国会控制权的风险。",
+          "url": "https://flash.jin10.com/detail/20260630050643766800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "06时04分"
         },
         {
-          "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
-          "url": "https://flash.jin10.com/detail/20260630040343836800",
+          "title": "美国总统特朗普：华盛顿倒影池已恢复运行并重现美观，将在7月4日后修复防水层等损坏并尽快恢复原状，同时加强对纪念碑等设施的安保，任何破坏行为将面临最高10年监禁。",
+          "url": "https://flash.jin10.com/detail/20260630045341435800",
           "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "美国总统特朗普：我认为他们（伊朗方面）已经动身去参加多哈会议。 多哈会议或许重要，或许不重要。",
-          "url": "https://wallstreetcn.com/livenews/3126296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "06时04分"
         },
         {
           "title": "特朗普：将确保美联储理事库克不会做出关键决定",
@@ -85,13 +110,24 @@
           "time_info": "00时35分"
         },
         {
+          "title": "Axon Enterprise Inc.（AXON）收涨9.85%，报510.60美元，跳空高开后持续高位震荡，逼近6月4日收盘位513.20美元、3月11日收盘位517.57美元。 据媒体报道，在移民执法局（ICE）向该公司采购一批武器之前，美国总统特朗普买入该公司股票。",
+          "url": "https://wallstreetcn.com/livenews/3126328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）我认为，我们在军事上正在获胜，甚至可以说，这场军事行动几乎已经取得胜利。",
           "url": "https://flash.jin10.com/detail/20260630034422150800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -102,7 +138,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -113,7 +149,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -124,7 +160,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -135,7 +171,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -146,7 +182,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -157,7 +193,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -168,7 +204,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -179,7 +215,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -190,7 +226,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -208,30 +244,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
-        },
-        {
-          "title": "伊朗总统：伊朗面对“无理夸口和毫无根据的威胁”，将在决策中坚持理性与人类尊严，但在行动时将采取“果断且无畏的防御”。",
-          "url": "https://flash.jin10.com/detail/20260630042626078800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
-          "title": "伊朗总统：相关“谅解备忘录”是双边事项，如果美方遵守协议条款，伊朗也将履行自身义务。",
-          "url": "https://flash.jin10.com/detail/20260630042550214800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         },
         {
           "title": "伊朗副外长：伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
@@ -245,28 +259,54 @@
           "time_info": "02时59分"
         },
         {
-          "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。 伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
-          "url": "https://wallstreetcn.com/livenews/3126290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 04时49分]"
-        },
-        {
           "title": "普京为何将俄乌谈判时间表与伊朗挂钩",
           "url": "https://www.toutiao.com/trending/7656625002212704275/",
           "source": "今日头条",
           "ranks": [
             30,
-            29
+            29,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 06时04分]"
+        },
+        {
+          "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。 伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
+          "url": "https://wallstreetcn.com/livenews/3126290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 06时04分]"
+        },
+        {
+          "title": "伊朗总统：伊朗面对“无理夸口和毫无根据的威胁”，将在决策中坚持理性与人类尊严，但在行动时将采取“果断且无畏的防御”。",
+          "url": "https://flash.jin10.com/detail/20260630042626078800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
+        },
+        {
+          "title": "伊朗总统：相关“谅解备忘录”是双边事项，如果美方遵守协议条款，伊朗也将履行自身义务。",
+          "url": "https://flash.jin10.com/detail/20260630042550214800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
         },
         {
           "title": "伊朗称未来几天内没有与美方开展任何谈判的计划",
@@ -291,6 +331,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 04时49分]"
+        },
+        {
+          "title": "伊朗副外长：根据《伊斯兰堡备忘录》，霍尔木兹海峡的排雷工作“仅由伊朗执行”，不允许任何其他国家参与相关行动。",
+          "url": "https://flash.jin10.com/detail/20260630035948248800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
         },
         {
           "title": "伊朗副外长：我们已告知阿曼方面，需要重新划定霍尔木兹海峡的通航航线，双方将就此举行技术性会谈。",
@@ -326,24 +378,13 @@
           "time_info": "02时59分"
         },
         {
-          "title": "伊朗副外长：根据《伊斯兰堡备忘录》，霍尔木兹海峡的排雷工作“仅由伊朗执行”，不允许任何其他国家参与相关行动。",
-          "url": "https://flash.jin10.com/detail/20260630035948248800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
-        },
-        {
           "title": "伊副外长强调船只须按“伊朗线路”通过霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260630034123522800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -376,7 +417,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -384,7 +425,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股三大指数高开低走，纳指转跌，美光跌3.5%，油价回到70上方",
@@ -394,41 +435,66 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
+        },
+        {
+          "title": "美股大类资产类ETF周一多数收涨，纳指100 ETF涨2.49%，标普500 ETF、巴克莱美国可转债ETF、美国布伦特油价基金至多涨1.65%，道指ETF涨0.76%，新兴市场ETF、欧元做多、美国国债20+年ETF至多涨0.36%。 日元做多、罗素2000指数ETF、做多美元指数则至多收跌0.53%，农产品基金跌1.08%，大豆基金跌1.14%，黄金ETF跌1.35%。",
+          "url": "https://wallstreetcn.com/livenews/3126325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "美元指数29日下跌",
+          "url": "https://flash.jin10.com/detail/20260630053044155800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         },
         {
           "title": "周一（6月29日），美股行业ETF多数收涨，半导体ETF涨3.33%，可选消费ETF、科技行业ETF、网络股指数ETF至少涨2.22%，能源业ETF则收跌0.48%，区域银行ETF跌0.56%，全球航空业ETF跌0.60%。 标普500指数的11个板块中，电信板块收涨3.11%，可选消费板块涨2.68%，信息技术/科技板块涨1.69%表现第三，能源板块收跌0.62%，房地产板块跌0.73%，原材料板块跌1.86%。",
           "url": "https://wallstreetcn.com/livenews/3126312",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
         },
         {
           "title": "周一（6月29日），彭博电动汽车价格回报指数涨2.73%，报3522.70点，亚太时段显著走高，北京时间14:00以来持稳于3500点附近，美股开盘后涨幅略微有所扩大。",
           "url": "https://wallstreetcn.com/livenews/3126310",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
         },
         {
           "title": "周一（6月29日）纽约尾盘，ICE美元指数跌0.24%，报101.112点，日内交投区间为101.394-101.071点，正轨持续走低。 彭博美元指数跌0.13%，报1221.43点，日内交投区间为1223.93-1221.36点。",
           "url": "https://wallstreetcn.com/livenews/3126297",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1.05%，暂报2115.22点。 MarketVectorTM数字资产100中盘指数涨0.25%，报2459.50点。 MarketVector数字资产100指数涨0.58%，报11851.89点。 目前，Solana涨4.53%，狗狗币跌0.23%，XRP涨0.73%。 比特币涨0.71%，暂报59799.70美元；以太坊涨1.21%，暂报1582.95元。",
@@ -467,7 +533,7 @@
     },
     {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "标普500指数初步收涨1.1%，电信板块涨3.1%，可选消费板块涨2.7%，科技板块涨1.4%，能源板块跌0.7%，原材料板块跌2%。 纳斯达克100指数初步收涨2.2%，成分股中，Rocket Lab初步收涨15.9%，Astera Labs涨15.3%，Strategy涨12.2%，西部数据涨10.9%，Axon涨9.76%，特斯拉涨8.6%，闪迪则跌3.7%，和霍尼韦尔跌6.1%，Copart跌7.77%。",
@@ -476,9 +542,44 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "周一（6月29日）纽约尾盘，标普500股指期货最终涨1.09%，道指期货涨0.54%，纳斯达克100股指期货涨2.05%。 罗素2000股指期货跌0.01%。",
+          "url": "https://wallstreetcn.com/livenews/3126318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        },
+        {
+          "title": "道琼斯指数6月29日（周一）收盘上涨305.97点，涨幅0.59%，报52182.08点；<br/>标普500指数6月29日（周一）收盘上涨86.34点，涨幅1.17%，报7440.36点；<br/>纳斯达克综合指数6月29日（周一）收盘上涨522.53点，涨幅2.07%，报25820.14点。",
+          "url": "https://flash.jin10.com/detail/20260630040558594800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
+        },
+        {
+          "title": "美银：预计标普500指数将出现“三浪回调”",
+          "url": "https://flash.jin10.com/detail/20260630040420225800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
         },
         {
           "title": "标普500指数涨超1%，纳指涨超1.7%，纳斯达克100指数涨幅扩大至2%，半导体指数涨3.5%。",
@@ -499,31 +600,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
         {
-          "title": "道琼斯指数6月29日（周一）收盘上涨305.97点，涨幅0.59%，报52182.08点；<br/>标普500指数6月29日（周一）收盘上涨86.34点，涨幅1.17%，报7440.36点；<br/>纳斯达克综合指数6月29日（周一）收盘上涨522.53点，涨幅2.07%，报25820.14点。",
-          "url": "https://flash.jin10.com/detail/20260630040558594800",
-          "source": "金十数据",
+          "title": "纳斯达克100指数收涨超2.2%，半导体指数涨超3.8%，小盘股指、生物科技指数创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3126308",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "06时04分"
         },
         {
-          "title": "美银：预计标普500指数将出现“三浪回调”",
-          "url": "https://flash.jin10.com/detail/20260630040420225800",
-          "source": "金十数据",
+          "title": "纳斯达克金龙中国指数收涨1.41%，报5810.93点。 热门中概股里，百度初步收涨7.5%，小鹏涨5.8%，日月光半导体、网易涨4.3%，金山云涨3.4%，阿里巴巴涨0.6%，理想跌0.9%。 ETF中，中国科技指数ETF（CQQQ）收涨2.25%，中概互联网指数ETF（KWEB）收涨1.50%。 XtrackersHarvest中证50（ASHS）收涨1.22%，德银嘉实沪深300指数ETF（ASHR）收涨1.06%，MSCI新兴市场ex中国ETF（EMXC）收涨0.41%。",
+          "url": "https://wallstreetcn.com/livenews/3126306",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时49分"
+          "time_info": "06时04分"
         }
       ]
     },
@@ -539,8 +640,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         },
         {
           "title": "单日成交432亿！存储龙头股价首破800元，高价股阵营持续扩大，这些方向高占比",
@@ -550,8 +651,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         },
         {
           "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
@@ -562,8 +663,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         },
         {
           "title": "韩国全力打造新的半导体集群！三星和SK海力士将斥重金布局存储产业",
@@ -575,8 +676,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         },
         {
           "title": "腾讯与长鑫存储签200亿供应协议",
@@ -586,8 +687,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时58分 ~ 04时49分]"
+          "appearance_count": 5,
+          "time_info": "[02时58分 ~ 06时04分]"
         }
       ]
     },
@@ -604,8 +705,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         },
         {
           "title": "美国要改“统计方法”了！华尔街：旨在“降低”核心通胀，存在操纵风险",
@@ -615,8 +716,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         },
         {
           "title": "城堡证券警示市场格局生变，沃什抗通胀立场或拖累风险资产",
@@ -654,8 +755,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         },
         {
           "title": "【每日收评】科创50放量涨超4.5%，芯片产业链持续爆发，创新药概念股异军突起",
@@ -666,8 +767,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         },
         {
           "title": "创业板第四套上市标准企业再添一例，上海企业西井科技IPO申请获受理",
@@ -783,11 +884,12 @@
           "url": "https://flash.jin10.com/detail/20260630042523528800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
         }
       ]
     },
@@ -803,8 +905,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         }
       ]
     },
@@ -822,8 +924,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         }
       ]
     },
@@ -839,8 +941,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         }
       ]
     },
@@ -856,8 +958,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
         }
       ]
     },
@@ -875,6 +977,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美财政部推出制裁申诉在线门户",
+          "url": "https://flash.jin10.com/detail/20260630044112799800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时04分"
         }
       ]
     },
