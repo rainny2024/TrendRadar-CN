@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-30T10:10:39.742287+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-06-30T14:46:20.283086+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普坚称美伊周二会谈 科技板块起势反弹 | 今夜看点",
@@ -65,6 +65,17 @@
           "time_info": "[04时49分 ~ 06时04分]"
         },
         {
+          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
+          "url": "https://wallstreetcn.com/articles/3775773",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 14时46分]"
+        },
+        {
           "title": "据华尔街日报：美国国税局调整规则，免除多数“特朗普账户”持有人因小额投入而产生的赠与税申报义务。",
           "url": "https://flash.jin10.com/detail/20260630040343836800",
           "source": "金十数据",
@@ -75,6 +86,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 06时04分]"
+        },
+        {
+          "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
+          "url": "https://www.cls.cn/detail/2412193",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 14时46分]"
         },
         {
           "title": "美国总统特朗普：我认为他们（伊朗方面）已经动身去参加多哈会议。 多哈会议或许重要，或许不重要。",
@@ -111,6 +134,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "美伊和谈前景不明！特朗普坚称今日举行会谈 伊方连连否认",
+          "url": "https://www.cls.cn/detail/2412327",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
           "title": "特朗普政府取消能源公司Duke Energy在美国北卡莱罗纳州近海的风电租赁合同。",
           "url": "https://wallstreetcn.com/livenews/3126259",
           "source": "华尔街见闻-快讯",
@@ -139,9 +173,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        },
+        {
+          "title": "特朗普性侵案上诉失败，被裁决赔偿女作家500万美元",
+          "url": "https://news.ifeng.com/c/8uN6TfbvLaw",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "市场消息：白宫正临时启用多名特朗普长期顾问，以加强沟通与选举筹备，应对共和党在2026年中期选举中可能失去国会控制权的风险。",
@@ -155,24 +200,13 @@
           "time_info": "06时04分"
         },
         {
-          "title": "美最高法院裁定库克暂时留任，特朗普称将确保其不影响重大货币政策决定",
-          "url": "https://wallstreetcn.com/articles/3775773",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
           "title": "解雇美联储理事？特朗普在最高法院“碰钉子”",
           "url": "https://news.ifeng.com/c/8uN5SKblxo3",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -186,17 +220,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        },
-        {
-          "title": "美最高法院裁定：特朗普暂不能罢免美联储理事库克",
-          "url": "https://www.cls.cn/detail/2412193",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
         },
         {
           "title": "美媒：SpaceX与美国政府讨论向“特朗普账户”捐赠股票事宜",
@@ -367,7 +390,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗副外长：本周在多哈进行伊美技术性谈判不属实",
@@ -379,6 +402,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 07时53分]"
+        },
+        {
+          "title": "以色列防长：准备好独立打击伊朗",
+          "url": "https://news.ifeng.com/c/8uN7QjuqM13",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴，被以军列入“死亡名单”",
+          "url": "https://news.ifeng.com/c/8uNTWr0VDLQ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         },
         {
           "title": "伊朗副外长：伊朗反对任何船只通过德黑兰未指定的霍尔木兹海峡航线，并将设法阻止此类通行。",
@@ -466,6 +511,18 @@
           "time_info": "[02时59分 ~ 04时49分]"
         },
         {
+          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2412298",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 14时46分]"
+        },
+        {
           "title": "伊朗副外长：根据《伊斯兰堡备忘录》，霍尔木兹海峡的排雷工作“仅由伊朗执行”，不允许任何其他国家参与相关行动。",
           "url": "https://flash.jin10.com/detail/20260630035948248800",
           "source": "金十数据",
@@ -487,17 +544,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
-        },
-        {
-          "title": "伊朗称排雷将由伊方单独执行 美高院扩大总统解职高级官员的权力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2412298",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
         },
         {
           "title": "伊朗副外长：未来几天，伊朗和阿曼两国专家将就此启动会谈。",
@@ -579,8 +625,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时10分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 14时46分]"
         },
         {
           "title": "标普500指数初步收涨1.1%，电信板块涨3.1%，可选消费板块涨2.7%，科技板块涨1.4%，能源板块跌0.7%，原材料板块跌2%。 纳斯达克100指数初步收涨2.2%，成分股中，Rocket Lab初步收涨15.9%，Astera Labs涨15.3%，Strategy涨12.2%，西部数据涨10.9%，Axon涨9.76%，特斯拉涨8.6%，闪迪则跌3.7%，和霍尼韦尔跌6.1%，Copart跌7.77%。",
@@ -702,8 +748,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 10时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 14时46分]"
         },
         {
           "title": "美国要改“统计方法”了！华尔街：旨在“降低”核心通胀，存在操纵风险",
@@ -721,11 +767,12 @@
           "url": "https://www.cls.cn/detail/2412326",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 14时46分]"
         },
         {
           "title": "澳洲联储会议纪要：委员们注意到房地产市场可能出现实质性疲软的风险。 房地产市场走软、预计住房信贷放缓是金融状况趋紧的迹象。 委员会注意到，受加息和税收政策变化影响，房地产市场比预期更为疲软。 生产率持续疲软可能会阻碍通胀回归目标的进程。 近期数据错综复杂，但表明经济正大致如预期般放缓。 讨论了数据中心活动的强劲增长是否会加剧经济中的产能压力。 居民家庭支出增长并未出现实质性走软。",
@@ -734,7 +781,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -745,7 +792,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -778,7 +825,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -800,9 +847,131 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "存储巨头开启大规模扩产 半导体设备将进入卖方市场？",
+          "url": "https://www.cls.cn/detail/2411668",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 06时04分]"
+        },
+        {
+          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
+          "url": "https://wallstreetcn.com/articles/3775711",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 07时53分]"
+        },
+        {
+          "title": "单日成交432亿！存储龙头股价首破800元，高价股阵营持续扩大，这些方向高占比",
+          "url": "https://www.cls.cn/detail/2411859",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 07时53分]"
+        },
+        {
+          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
+          "url": "https://www.cls.cn/detail/2412290",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 14时46分]"
+        },
+        {
+          "title": "韩国全力打造新的半导体集群！三星和SK海力士将斥重金布局存储产业",
+          "url": "https://www.cls.cn/detail/2411622",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 07时53分]"
+        },
+        {
+          "title": "腾讯与长鑫存储签200亿供应协议",
+          "url": "https://www.douyin.com/hot/2551998",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时58分 ~ 07时53分]"
+        },
+        {
+          "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
+          "url": "https://wallstreetcn.com/articles/3775788",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "江波龙：建设完成mSSD月产能百万交付能力 mSSD高速存储介质赋能端侧AI规模应用",
+          "url": "https://flash.jin10.com/detail/20260630143117873800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "A股半导体设备板块延续强势，正帆科技、联得装备涨超10%，华亚智能、屹唐股份、富乐德、中科飞测、北方华创跟涨。",
+          "url": "https://flash.jin10.com/detail/20260630093716326800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "相关主题ETF上周“吸金”超过250亿元，A股半导体板块高景气下波动加大",
+          "url": "https://wallstreetcn.com/livenews/3126330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
         }
       ]
     },
@@ -917,102 +1086,97 @@
       ]
     },
     {
-      "keyword_group": "存储 半导体",
+      "keyword_group": "增长 亮眼",
       "match_count": 8,
       "titles": [
         {
-          "title": "存储巨头开启大规模扩产 半导体设备将进入卖方市场？",
-          "url": "https://www.cls.cn/detail/2411668",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 06时04分]"
-        },
-        {
-          "title": "苹果想从长鑫买内存？郭明錤：真正原因是“明年存储缺口将持续扩大”",
-          "url": "https://wallstreetcn.com/articles/3775711",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 07时53分]"
-        },
-        {
-          "title": "单日成交432亿！存储龙头股价首破800元，高价股阵营持续扩大，这些方向高占比",
-          "url": "https://www.cls.cn/detail/2411859",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 07时53分]"
-        },
-        {
-          "title": "韩国全力打造新的半导体集群！三星和SK海力士将斥重金布局存储产业",
-          "url": "https://www.cls.cn/detail/2411622",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时35分 ~ 07时53分]"
-        },
-        {
-          "title": "【早报】美股大反弹；3大存储巨头，遭集体诉讼；金银下跌，油价收涨",
-          "url": "https://www.cls.cn/detail/2412290",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时10分]"
-        },
-        {
-          "title": "腾讯与长鑫存储签200亿供应协议",
-          "url": "https://www.douyin.com/hot/2551998",
-          "source": "抖音",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时58分 ~ 07时53分]"
-        },
-        {
-          "title": "A股半导体设备板块延续强势，正帆科技、联得装备涨超10%，华亚智能、屹唐股份、富乐德、中科飞测、北方华创跟涨。",
-          "url": "https://flash.jin10.com/detail/20260630093716326800",
+          "title": "芯片股火热 日韩股市上半年交出亮眼成绩单",
+          "url": "https://flash.jin10.com/detail/20260630143553481800",
           "source": "金十数据",
           "ranks": [
-            13
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "14时46分"
         },
         {
-          "title": "相关主题ETF上周“吸金”超过250亿元，A股半导体板块高景气下波动加大",
-          "url": "https://wallstreetcn.com/livenews/3126330",
+          "title": "中国贸促会：全国贸促系统原产地证书签证金额持续较大幅度增长",
+          "url": "https://wallstreetcn.com/livenews/3126540",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "消息人士：康卡斯特可能会建设数据中心以利用人工智能的增长。",
+          "url": "https://flash.jin10.com/detail/20260630042523528800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时04分]"
+        },
+        {
+          "title": "中国贸促会：全国贸促系统原产地证书签证金额持续较大幅度增长",
+          "url": "https://flash.jin10.com/detail/20260630143419488800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "蓝箭航天更新招股书：2025年营收增长11倍与亏损扩大近一倍并存 预计2029年盈利",
+          "url": "https://www.cls.cn/detail/2412570",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "花旗：韩国2026年GDP增长或快于预期",
+          "url": "https://flash.jin10.com/detail/20260630142833156800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "三星电子高管：未来芯片需求将大幅增长。 呼吁扩大核电产能。",
+          "url": "https://wallstreetcn.com/livenews/3126526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "澳洲联储会议纪要：家庭消费增长并未显著放缓。",
+          "url": "https://flash.jin10.com/detail/20260630093530343800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时53分"
+          "time_info": "10时10分"
         }
       ]
     },
@@ -1027,11 +1191,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 10时10分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 14时46分]"
         },
         {
           "title": "【每日收评】科创50放量涨超4.5%，芯片产业链持续爆发，创新药概念股异军突起",
@@ -1052,7 +1217,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -1063,7 +1228,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -1081,6 +1246,132 @@
       ]
     },
     {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "宇树机器人 R1 起售价降至 2.99 万元，并开启现货发售，如何看待这一调整？降价能提升销量吗？",
+          "url": "https://www.zhihu.com/question/2053454703569244163",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17,
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 10时10分]"
+        },
+        {
+          "title": "A股午后机器人概念持续走高，天奇股份直线涨停，此前昊志机电、领益智造、中坚科技、柯力传感、埃斯顿、晋拓股份等多股涨停，绿的谐波、华依科技、祥明智能、埃夫特等多股涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260630144033382800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "A股商业航天概念异动拉升，中天火箭直线涨停，金风科技触及涨停，盛路通信、天银机电、航宇科技、广联航空跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3126416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "A股商业航天概念异动拉升，中天火箭直线涨停，金风科技触及涨停，盛路通信、天银机电、航宇科技、广联航空跟涨。",
+          "url": "https://flash.jin10.com/detail/20260630094309960800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时10分"
+        },
+        {
+          "title": "优必选超仿生人形机器人优世界U1全渠道订单破万",
+          "url": "https://wallstreetcn.com/livenews/3126532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
+          "url": "https://wallstreetcn.com/articles/3775739",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时35分 ~ 10时10分]"
+        },
+        {
+          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
+          "url": "https://www.cls.cn/detail/2412265",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 14时46分]"
+        },
+        {
+          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
+          "url": "https://wallstreetcn.com/articles/3775770",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时10分 ~ 14时46分]"
+        },
+        {
+          "title": "全球芯片巨头史诗级扩产",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%89%A9%E4%BA%A7%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时53分"
+        },
+        {
+          "title": "专家：国内存储芯片行情大概率没结束",
+          "url": "https://www.toutiao.com/trending/7656972435522080297/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "涨停 跌停",
       "match_count": 5,
       "titles": [
@@ -1091,7 +1382,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -1102,7 +1393,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -1113,7 +1404,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -1135,66 +1426,29 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "韩国史上最大规模产业投资计划！五年内DRAM产能翻倍，三星、SK海力士各新建两座芯片厂",
-          "url": "https://wallstreetcn.com/articles/3775739",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 10时10分]"
-        },
-        {
-          "title": "美股收盘：芯片股绝地反攻强势翻红 纳指涨超2%道指收新高",
-          "url": "https://www.cls.cn/detail/2412265",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时10分]"
-        },
-        {
-          "title": "“玻璃桥”冲击到底有多大？华尔街：FAU厂商面临颠覆压力，AI光模块企业暂时相对安全",
-          "url": "https://wallstreetcn.com/articles/3775770",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时10分"
-        },
-        {
-          "title": "全球芯片巨头史诗级扩产",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%89%A9%E4%BA%A7%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时53分"
         }
       ]
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "非农提前剧透？哈塞特：就业报告将再次强劲，当前加息的理由并不充分",
+          "url": "https://wallstreetcn.com/articles/3775768",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 14时46分]"
+        },
         {
           "title": "美联储理事库克在一份声明中表示，美国最高法院6月29日的裁决“重申了一项支撑数代稳健经济管理的原则：美联储必须在不受政治干预的情况下，完全基于证据和独立判断作出所有政策决策”。",
           "url": "https://wallstreetcn.com/livenews/3126262",
@@ -1206,18 +1460,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 02时59分]"
-        },
-        {
-          "title": "非农提前剧透？哈塞特：就业报告将再次强劲，当前加息的理由并不充分",
-          "url": "https://wallstreetcn.com/articles/3775768",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 10时10分]"
         },
         {
           "title": "周一（6月29日），美联储隔夜逆回购协议（RRP）使用规模为35.46亿美元（交易对手4家），上个交易日报64.26亿美元。",
@@ -1241,48 +1483,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时59分"
+        },
+        {
+          "title": "黄金受美联储鹰派立场打压，料创2008年底以来最大单月跌幅",
+          "url": "https://flash.jin10.com/detail/20260630142915959800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
+      "keyword_group": "跌破 拉升",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "现货黄金短线拉升，突破4030美元/盎司，日内涨0.36%。",
+          "url": "https://wallstreetcn.com/livenews/3126539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "周一（6月29日）欧市尾盘，ICE英国天然气期货涨4.90%，报102.590便士/千卡，北京时间22:00过后出现一波加速上涨行情、一度达到103.670便士。 TTF基准荷兰天然气期货涨2.51%，报42.560欧元/兆瓦时，22:25也曾一度拉升至42.914欧元。 ICE欧盟碳排放交易许可（期货价格）跌1.69%，报77.90欧元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3126261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 02时59分]"
+        },
+        {
+          "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
+          "url": "https://www.zhihu.com/question/2055222122289558459",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "恒生科技指数午后涨幅扩大至2%，智谱、联想集团涨超7%。腾讯控股短线拉升涨超3%，百度涨超4%，美团、哔哩哔哩等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3126520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
       "match_count": 3,
       "titles": [
         {
-          "title": "宇树机器人 R1 起售价降至 2.99 万元，并开启现货发售，如何看待这一调整？降价能提升销量吗？",
-          "url": "https://www.zhihu.com/question/2053454703569244163",
-          "source": "知乎",
-          "ranks": [
-            15,
-            17,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 10时10分]"
-        },
-        {
-          "title": "A股商业航天概念异动拉升，中天火箭直线涨停，金风科技触及涨停，盛路通信、天银机电、航宇科技、广联航空跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3126416",
+          "title": "日经225指数收涨0.86%，报70062.32点。 日本东证指数收涨0.52%，报3994.76点。 韩国首尔综指收涨0.97%，报8476.47点。",
+          "url": "https://wallstreetcn.com/livenews/3126536",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "14时46分"
         },
         {
-          "title": "A股商业航天概念异动拉升，中天火箭直线涨停，金风科技触及涨停，盛路通信、天银机电、航宇科技、广联航空跟涨。",
-          "url": "https://flash.jin10.com/detail/20260630094309960800",
+          "title": "据日经新闻：本田汽车发行欧洲债券所得资金可能将用于向零部件供应商付款。",
+          "url": "https://flash.jin10.com/detail/20260629235019742800",
           "source": "金十数据",
           "ranks": [
-            8
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "日经225指数6月30日（周二）收盘上涨594.21点，涨幅0.86%，报70062.32点。",
+          "url": "https://flash.jin10.com/detail/20260630143120559800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "14时46分"
         }
       ]
     },
@@ -1319,7 +1620,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
@@ -1336,7 +1637,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         },
@@ -1347,38 +1648,38 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
+      "keyword_group": "涨价 核心材料",
       "match_count": 2,
       "titles": [
         {
-          "title": "消息人士：康卡斯特可能会建设数据中心以利用人工智能的增长。",
-          "url": "https://flash.jin10.com/detail/20260630042523528800",
-          "source": "金十数据",
+          "title": "怕iPhone涨价的用户已紧急换新",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%80%95iPhone%E6%B6%A8%E4%BB%B7%E7%9A%84%E7%94%A8%E6%88%B7%E5%B7%B2%E7%B4%A7%E6%80%A5%E6%8D%A2%E6%96%B0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            3,
-            16
+            20,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时49分 ~ 06时04分]"
+          "time_info": "[00时35分 ~ 07时53分]"
         },
         {
-          "title": "澳洲联储会议纪要：家庭消费增长并未显著放缓。",
-          "url": "https://flash.jin10.com/detail/20260630093530343800",
-          "source": "金十数据",
+          "title": "近20家模拟及功率半导体企业开启新一轮涨价 板块有望持续走强",
+          "url": "https://www.cls.cn/detail/2412314",
+          "source": "财联社热门",
           "ranks": [
-            18
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时10分"
+          "time_info": "14时46分"
         }
       ]
     },
@@ -1405,44 +1706,37 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 1,
+      "keyword_group": "利好 利空",
+      "match_count": 2,
       "titles": [
         {
-          "title": "据日经新闻：本田汽车发行欧洲债券所得资金可能将用于向零部件供应商付款。",
-          "url": "https://flash.jin10.com/detail/20260629235019742800",
-          "source": "金十数据",
+          "title": "四重利好共振！康宁“大招”直击CPO行业痛点 单日股价逆势大涨",
+          "url": "https://www.cls.cn/detail/2412608",
+          "source": "财联社热门",
           "ranks": [
-            10
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "涨价 核心材料",
-      "match_count": 1,
-      "titles": [
+          "time_info": "14时46分"
+        },
         {
-          "title": "怕iPhone涨价的用户已紧急换新",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%80%95iPhone%E6%B6%A8%E4%BB%B7%E7%9A%84%E7%94%A8%E6%88%B7%E5%B7%B2%E7%B4%A7%E6%80%A5%E6%8D%A2%E6%96%B0%23&t=31&band_rank=20&Refer=top",
+          "title": "教育发展十五五规划释放多个利好",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%95%99%E8%82%B2%E5%8F%91%E5%B1%95%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E9%87%8A%E6%94%BE%E5%A4%9A%E4%B8%AA%E5%88%A9%E5%A5%BD%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            20,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 07时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
         }
       ]
     },
@@ -1482,6 +1776,23 @@
       ]
     },
     {
+      "keyword_group": "CPI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "法国6月CPI月率初值将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260630143500000800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "实体清单 制裁",
       "match_count": 1,
       "titles": [
@@ -1495,24 +1806,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（6月29日）欧市尾盘，ICE英国天然气期货涨4.90%，报102.590便士/千卡，北京时间22:00过后出现一波加速上涨行情、一度达到103.670便士。 TTF基准荷兰天然气期货涨2.51%，报42.560欧元/兆瓦时，22:25也曾一度拉升至42.914欧元。 ICE欧盟碳排放交易许可（期货价格）跌1.69%，报77.90欧元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3126261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 02时59分]"
         }
       ]
     }
