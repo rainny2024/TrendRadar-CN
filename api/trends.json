@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-01T07:58:48.698540+08:00",
-  "total_titles_processed": 702,
+  "generated_at": "2026-07-01T10:54:12.225857+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "“我不在乎中期选举”：特朗普惹恼共和党议员",
@@ -23,11 +23,12 @@
           "url": "https://v.ifeng.com/c/8uNtTRMWXNr",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时54分]"
         },
         {
           "title": "特朗普927页超10亿美元“吸金”财务报告：世界杯门票、和解费尽数收入囊中",
@@ -52,6 +53,39 @@
           "time_info": "[00时16分 ~ 06时09分]"
         },
         {
+          "title": "特朗普政府，遭全美半数州集体起诉",
+          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时54分]"
+        },
+        {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
+          "title": "特朗普在最高法院输了，为什么又扯上中国？",
+          "url": "https://news.ifeng.com/c/8uOgMuQGNSM",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
           "title": "美伊谈判前途未卜：特朗普称周二将在多哈谈，伊朗否认计划会谈，以防长称以伊明天就可能重开战火",
           "url": "https://wallstreetcn.com/articles/3775765",
           "source": "华尔街见闻",
@@ -72,17 +106,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
-        },
-        {
-          "title": "特朗普政府，遭全美半数州集体起诉",
-          "url": "https://news.ifeng.com/c/8uO4jG3X5zq",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
         },
         {
           "title": "市场消息：美国一名法官裁定，阻止特朗普政府出台的一项限制联邦学生贷款减免的政策规则生效。",
@@ -113,7 +136,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -124,7 +147,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -168,7 +191,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -278,7 +301,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         }
@@ -444,9 +467,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时54分]"
         },
         {
           "title": "周二（6月30日）纽约尾盘，标普500股指期货最终涨0.59%，道指期货涨0.02%，纳斯达克100股指期货涨1.54%。 罗素2000股指期货涨0.37%。",
@@ -489,7 +512,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
         },
@@ -551,6 +574,118 @@
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
+          "url": "https://wallstreetcn.com/articles/3775807",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 10时54分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指高开高走涨近3%，全市场超270股涨超10%，3200亿玻璃基板龙头创历史天量",
+          "url": "https://www.cls.cn/detail/2413064",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 07时58分]"
+        },
+        {
+          "title": "科创50指数翻绿，此前一度涨超2％。寒武纪、源杰科技跌超4％。",
+          "url": "https://wallstreetcn.com/livenews/3127119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "【每日收评】科创50再度涨近4%，算力硬件股集体反弹，半导体产业链反复活跃",
+          "url": "https://www.cls.cn/detail/2413033",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 07时58分]"
+        },
+        {
+          "title": "A 股上半年收官，科创 50 涨近 64%，创业板指涨超 35%，有牛股年内涨近 8 倍，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2055219508588155451",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时16分 ~ 04时51分]"
+        },
+        {
+          "title": "寒武纪成为科创板首支万亿市值股票，年初至今累计上涨超 75%，为何会涨这么多？后续行情怎么走？",
+          "url": "https://www.zhihu.com/question/2055251573127885604",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
+          "title": "创业板指跌超1%，沪指涨0.46%，深成指涨0.06%，游戏、铜缆高速连接、培育钻石、光伏设备等方向跌幅居前，沪深京三市下跌个股超1600只。",
+          "url": "https://wallstreetcn.com/livenews/3127109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "创业板指盘中跌幅扩大至1%，铜缆高速连接、培育钻石等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20260701101734148800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "A股半年收官 科创50大涨超64%",
+          "url": "https://www.toutiao.com/trending/7656397842558287878/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储 半导体",
       "match_count": 8,
       "titles": [
@@ -564,8 +699,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时58分]"
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 10时54分]"
         },
         {
           "title": "中国企业开始签存储长约！腾讯被曝与长鑫存储签下超200亿长协大单",
@@ -607,11 +742,12 @@
           "url": "https://www.cls.cn/detail/2413612",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时54分]"
         },
         {
           "title": "独立半导体研究机构SemiAnalysis预计，英伟达在2027财年下半年的数据中心计算收入将较华尔街一致预期高出约20%，主要基于供应瓶颈缓解以及Vera Rubin平台加速放量。",
@@ -651,6 +787,91 @@
       ]
     },
     {
+      "keyword_group": "芯片 光模块",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "消息称腾讯与长鑫存储签署 200 多亿元大单，可能带来哪些影响？国产存储芯片开始大规模商业化落地了吗？",
+          "url": "https://www.zhihu.com/question/2054996623214600765",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 07时58分]"
+        },
+        {
+          "title": "美光、英特尔和AMD二季度合计市值增加2万亿美元，得益于创纪录的芯片热潮",
+          "url": "https://wallstreetcn.com/livenews/3126987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "A股存储芯片板块再度拉升，太极实业、时空科技双双涨停，股价均续创历史新高，亚威股份此前封板，普冉股份涨超10%，香农芯创、长电科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3127093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "“大空头”迈克尔·伯里做空AI与芯片板块",
+          "url": "https://flash.jin10.com/detail/20260701050629588800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时09分"
+        },
+        {
+          "title": "A股半导体芯片股继续走强，敏芯股份、格科微、中颖电子涨超10%，锴威特、富满微、东微半导等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3127078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "国产存储主控芯片商“竞速”资本市场",
+          "url": "https://wallstreetcn.com/livenews/3127011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "芯片设备类股走强，受三星和SK海力士宣布投资计划提振",
+          "url": "https://wallstreetcn.com/livenews/3126920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 6,
       "titles": [
@@ -659,11 +880,12 @@
           "url": "https://www.cls.cn/detail/2413598",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时54分]"
         },
         {
           "title": "周二（6月30日），美股行业ETF多数收涨，半导体ETF涨3.78%，全球科技股指数ETF、科技行业ETF至少涨2.76%，医疗业ETF、日常消费品ETF、公用事业ETF、日常消费品ETF跌1.29%-1.54%。 上半年，半导体ETF累计上涨82.13%，全球科技股指数ETF、科技行业ETF至少涨32.66%，能源业ETF、工业ETF至少涨20.04%，金融业ETF、可选消费ETF、网络股指数ETF则至多累跌1.66%。",
@@ -726,132 +948,199 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 5,
+      "keyword_group": "涨停 跌停",
+      "match_count": 6,
       "titles": [
         {
-          "title": "【焦点复盘】创业板指高开高走涨近3%，全市场超270股涨超10%，3200亿玻璃基板龙头创历史天量",
-          "url": "https://www.cls.cn/detail/2413064",
-          "source": "财联社热门",
+          "title": "A股大金融板块涨势扩大，招商证券逼近涨停，天风证券、国盛证券、华安证券此前封板，财富趋势涨超13%，长江证券、湘财股份、广发证券、新华保险涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3127116",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            6,
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时58分]"
-        },
-        {
-          "title": "A股上半年收官！创业板涨超35%，科创50暴涨64%，算力硬件、芯片半导体全线飙涨",
-          "url": "https://wallstreetcn.com/articles/3775807",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时58分]"
-        },
-        {
-          "title": "【每日收评】科创50再度涨近4%，算力硬件股集体反弹，半导体产业链反复活跃",
-          "url": "https://www.cls.cn/detail/2413033",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时58分]"
-        },
-        {
-          "title": "A 股上半年收官，科创 50 涨近 64%，创业板指涨超 35%，有牛股年内涨近 8 倍，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2055219508588155451",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 04时51分]"
-        },
-        {
-          "title": "A股半年收官 科创50大涨超64%",
-          "url": "https://www.toutiao.com/trending/7656397842558287878/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时16分"
+          "time_info": "10时54分"
+        },
+        {
+          "title": "A股AI语料概念震荡反弹，新华传媒涨停，德生科技、读客文化、中信出版、果麦文化、人民网、同方股份、中国出版等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701103204339800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "A股养殖板块震荡走强，天邦食品涨停，益生股份回封涨停，金新农此前涨停，立华股份、湘佳股份、晓鸣股份、大禹生物、傲农生物、牧原股份跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701102207349800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "A股证券板块震荡走高，华安证券涨停，天风证券、长江证券、招商证券、广发证券、首创证券跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701101219333800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "A股房地产板块异动拉升，三湘印象、盈新发展等多股涨停，深深房A、福星股份、黑牡丹等股上涨。",
+          "url": "https://flash.jin10.com/detail/20260701100958694800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "A股算力租赁概念反复活跃，飞利信20cm涨停，旋极信息、中富通、中创环保、华孚时尚、迈信林等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701095831135800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
+      "keyword_group": "增长 亮眼",
       "match_count": 5,
       "titles": [
         {
-          "title": "消息称腾讯与长鑫存储签署 200 多亿元大单，可能带来哪些影响？国产存储芯片开始大规模商业化落地了吗？",
-          "url": "https://www.zhihu.com/question/2054996623214600765",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时58分]"
-        },
-        {
-          "title": "美光、英特尔和AMD二季度合计市值增加2万亿美元，得益于创纪录的芯片热潮",
-          "url": "https://wallstreetcn.com/livenews/3126987",
+          "title": "美国货币监理署（OCC）：美国银行业一季度交易收入增长5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3126945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时29分 ~ 04时51分]"
+        },
+        {
+          "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
+          "url": "https://wallstreetcn.com/livenews/3126991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
         },
         {
-          "title": "“大空头”迈克尔·伯里做空AI与芯片板块",
-          "url": "https://flash.jin10.com/detail/20260701050629588800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "国产存储主控芯片商“竞速”资本市场",
-          "url": "https://wallstreetcn.com/livenews/3127011",
+          "title": "鸿蒙智行：6月交付50624台，环比增长9.7%",
+          "url": "https://wallstreetcn.com/livenews/3127081",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时54分"
         },
         {
-          "title": "芯片设备类股走强，受三星和SK海力士宣布投资计划提振",
-          "url": "https://wallstreetcn.com/livenews/3126920",
-          "source": "华尔街见闻-快讯",
+          "title": "美国能源信息署（EIA）：美国原油及产品供应在四月份增长至每日2081万桶，为2026年2月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260630234347266800",
+          "source": "金十数据",
           "ranks": [
-            26
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时29分"
+          "time_info": "00时16分"
+        },
+        {
+          "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
+          "url": "https://wallstreetcn.com/livenews/3127006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "机器人女友来了！优必选重磅首发，最高售价99万元",
+          "url": "https://wallstreetcn.com/articles/3775850",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 10时54分]"
+        },
+        {
+          "title": "中国第一所机器人学校开学，30台机器人率先入学",
+          "url": "https://news.ifeng.com/c/8uNt8EVi3R1",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时09分]"
+        },
+        {
+          "title": "“机器人伴侣”订单破1.1万台",
+          "url": "https://www.toutiao.com/trending/7656983269552439339/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
+          "title": "机器人伴侣订单破1万 仅限成人购买",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%A0%B41%E4%B8%87+%E4%BB%85%E9%99%90%E6%88%90%E4%BA%BA%E8%B4%AD%E4%B9%B0",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
+          "title": "机构密集调研A股上市公司，人形机器人、半导体材料受追捧",
+          "url": "https://wallstreetcn.com/livenews/3127014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -918,183 +1207,8 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国货币监理署（OCC）：美国银行业一季度交易收入增长5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3126945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时29分 ~ 04时51分]"
-        },
-        {
-          "title": "耐克美股盘后跌幅扩大至6.6%，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示，耐克对产品去库存的举措“仍然面临挑战”，而首席执行官Elliott Hill指出营收增长面临“不利因素”。",
-          "url": "https://wallstreetcn.com/livenews/3126991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "美国能源信息署（EIA）：美国原油及产品供应在四月份增长至每日2081万桶，为2026年2月以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260630234347266800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
-          "url": "https://wallstreetcn.com/livenews/3127006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据总部位于伦敦的独立研究机构官方货币与金融机构论坛（OMFIF）调查，地缘政治风险的上升正推动黄金需求上涨。尽管金价较一年前已飙升逾20%，但表示计划增加黄金投资的央行比例仍创下历史新高。",
-          "url": "https://flash.jin10.com/detail/20260701000005099800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        },
-        {
-          "title": "市值破万亿后，寒武纪提示风险",
-          "url": "https://wallstreetcn.com/articles/3775869",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        },
-        {
-          "title": "据总部位于伦敦的独立研究机构官方货币与金融机构论坛（OMFIF）调查，未来十年内，计划削减美元持仓的央行数量首次超过计划增加持仓的央行数量，反映出与美元相关的政治风险正在上升。调查于3月至5月期间进行，收集了全球74家央行的反馈。",
-          "url": "https://flash.jin10.com/detail/20260630235905581800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "机器人女友来了！优必选重磅首发，最高售价99万元",
-          "url": "https://wallstreetcn.com/articles/3775850",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时58分]"
-        },
-        {
-          "title": "中国第一所机器人学校开学，30台机器人率先入学",
-          "url": "https://news.ifeng.com/c/8uNt8EVi3R1",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 06时09分]"
-        },
-        {
-          "title": "机构密集调研A股上市公司，人形机器人、半导体材料受追捧",
-          "url": "https://wallstreetcn.com/livenews/3127014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
-          "url": "https://www.zhihu.com/question/2055222122289558459",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时16分 ~ 06时09分]"
-        },
-        {
-          "title": "日元跌破162,日方跪求干预",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355766&amp;topic_name=%E6%97%A5%E5%85%83%E8%B7%8C%E7%A0%B4162%2C%E6%97%A5%E6%96%B9%E8%B7%AA%E6%B1%82%E5%B9%B2%E9%A2%84",
-          "source": "贴吧",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 07时58分]"
-        },
-        {
-          "title": "氟化工板块持续拉升 行业下半年量价走势预期如何？",
-          "url": "https://www.cls.cn/detail/2413526",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "涨价 核心材料",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "半导体供应链现“极限拉扯”：基板厂涨价遭拒 下游以成本回落为由施压",
@@ -1113,18 +1227,160 @@
           "url": "https://www.cls.cn/detail/2413445",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时54分]"
+        },
+        {
+          "title": "如何看待理光 gr 系列于 2026 年 7 月 1 起全线涨价的公告？",
+          "url": "https://www.zhihu.com/question/2050490652593492724",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
+          "title": "巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://flash.jin10.com/detail/20260701101519690800",
+          "source": "金十数据",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时58分"
+          "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "市值破万亿后，寒武纪提示风险",
+          "url": "https://wallstreetcn.com/articles/3775869",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时54分]"
+        },
+        {
+          "title": "7月1日投资避雷针：3连板人气股提示风险 电子级酚醛树脂销售规模仅占0.12%",
+          "url": "https://www.cls.cn/detail/2413646",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
+        {
+          "title": "据总部位于伦敦的独立研究机构官方货币与金融机构论坛（OMFIF）调查，地缘政治风险的上升正推动黄金需求上涨。尽管金价较一年前已飙升逾20%，但表示计划增加黄金投资的央行比例仍创下历史新高。",
+          "url": "https://flash.jin10.com/detail/20260701000005099800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "据总部位于伦敦的独立研究机构官方货币与金融机构论坛（OMFIF）调查，未来十年内，计划削减美元持仓的央行数量首次超过计划增加持仓的央行数量，反映出与美元相关的政治风险正在上升。调查于3月至5月期间进行，收集了全球74家央行的反馈。",
+          "url": "https://flash.jin10.com/detail/20260630235905581800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日元跌破162,日方跪求干预",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355766&amp;topic_name=%E6%97%A5%E5%85%83%E8%B7%8C%E7%A0%B4162%2C%E6%97%A5%E6%96%B9%E8%B7%AA%E6%B1%82%E5%B9%B2%E9%A2%84",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时16分 ~ 10时54分]"
+        },
+        {
+          "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
+          "url": "https://www.zhihu.com/question/2055222122289558459",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时16分 ~ 06时09分]"
+        },
+        {
+          "title": "A股保险板块持续拉升，新华保险涨超6%，中国人寿涨超5%，中国人保、中国太保、中国平安跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701103509172800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "氟化工板块持续拉升 行业下半年量价走势预期如何？",
+          "url": "https://www.cls.cn/detail/2413526",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时58分 ~ 10时54分]"
         }
       ]
     },
     {
       "keyword_group": "暴涨",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
+          "url": "https://www.cls.cn/detail/2413162",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 10时54分]"
+        },
         {
           "title": "海信空调法国暴涨100%",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B5%B7%E4%BF%A1%E7%A9%BA%E8%B0%83%E6%B3%95%E5%9B%BD%E6%9A%B4%E6%B6%A8100%25%23&t=31&band_rank=29&Refer=top",
@@ -1132,9 +1388,71 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Prosus于6月22-26日当周按均价37.7784欧元回购股票250.8852万股，合计将近0.948亿欧元（折合超1.079亿美元）。 Naspers同期按均价814.2889南非兰特回购91.1265万股，合计超7.420亿兰特（折合约0.450亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3126893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "杰富瑞：South32在出售铝资产后或将探索更大规模的股票回购和收购",
+          "url": "https://flash.jin10.com/detail/20260701100740726800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "截至早盘收盘，日经225指数涨0.3%，东证指数涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3127114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数开盘报4090.76点，跌0.09%。 深证成指开盘报16226.97点，涨0.13%。 创业板指开盘报4336.16点，跌0.15%。 沪深300开盘报4972.69点，跌0.14%。 科创50开盘报2205.66点，跌0.10%。 中证500开盘报9052.04点，涨0.23%。 中证1000开盘报8827.47点，涨0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3127068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
@@ -1168,23 +1486,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Prosus于6月22-26日当周按均价37.7784欧元回购股票250.8852万股，合计将近0.948亿欧元（折合超1.079亿美元）。 Naspers同期按均价814.2889南非兰特回购91.1265万股，合计超7.420亿兰特（折合约0.450亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3126893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
