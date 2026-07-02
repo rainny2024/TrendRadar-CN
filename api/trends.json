@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T17:52:39.440398+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-07-02T20:03:07.528754+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美国贸易代表：特朗普的贸易政策已经取代了《美墨加协定》的许多内容。",
@@ -77,6 +77,17 @@
           "time_info": "[05时17分 ~ 07时02分]"
         },
         {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
           "title": "美光向“特朗普账户”注资2.5亿美元，特朗普称其政策“大获成功”",
           "url": "https://flash.jin10.com/detail/20260702004042451800",
           "source": "金十数据",
@@ -127,7 +138,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -259,7 +270,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -303,7 +314,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -314,7 +325,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -325,7 +336,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
@@ -333,7 +344,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "据AXIOS网站：美国在多哈谈判中试图劝说伊朗放弃霍尔木兹海峡“通行收费”机制。",
@@ -382,6 +393,18 @@
           "time_info": "[05时17分 ~ 07时02分]"
         },
         {
+          "title": "何维将出席伊朗已故最高领袖葬礼",
+          "url": "https://www.douyin.com/hot/2555610",
+          "source": "抖音",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
+        },
+        {
           "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
           "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
           "source": "凤凰网",
@@ -391,6 +414,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时31分 ~ 17时52分]"
+        },
+        {
+          "title": "伊朗国家队回国向民众道歉",
+          "url": "https://www.toutiao.com/trending/7657124026443402793/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "美国：超1000万桶原油经霍尔木兹海峡运出，伊朗石油筹码被削弱",
@@ -413,17 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "何维将出席伊朗已故最高领袖葬礼",
-          "url": "https://www.douyin.com/hot/2555610",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：伊朗要求在处理其他事项之前，先实施谅解备忘录中的5项内容。",
@@ -553,9 +576,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "伊朗武装部队：美干涉霍尔木兹海峡将遭回击",
+          "url": "https://wallstreetcn.com/livenews/3127982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         },
         {
           "title": "伊朗副外长表示，伊朗代表团在多哈的会谈已结束。（伊朗伊斯兰共和国通讯社IRNA）",
@@ -695,9 +729,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
         },
         {
           "title": "海南自贸区板块集体走强，海南瑞泽、欣龙控股、海马汽车、海南海药涨停，神农种业、海南发展涨超5%。",
@@ -835,7 +869,7 @@
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
@@ -861,13 +895,25 @@
           "time_info": "[10时07分 ~ 14时32分]"
         },
         {
+          "title": "半导体硅片龙头，股价巨震",
+          "url": "https://www.cls.cn/detail/2415056",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 20时03分]"
+        },
+        {
           "title": "水晶光电：光存储业务现阶段正处于量产前验证环节，2025年度至今暂未实现销售收入",
           "url": "https://flash.jin10.com/detail/20260702173455262800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -878,32 +924,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
-        },
-        {
-          "title": "半导体硅片龙头，股价巨震",
-          "url": "https://www.cls.cn/detail/2415056",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时52分]"
         },
         {
           "title": "半导体",
           "url": "https://s.weibo.com/weibo?q=%E5%8D%8A%E5%AF%BC%E4%BD%93&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
         },
         {
           "title": "韩国投资者加仓中国资产！上半年扫货科技ETF，半导体赛道获重点配置",
@@ -916,6 +951,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时07分 ~ 14时32分]"
+        },
+        {
+          "title": "“存储一哥”暴跌",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E2%80%9D%E6%9A%B4%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -952,15 +999,15 @@
           "time_info": "07时02分"
         },
         {
-          "title": "“存储一哥”暴跌",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E2%80%9D%E6%9A%B4%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "图灵量子与海光信息联合发布量子加密分布式存储方案",
+          "url": "https://wallstreetcn.com/livenews/3127992",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时52分"
+          "time_info": "20时03分"
         },
         {
           "title": "费城半导体指数扩大跌幅至5.87%，泛林集团(LRCX.O)跌11.24%，应用材料(AMAT.O)跌11.24%，美光科技(MU.O)跌9.42%，英特尔(INTC.O)跌8.11%，阿斯麦(ASML.O)跌7.51%。",
@@ -980,7 +1027,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -991,9 +1038,152 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
+          "url": "https://wallstreetcn.com/articles/3775932",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 05时17分]"
+        },
+        {
+          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
+          "url": "https://wallstreetcn.com/articles/3776018",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时07分 ~ 20时03分]"
+        },
+        {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 20时03分]"
+        },
+        {
+          "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
+          "url": "https://www.cls.cn/detail/2415140",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
+        },
+        {
+          "title": "连接英伟达芯片 一核能公司在美国首次实现先进反应堆发电",
+          "url": "https://flash.jin10.com/detail/20260702065422880800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "摩根大通：芯片股的极端跑赢表现难以持续",
+          "url": "https://wallstreetcn.com/livenews/3128012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "芯片股抛售拖累全球股市，美光盘前跌近3%，韩股收跌7%，日元走强，黄金稳于4000上方",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
+        },
+        {
+          "title": "天洋新材：涉及半导体业务的光模块透镜固定用胶产品月营收占集团月营收不足1%",
+          "url": "https://flash.jin10.com/detail/20260702173119599800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "半导体芯片股开盘领跌，普冉股份、京仪装备跌超10%，银河微电、阿石创、敏芯股份、江波龙等多股跌超8%。",
+          "url": "https://wallstreetcn.com/livenews/3127714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "A股存储芯片板块持续走弱，兆易创新触及跌停，江丰电子、精测电子、中科飞测、珂玛科技、华海清科、芯源微、香农芯创、利和兴、神工股份跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3127823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
+          "url": "https://flash.jin10.com/detail/20260702020830991800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
+          "url": "https://flash.jin10.com/detail/20260702020102144800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
         }
       ]
     },
@@ -1011,8 +1201,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 17时52分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 20时03分]"
+        },
+        {
+          "title": "美联储加息究竟是不是“危言耸听”？今晚美国非农夜重磅来袭！",
+          "url": "https://www.cls.cn/detail/2415231",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
         },
         {
           "title": "据悉沃什任命贝森特助手出任美联储顾问",
@@ -1035,17 +1237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "美联储加息究竟是不是“危言耸听”？今晚美国非农夜重磅来袭！",
-          "url": "https://www.cls.cn/detail/2415231",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         },
         {
           "title": "沃什最新定性：美联储资产负债表已近“财政工具”，18年扩表不可能几周缩回去",
@@ -1131,166 +1322,61 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
-          "url": "https://wallstreetcn.com/articles/3775932",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 05时17分]"
-        },
-        {
-          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
-          "url": "https://wallstreetcn.com/articles/3776018",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 17时52分]"
-        },
-        {
-          "title": "连接英伟达芯片 一核能公司在美国首次实现先进反应堆发电",
-          "url": "https://flash.jin10.com/detail/20260702065422880800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "五千亿级投资来袭！韩国两大芯片巨头建厂计划官宣",
-          "url": "https://www.cls.cn/detail/2415140",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时52分]"
-        },
-        {
-          "title": "芯片股抛售拖累全球股市，美光盘前跌近3%，韩股收跌7%，日元走强，黄金稳于4000上方",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "天洋新材：涉及半导体业务的光模块透镜固定用胶产品月营收占集团月营收不足1%",
-          "url": "https://flash.jin10.com/detail/20260702173119599800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "半导体芯片股开盘领跌，普冉股份、京仪装备跌超10%，银河微电、阿石创、敏芯股份、江波龙等多股跌超8%。",
-          "url": "https://wallstreetcn.com/livenews/3127714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "A股存储芯片板块持续走弱，兆易创新触及跌停，江丰电子、精测电子、中科飞测、珂玛科技、华海清科、芯源微、香农芯创、利和兴、神工股份跌超10%。",
-          "url": "https://wallstreetcn.com/livenews/3127823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
-          "url": "https://flash.jin10.com/detail/20260702020830991800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
-          "url": "https://flash.jin10.com/detail/20260702020102144800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
         }
       ]
     },
     {
       "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
           "url": "https://www.cls.cn/detail/2415416",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
         },
         {
           "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
           "url": "https://wallstreetcn.com/articles/3776030",
           "source": "华尔街见闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
+        },
+        {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
+          "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
+          "url": "https://www.cls.cn/detail/2415483",
+          "source": "财联社热门",
+          "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "创业板指跌超4%，科创50指数跌超5%，沪指跌1.58%，深成指跌3.23%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2400只，其中近百股跌超9%。",
@@ -1310,7 +1396,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1332,7 +1418,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1373,7 +1459,7 @@
     },
     {
       "keyword_group": "涨价 核心材料",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "半导体涨价潮蔓延至先进封装 日月光CEO：正全力以赴扩大产能",
@@ -1427,6 +1513,18 @@
           "time_info": "[03时29分 ~ 10时07分]"
         },
         {
+          "title": "半导体开启年内第二轮涨价",
+          "url": "https://www.douyin.com/hot/2555058",
+          "source": "抖音",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
+        },
+        {
           "title": "存储芯片涨价",
           "url": "https://s.weibo.com/weibo?q=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E6%B6%A8%E4%BB%B7&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -1460,17 +1558,6 @@
           "time_info": "10时07分"
         },
         {
-          "title": "半导体开启年内第二轮涨价",
-          "url": "https://www.douyin.com/hot/2555058",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
           "title": "电子布大厂富乔工业宣布涨价？公司回应",
           "url": "https://wallstreetcn.com/livenews/3127822",
           "source": "华尔街见闻-快讯",
@@ -1480,12 +1567,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "北京君正：由于公司存储芯片持续在涨价 预计各季度毛利率会环比有所增长",
+          "url": "https://wallstreetcn.com/livenews/3127978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
     {
       "keyword_group": "风险",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
@@ -1506,7 +1604,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1520,6 +1618,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时07分 ~ 14时32分]"
+        },
+        {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "美元走强与中东风险施压，拉美外汇与股市普遍走低",
@@ -1540,7 +1649,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1556,13 +1665,24 @@
           "time_info": "03时29分"
         },
         {
+          "title": "市场消息：印度将扩大原油储备以对冲油价飙升风险。",
+          "url": "https://flash.jin10.com/detail/20260702191256570800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "国投白银LOF提示二级市场溢价风险",
           "url": "https://flash.jin10.com/detail/20260702170820281800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         }
@@ -1570,7 +1690,7 @@
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "订单破万!机器人伴侣卖爆",
@@ -1585,6 +1705,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时05分 ~ 14时32分]"
+        },
+        {
+          "title": "机器人伴侣订单火爆 被吐槽货不对板",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86+%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B4%A7%E4%B8%8D%E5%AF%B9%E6%9D%BF",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "机器人伴侣价格 11.98 万至 99 万，不同价格之间有啥区别？定价合理吗？你看好它的市场前景吗？",
@@ -1637,6 +1768,17 @@
           "time_info": "[03时29分 ~ 07时02分]"
         },
         {
+          "title": "小雨智造首发具身智能焊接机器人，起售价16.98万",
+          "url": "https://wallstreetcn.com/livenews/3128006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
           "title": "A股人形机器人概念逆势活跃，日盈电子涨停，五洲新春、锋龙股份、奥比中光、斯菱智驱、力星股份、步科股份跟涨。",
           "url": "https://flash.jin10.com/detail/20260702094240717800",
           "source": "金十数据",
@@ -1657,6 +1799,183 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "涛涛车业：预计2026年半年度净利润同比增长51.95%-63.64%",
+          "url": "https://wallstreetcn.com/livenews/3127947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "墨西哥经济部长：减少对亚洲在计算机和电子产品方面的依赖，是墨西哥经济增长前景的关键。",
+          "url": "https://flash.jin10.com/detail/20260702025309827800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "盐湖股份：预计上半年净利润同比增长131.38%-142.95%",
+          "url": "https://wallstreetcn.com/livenews/3128004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "2026年6月基金新开户23.36万户 同比增长16.57% 2026年累计新开183.15万户",
+          "url": "https://wallstreetcn.com/livenews/3128002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "芝商所（CME）：6月日均成交量创历史新高，达到3060万份合约，同比增长19%。",
+          "url": "https://flash.jin10.com/detail/20260702193057426800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "2026年6月A股新开户286.46万户 同比增长73.99% 2026年累计新开2016.14万户",
+          "url": "https://wallstreetcn.com/livenews/3128001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "华峰化学：预计2026年上半年净利润为16.8亿元~20.8亿元，同比增长70.85%~111.53%。",
+          "url": "https://wallstreetcn.com/livenews/3127917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "永和股份：预计上半年净利润为4.6亿元到5.5亿元，同比增长69.51%到102.68%。",
+          "url": "https://wallstreetcn.com/livenews/3127975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "腾讯控股：于7月2日回购了110万股，耗资5.008亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3127948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "ST际华：拟以2亿元-4亿元回购公司股份，回购价格不超过2.73元/股。",
+          "url": "https://flash.jin10.com/detail/20260702193325314800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "五粮液：截至2026年6月30日已累计回购约2亿元股份，占比0.0653%",
+          "url": "https://wallstreetcn.com/livenews/3127946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "港交所文件显示，腾讯控股(00700.HK)于7月2日回购了110万股，耗资5.008亿港元。",
+          "url": "https://flash.jin10.com/detail/20260702172654691800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "晨光生物：拟以8000万元-1.6亿元回购股份，回购股份的价格为不超过人民币12.50元/股。",
+          "url": "https://wallstreetcn.com/livenews/3127987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "中国央行今日开展2885亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日3705亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3127709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "五粮液：已回购253.58万股，使用资金总额2亿元",
+          "url": "https://flash.jin10.com/detail/20260702172057386800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
@@ -1797,67 +2116,6 @@
       ]
     },
     {
-      "keyword_group": "回购",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "腾讯控股：于7月2日回购了110万股，耗资5.008亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3127948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "五粮液：截至2026年6月30日已累计回购约2亿元股份，占比0.0653%",
-          "url": "https://wallstreetcn.com/livenews/3127946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "港交所文件显示，腾讯控股(00700.HK)于7月2日回购了110万股，耗资5.008亿港元。",
-          "url": "https://flash.jin10.com/detail/20260702172654691800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "中国央行今日开展2885亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日3705亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3127709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "五粮液：已回购253.58万股，使用资金总额2亿元",
-          "url": "https://flash.jin10.com/detail/20260702172057386800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "复盘",
       "match_count": 4,
       "titles": [
@@ -1893,7 +2151,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -1946,7 +2204,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -2042,41 +2300,32 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 3,
+      "keyword_group": "降息",
+      "match_count": 2,
       "titles": [
         {
-          "title": "涛涛车业：预计2026年半年度净利润同比增长51.95%-63.64%",
-          "url": "https://wallstreetcn.com/livenews/3127947",
-          "source": "华尔街见闻-快讯",
+          "title": "从1.8%到7%！美联储“降息or加息” 只是道通胀选择题？",
+          "url": "https://www.cls.cn/detail/2415031",
+          "source": "财联社热门",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "墨西哥经济部长：减少对亚洲在计算机和电子产品方面的依赖，是墨西哥经济增长前景的关键。",
-          "url": "https://flash.jin10.com/detail/20260702025309827800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            4,
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
+          "appearance_count": 5,
+          "time_info": "[14时31分 ~ 20时03分]"
         },
         {
-          "title": "华峰化学：预计2026年上半年净利润为16.8亿元~20.8亿元，同比增长70.85%~111.53%。",
-          "url": "https://wallstreetcn.com/livenews/3127917",
-          "source": "华尔街见闻-快讯",
+          "title": "路透调查：所有14位经济学家均预计以色列央行下周将降息25个基点。",
+          "url": "https://flash.jin10.com/detail/20260702191159494800",
+          "source": "金十数据",
           "ranks": [
-            22
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时52分"
+          "time_info": "20时03分"
         }
       ]
     },
@@ -2141,24 +2390,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时06分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "降息",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "从1.8%到7%！美联储“降息or加息” 只是道通胀选择题？",
-          "url": "https://www.cls.cn/detail/2415031",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时31分 ~ 17时52分]"
         }
       ]
     }
