@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T05:59:08.743598+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-07-03T07:02:42.714304+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 56,
       "titles": [
         {
           "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
@@ -14,73 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "美国总统特朗普：（关于住房法案）没问题。",
-          "url": "https://flash.jin10.com/detail/20260703053454150800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
-          "url": "https://wallstreetcn.com/livenews/3128242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "美国总统特朗普：我在做同样的关税，但形势更加严峻了。",
-          "url": "https://wallstreetcn.com/livenews/3128241",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "特朗普：将通过“打赢官司”继续推动解雇美联储理事库克",
-          "url": "https://flash.jin10.com/detail/20260703053345539800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "美国总统特朗普被问及国会山已经表决通过的住房立法草案（但他本人迟迟没有签字生效为法律），称：情况不错。 其中存在大量由民主党议员们提出的观点。 在国会山通过选民身份问题之前，我不想签署住房草案。",
-          "url": "https://wallstreetcn.com/livenews/3128240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
-          "url": "https://flash.jin10.com/detail/20260703053218844800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -93,8 +27,87 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于住房法案）没问题。",
+          "url": "https://flash.jin10.com/detail/20260703053454150800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "特朗普称沃什面临“有点敌意”的美联储理事会，重申将推动罢免库克",
+          "url": "https://wallstreetcn.com/livenews/3128266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普：将通过“打赢官司”继续推动解雇美联储理事库克",
+          "url": "https://flash.jin10.com/detail/20260703053345539800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "美国总统特朗普被问及国会山已经表决通过的住房立法草案（但他本人迟迟没有签字生效为法律），称：情况不错。 其中存在大量由民主党议员们提出的观点。 在国会山通过选民身份问题之前，我不想签署住房草案。",
+          "url": "https://wallstreetcn.com/livenews/3128240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
+          "url": "https://flash.jin10.com/detail/20260703053218844800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
+          "url": "https://wallstreetcn.com/livenews/3128242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时02分]"
+        },
+        {
+          "title": "美国总统特朗普：我在做同样的关税，但形势更加严峻了。",
+          "url": "https://wallstreetcn.com/livenews/3128241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时02分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -115,7 +128,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -126,9 +139,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "特朗普避谈政府是否入股OpenAI 但强调在英特尔的持股",
+          "url": "https://flash.jin10.com/detail/20260703061710084800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普被问及入股OpenAI，拿英特尔举例。",
@@ -137,7 +161,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -159,7 +183,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -170,7 +194,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -181,7 +205,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -192,7 +216,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -203,9 +227,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "特朗普重申：伊朗将从美国购买食品",
+          "url": "https://flash.jin10.com/detail/20260703060408656800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普：我持有一些英伟达股票，但我认为很少。 赞赏英伟达CEO黄仁勋。",
@@ -214,7 +249,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -225,9 +260,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "特朗普称AI将超过90年代末的互联网繁荣 预计过半芯片在美生产",
+          "url": "https://flash.jin10.com/detail/20260703060215958800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "特朗普经济幕僚哈塞特批评鲍威尔继续留在美联储",
@@ -247,7 +293,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -258,9 +304,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "美国总统特朗普：不希望在任内出现全球性萧条。",
+          "url": "https://flash.jin10.com/detail/20260703055739392800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普赞赏股市上涨。 被问及财务状况时，再次赞赏股市。 “我的生意都是我孩子打理的，（担任总统期间）我不参与”。 “我让别人投资我的钱，我不知道他们是谁。”（CNBC）",
@@ -269,7 +326,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -291,9 +348,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "美国总统特朗普还赞扬了戴尔(DELL.N)公司。",
+          "url": "https://flash.jin10.com/detail/20260703055727803800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普：（关于最高法院驳回解雇联储美联储理事库克的请求）我们可以通过赢得案件让她离开。",
@@ -302,9 +370,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "美国总统特朗普：美光科技(MU.O)是一家“炙手可热的公司”，由一位“很棒的人”经营。",
+          "url": "https://flash.jin10.com/detail/20260703055641484800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国财政部：财政部与国税局将接受大型上市公司股票捐赠，为“特朗普账户”儿童金融账户计划提供支持。",
@@ -324,9 +403,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "美国总统特朗普：马斯克对我在电动汽车强制令上的决定“并不高兴”。",
+          "url": "https://flash.jin10.com/detail/20260703055441954800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国总统特朗普：美联储主席沃什有一个稍显敌对的理事会。",
@@ -335,9 +425,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "美国总统特朗普：我给马斯克写过一张便条，祝贺他成为“万亿富翁”。",
+          "url": "https://flash.jin10.com/detail/20260703055318932800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：我认为马斯克会将SpaceX(SPCX.O)股票捐赠给“特朗普账户”。",
+          "url": "https://flash.jin10.com/detail/20260703055138280800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美国官员称：面向新生儿的“特朗普账户”将接受股票捐赠",
@@ -349,12 +461,177 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
+        },
+        {
+          "title": "美国总统特朗普：我们已经在军事上彻底击败了伊朗。他们还剩下一些导弹。我们也可以把它们全部摧毁。",
+          "url": "https://flash.jin10.com/detail/20260703055024068800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：我与埃隆·马斯克的关系非常好。",
+          "url": "https://flash.jin10.com/detail/20260703054846383800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：重申计划动用伊朗资金用于购买（美国）食品。",
+          "url": "https://flash.jin10.com/detail/20260703054732236800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：我是在以色列历史上对他们最有利的美国总统。",
+          "url": "https://flash.jin10.com/detail/20260703054652334800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：赞赏美光和戴尔科技。 昨天与美光科技（高管）说过话，那可是一家炙手可热的公司。",
+          "url": "https://wallstreetcn.com/livenews/3128247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我认为他们几乎同意了我们所需的一切。",
+          "url": "https://flash.jin10.com/detail/20260703054432548800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普：自从马斯克成为万亿富豪以来，我还没有与他说过话",
+          "url": "https://wallstreetcn.com/livenews/3128246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉在石油方面表现“前所未有地好”，我的政策帮助恢复了该国的能源产出。",
+          "url": "https://flash.jin10.com/detail/20260703054423323800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普宣称：不希望看到全球性的大萧条。",
+          "url": "https://wallstreetcn.com/livenews/3128245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普：在签署选举法案前，不会签署住房法案",
+          "url": "https://flash.jin10.com/detail/20260703054420148800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗局势关乎去核化，而非战争。美国的做法仍然专注于消除核威胁。",
+          "url": "https://flash.jin10.com/detail/20260703054407301800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗没有海军，没有空军。",
+          "url": "https://flash.jin10.com/detail/20260703054317374800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：认为与新的伊朗领导层相处融洽。",
+          "url": "https://flash.jin10.com/detail/20260703054312787800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：我认为人工智能比互联网更重要。",
+          "url": "https://flash.jin10.com/detail/20260703053823269800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普重申：在美国选民身份证明问题解决前不会签署住房法案",
+          "url": "https://wallstreetcn.com/livenews/3128240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
@@ -364,8 +641,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
         },
         {
           "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
@@ -376,8 +653,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
         },
         {
           "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
@@ -388,8 +665,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
         },
         {
           "title": "今晚，沃什时代首份非农出炉，世界杯或营造就业\"虚火\"",
@@ -400,8 +677,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "非美货币在非农日普遍走高",
+          "url": "https://wallstreetcn.com/livenews/3128238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时02分]"
         },
         {
           "title": "德国两年期国债收益率于非农日跌超1个基点，30年期德债收益率涨约4个基点",
@@ -416,15 +705,15 @@
           "time_info": "[01时26分 ~ 03时08分]"
         },
         {
-          "title": "非美货币在非农日普遍走高",
-          "url": "https://wallstreetcn.com/livenews/3128238",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储7月维持利率不变的概率为82.4%",
+          "url": "https://flash.jin10.com/detail/20260703060815151800",
+          "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时59分"
+          "time_info": "07时02分"
         },
         {
           "title": "华尔街点评沃什出任美联储主席以来首份非农就业报告",
@@ -455,7 +744,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -466,7 +755,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         },
@@ -477,9 +766,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "两年期美债于美国非农日跌超3.7个基点",
+          "url": "https://wallstreetcn.com/livenews/3128244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "非农“爆冷” 美联储加息降温",
@@ -495,6 +795,149 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
+          "url": "https://www.zhihu.com/question/2056021886144864275",
+          "source": "知乎",
+          "ranks": [
+            9,
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
+          "url": "https://wallstreetcn.com/livenews/3128214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时59分]"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
+          "url": "https://wallstreetcn.com/livenews/3128161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时08分]"
+        },
+        {
+          "title": "美股存储芯片指数初步收跌约11%，费城半导体指数跌约6%。 标普500指数初步大致收平，科技板块跌1.7%，电信板块跌0.8%，可选消费板块跌0.7%，公用事业、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.6%，成分股中，闪迪初步收跌15.3%，泰瑞达、科磊、迈威尔科技/美满电子、拉姆研究、希捷科技、西部数据至少跌约10%，特斯拉重挫8%，Adobe涨3.9%，苹果涨4.7%，汤森路透涨5.7%，Strategy涨7.9%。",
+          "url": "https://wallstreetcn.com/livenews/3128205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "周四（7月2日），美股降息赢家指数跌0.02%，报98.42点，在美国非农就业报告出炉后高开低走，整体呈现出W形走势，本周累计下跌1.58%。",
+          "url": "https://wallstreetcn.com/livenews/3128254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "周四（7月2日），美股人工智能（AI）赢家指数跌5.63%，报405.59点，本周累跌4.17%。 成分股闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究至少收跌10.19%表现最差，在收涨的六只成分股中，核电股CEG涨1.16%表现第四，微软涨1.62%，公共服务企业集团（PEG）涨1.68%，Palantir涨2.84%。 AI软件先驱指数跌0.03%，报109.97点，本周累涨4.70%。 成分股C3.ai收跌3.92%，新思科技跌3.82%，甲骨文跌1.56%跌幅第三大，HubSpot则涨2.34%、与Palantir、Adobe领跑。",
+          "url": "https://wallstreetcn.com/livenews/3128253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "周四（7月2日），美股信息科技指数跌5.79%，报413.81点，本周累跌4.92%。 周四当天，成分股闪迪、泰瑞达、科磊、康宁公司、IREN、希捷科技、拉姆研究收跌14.13%-10.19%表现最差，西部数据、迈威尔科技/美满电子、高意公司Coherent、Lumentum、Ciena至少跌8.65%紧随其后，微软则涨1.62%，Adobe涨4.14%表现第四，埃森哲涨4.74%，苹果涨4.84%，FICO涨5.32%。 在标普科技板块，伟创力国际收跌10.86%，与闪迪、泰瑞达、科磊、康宁公司、希捷科技、拉姆研究、西部数据等领跌，Tyler科技涨5.45%，与FICO、苹果、埃森哲、Adobe领涨。",
+          "url": "https://wallstreetcn.com/livenews/3128252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "周四（7月2日），美股存储芯片与硬件供应链指数重挫10.32%，报218.59点，本周累计下跌11.21%。 周四当天，成分股全线溃败，闪迪收跌超14.1%，泰瑞达跌超13.6%，希捷科技、拉姆研究、西部数据跌约10%，Rambus、应用材料、美光科技也跌8.81%-5.49%。",
+          "url": "https://wallstreetcn.com/livenews/3128250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "美股三大股指走势分化，纳指跌超1%，标普500指数跌0.28%，道指涨0.64%。",
+          "url": "https://flash.jin10.com/detail/20260703002510414800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "美元指数在非农日跌超0.4%",
+          "url": "https://wallstreetcn.com/livenews/3128198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "美元指数2日下跌",
+          "url": "https://flash.jin10.com/detail/20260703050814356800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "周四（7月2日）纽约尾盘，彭博谷物分类指数涨0.04%，报29.5199点，亚太早盘维持微幅上涨状态，北京时间15:00过后持续扩大涨幅，21:42刷新日高至29.7725点，随后持续回吐涨幅并多次转跌。 CBOT玉米期货跌0.34%，报4.4075美元/蒲式耳。 CBOT小麦期货涨0.04%，报6.0025美元/蒲式耳。 CBOT大豆期货跌0.22%，报11.4675美元/蒲式耳，豆粕期货跌0.10%，豆油期货涨0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3128193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "纳斯达克 标普 道琼斯",
       "match_count": 10,
       "titles": [
@@ -503,11 +946,12 @@
           "url": "https://wallstreetcn.com/livenews/3128239",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时02分]"
         },
         {
           "title": "标普500指数的11个板块多数上涨，保健板块收涨2.7%，日用消费品、公用事业、原材料板块至多涨2.41%，可选消费、电信板块至多收跌0.83%，信息技术/科技板块跌1.46%。",
@@ -614,105 +1058,6 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
-          "url": "https://www.zhihu.com/question/2056021886144864275",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨0.25%，报93.57美元，整体高开低走。 Global X网络安全ETF涨0.38%，纳斯达克网络安全ETF跌0.48%，ETFMG网络安全ETF跌0.12%",
-          "url": "https://wallstreetcn.com/livenews/3128214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时59分]"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨2.05%，暂报2187.21点，整体持续震荡上行。 MarketVectorTM数字资产100中盘指数涨3.35%，报2532.09点。 MarketVector数字资产100指数涨3.33%，报12304.78点。 目前，Solana涨4.41%，狗狗币涨2.28%，XRP涨2.96%。 比特币涨2.59%，暂报61616.63美元，整体呈现出长尾W形走势；以太坊涨5.05%，暂报1699美元。",
-          "url": "https://wallstreetcn.com/livenews/3128161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时08分]"
-        },
-        {
-          "title": "美股存储芯片指数初步收跌约11%，费城半导体指数跌约6%。 标普500指数初步大致收平，科技板块跌1.7%，电信板块跌0.8%，可选消费板块跌0.7%，公用事业、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.6%，成分股中，闪迪初步收跌15.3%，泰瑞达、科磊、迈威尔科技/美满电子、拉姆研究、希捷科技、西部数据至少跌约10%，特斯拉重挫8%，Adobe涨3.9%，苹果涨4.7%，汤森路透涨5.7%，Strategy涨7.9%。",
-          "url": "https://wallstreetcn.com/livenews/3128205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美股三大股指走势分化，纳指跌超1%，标普500指数跌0.28%，道指涨0.64%。",
-          "url": "https://flash.jin10.com/detail/20260703002510414800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "美元指数在非农日跌超0.4%",
-          "url": "https://wallstreetcn.com/livenews/3128198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "美元指数2日下跌",
-          "url": "https://flash.jin10.com/detail/20260703050814356800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "周四（7月2日）纽约尾盘，彭博谷物分类指数涨0.04%，报29.5199点，亚太早盘维持微幅上涨状态，北京时间15:00过后持续扩大涨幅，21:42刷新日高至29.7725点，随后持续回吐涨幅并多次转跌。 CBOT玉米期货跌0.34%，报4.4075美元/蒲式耳。 CBOT小麦期货涨0.04%，报6.0025美元/蒲式耳。 CBOT大豆期货跌0.22%，报11.4675美元/蒲式耳，豆粕期货跌0.10%，豆油期货涨0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3128193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗 布伦特原油 原油指数",
       "match_count": 5,
       "titles": [
@@ -774,60 +1119,21 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 4,
+      "keyword_group": "芯片 光模块",
+      "match_count": 5,
       "titles": [
         {
-          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
-          "url": "https://www.cls.cn/detail/2415523",
-          "source": "财联社热门",
+          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
+          "url": "https://wallstreetcn.com/articles/3776018",
+          "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
-        },
-        {
-          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
-          "url": "https://www.cls.cn/detail/2415416",
-          "source": "财联社热门",
-          "ranks": [
+            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
         },
-        {
-          "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
-          "url": "https://www.cls.cn/detail/2415483",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
-        },
-        {
-          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3776030",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 4,
-      "titles": [
         {
           "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
           "url": "https://wallstreetcn.com/articles/3776024",
@@ -840,18 +1146,6 @@
           "time_info": "[01时26分 ~ 04时53分]"
         },
         {
-          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
-          "url": "https://wallstreetcn.com/articles/3776018",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
-        },
-        {
           "title": "非农提振昙花一现，芯片股两日累跌11%，纳指独跌，道指新高，黄金大涨",
           "url": "https://wallstreetcn.com/articles/3776024",
           "source": "华尔街见闻",
@@ -861,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 05时59分]"
+        },
+        {
+          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
           "title": "美股收盘：芯片股重挫 闪迪大跌14%",
@@ -876,6 +1181,57 @@
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
+          "url": "https://www.cls.cn/detail/2415483",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3776030",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "涨价 核心材料",
       "match_count": 2,
       "titles": [
@@ -885,22 +1241,24 @@
           "source": "百度热搜",
           "ranks": [
             26,
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 05时59分]"
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时02分]"
         },
         {
           "title": "半导体开启年内第二轮涨价",
           "url": "https://www.douyin.com/hot/2555058",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 07时02分]"
         }
       ]
     },
@@ -915,11 +1273,12 @@
           "ranks": [
             8,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
         },
         {
           "title": "巴西规划部长：柴油补贴的取消速度将慢于汽油，以避免价格剧烈波动和供应风险。",
@@ -956,7 +1315,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         }
@@ -976,8 +1335,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
         },
         {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
@@ -1005,8 +1364,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 05时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
         },
         {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
@@ -1023,6 +1382,23 @@
       ]
     },
     {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "京瓷株式会社（Kyocera）未来七年将投资1000亿日元到MLCC（片式多层陶瓷电容器）产品。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3128264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "复盘",
       "match_count": 1,
       "titles": [
@@ -1033,11 +1409,29 @@
           "ranks": [
             16,
             25,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 04时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 07时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
+          "url": "https://wallstreetcn.com/livenews/3128255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     }
