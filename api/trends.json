@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T20:03:07.528754+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-07-02T23:05:34.688884+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美国贸易代表：特朗普的贸易政策已经取代了《美墨加协定》的许多内容。",
@@ -42,6 +42,18 @@
           "time_info": "[05时17分 ~ 07时02分]"
         },
         {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时05分]"
+        },
+        {
           "title": "美议员：不许苹果找中企买，坏了特朗普大事",
           "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
           "source": "凤凰网",
@@ -75,17 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 07时02分]"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "美光向“特朗普账户”注资2.5亿美元，特朗普称其政策“大获成功”",
@@ -198,6 +199,17 @@
           "time_info": "01时06分"
         },
         {
+          "title": "特朗普的顾问哈塞特批评鲍威尔继续留在美联储",
+          "url": "https://flash.jin10.com/detail/20260702222615551800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "美国总统特朗普：美光科技(MU.O)对“特朗普账户”的2.5亿美元投资是“同类投资中规模最大的企业投资”。",
           "url": "https://flash.jin10.com/detail/20260702002924479800",
           "source": "金十数据",
@@ -273,6 +285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "特朗普参加活动后直接拿走剪刀",
+          "url": "https://www.toutiao.com/trending/7656820359463518259/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "美国总统特朗普：西班牙并非北约的良好成员。 西班牙将得到教训。 数十年过后，将按我们的方式应对古巴问题。",
@@ -587,7 +610,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -649,8 +672,259 @@
       ]
     },
     {
+      "keyword_group": "美联储 非农",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "“小非农”降温！美国6月ADP新增就业人数降至9.8万，远低于预期",
+          "url": "https://wallstreetcn.com/articles/3775979",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 20时03分]"
+        },
+        {
+          "title": "美联储加息究竟是不是“危言耸听”？今晚美国非农夜重磅来袭！",
+          "url": "https://www.cls.cn/detail/2415231",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时52分 ~ 20时03分]"
+        },
+        {
+          "title": "据悉沃什任命贝森特助手出任美联储顾问",
+          "url": "https://flash.jin10.com/detail/20260702032152144800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "沃什暗示美联储资产负债表缩减之路漫长",
+          "url": "https://wallstreetcn.com/livenews/3127543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "美国参议员沃伦致信美联储理事沃勒，要求停止推进地区联储改革方案",
+          "url": "https://wallstreetcn.com/livenews/3127556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
+          "url": "https://wallstreetcn.com/articles/3776083",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "沃什最新定性：美联储资产负债表已近“财政工具”，18年扩表不可能几周缩回去",
+          "url": "https://flash.jin10.com/detail/20260702064759449800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "非农打击加息预期，美股指走高，黄金股领涨，科技股小幅反弹，金银涨幅扩大",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
+          "url": "https://www.cls.cn/detail/2415792",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "美联储主席沃什：将选择美国财长贝森特的幕僚萨曼莎·施瓦布(Samantha Schwab)担任顾问。",
+          "url": "https://wallstreetcn.com/livenews/3127581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "美联储主席沃什：将选择美国财长贝森特的幕僚萨曼莎·施瓦布(Samantha Schwab)担任顾问。",
+          "url": "https://flash.jin10.com/detail/20260702024907146800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "今晚，沃什时代首份非农出炉，世界杯或营造就业\"虚火\"",
+          "url": "https://wallstreetcn.com/articles/3776051",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "非农今日公布，美股明日休市",
+          "url": "https://flash.jin10.com/detail/20260702094153357800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "美联储7月维持利率不变的概率为71.7%",
+          "url": "https://flash.jin10.com/detail/20260702060304864800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "非农数据",
+          "url": "https://s.weibo.com/weibo?q=%E9%9D%9E%E5%86%9C%E6%95%B0%E6%8D%AE&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "美联储戴利称货币政策略具限制性，预计通胀应该会放缓",
+          "url": "https://flash.jin10.com/detail/20260702221845628800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "非农“爆冷” 美联储加息降温",
+          "url": "https://www.toutiao.com/trending/7657907299265150985/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（7月1日，非农就业报告发布的前一天）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.68%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.63%。",
+          "url": "https://wallstreetcn.com/livenews/3128094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "周三（7月1日），美联储隔夜逆回购协议（RRP）使用规模为10.01亿美元（交易对手4家），上个交易日报269.00亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3127558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "美联储主席沃什计划在一年内利用更优经济数据",
+          "url": "https://wallstreetcn.com/livenews/3127555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "非农公布日，竞猜赢大奖",
+          "url": "https://flash.jin10.com/detail/20260702170857368800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "涨停 跌停",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "【每日收评】全市场超200股涨停！大金融引领沪指放量收红，科技权重陷入调整",
@@ -745,6 +1019,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "雅克科技跌停，公司回应：没有六氟化钨相关业务，也没有布局计划",
+          "url": "https://wallstreetcn.com/livenews/3128115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "A股地产股震荡拉升，金科股份、津投城开涨停，华丽家族、荣丰控股、电子城、滨江集团、绿地控股涨幅居前。",
           "url": "https://flash.jin10.com/detail/20260702094417511800",
           "source": "金十数据",
@@ -811,6 +1096,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "雅克科技跌停，公司回应：没有六氟化钨相关业务，也没有布局计划",
+          "url": "https://flash.jin10.com/detail/20260702222725021800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "PCB、CPO等算力硬件股盘初下挫，剑桥科技触及跌停，泰金新能、方邦股份跌超10%，东山精密、中京电子等跌幅居前。",
           "url": "https://wallstreetcn.com/livenews/3127720",
           "source": "华尔街见闻-快讯",
@@ -869,7 +1165,7 @@
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "韩国半导体基板厂商：三星、SK海力士拟要求下半年降价，年初3%~4%涨幅或将撤回",
@@ -988,6 +1284,28 @@
           "time_info": "[14时31分 ~ 14时32分]"
         },
         {
+          "title": "1000万台折叠屏、8500万台新机！苹果据称在存储荒里反向加单",
+          "url": "https://www.cls.cn/detail/2415328",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "美股存储概念股走低，闪迪跌近5%，希捷科技跌超2%，西部数据跌1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3128110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "18家半导体公司IPO同日获受理，展现细分领域“芯”实力",
           "url": "https://wallstreetcn.com/livenews/3127637",
           "source": "华尔街见闻-快讯",
@@ -1005,7 +1323,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -1046,7 +1364,7 @@
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
@@ -1066,11 +1384,12 @@
           "ranks": [
             8,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 20时03分]"
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 23时05分]"
         },
         {
           "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
@@ -1115,7 +1434,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -1153,6 +1472,17 @@
           "time_info": "10时07分"
         },
         {
+          "title": "Anthropic据悉与三星洽谈定制人工智能芯片事宜",
+          "url": "https://flash.jin10.com/detail/20260702221853768800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "A股存储芯片板块持续走弱，兆易创新触及跌停，江丰电子、精测电子、中科飞测、珂玛科技、华海清科、芯源微、香农芯创、利和兴、神工股份跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3127823",
           "source": "华尔街见闻-快讯",
@@ -1184,147 +1514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美联储 非农",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "“小非农”降温！美国6月ADP新增就业人数降至9.8万，远低于预期",
-          "url": "https://wallstreetcn.com/articles/3775979",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时05分 ~ 20时03分]"
         },
         {
-          "title": "美联储加息究竟是不是“危言耸听”？今晚美国非农夜重磅来袭！",
-          "url": "https://www.cls.cn/detail/2415231",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 20时03分]"
-        },
-        {
-          "title": "据悉沃什任命贝森特助手出任美联储顾问",
-          "url": "https://flash.jin10.com/detail/20260702032152144800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "沃什暗示美联储资产负债表缩减之路漫长",
-          "url": "https://wallstreetcn.com/livenews/3127543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        },
-        {
-          "title": "沃什最新定性：美联储资产负债表已近“财政工具”，18年扩表不可能几周缩回去",
-          "url": "https://flash.jin10.com/detail/20260702064759449800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美联储主席沃什：将选择美国财长贝森特的幕僚萨曼莎·施瓦布(Samantha Schwab)担任顾问。",
-          "url": "https://wallstreetcn.com/livenews/3127581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "美联储主席沃什：将选择美国财长贝森特的幕僚萨曼莎·施瓦布(Samantha Schwab)担任顾问。",
-          "url": "https://flash.jin10.com/detail/20260702024907146800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "非农今日公布，美股明日休市",
-          "url": "https://flash.jin10.com/detail/20260702094153357800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "美联储7月维持利率不变的概率为71.7%",
-          "url": "https://flash.jin10.com/detail/20260702060304864800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "周三（7月1日），美联储隔夜逆回购协议（RRP）使用规模为10.01亿美元（交易对手4家），上个交易日报269.00亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3127558",
+          "title": "报道：Anthropic正与三星洽谈定制人工智能芯片",
+          "url": "https://wallstreetcn.com/livenews/3128092",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "美联储主席沃什计划在一年内利用更优经济数据",
-          "url": "https://wallstreetcn.com/livenews/3127555",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "非农公布日，竞猜赢大奖",
-          "url": "https://flash.jin10.com/detail/20260702170857368800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
+          "time_info": "23时05分"
         }
       ]
     },
@@ -1338,11 +1538,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 23时05分]"
+        },
+        {
+          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
+          "url": "https://www.cls.cn/detail/2415523",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时52分 ~ 20时03分]"
+          "time_info": "[20时02分 ~ 23时05分]"
         },
         {
           "title": "创业板大跌近6%，科创50创年内最大单日跌幅，CPO领跌、存储芯片“一哥”跌停，贵金属逆势拉升",
@@ -1353,30 +1566,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 20时03分]"
-        },
-        {
-          "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
-          "url": "https://www.cls.cn/detail/2415523",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 23时05分]"
         },
         {
           "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
           "url": "https://www.cls.cn/detail/2415483",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时05分]"
         },
         {
           "title": "创业板指跌超4%，科创50指数跌超5%，沪指跌1.58%，深成指跌3.23%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市下跌个股近2400只，其中近百股跌超9%。",
@@ -1458,6 +1661,136 @@
       ]
     },
     {
+      "keyword_group": "风险",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
+          "url": "https://www.cls.cn/detail/2414658",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 14时32分]"
+        },
+        {
+          "title": "深圳市地方金融管理局发布防范金融领域不法中介风险的提示",
+          "url": "https://flash.jin10.com/detail/20260702173438908800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时05分]"
+        },
+        {
+          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
+          "url": "https://www.cls.cn/detail/2414744",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 14时32分]"
+        },
+        {
+          "title": "美元走强与中东风险施压，拉美外汇与股市普遍走低",
+          "url": "https://wallstreetcn.com/livenews/3127616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 07时02分]"
+        },
+        {
+          "title": "国投白银LOF提示二级市场溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3127944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "证券警告称美联储7月加息风险被低估，且就业报告有超预期风险",
+          "url": "https://wallstreetcn.com/livenews/3127572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时29分"
+        },
+        {
+          "title": "英国央行货币政策委员会（MPC）成员Catherine Mann：通胀风险与经济活动之间的权衡已经让我更加重视通胀顽固性，让我转向支持央行在更长时期内按兵不动，可能需要抵御那样的风险。 在实现重返通胀目标方面，政府的财政措施具有重要作用。 放眼未来，问题在于，财政政策是否具有上行意外。 短期、长期通胀预期仍然偏高。 如果实际结果——尤其是通胀预期方面的结果——不利于潜在的通胀进程，那么采取积极的政策举措可以使通胀预期和实际结果向2%的目标靠拢。 6月份，通胀面临的上行风险大于经济活动面临的下行风险。 6月份，以成本为导向的通胀压力正被以国内为导向的金融紧缩政策所抵消。 下半年的数据对我来说尤为重要。 在某些行业，细分的劳动力市场信号并没有整体失业率显示得那么疲软。",
+          "url": "https://wallstreetcn.com/livenews/3128101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "市场消息：印度将扩大原油储备以对冲油价飙升风险。",
+          "url": "https://flash.jin10.com/detail/20260702191256570800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "富国集团策略师：干预风险上升 建议战术性做空美元兑日元",
+          "url": "https://wallstreetcn.com/livenews/3128090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "国投白银LOF提示二级市场溢价风险",
+          "url": "https://flash.jin10.com/detail/20260702170820281800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "涨价 核心材料",
       "match_count": 10,
       "titles": [
@@ -1518,11 +1851,12 @@
           "source": "抖音",
           "ranks": [
             11,
-            29
+            29,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时52分 ~ 20时03分]"
+          "appearance_count": 4,
+          "time_info": "[17时52分 ~ 23时05分]"
         },
         {
           "title": "存储芯片涨价",
@@ -1575,116 +1909,125 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         }
       ]
     },
     {
-      "keyword_group": "风险",
-      "match_count": 9,
+      "keyword_group": "增长 亮眼",
+      "match_count": 10,
       "titles": [
         {
-          "title": "美联储主席沃什拒绝释放7月会议信号 但称通胀风险已降低 黄金爆拉站上4100美元",
-          "url": "https://www.cls.cn/detail/2414658",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 14时32分]"
-        },
-        {
-          "title": "深圳市地方金融管理局发布防范金融领域不法中介风险的提示",
-          "url": "https://flash.jin10.com/detail/20260702173438908800",
+          "title": "就业数据走弱但仍增长，美联储按兵不动获重新评价",
+          "url": "https://flash.jin10.com/detail/20260702223339559800",
           "source": "金十数据",
           "ranks": [
-            3
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "涛涛车业：预计2026年半年度净利润同比增长51.95%-63.64%",
+          "url": "https://wallstreetcn.com/livenews/3127947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
         {
-          "title": "联合国专家组警告：AI发展速度已超越科学认知和监管能力 或带来灾难性风险",
-          "url": "https://www.cls.cn/detail/2414744",
-          "source": "财联社热门",
+          "title": "墨西哥经济部长：减少对亚洲在计算机和电子产品方面的依赖，是墨西哥经济增长前景的关键。",
+          "url": "https://flash.jin10.com/detail/20260702025309827800",
+          "source": "金十数据",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 14时32分]"
-        },
-        {
-          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
-          "url": "https://www.cls.cn/detail/2415407",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
-        },
-        {
-          "title": "美元走强与中东风险施压，拉美外汇与股市普遍走低",
-          "url": "https://wallstreetcn.com/livenews/3127616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 07时02分]"
-        },
-        {
-          "title": "国投白银LOF提示二级市场溢价风险",
-          "url": "https://wallstreetcn.com/livenews/3127944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "证券警告称美联储7月加息风险被低估，且就业报告有超预期风险",
-          "url": "https://wallstreetcn.com/livenews/3127572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
         },
         {
-          "title": "市场消息：印度将扩大原油储备以对冲油价飙升风险。",
-          "url": "https://flash.jin10.com/detail/20260702191256570800",
-          "source": "金十数据",
+          "title": "美国能源信息署（EIA）：美国上周EIA天然气库存增加870亿立方英尺，彭博用户预计增长840亿立方英尺、分析师预期增加805亿立方英尺，周环比增幅3.07%（之前一周增长2.75%），至2.92万亿立方英尺。",
+          "url": "https://wallstreetcn.com/livenews/3128114",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            7
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "盐湖股份：预计上半年净利润同比增长131.38%-142.95%",
+          "url": "https://wallstreetcn.com/livenews/3128004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
         {
-          "title": "国投白银LOF提示二级市场溢价风险",
-          "url": "https://flash.jin10.com/detail/20260702170820281800",
+          "title": "2026年6月基金新开户23.36万户 同比增长16.57% 2026年累计新开183.15万户",
+          "url": "https://wallstreetcn.com/livenews/3128002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "芝商所（CME）：6月日均成交量创历史新高，达到3060万份合约，同比增长19%。",
+          "url": "https://flash.jin10.com/detail/20260702193057426800",
           "source": "金十数据",
           "ranks": [
-            30
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "2026年6月A股新开户286.46万户 同比增长73.99% 2026年累计新开2016.14万户",
+          "url": "https://wallstreetcn.com/livenews/3128001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "华峰化学：预计2026年上半年净利润为16.8亿元~20.8亿元，同比增长70.85%~111.53%。",
+          "url": "https://wallstreetcn.com/livenews/3127917",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
+        },
+        {
+          "title": "永和股份：预计上半年净利润为4.6亿元到5.5亿元，同比增长69.51%到102.68%。",
+          "url": "https://wallstreetcn.com/livenews/3127975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时03分"
         }
       ]
     },
@@ -1705,17 +2048,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时05分 ~ 14时32分]"
-        },
-        {
-          "title": "机器人伴侣订单火爆 被吐槽货不对板",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86+%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B4%A7%E4%B8%8D%E5%AF%B9%E6%9D%BF",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 20时03分]"
         },
         {
           "title": "机器人伴侣价格 11.98 万至 99 万，不同价格之间有啥区别？定价合理吗？你看好它的市场前景吗？",
@@ -1740,6 +2072,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "机器人伴侣订单火爆 被吐槽货不对板",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86+%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B4%A7%E4%B8%8D%E5%AF%B9%E6%9D%BF",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时05分]"
         },
         {
           "title": "机器人伴侣你会买吗",
@@ -1774,7 +2118,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         },
@@ -1803,259 +2147,8 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "涛涛车业：预计2026年半年度净利润同比增长51.95%-63.64%",
-          "url": "https://wallstreetcn.com/livenews/3127947",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "墨西哥经济部长：减少对亚洲在计算机和电子产品方面的依赖，是墨西哥经济增长前景的关键。",
-          "url": "https://flash.jin10.com/detail/20260702025309827800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时29分"
-        },
-        {
-          "title": "盐湖股份：预计上半年净利润同比增长131.38%-142.95%",
-          "url": "https://wallstreetcn.com/livenews/3128004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "2026年6月基金新开户23.36万户 同比增长16.57% 2026年累计新开183.15万户",
-          "url": "https://wallstreetcn.com/livenews/3128002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "芝商所（CME）：6月日均成交量创历史新高，达到3060万份合约，同比增长19%。",
-          "url": "https://flash.jin10.com/detail/20260702193057426800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "2026年6月A股新开户286.46万户 同比增长73.99% 2026年累计新开2016.14万户",
-          "url": "https://wallstreetcn.com/livenews/3128001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "华峰化学：预计2026年上半年净利润为16.8亿元~20.8亿元，同比增长70.85%~111.53%。",
-          "url": "https://wallstreetcn.com/livenews/3127917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "永和股份：预计上半年净利润为4.6亿元到5.5亿元，同比增长69.51%到102.68%。",
-          "url": "https://wallstreetcn.com/livenews/3127975",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "腾讯控股：于7月2日回购了110万股，耗资5.008亿港元。",
-          "url": "https://wallstreetcn.com/livenews/3127948",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "ST际华：拟以2亿元-4亿元回购公司股份，回购价格不超过2.73元/股。",
-          "url": "https://flash.jin10.com/detail/20260702193325314800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "五粮液：截至2026年6月30日已累计回购约2亿元股份，占比0.0653%",
-          "url": "https://wallstreetcn.com/livenews/3127946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "港交所文件显示，腾讯控股(00700.HK)于7月2日回购了110万股，耗资5.008亿港元。",
-          "url": "https://flash.jin10.com/detail/20260702172654691800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "晨光生物：拟以8000万元-1.6亿元回购股份，回购股份的价格为不超过人民币12.50元/股。",
-          "url": "https://wallstreetcn.com/livenews/3127987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时03分"
-        },
-        {
-          "title": "中国央行今日开展2885亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日3705亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3127709",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时07分"
-        },
-        {
-          "title": "五粮液：已回购253.58万股，使用资金总额2亿元",
-          "url": "https://flash.jin10.com/detail/20260702172057386800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2414790",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时02分 ~ 14时32分]"
-        },
-        {
-          "title": "美元指数1日上涨",
-          "url": "https://flash.jin10.com/detail/20260702042100107800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "北美科技软件股指数ETF涨3.02%，报93.34美元。 Global X网络安全ETF涨2.59%，纳斯达克网络安全ETF涨1.40%，ETFMG网络安全ETF涨2.07%",
-          "url": "https://wallstreetcn.com/livenews/3127613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "周三（7月1日），美股行业ETF涨跌各异，金融业ETF收涨2.18%，网络股指数ETF、区域银行ETF、银行业ETF至少涨1.70%，能源业ETF跌0.56%，工业指数ETF、公用事业ETF至多跌1.26%，科技行业ETF跌2.57%，全球科技股指数ETF跌3.17%，半导体ETF跌5.40%。 标普500指数的11个板块中，信息技术/科技板块收跌1.84%，能源板块跌0.56%，金融板块涨2.13%，电信板块涨2.62%。",
-          "url": "https://wallstreetcn.com/livenews/3127607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "美股收盘：金龙指数涨近3% 美光、闪迪跌10%",
-          "url": "https://flash.jin10.com/detail/20260702040235507800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "标普500指数收跌16.13点，跌幅0.22%，报7483.23点。 道琼斯工业平均指数收跌13.96点，跌幅0.03%，报52305.24点。 纳斯达克综合指数（纳指）收跌173.688点，跌幅0.66%，报26040.031点。 纳斯达克100指数收跌467.216点，跌幅1.54%，报29809.133点。 纳斯达克科技市值加权指数收跌1.33%，报2921.0461点，跳空低开之后持续低位震荡。 费城半导体指数收跌893.682点，跌幅6.27%，报13353.279点，跳空低开之后持续扩大跌幅，北京时间02:56刷新日低至13322.630点。 费城证交所KBW银行指数收涨1.79%，报184.54点，突破6月25日所创收盘历史最高位184.64点、逼近当天所创盘中历史最高位187.55点。 道琼斯KBW地区银行指数收涨1.70%，报147.88点，美股早盘持续上扬、00:40刷新盘中历史高位至148.38点，收盘突破6月26日所创收盘历史最高位146.21点。 罗素2000指数收跌0.39%，报3012.59点。 纳斯达克生物科技指数收跌0.05%，报6561.65点。 标普中盘股400指数收跌0.86%，纳斯达克美国中等市值指数跌0.12%，双双低开之后冲高回落。 恐慌指数VIX收涨0.73%，报16.57，欧股盘初跳空高开至17关口上方，随后持续回吐涨幅、21:35刷新日高至17.30、之后快速转跌。",
-          "url": "https://wallstreetcn.com/livenews/3127599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -2069,6 +2162,17 @@
           "time_info": "[01时05分 ~ 07时02分]"
         },
         {
+          "title": "纳斯达克100指数跌幅扩大至0.5%，费城半导体指数跌超1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3128116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
           "title": "周三（7月1日）纽约尾盘，标普500股指期货最终跌0.30%，道指期货跌0.12%，纳斯达克100股指期货跌1.58%。 罗素2000股指期货跌0.39%。",
           "url": "https://wallstreetcn.com/livenews/3127625",
           "source": "华尔街见闻-快讯",
@@ -2079,6 +2183,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 07时02分]"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至0.5%。",
+          "url": "https://flash.jin10.com/detail/20260702223103359800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "纳斯达克100指数回吐涨幅转跌。",
+          "url": "https://flash.jin10.com/detail/20260702222624486800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "道琼斯日内涨幅达0.5%，报52586.85点。",
@@ -2116,61 +2242,176 @@
       ]
     },
     {
-      "keyword_group": "复盘",
-      "match_count": 4,
+      "keyword_group": "美债 美股 美元",
+      "match_count": 7,
       "titles": [
         {
-          "title": "刺刀峡谷5人溺亡事件复盘：明知山有“雨”，偏向险中行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33491537",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时05分 ~ 14时32分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线3连阳收复4100点，算力硬件股遭深幅回调，养殖板块大面积爆发",
-          "url": "https://www.cls.cn/detail/2414302",
+          "title": "美股收盘：软硬件轮动费城指数暴跌6% 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2414790",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7
+            12,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时02分]"
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 14时32分]"
         },
         {
-          "title": "深度复盘长鑫科技发展史",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E5%8F%B2",
-          "source": "bilibili 热搜",
+          "title": "美元指数1日上涨",
+          "url": "https://flash.jin10.com/detail/20260702042100107800",
+          "source": "金十数据",
           "ranks": [
-            9
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "北美科技软件股指数ETF涨3.02%，报93.34美元。 Global X网络安全ETF涨2.59%，纳斯达克网络安全ETF涨1.40%，ETFMG网络安全ETF涨2.07%",
+          "url": "https://wallstreetcn.com/livenews/3127613",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
+          "url": "https://www.zhihu.com/question/2056021886144864275",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
+        {
+          "title": "周三（7月1日），美股行业ETF涨跌各异，金融业ETF收涨2.18%，网络股指数ETF、区域银行ETF、银行业ETF至少涨1.70%，能源业ETF跌0.56%，工业指数ETF、公用事业ETF至多跌1.26%，科技行业ETF跌2.57%，全球科技股指数ETF跌3.17%，半导体ETF跌5.40%。 标普500指数的11个板块中，信息技术/科技板块收跌1.84%，能源板块跌0.56%，金融板块涨2.13%，电信板块涨2.62%。",
+          "url": "https://wallstreetcn.com/livenews/3127607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "美股收盘：金龙指数涨近3% 美光、闪迪跌10%",
+          "url": "https://flash.jin10.com/detail/20260702040235507800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "标普500指数收跌16.13点，跌幅0.22%，报7483.23点。 道琼斯工业平均指数收跌13.96点，跌幅0.03%，报52305.24点。 纳斯达克综合指数（纳指）收跌173.688点，跌幅0.66%，报26040.031点。 纳斯达克100指数收跌467.216点，跌幅1.54%，报29809.133点。 纳斯达克科技市值加权指数收跌1.33%，报2921.0461点，跳空低开之后持续低位震荡。 费城半导体指数收跌893.682点，跌幅6.27%，报13353.279点，跳空低开之后持续扩大跌幅，北京时间02:56刷新日低至13322.630点。 费城证交所KBW银行指数收涨1.79%，报184.54点，突破6月25日所创收盘历史最高位184.64点、逼近当天所创盘中历史最高位187.55点。 道琼斯KBW地区银行指数收涨1.70%，报147.88点，美股早盘持续上扬、00:40刷新盘中历史高位至148.38点，收盘突破6月26日所创收盘历史最高位146.21点。 罗素2000指数收跌0.39%，报3012.59点。 纳斯达克生物科技指数收跌0.05%，报6561.65点。 标普中盘股400指数收跌0.86%，纳斯达克美国中等市值指数跌0.12%，双双低开之后冲高回落。 恐慌指数VIX收涨0.73%，报16.57，欧股盘初跳空高开至17关口上方，随后持续回吐涨幅、21:35刷新日高至17.30、之后快速转跌。",
+          "url": "https://wallstreetcn.com/livenews/3127599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "腾讯控股：于7月2日回购了110万股，耗资5.008亿港元。",
+          "url": "https://wallstreetcn.com/livenews/3127948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
         {
-          "title": "复盘英格兰淘汰民主刚果",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B7%98%E6%B1%B0%E6%B0%91%E4%B8%BB%E5%88%9A%E6%9E%9C",
-          "source": "bilibili 热搜",
+          "title": "ST际华：拟以2亿元-4亿元回购公司股份，回购价格不超过2.73元/股。",
+          "url": "https://flash.jin10.com/detail/20260702193325314800",
+          "source": "金十数据",
           "ranks": [
-            30
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "五粮液：截至2026年6月30日已累计回购约2亿元股份，占比0.0653%",
+          "url": "https://wallstreetcn.com/livenews/3127946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "港交所文件显示，腾讯控股(00700.HK)于7月2日回购了110万股，耗资5.008亿港元。",
+          "url": "https://flash.jin10.com/detail/20260702172654691800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "晨光生物：拟以8000万元-1.6亿元回购股份，回购股份的价格为不超过人民币12.50元/股。",
+          "url": "https://wallstreetcn.com/livenews/3127987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时03分"
+        },
+        {
+          "title": "中国央行今日开展2885亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日3705亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3127709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "五粮液：已回购253.58万股，使用资金总额2亿元",
+          "url": "https://flash.jin10.com/detail/20260702172057386800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
     {
       "keyword_group": "跌破 拉升",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美欧英加央行掌门同台亮相 黄金、白银盘前异动拉升 | 今夜看点",
@@ -2184,6 +2425,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时05分 ~ 10时07分]"
+        },
+        {
+          "title": "日元直线拉升发生了什么",
+          "url": "https://www.toutiao.com/trending/7657043619487973417/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "周三（7月1日）纽约尾盘，现货黄金涨0.57%，报4030.87美元/盎司，日内交投于3960.30-4115.66美元区间，北京时间21:30美股开盘前后显著拉升。 现货白银涨0.90%，报59.0942美元/盎司。 COMEX铜期货跌1.61%，报6.1530美元/磅，日内绝大部分时间处于下跌状态。 现货铂金涨1.74%，现货钯金涨0.27%。",
@@ -2218,6 +2470,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "复盘",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "刺刀峡谷5人溺亡事件复盘：明知山有“雨”，偏向险中行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33491537",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时05分 ~ 14时32分]"
+        },
+        {
+          "title": "【焦点复盘】沪指日线3连阳收复4100点，算力硬件股遭深幅回调，养殖板块大面积爆发",
+          "url": "https://www.cls.cn/detail/2414302",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时02分]"
+        },
+        {
+          "title": "深度复盘长鑫科技发展史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 23时05分]"
+        },
+        {
+          "title": "复盘英格兰淘汰民主刚果",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%B7%98%E6%B1%B0%E6%B0%91%E4%B8%BB%E5%88%9A%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         }
       ]
     },
@@ -2323,7 +2629,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时03分"
         }
@@ -2390,6 +2696,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时05分 ~ 01时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "CPI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "俄罗斯央行：燃油价格可能会让6月CPI上扬大约0.3个百分点。（国际文传电讯社IFX）",
+          "url": "https://wallstreetcn.com/livenews/3128105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         }
       ]
     }
