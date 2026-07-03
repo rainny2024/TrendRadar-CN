@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T21:40:44.028381+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-07-03T23:48:55.539030+08:00",
+  "total_titles_processed": 1597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 72,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -78,6 +78,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
+          "url": "https://flash.jin10.com/detail/20260703234037205800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "美国总统特朗普被问及国会山已经表决通过的住房立法草案（但他本人迟迟没有签字生效为法律），称：情况不错。 其中存在大量由民主党议员们提出的观点。 在国会山通过选民身份问题之前，我不想签署住房草案。",
           "url": "https://wallstreetcn.com/livenews/3128240",
           "source": "华尔街见闻-快讯",
@@ -95,7 +106,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -109,6 +120,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
+        },
+        {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时43分 ~ 23时48分]"
         },
         {
           "title": "特朗普谈伊朗：这是无核化，我认为这是政权更迭",
@@ -135,18 +161,15 @@
           "time_info": "[05时59分 ~ 07时02分]"
         },
         {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            16,
-            15,
-            13
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 21时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时48分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -161,15 +184,16 @@
           "time_info": "[01时26分 ~ 05时59分]"
         },
         {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时40分]"
+          "time_info": "[21时40分 ~ 23时48分]"
         },
         {
           "title": "美国总统特朗普：美国必须在人工智能领域领先。",
@@ -271,17 +295,6 @@
           "time_info": "05时59分"
         },
         {
-          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
-          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
           "url": "https://flash.jin10.com/detail/20260703052511433800",
           "source": "金十数据",
@@ -379,6 +392,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "哥伦比亚总统佩特罗：与美国总统特朗普进行了友好交谈。",
+          "url": "https://flash.jin10.com/detail/20260703233755859800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "美国总统特朗普赞赏股市上涨。 被问及财务状况时，再次赞赏股市。 “我的生意都是我孩子打理的，（担任总统期间）我不参与”。 “我让别人投资我的钱，我不知道他们是谁。”（CNBC）",
@@ -513,6 +537,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "哥伦比亚总统办公室：哥伦比亚总统佩特罗请求将其从制裁名单中移除，美国总统特朗普表示将“尽力而为”。",
+          "url": "https://flash.jin10.com/detail/20260703233102418800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "美国总统特朗普：我认为马斯克会将SpaceX(SPCX.O)股票捐赠给“特朗普账户”。",
           "url": "https://flash.jin10.com/detail/20260703055138280800",
           "source": "金十数据",
@@ -522,6 +557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "哥伦比亚方面表示，佩特罗与特朗普在通话中讨论了非法作物替代问题。",
+          "url": "https://flash.jin10.com/detail/20260703232911849800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "美国官员称：面向新生儿的“特朗普账户”将接受股票捐赠",
@@ -566,6 +612,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "哥伦比亚方面表示，哥伦比亚总统佩特罗与美国总统特朗普进行了电话交谈。",
+          "url": "https://flash.jin10.com/detail/20260703232720414800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "美国总统特朗普：重申计划动用伊朗资金用于购买（美国）食品。",
@@ -656,6 +713,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "据美国哥伦比亚广播公司（CBS）：特朗普准备赦免一批因违反排放及清洁空气相关法规而被定罪的人士，同时仍在讨论其他潜在的赦免对象，包括“吹牛老爹”尚恩·库姆斯及其他几位知名人士。",
+          "url": "https://flash.jin10.com/detail/20260703232115968800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "美国总统特朗普：伊朗局势关乎去核化，而非战争。美国的做法仍然专注于消除核威胁。",
           "url": "https://flash.jin10.com/detail/20260703054407301800",
           "source": "金十数据",
@@ -665,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普将根据顾问建议决定赦免事宜。",
+          "url": "https://flash.jin10.com/detail/20260703231927132800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "特朗普遇刺案最新调查报告披露",
@@ -687,6 +766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普定于当地时间周五召开会议，讨论可能的赦免事宜。",
+          "url": "https://flash.jin10.com/detail/20260703231839027800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "美国总统特朗普：认为与新的伊朗领导层相处融洽。",
@@ -725,7 +815,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -736,8 +826,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时48分]"
         },
         {
           "title": "花旗：随着霍尔木兹海峡冲击消退 布伦特原油或跌至每桶60美元",
@@ -751,15 +841,37 @@
           "time_info": "16时47分"
         },
         {
+          "title": "以总理办公室否认计划暗杀伊朗谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703234542336800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
           "url": "https://wallstreetcn.com/livenews/3128732",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
+          "url": "https://news.ifeng.com/c/8uSnvabtNsd",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "伊朗革命卫队总司令现身",
@@ -807,6 +919,17 @@
           "time_info": "04时53分"
         },
         {
+          "title": "也门胡塞武装：在沙特军机试图阻拦一架伊朗民航客机降落萨那期间，胡塞武装在也门领空对沙特军机进行了对峙。 沙特若发动进一步袭击，将“遭到对沙特机场及核心利益的打击”。",
+          "url": "https://wallstreetcn.com/livenews/3128772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "伊朗外长：美军中央司令部究竟是给本地区带来了安全还是动荡？答案显而易见。同样，我们强大的武装力量也已证明，域外势力甚至连自身都无法保护。",
           "url": "https://flash.jin10.com/detail/20260703024118684800",
           "source": "金十数据",
@@ -824,7 +947,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -835,9 +958,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "价格清单显示，利比亚将7月份Es Sider官方石油销售价格（OSP）定在较即期布伦特原油价格贴水0.30美元/桶，创2025年6月份以来新低；6月份为溢价1.30美元/桶。 将Sharara的OSP定在溢价0.50美元/桶，之前为溢价1.50美元/桶。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3128771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "伊朗已开始就向日本企业出售石油进行谈判。（路透）",
@@ -846,7 +980,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -912,7 +1046,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -941,8 +1075,247 @@
       ]
     },
     {
+      "keyword_group": "美联储 非农",
+      "match_count": 20,
+      "titles": [
+        {
+          "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
+          "url": "https://wallstreetcn.com/articles/3776083",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 21时40分]"
+        },
+        {
+          "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
+          "url": "https://www.cls.cn/detail/2415792",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 13时43分]"
+        },
+        {
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 13时43分]"
+        },
+        {
+          "title": "今晚，沃什时代首份非农出炉，世界杯或营造就业\"虚火\"",
+          "url": "https://wallstreetcn.com/articles/3776051",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时26分 ~ 13时43分]"
+        },
+        {
+          "title": "非农“哑火”，华尔街料沃什可再等，“新美联储通讯社”：报告对联储判断几无影响，就业没通胀重要",
+          "url": "https://wallstreetcn.com/articles/3776096",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 23时48分]"
+        },
+        {
+          "title": "非农数据爆冷，黄金应声上涨！​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260703213235031800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "非美货币在非农日普遍走高",
+          "url": "https://wallstreetcn.com/livenews/3128238",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 07时02分]"
+        },
+        {
+          "title": "德国两年期国债收益率于非农日跌超1个基点，30年期德债收益率涨约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3128159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 03时08分]"
+        },
+        {
+          "title": "美联储7月维持利率不变的概率为82.4%",
+          "url": "https://flash.jin10.com/detail/20260703060815151800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "华尔街点评沃什出任美联储主席以来首份非农就业报告",
+          "url": "https://wallstreetcn.com/livenews/3128174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "周四（7月2日），美联储隔夜逆回购协议（RRP）使用规模为21.75亿美元（交易对手4家），上个交易日报10.01亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3128172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "周四（7月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7888元，较周三纽约尾盘涨59点，日内整体交投于6.7966-6.7836元区间，美国非农就业报告时显著反弹。",
+          "url": "https://wallstreetcn.com/livenews/3128227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "现货黄金在非农日涨超2%",
+          "url": "https://wallstreetcn.com/livenews/3128223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "法巴银行：美联储7月采取行动的可能性降低",
+          "url": "https://flash.jin10.com/detail/20260703232648142800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "“大空头”Michael Burry表示，周三在1051.87美元狙空美光科技。 周四（非农日），美光收跌5.49%，报975.56美元。",
+          "url": "https://wallstreetcn.com/livenews/3128222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "法国巴黎银行首席经济学家Isabelle Mateos y Lago：如果我们看到的美国非农就业数据非常强劲，接近13万或以上，那么我认为7月的会议将会非常、非常引人关注。 现在这种可能性可能降低了，但在我看来，美联储加息的理由并未减弱。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "安联集团首席经济学家Ludovic Subran：美国6月非农就业数据确实疲软，但我仍然认为通胀峰值将高于3.7%，而且美国经济仍有AI、财政支出和能源因素的支撑。 美联储可能不得不在9月份加息。所以我认为这才是欧洲和美国之间的真正分歧。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3128759",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "两年期美债于美国非农日跌超3.7个基点",
+          "url": "https://wallstreetcn.com/livenews/3128244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "法国经济学家眼中的战后局势：美联储与欧洲央行政策或现分歧",
+          "url": "https://wallstreetcn.com/livenews/3128758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "非农“爆冷” 美联储加息降温",
+          "url": "https://www.toutiao.com/trending/7657907299265150985/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片 光模块",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -953,8 +1326,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 21时40分]"
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 23时48分]"
         },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -962,11 +1335,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 21时40分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 23时48分]"
         },
         {
           "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
@@ -1051,6 +1425,18 @@
           "time_info": "[13时43分 ~ 21时40分]"
         },
         {
+          "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
+          "url": "https://www.cls.cn/detail/2416647",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 23时48分]"
+        },
+        {
           "title": "足球内置芯片救了葡萄牙",
           "url": "https://www.toutiao.com/trending/7658148780306776127/",
           "source": "今日头条",
@@ -1107,17 +1493,6 @@
           "time_info": "13时43分"
         },
         {
-          "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
-          "url": "https://www.cls.cn/detail/2416647",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
           "title": "上交所：本周对中船特气、长盈通、昀冢科技等异常波动股票以及财通福鑫LOF、全球芯片LOF等溢价较高的基金进行重点监控。",
           "url": "https://wallstreetcn.com/livenews/3128664",
           "source": "华尔街见闻-快讯",
@@ -1135,7 +1510,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -1149,207 +1524,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美联储 非农",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
-          "url": "https://wallstreetcn.com/articles/3776083",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时26分 ~ 21时40分]"
         },
         {
-          "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
-          "url": "https://www.cls.cn/detail/2415792",
-          "source": "财联社热门",
+          "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
+          "url": "https://www.zhihu.com/question/2056380849625325900",
+          "source": "知乎",
           "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 13时43分]"
-        },
-        {
-          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2415745",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 13时43分]"
-        },
-        {
-          "title": "今晚，沃什时代首份非农出炉，世界杯或营造就业\"虚火\"",
-          "url": "https://wallstreetcn.com/articles/3776051",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 13时43分]"
-        },
-        {
-          "title": "非农“哑火”，华尔街料沃什可再等，“新美联储通讯社”：报告对联储判断几无影响，就业没通胀重要",
-          "url": "https://wallstreetcn.com/articles/3776096",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 21时40分]"
-        },
-        {
-          "title": "非农数据爆冷，黄金应声上涨！​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
-          "url": "https://flash.jin10.com/detail/20260703213235031800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "非美货币在非农日普遍走高",
-          "url": "https://wallstreetcn.com/livenews/3128238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 07时02分]"
-        },
-        {
-          "title": "德国两年期国债收益率于非农日跌超1个基点，30年期德债收益率涨约4个基点",
-          "url": "https://wallstreetcn.com/livenews/3128159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 03时08分]"
-        },
-        {
-          "title": "美联储7月维持利率不变的概率为82.4%",
-          "url": "https://flash.jin10.com/detail/20260703060815151800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "华尔街点评沃什出任美联储主席以来首份非农就业报告",
-          "url": "https://wallstreetcn.com/livenews/3128174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "周四（7月2日），美联储隔夜逆回购协议（RRP）使用规模为21.75亿美元（交易对手4家），上个交易日报10.01亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3128172",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "周四（7月2日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.7888元，较周三纽约尾盘涨59点，日内整体交投于6.7966-6.7836元区间，美国非农就业报告时显著反弹。",
-          "url": "https://wallstreetcn.com/livenews/3128227",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "现货黄金在非农日涨超2%",
-          "url": "https://wallstreetcn.com/livenews/3128223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "“大空头”Michael Burry表示，周三在1051.87美元狙空美光科技。 周四（非农日），美光收跌5.49%，报975.56美元。",
-          "url": "https://wallstreetcn.com/livenews/3128222",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "两年期美债于美国非农日跌超3.7个基点",
-          "url": "https://wallstreetcn.com/livenews/3128244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "非农“爆冷” 美联储加息降温",
-          "url": "https://www.toutiao.com/trending/7657907299265150985/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "time_info": "23时48分"
         }
       ]
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "巴西农业部：6月上旬巴西中南部地区食糖产量下降3%，至230万公吨。乙醇产量增长21%，至21.6亿升。",
@@ -1451,6 +1642,17 @@
           "time_info": "19时25分"
         },
         {
+          "title": "爱尔兰6月企业所得税收入同比增长1.3%，至75亿欧元；剔除苹果(AAPL.O)补缴税款影响后，年初至今企业所得税收入同比增长4.7%。",
+          "url": "https://flash.jin10.com/detail/20260703233121091800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "江波龙：预计上半年净利润92亿元-110亿元，同比增长62,204.03%-74,393.95%",
           "url": "https://wallstreetcn.com/livenews/3128660",
           "source": "华尔街见闻-快讯",
@@ -1504,12 +1706,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "加拿大6月温哥华基准住房价格同比下降6%，住房销售同比增长9.6%。",
+          "url": "https://wallstreetcn.com/livenews/3128754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
@@ -1559,6 +1772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "美股存储芯片指数初步收跌约11%，费城半导体指数跌约6%。 标普500指数初步大致收平，科技板块跌1.7%，电信板块跌0.8%，可选消费板块跌0.7%，公用事业、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.6%，成分股中，闪迪初步收跌15.3%，泰瑞达、科磊、迈威尔科技/美满电子、拉姆研究、希捷科技、西部数据至少跌约10%，特斯拉重挫8%，Adobe涨3.9%，苹果涨4.7%，汤森路透涨5.7%，Strategy涨7.9%。",
@@ -1663,7 +1887,7 @@
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "机器人伴侣订单火爆 被吐槽货不对板",
@@ -1702,6 +1926,19 @@
           "time_info": "13时43分"
         },
         {
+          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
+          "url": "https://www.cls.cn/detail/2416624",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时48分]"
+        },
+        {
           "title": "A股机器人概念全线大涨",
           "url": "https://www.toutiao.com/trending/7657736239235727401/",
           "source": "今日头条",
@@ -1715,28 +1952,28 @@
           "time_info": "[16时47分 ~ 21时40分]"
         },
         {
-          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
-          "url": "https://www.cls.cn/detail/2416624",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时40分]"
-        },
-        {
           "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
           "url": "https://www.cls.cn/detail/2416590",
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时48分]"
+        },
+        {
+          "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
+          "url": "https://www.zhihu.com/question/2056338500371182782",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "港股收盘：恒生指数收涨1.28%，恒生科技指数收涨1%。黄金股涨幅居前，赤峰黄金涨超19%。机器人概念股表现强势，优必选涨超17%，地平线机器人涨超9%。",
@@ -1834,6 +2071,19 @@
           "time_info": "[01时26分 ~ 07时02分]"
         },
         {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 23时48分]"
+        },
+        {
           "title": "高盛展望下半年：科技巨头继续失宠，半导体才是“王者”！",
           "url": "https://www.cls.cn/detail/2416194",
           "source": "财联社热门",
@@ -1841,18 +2091,6 @@
             11,
             8,
             6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 21时40分]"
-        },
-        {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1901,7 +2139,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -2218,19 +2456,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时48分]"
         },
         {
           "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
           "url": "https://www.cls.cn/detail/2416593",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 21时40分]"
+          "appearance_count": 3,
+          "time_info": "[19时25分 ~ 23时48分]"
         },
         {
           "title": "美联储主席沃什称希望美联储资产负债表规模缩小，主要通过资产价格运作，通胀风险已经下降，如何解读？",
@@ -2250,7 +2489,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
         },
@@ -2269,7 +2508,7 @@
     },
     {
       "keyword_group": "涨价 核心材料",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "三星电子开启Q3价格谈判 力求通用DRAM环比涨价20%",
@@ -2277,11 +2516,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 21时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 23时48分]"
         },
         {
           "title": "苹果涨价潮席卷二手市场",
@@ -2309,6 +2549,17 @@
           "time_info": "[01时26分 ~ 07时02分]"
         },
         {
+          "title": "狂赚约百亿！江波龙半年净利接近去年全年八倍 下半年存储品类仍有涨价|财报解读",
+          "url": "https://www.cls.cn/detail/2416926",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "东芯股份：Q2利基存储产品涨价态势延续 预计下半年价格仍将上行",
           "url": "https://flash.jin10.com/detail/20260703160735091800",
           "source": "金十数据",
@@ -2318,6 +2569,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
+          "url": "https://www.cls.cn/detail/2416860",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时40分 ~ 23时48分]"
+        },
+        {
+          "title": "中国央行今日开展630亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日2315亿元逆回购到期。本周净回笼15870亿元。",
+          "url": "https://wallstreetcn.com/livenews/3128328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
+          "url": "https://wallstreetcn.com/livenews/3128255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "阿根廷央行将回购协议期限延长至2028年",
+          "url": "https://wallstreetcn.com/livenews/3128764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         }
       ]
     },
@@ -2439,45 +2741,6 @@
       ]
     },
     {
-      "keyword_group": "回购",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
-          "url": "https://www.cls.cn/detail/2416860",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时40分"
-        },
-        {
-          "title": "中国央行今日开展630亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日2315亿元逆回购到期。本周净回笼15870亿元。",
-          "url": "https://wallstreetcn.com/livenews/3128328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
-          "url": "https://wallstreetcn.com/livenews/3128255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "复盘",
       "match_count": 2,
       "titles": [
@@ -2488,11 +2751,12 @@
           "ranks": [
             6,
             4,
-            25
+            25,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 21时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 23时48分]"
         },
         {
           "title": "深度复盘长鑫科技发展史",
