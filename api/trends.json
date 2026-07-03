@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T13:43:23.174719+08:00",
-  "total_titles_processed": 975,
+  "generated_at": "2026-07-03T16:47:32.332223+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
@@ -99,6 +99,18 @@
           "time_info": "[05时59分 ~ 07时02分]"
         },
         {
+          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
+          "url": "https://www.cls.cn/detail/2416012",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时47分]"
+        },
+        {
           "title": "美国总统特朗普：我在做同样的关税，但形势更加严峻了。",
           "url": "https://wallstreetcn.com/livenews/3128241",
           "source": "华尔街见闻-快讯",
@@ -123,6 +135,18 @@
           "time_info": "[01时26分 ~ 05时59分]"
         },
         {
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时47分]"
+        },
+        {
           "title": "美国总统特朗普：美国必须在人工智能领域领先。",
           "url": "https://flash.jin10.com/detail/20260703053041502800",
           "source": "金十数据",
@@ -132,17 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
-        },
-        {
-          "title": "特朗普谈非农“爆冷”：沃什必须做他该干的事，但FED理事会有点敌对！",
-          "url": "https://www.cls.cn/detail/2416012",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
         },
         {
           "title": "美国总统特朗普：我在英伟达(NVDA.O)中持有非常少量的股票。",
@@ -382,7 +395,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -492,7 +505,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -517,17 +530,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
-        },
-        {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
         },
         {
           "title": "美国总统特朗普：重申计划动用伊朗资金用于购买（美国）食品。",
@@ -635,7 +637,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -697,8 +699,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时26分 ~ 13时43分]"
+          "appearance_count": 9,
+          "time_info": "[01时26分 ~ 16时47分]"
         },
         {
           "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
@@ -741,6 +743,19 @@
           "time_info": "[01时26分 ~ 13时43分]"
         },
         {
+          "title": "非农“哑火”，华尔街料沃什可再等，“新美联储通讯社”：报告对联储判断几无影响，就业没通胀重要",
+          "url": "https://wallstreetcn.com/articles/3776096",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时47分]"
+        },
+        {
           "title": "非美货币在非农日普遍走高",
           "url": "https://wallstreetcn.com/livenews/3128238",
           "source": "华尔街见闻-快讯",
@@ -751,18 +766,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时59分 ~ 07时02分]"
-        },
-        {
-          "title": "非农“哑火”，华尔街料沃什可再等，“新美联储通讯社”：报告对联储判断几无影响，就业没通胀重要",
-          "url": "https://wallstreetcn.com/articles/3776096",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时43分]"
         },
         {
           "title": "德国两年期国债收益率于非农日跌超1个基点，30年期德债收益率涨约4个基点",
@@ -863,6 +866,170 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 16时47分]"
+        },
+        {
+          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
+          "url": "https://wallstreetcn.com/articles/3776018",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 04时53分]"
+        },
+        {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时47分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时47分]"
+        },
+        {
+          "title": "非农提振昙花一现，芯片股两日累跌11%，纳指独跌，道指新高，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 05时59分]"
+        },
+        {
+          "title": "据悉Meta正考虑与三星合作，生产价值10万亿韩元的定制AI芯片",
+          "url": "https://flash.jin10.com/detail/20260703162128323800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "足球内置芯片救了葡萄牙",
+          "url": "https://www.baidu.com/s?wd=%E8%B6%B3%E7%90%83%E5%86%85%E7%BD%AE%E8%8A%AF%E7%89%87%E6%95%91%E4%BA%86%E8%91%A1%E8%90%84%E7%89%99",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时47分]"
+        },
+        {
+          "title": "Meta据悉考虑由三星代工10万亿韩元定制AI芯片生产",
+          "url": "https://wallstreetcn.com/livenews/3128547",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "足球内置芯片救了葡萄牙",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%B3%E7%90%83%E5%86%85%E7%BD%AE%E8%8A%AF%E7%89%87%E6%95%91%E4%BA%86%E8%91%A1%E8%90%84%E7%89%99%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "据首尔经济日报：Meta公司正考虑与三星合作生产价值10万亿韩元的定制人工智能芯片。",
+          "url": "https://flash.jin10.com/detail/20260703161529652800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "A股存储芯片板块午后异动拉升，北京君正涨超14%，德明利封板涨停，普冉股份、生益科技、佰维存储等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703130240916800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美股收盘：芯片股重挫 闪迪大跌14%",
+          "url": "https://flash.jin10.com/detail/20260703040150384800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "足球内置芯片救了葡萄牙",
+          "url": "https://www.toutiao.com/trending/7658148780306776127/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
@@ -1013,6 +1180,144 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "花旗：随着霍尔木兹海峡冲击消退 布伦特原油或跌至每桶60美元",
+          "url": "https://wallstreetcn.com/livenews/3128554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "伊朗外长：只有在全面、包容且不受外部干涉的情况下，本地区的和平才能得以维系。",
+          "url": "https://flash.jin10.com/detail/20260703024121722800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
+          "url": "https://flash.jin10.com/detail/20260703040541565800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "伊朗外长：美军中央司令部究竟是给本地区带来了安全还是动荡？答案显而易见。同样，我们强大的武装力量也已证明，域外势力甚至连自身都无法保护。",
+          "url": "https://flash.jin10.com/detail/20260703024118684800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "国际原子能机构：尚未获准进入伊朗核设施",
+          "url": "https://wallstreetcn.com/livenews/3128532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
+          "url": "https://flash.jin10.com/detail/20260703125512180800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "哈梅内伊遗体告别仪式在伊朗举行",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%BE%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260703002320925800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "国际原子能机构：尚未获准进入伊朗核设施",
+          "url": "https://flash.jin10.com/detail/20260703160312071800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "花旗预计伊朗与美国谅解备忘录得以维系 布伦特油价年底在60-65美元",
+          "url": "https://wallstreetcn.com/livenews/3128309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703031850277800",
+          "source": "金十数据",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1210,7 +1515,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1232,7 +1537,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1243,7 +1548,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1254,228 +1559,15 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
-          "url": "https://wallstreetcn.com/articles/3776018",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
-        },
-        {
-          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 04时53分]"
-        },
-        {
-          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 13时43分]"
-        },
-        {
-          "title": "非农提振昙花一现，芯片股两日累跌11%，纳指独跌，道指新高，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 05时59分]"
-        },
-        {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时43分]"
-        },
-        {
-          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
-          "url": "https://www.cls.cn/detail/2415948",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时43分]"
-        },
-        {
-          "title": "足球内置芯片救了葡萄牙",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%B3%E7%90%83%E5%86%85%E7%BD%AE%E8%8A%AF%E7%89%87%E6%95%91%E4%BA%86%E8%91%A1%E8%90%84%E7%89%99%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "A股存储芯片板块午后异动拉升，北京君正涨超14%，德明利封板涨停，普冉股份、生益科技、佰维存储等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260703130240916800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "足球内置芯片救了葡萄牙",
-          "url": "https://www.baidu.com/s?wd=%E8%B6%B3%E7%90%83%E5%86%85%E7%BD%AE%E8%8A%AF%E7%89%87%E6%95%91%E4%BA%86%E8%91%A1%E8%90%84%E7%89%99",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "美股收盘：芯片股重挫 闪迪大跌14%",
-          "url": "https://flash.jin10.com/detail/20260703040150384800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
-          "url": "https://wallstreetcn.com/livenews/3128431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "伊朗外长：只有在全面、包容且不受外部干涉的情况下，本地区的和平才能得以维系。",
-          "url": "https://flash.jin10.com/detail/20260703024121722800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
-          "url": "https://flash.jin10.com/detail/20260703040541565800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "伊朗外长：美军中央司令部究竟是给本地区带来了安全还是动荡？答案显而易见。同样，我们强大的武装力量也已证明，域外势力甚至连自身都无法保护。",
-          "url": "https://flash.jin10.com/detail/20260703024118684800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
-          "url": "https://flash.jin10.com/detail/20260703125512180800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
-          "url": "https://flash.jin10.com/detail/20260703002320925800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "花旗预计伊朗与美国谅解备忘录得以维系 布伦特油价年底在60-65美元",
-          "url": "https://wallstreetcn.com/livenews/3128309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
-          "url": "https://flash.jin10.com/detail/20260703031850277800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
         }
       ]
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -1485,8 +1577,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时47分]"
         },
         {
           "title": "1000万台折叠屏、8500万台新机！苹果据称在存储荒里反向加单",
@@ -1501,6 +1593,18 @@
           "time_info": "[01时26分 ~ 07时02分]"
         },
         {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时47分]"
+        },
+        {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
           "url": "https://wallstreetcn.com/livenews/3128212",
           "source": "华尔街见闻-快讯",
@@ -1513,15 +1617,26 @@
           "time_info": "[04时53分 ~ 05时59分]"
         },
         {
-          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
-          "url": "https://www.cls.cn/detail/2415987",
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "高盛展望下半年：科技巨头继续失宠，半导体才是“王者”！",
+          "url": "https://www.cls.cn/detail/2416194",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 13时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         },
         {
           "title": "机构：三季度存储器价格受AI服务器支撑 预计将季增13-18%",
@@ -1530,7 +1645,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1552,9 +1667,181 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "韩国联合三星、SK等企业推出312万亿韩元投资计划 重点布局半导体与航天产业",
+          "url": "https://wallstreetcn.com/livenews/3128463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "机器人伴侣订单火爆 被吐槽货不对板",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86+%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B4%A7%E4%B8%8D%E5%AF%B9%E6%9D%BF",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            9,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时51分]"
+        },
+        {
+          "title": "A股机器人概念午后再度拉升，丰光精密30CM涨停，绿的谐波、凯龙高科等多股20CM涨停，万达轴承、昊志机电、丰立智能、奥比中光等涨超10%。",
+          "url": "https://flash.jin10.com/detail/20260703131921758800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "A股人形机器人板块午后持续走强，日盈电子2连板，万里扬、夏厦精密等数十只个股涨停，万达轴承涨超20%，中简科技、奥比中光、长盛轴承、恒辉安防涨超15%，埃夫特、恒工精密、等数十只个股涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3128440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "A股机器人概念全线大涨",
+          "url": "https://www.toutiao.com/trending/7657736239235727401/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨1.28%，恒生科技指数收涨1%。黄金股涨幅居前，赤峰黄金涨超19%。机器人概念股表现强势，优必选涨超17%，地平线机器人涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3128541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "港股收评：恒指全天震荡收涨1.28% 机器人板块集体爆发",
+          "url": "https://flash.jin10.com/detail/20260703161403452800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3128176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "港股收盘，恒指收涨1.28%，科指收涨1%，机器人板块集体爆发，来福谐波(03952.HK)收涨44.95%，埃斯顿(02715.HK)收涨33.09%。",
+          "url": "https://flash.jin10.com/detail/20260703160847573800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "港股机器人概念股持续走高，来福谐波涨超50%，埃斯顿涨超30%，优必选、兆威机电等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3128523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "苹果涨价潮席卷二手市场",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E5%B8%AD%E5%8D%B7%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时53分 ~ 07时02分]"
+        },
+        {
+          "title": "半导体开启年内第二轮涨价",
+          "url": "https://www.douyin.com/hot/2555058",
+          "source": "抖音",
+          "ranks": [
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "三星电子开启Q3价格谈判 力求通用DRAM环比涨价20%",
+          "url": "https://www.cls.cn/detail/2416391",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "东芯股份：Q2利基存储产品涨价态势延续 预计下半年价格仍将上行",
+          "url": "https://flash.jin10.com/detail/20260703160735091800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     },
@@ -1580,7 +1867,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1591,7 +1878,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1609,55 +1896,41 @@
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 4,
+      "keyword_group": "日经 韩国股市",
+      "match_count": 3,
       "titles": [
         {
-          "title": "机器人伴侣订单火爆 被吐槽货不对板",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E8%AE%A2%E5%8D%95%E7%81%AB%E7%88%86+%E8%A2%AB%E5%90%90%E6%A7%BD%E8%B4%A7%E4%B8%8D%E5%AF%B9%E6%9D%BF",
-          "source": "百度热搜",
+          "title": "京瓷株式会社（Kyocera）未来七年将投资1000亿日元到MLCC（片式多层陶瓷电容器）产品。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3128264",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16,
-            9,
-            13,
-            29
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时26分 ~ 09时51分]"
+          "appearance_count": 1,
+          "time_info": "07时02分"
         },
         {
-          "title": "A股机器人概念午后再度拉升，丰光精密30CM涨停，绿的谐波、凯龙高科等多股20CM涨停，万达轴承、昊志机电、丰立智能、奥比中光等涨超10%。",
-          "url": "https://flash.jin10.com/detail/20260703131921758800",
+          "title": "日经225指数日内涨幅扩大至1.2%，韩国首尔综指涨幅扩大至4.3%。",
+          "url": "https://wallstreetcn.com/livenews/3128418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "一只ETF“撬动”了整个韩国股市",
+          "url": "https://flash.jin10.com/detail/20260703160246568800",
           "source": "金十数据",
           "ranks": [
-            1
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "A股人形机器人板块午后持续走强，日盈电子2连板，万里扬、夏厦精密等数十只个股涨停，万达轴承涨超20%，中简科技、奥比中光、长盛轴承、恒辉安防涨超15%，埃夫特、恒工精密、等数十只个股涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3128440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3128176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "time_info": "16时47分"
         }
       ]
     },
@@ -1683,7 +1956,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1694,7 +1967,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
@@ -1782,68 +2055,21 @@
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "京瓷株式会社（Kyocera）未来七年将投资1000亿日元到MLCC（片式多层陶瓷电容器）产品。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3128264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "日经225指数日内涨幅扩大至1.2%，韩国首尔综指涨幅扩大至4.3%。",
-          "url": "https://wallstreetcn.com/livenews/3128418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "涨价 核心材料",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果涨价潮席卷二手市场",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E5%B8%AD%E5%8D%B7%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时53分 ~ 07时02分]"
-        },
-        {
-          "title": "半导体开启年内第二轮涨价",
-          "url": "https://www.douyin.com/hot/2555058",
-          "source": "抖音",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时26分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "复盘",
       "match_count": 2,
       "titles": [
+        {
+          "title": "葡萄牙晋级16强赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99%E6%99%8B%E7%BA%A716%E5%BC%BA%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 16时47分]"
+        },
         {
           "title": "深度复盘长鑫科技发展史",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%E5%8F%B2",
@@ -1857,17 +2083,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 07时02分]"
-        },
-        {
-          "title": "葡萄牙晋级16强赛后复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99%E6%99%8B%E7%BA%A716%E5%BC%BA%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
         }
       ]
     },
@@ -1927,7 +2142,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         }
