@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-03T07:02:42.714304+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-07-03T09:51:25.679245+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 56,
       "titles": [
+        {
+          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时51分]"
+        },
         {
           "title": "美国总统特朗普：不管人工智能是好是坏， 我们已经用上这项技术了。",
           "url": "https://flash.jin10.com/detail/20260703053547693800",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
-        },
-        {
-          "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501745",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
         },
         {
           "title": "美国总统特朗普：（关于住房法案）没问题。",
@@ -48,7 +49,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -150,7 +151,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -238,7 +239,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -271,7 +272,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -315,7 +316,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -359,7 +360,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -381,7 +382,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -414,7 +415,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -436,7 +437,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -447,7 +448,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -469,7 +470,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -480,7 +481,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -491,7 +492,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -502,7 +503,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -513,7 +514,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -524,7 +525,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -535,7 +536,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -546,7 +547,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -557,7 +558,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -568,7 +569,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -579,7 +580,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -590,7 +591,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -601,7 +602,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -612,7 +613,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -623,7 +624,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -631,7 +632,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
@@ -641,20 +642,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
-        },
-        {
-          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2415745",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时51分]"
         },
         {
           "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
@@ -665,8 +654,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时51分]"
+        },
+        {
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时51分]"
         },
         {
           "title": "今晚，沃什时代首份非农出炉，世界杯或营造就业\"虚火\"",
@@ -677,8 +679,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时51分]"
         },
         {
           "title": "非美货币在非农日普遍走高",
@@ -705,13 +707,24 @@
           "time_info": "[01时26分 ~ 03时08分]"
         },
         {
+          "title": "非农“哑火”，华尔街料沃什可再等，“新美联储通讯社”：报告对联储判断几无影响，就业没通胀重要",
+          "url": "https://wallstreetcn.com/articles/3776096",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "美联储7月维持利率不变的概率为82.4%",
           "url": "https://flash.jin10.com/detail/20260703060815151800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -777,7 +790,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -796,7 +809,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "韩国 KOSPI 指数大跌 8%，SK 海力士暴跌 14%，单日蒸发 1600 亿美元市值，如何解读？",
@@ -837,6 +850,17 @@
           "time_info": "[01时26分 ~ 03时08分]"
         },
         {
+          "title": "美股期货走高，纳斯达克100指数期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3128332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "美股存储芯片指数初步收跌约11%，费城半导体指数跌约6%。 标普500指数初步大致收平，科技板块跌1.7%，电信板块跌0.8%，可选消费板块跌0.7%，公用事业、保健、日用消费品板块涨超2%。 纳斯达克100指数初步收跌1.6%，成分股中，闪迪初步收跌15.3%，泰瑞达、科磊、迈威尔科技/美满电子、拉姆研究、希捷科技、西部数据至少跌约10%，特斯拉重挫8%，Adobe涨3.9%，苹果涨4.7%，汤森路透涨5.7%，Strategy涨7.9%。",
           "url": "https://wallstreetcn.com/livenews/3128205",
           "source": "华尔街见闻-快讯",
@@ -854,7 +878,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -865,7 +889,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -876,7 +900,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -887,7 +911,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -1058,8 +1082,92 @@
       ]
     },
     {
+      "keyword_group": "芯片 光模块",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
+          "url": "https://wallstreetcn.com/articles/3776018",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时26分 ~ 04时53分]"
+        },
+        {
+          "title": "非农提振昙花一现，芯片股两日累跌11%，纳指独跌，道指新高，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 05时59分]"
+        },
+        {
+          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3776024",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 09时51分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
+          "url": "https://www.cls.cn/detail/2415948",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "美股收盘：芯片股重挫 闪迪大跌14%",
+          "url": "https://flash.jin10.com/detail/20260703040150384800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗外长：只有在全面、包容且不受外部干涉的情况下，本地区的和平才能得以维系。",
@@ -1106,6 +1214,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "花旗预计伊朗与美国谅解备忘录得以维系 布伦特油价年底在60-65美元",
+          "url": "https://wallstreetcn.com/livenews/3128309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
           "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
           "url": "https://flash.jin10.com/detail/20260703031850277800",
           "source": "金十数据",
@@ -1119,81 +1238,20 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
-          "url": "https://wallstreetcn.com/articles/3776018",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
-        },
-        {
-          "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 04时53分]"
-        },
-        {
-          "title": "非农提振昙花一现，芯片股两日累跌11%，纳指独跌，道指新高，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 05时59分]"
-        },
-        {
-          "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
-          "url": "https://wallstreetcn.com/articles/3776024",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        },
-        {
-          "title": "美股收盘：芯片股重挫 闪迪大跌14%",
-          "url": "https://flash.jin10.com/detail/20260703040150384800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "104天！宇树科技科创板IPO注册生效 A股“人形机器人第一股”诞生在即",
           "url": "https://www.cls.cn/detail/2415523",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时51分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -1201,17 +1259,6 @@
           "source": "财联社热门",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
-        },
-        {
-          "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
-          "url": "https://www.cls.cn/detail/2415483",
-          "source": "财联社热门",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -1226,8 +1273,186 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时51分]"
+        },
+        {
+          "title": "【焦点复盘】科创50跌7.7%创年内单日最大跌幅，多只硬科技权重股遭遇跌停，贵金属板块逆势领涨",
+          "url": "https://www.cls.cn/detail/2415483",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时51分]"
+        },
+        {
+          "title": "科创50指数探底回升翻红，此前一度跌近2%。成分股中，国博电子、晶合集成涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260703094544307800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "机器人概念股继续活跃，北纬科技、雷赛智能、首开股份竞价涨停，景兴纸业、中大力德、日盈电子、卧龙电驱跟涨，消息上，证监会同意宇树科技股份有限公司首次公开发行股票并在科创板上市的注册申请。",
+          "url": "https://wallstreetcn.com/livenews/3128339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "1000万台折叠屏、8500万台新机！苹果据称在存储荒里反向加单",
+          "url": "https://www.cls.cn/detail/2415328",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2415963",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
+          "url": "https://wallstreetcn.com/livenews/3128212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时53分 ~ 05时59分]"
+        },
+        {
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股半导体板块初盘走弱，气派科技跌超10%，臻宝科技、立昂微、甬矽电子、屹唐股份、银河微电跟跌。",
+          "url": "https://flash.jin10.com/detail/20260703093641373800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时26分 ~ 07时02分]"
+        },
+        {
+          "title": "美联储主席沃什称希望美联储资产负债表规模缩小，主要通过资产价格运作，通胀风险已经下降，如何解读？",
+          "url": "https://www.zhihu.com/question/2055933115936383826",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "巴西规划部长：柴油补贴的取消速度将慢于汽油，以避免价格剧烈波动和供应风险。",
+          "url": "https://flash.jin10.com/detail/20260703022535969800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股氟化工概念盘初持续下探，多氟多跌停，江化微跌超9%，中欣氟材、巨化股份等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260703094627414800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "贵金属板块再度拉升，赤峰黄金、招金黄金2连板，山金国际涨停，晓程科技涨超10%，四川黄金、西部黄金跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3128341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股军工装备持续走强，航发科技涨停，爱乐达、理工导航、隆达股份、航天环宇、立航科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260703094043617800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
@@ -1259,37 +1484,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
-          "url": "https://www.cls.cn/detail/2415407",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
-        },
-        {
-          "title": "巴西规划部长：柴油补贴的取消速度将慢于汽油，以避免价格剧烈波动和供应风险。",
-          "url": "https://flash.jin10.com/detail/20260703022535969800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
         }
       ]
     },
@@ -1332,11 +1526,12 @@
           "ranks": [
             16,
             9,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 09时51分]"
         },
         {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
@@ -1352,32 +1547,30 @@
       ]
     },
     {
-      "keyword_group": "存储 半导体",
+      "keyword_group": "回购",
       "match_count": 2,
       "titles": [
         {
-          "title": "1000万台折叠屏、8500万台新机！苹果据称在存储荒里反向加单",
-          "url": "https://www.cls.cn/detail/2415328",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时26分 ~ 07时02分]"
-        },
-        {
-          "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
-          "url": "https://wallstreetcn.com/livenews/3128212",
+          "title": "中国央行今日开展630亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日2315亿元逆回购到期。本周净回笼15870亿元。",
+          "url": "https://wallstreetcn.com/livenews/3128328",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            29
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
+          "url": "https://wallstreetcn.com/livenews/3128255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时53分 ~ 05时59分]"
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
@@ -1392,9 +1585,43 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数开盘报4031.34点，涨0.06%。 深证成指开盘报15480.12点，跌0.12%。 创业板指开盘报4010.82点，跌0.16%。 沪深300开盘报4809.50点，跌0.06%。 科创50开盘报1978.75点，跌0.43%。 中证500开盘报8702.33点，涨0.09%。 中证1000开盘报8627.38点，涨0.02%。",
+          "url": "https://wallstreetcn.com/livenews/3128333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "降息",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中金：非农降温支持联储不加息、不降息",
+          "url": "https://wallstreetcn.com/livenews/3128303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时51分"
         }
       ]
     },
@@ -1415,23 +1642,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时26分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
-          "url": "https://wallstreetcn.com/livenews/3128255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         }
       ]
     }
