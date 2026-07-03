@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T05:56:25.066691+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-07-04T06:54:46.075778+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "伊朗议长会见中方代表，称已解决中国船只通过海峡问题",
@@ -57,11 +57,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时54分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -73,8 +74,32 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 06时54分]"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
+          "url": "https://flash.jin10.com/detail/20260704030253296800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时01分 ~ 05时56分]"
+          "time_info": "[04时15分 ~ 06时54分]"
+        },
+        {
+          "title": "洲际交易所（ICE）：截至6月30日当周，布伦特原油期货投机者削减了34,704手净多头头寸，降至55,634手。柴油期货投机者削减了2,664手净多头头寸，降至57,852手。",
+          "url": "https://flash.jin10.com/detail/20260704025342619800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时54分]"
         },
         {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
@@ -87,18 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 03时01分]"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
-          "url": "https://flash.jin10.com/detail/20260704030253296800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时56分]"
         },
         {
           "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
@@ -119,18 +132,6 @@
           "ranks": [
             12,
             28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时56分]"
-        },
-        {
-          "title": "洲际交易所（ICE）：截至6月30日当周，布伦特原油期货投机者削减了34,704手净多头头寸，降至55,634手。柴油期货投机者削减了2,664手净多头头寸，降至57,852手。",
-          "url": "https://flash.jin10.com/detail/20260704025342619800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -231,6 +232,17 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
+        },
+        {
           "title": "据AXIOS网站：美国总统特朗普今天与以色列总理内塔尼亚胡通了电话。以色列总理办公室表示，双方同意近期在美国举行会晤。",
           "url": "https://flash.jin10.com/detail/20260704003454888800",
           "source": "金十数据",
@@ -242,15 +254,15 @@
           "time_info": "01时12分"
         },
         {
-          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
-          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
-          "source": "凤凰网",
+          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "美国总统特朗普周五与内塔尼亚胡通电话。（Axios）",
@@ -271,22 +283,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时56分]"
-        },
-        {
-          "title": "借总统身份捞钱？特朗普：赚钱没犯法，不管我家人做啥都有人说“利益冲突”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33509069",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时54分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -294,11 +296,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "美国总统特朗普：赦免6名因“修车被起诉”人士。",
@@ -309,8 +312,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时54分]"
         },
         {
           "title": "哥伦比亚总统佩特罗：特朗普此前并不知道我被列入美国财政部海外资产控制办公室（OFAC）制裁名单，特朗普表示将对此采取行动。",
@@ -361,8 +364,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "阿里内部将全面禁用 Claude Code，因存在植入后门风险，可能会带来哪些连锁反应？",
@@ -373,8 +376,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
+        },
+        {
+          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
+          "url": "https://wallstreetcn.com/livenews/3128834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         },
         {
           "title": "伦铝价格承压，中东风险溢价消退",
@@ -387,17 +402,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 04时15分]"
-        },
-        {
-          "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
-          "url": "https://wallstreetcn.com/livenews/3128834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
         }
       ]
     },
@@ -413,8 +417,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
@@ -424,8 +428,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "一枚芯片拯救了葡萄牙和 C 罗，有人称科技让规则绝对精准，有人称科技让足球失去偶然性和原始美感，你怎么看？",
@@ -434,11 +438,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
@@ -449,75 +454,26 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "一颗14克的芯片，拯救了葡萄牙和C罗",
           "url": "https://wallstreetcn.com/articles/3776164",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美联储 非农",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
-          "url": "https://wallstreetcn.com/livenews/3128844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "非农“哑火”，华尔街料沃什可再等，“新美联储通讯社”：报告对联储判断几无影响，就业没通胀重要",
-          "url": "https://wallstreetcn.com/articles/3776096",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时12分 ~ 03时01分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3128833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
-        },
-        {
-          "title": "美联储加息预期降温致美元走弱，拉美资产迎来反弹",
-          "url": "https://wallstreetcn.com/livenews/3128831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "time_info": "[05时56分 ~ 06时54分]"
         }
       ]
     },
     {
       "keyword_group": "涨价 核心材料",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "狂赚约百亿！江波龙半年净利接近去年全年八倍 下半年存储品类仍有涨价|财报解读",
@@ -529,8 +485,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
+        },
+        {
+          "title": "瑞银上调存储价格预期：DRAM/NAND涨价周期延续至2027年",
+          "url": "https://wallstreetcn.com/livenews/3128849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "三星电子开启Q3价格谈判 力求通用DRAM环比涨价20%",
@@ -552,8 +519,61 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
+          "url": "https://wallstreetcn.com/livenews/3128844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时56分]"
+          "time_info": "[05时56分 ~ 06时54分]"
+        },
+        {
+          "title": "非农“哑火”，华尔街料沃什可再等，“新美联储通讯社”：报告对联储判断几无影响，就业没通胀重要",
+          "url": "https://wallstreetcn.com/articles/3776096",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时01分]"
+        },
+        {
+          "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3128833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
+        },
+        {
+          "title": "美联储加息预期降温致美元走弱，拉美资产迎来反弹",
+          "url": "https://wallstreetcn.com/livenews/3128831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         }
       ]
     },
@@ -570,8 +590,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
@@ -581,11 +601,12 @@
             7,
             8,
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
@@ -596,8 +617,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         }
       ]
     },
@@ -614,20 +635,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
-        },
-        {
-          "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3776160",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         },
         {
           "title": "如何评价存储巨头江波龙上半年净利预增 622 倍至 743 倍，最高赚 110 亿元？",
@@ -636,11 +645,25 @@
           "ranks": [
             13,
             10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 06时54分]"
+        },
+        {
+          "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3776160",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 05时56分]"
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 06时54分]"
         }
       ]
     },
@@ -695,11 +718,12 @@
           "url": "https://wallstreetcn.com/livenews/3128838",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         }
       ]
     },
@@ -732,9 +756,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时54分]"
         }
       ]
     },
@@ -768,8 +792,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时15分 ~ 06时54分]"
         }
       ]
     },
@@ -785,8 +809,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时12分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时12分 ~ 06时54分]"
         }
       ]
     }
