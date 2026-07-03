@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T19:25:35.590106+08:00",
-  "total_titles_processed": 1317,
+  "generated_at": "2026-07-03T21:40:44.028381+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "释新闻｜创下美国总统新纪录，特朗普重返白宫首年赚了多少钱？",
@@ -89,6 +89,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "特朗普说自己是对以色列最好的总统",
+          "url": "https://wallstreetcn.com/livenews/3128731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "美国总统特朗普被问及OpenAI股份时，提到了英特尔(INTC.O)股份（美国政府入股了英特尔）。",
           "url": "https://flash.jin10.com/detail/20260703053218844800",
           "source": "金十数据",
@@ -130,11 +141,12 @@
           "ranks": [
             20,
             16,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 21时40分]"
         },
         {
           "title": "特朗普参加活动后直接拿走剪刀",
@@ -147,6 +159,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 05时59分]"
+        },
+        {
+          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
+          "url": "https://wallstreetcn.com/articles/3776099",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
         },
         {
           "title": "美国总统特朗普：美国必须在人工智能领域领先。",
@@ -248,15 +271,15 @@
           "time_info": "05时59分"
         },
         {
-          "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
-          "url": "https://wallstreetcn.com/articles/3776099",
-          "source": "华尔街见闻",
+          "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
+          "url": "https://news.ifeng.com/c/8uSuVg66mIs",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "21时40分"
         },
         {
           "title": "美国总统特朗普：我的生意都是我孩子在打理，我一点儿也不插手。",
@@ -701,8 +724,225 @@
       ]
     },
     {
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
+          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
+        },
+        {
+          "title": "花旗：随着霍尔木兹海峡冲击消退 布伦特原油或跌至每桶60美元",
+          "url": "https://wallstreetcn.com/livenews/3128554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://wallstreetcn.com/livenews/3128732",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "伊朗革命卫队总司令现身",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E6%80%BB%E5%8F%B8%E4%BB%A4%E7%8E%B0%E8%BA%AB",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "伊朗外长：只有在全面、包容且不受外部干涉的情况下，本地区的和平才能得以维系。",
+          "url": "https://flash.jin10.com/detail/20260703024121722800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
+          "url": "https://flash.jin10.com/detail/20260703040541565800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "伊朗外长：美军中央司令部究竟是给本地区带来了安全还是动荡？答案显而易见。同样，我们强大的武装力量也已证明，域外势力甚至连自身都无法保护。",
+          "url": "https://flash.jin10.com/detail/20260703024118684800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "路透社获得的北约安卡拉峰会声明显示，北约领导人将声明伊朗绝不能拥有核武器，并呼吁伊朗充分尊重霍尔木兹海峡的航行自由。",
+          "url": "https://flash.jin10.com/detail/20260703210817789800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "伊朗总统出席已故最高领袖告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "伊朗已开始就向日本企业出售石油进行谈判。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3128714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "国际原子能机构：尚未获准进入伊朗核设施",
+          "url": "https://wallstreetcn.com/livenews/3128532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
+          "url": "https://flash.jin10.com/detail/20260703125512180800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "哈梅内伊遗体告别仪式在伊朗举行",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%BE%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260703002320925800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "国际原子能机构：尚未获准进入伊朗核设施",
+          "url": "https://flash.jin10.com/detail/20260703160312071800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "伊朗议长：霍尔木兹海峡应由伊朗和阿曼共同管理",
+          "url": "https://flash.jin10.com/detail/20260703210217525800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "花旗预计伊朗与美国谅解备忘录得以维系 布伦特油价年底在60-65美元",
+          "url": "https://wallstreetcn.com/livenews/3128309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
+          "url": "https://flash.jin10.com/detail/20260703031850277800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片 光模块",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "非农降温击碎鹰派叙事，道指新高，芯片股再重挫，纳指100盘中跌2%，黄金大涨",
@@ -713,8 +953,20 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时02分 ~ 21时40分]"
+        },
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时02分 ~ 19时25分]"
+          "time_info": "[09时51分 ~ 21时40分]"
         },
         {
           "title": "芯片股“最大利空”终于来了？Meta会是“第一个缩减资本开支的大厂”吗？",
@@ -727,18 +979,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时26分 ~ 07时02分]"
-        },
-        {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 19时25分]"
         },
         {
           "title": "非农提振昙花一现，纳指100跌幅扩大至1%，存储芯片指数跌超7%，特斯拉跌超6%",
@@ -782,7 +1022,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -803,11 +1043,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 21时40分]"
         },
         {
           "title": "足球内置芯片救了葡萄牙",
@@ -866,15 +1107,37 @@
           "time_info": "13时43分"
         },
         {
+          "title": "【焦点复盘】市场全天现缩量震荡，超160家个股涨逾10%，大批芯片强势股遭遇补跌",
+          "url": "https://www.cls.cn/detail/2416647",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
           "title": "上交所：本周对中船特气、长盈通、昀冢科技等异常波动股票以及财通福鑫LOF、全球芯片LOF等溢价较高的基金进行重点监控。",
           "url": "https://wallstreetcn.com/livenews/3128664",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
+        },
+        {
+          "title": "李在明鞠躬求存储芯片扩产有何意图",
+          "url": "https://www.toutiao.com/trending/7658236527264140819/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "美股收盘：芯片股重挫 闪迪大跌14%",
@@ -891,7 +1154,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国6月非农新增就业5.7万人，仅为市场预期的一半，前值大幅下修，失业率意外降至一年来最低水平",
@@ -902,8 +1165,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时26分 ~ 19时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时26分 ~ 21时40分]"
         },
         {
           "title": "美国6月非农仅增5.7万人远逊预期 市场削减美联储加息押注",
@@ -956,8 +1219,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 21时40分]"
+        },
+        {
+          "title": "非农数据爆冷，黄金应声上涨！​《大有作V》栏目更新，3分钟解读国际金走势>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260703213235031800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
         },
         {
           "title": "非美货币在非农日普遍走高",
@@ -1074,166 +1348,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
-          "url": "https://v.ifeng.com/c/8uSml4XgzRh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "花旗：随着霍尔木兹海峡冲击消退 布伦特原油或跌至每桶60美元",
-          "url": "https://wallstreetcn.com/livenews/3128554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "伊朗革命卫队总司令现身",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E6%80%BB%E5%8F%B8%E4%BB%A4%E7%8E%B0%E8%BA%AB",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
-          "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
-          "url": "https://wallstreetcn.com/livenews/3128431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "伊朗外长：只有在全面、包容且不受外部干涉的情况下，本地区的和平才能得以维系。",
-          "url": "https://flash.jin10.com/detail/20260703024121722800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据以色列 i24News：以色列安全官员回应《纽约时报》相关报道时表示，“如果以色列想清除任何人，就一定做得到。”（此前报道称，美国官员在美伊谈判期间曾担忧以色列可能对伊朗谈判关键人物采取暗杀行动。）",
-          "url": "https://flash.jin10.com/detail/20260703040541565800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        },
-        {
-          "title": "伊朗外长：美军中央司令部究竟是给本地区带来了安全还是动荡？答案显而易见。同样，我们强大的武装力量也已证明，域外势力甚至连自身都无法保护。",
-          "url": "https://flash.jin10.com/detail/20260703024118684800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "国际原子能机构：尚未获准进入伊朗核设施",
-          "url": "https://wallstreetcn.com/livenews/3128532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "伊朗为已故最高领袖哈梅内伊举行遗体告别仪式",
-          "url": "https://flash.jin10.com/detail/20260703125512180800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        },
-        {
-          "title": "哈梅内伊遗体告别仪式在伊朗举行",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%BE%E8%A1%8C",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：奥地利驻德黑兰大使馆恢复运营。",
-          "url": "https://flash.jin10.com/detail/20260703002320925800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
-        },
-        {
-          "title": "国际原子能机构：尚未获准进入伊朗核设施",
-          "url": "https://flash.jin10.com/detail/20260703160312071800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "花旗预计伊朗与美国谅解备忘录得以维系 布伦特油价年底在60-65美元",
-          "url": "https://wallstreetcn.com/livenews/3128309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "美官员曾担忧以色列暗杀伊朗谈判代表",
-          "url": "https://flash.jin10.com/detail/20260703031850277800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "增长 亮眼",
       "match_count": 14,
       "titles": [
@@ -1255,7 +1369,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1277,7 +1391,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1288,7 +1402,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1299,7 +1413,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1321,7 +1435,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1332,7 +1446,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1343,7 +1457,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1354,7 +1468,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1376,7 +1490,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1387,7 +1501,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
@@ -1593,11 +1707,36 @@
           "source": "今日头条",
           "ranks": [
             8,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 21时40分]"
+        },
+        {
+          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
+          "url": "https://www.cls.cn/detail/2416624",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时47分 ~ 19时25分]"
+          "time_info": "[19时25分 ~ 21时40分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
+          "url": "https://www.cls.cn/detail/2416590",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
         },
         {
           "title": "港股收盘：恒生指数收涨1.28%，恒生科技指数收涨1%。黄金股涨幅居前，赤峰黄金涨超19%。机器人概念股表现强势，优必选涨超17%，地平线机器人涨超9%。",
@@ -1611,17 +1750,6 @@
           "time_info": "16时47分"
         },
         {
-          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
-          "url": "https://www.cls.cn/detail/2416624",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
-        },
-        {
           "title": "港股收评：恒指全天震荡收涨1.28% 机器人板块集体爆发",
           "url": "https://flash.jin10.com/detail/20260703161403452800",
           "source": "金十数据",
@@ -1631,17 +1759,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
-        },
-        {
-          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
-          "url": "https://www.cls.cn/detail/2416590",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
         },
         {
           "title": "微软正合并其企业与消费者端AI聊天机器人。 该公司正将多个Copilot AI聊天机器人整合到一个APP。（The Information）",
@@ -1672,7 +1789,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -1691,7 +1808,7 @@
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -1717,16 +1834,17 @@
           "time_info": "[01时26分 ~ 07时02分]"
         },
         {
-          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
-          "url": "https://www.cls.cn/detail/2415987",
+          "title": "高盛展望下半年：科技巨头继续失宠，半导体才是“王者”！",
+          "url": "https://www.cls.cn/detail/2416194",
           "source": "财联社热门",
           "ranks": [
-            12,
-            10
+            11,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时51分 ~ 16时47分]"
+          "time_info": "[16时47分 ~ 21时40分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -1737,20 +1855,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 21时40分]"
         },
         {
-          "title": "高盛展望下半年：科技巨头继续失宠，半导体才是“王者”！",
-          "url": "https://www.cls.cn/detail/2416194",
+          "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
+          "url": "https://www.cls.cn/detail/2415987",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 16时47分]"
         },
         {
           "title": "美股行业ETF涨跌各异，生物科技ETF收涨超2.9%，半导体ETF跌超4.5%",
@@ -1769,11 +1887,23 @@
           "url": "https://www.cls.cn/detail/2416294",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
+        },
+        {
+          "title": "净利预增超740倍！2600亿存储龙头业绩炸裂 | 盘后公告精选",
+          "url": "https://flash.jin10.com/detail/20260703212213881800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "21时40分"
         },
         {
           "title": "机构：三季度存储器价格受AI服务器支撑 预计将季增13-18%",
@@ -2063,7 +2193,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
@@ -2084,11 +2214,23 @@
           "url": "https://www.zhihu.com/question/2056384180200498322",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
+        },
+        {
+          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
+          "url": "https://www.cls.cn/detail/2416593",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时25分 ~ 21时40分]"
         },
         {
           "title": "美联储主席沃什称希望美联储资产负债表规模缩小，主要通过资产价格运作，通胀风险已经下降，如何解读？",
@@ -2102,15 +2244,15 @@
           "time_info": "09时51分"
         },
         {
-          "title": "因存在植入后门风险 阿里内部全面禁用Claude Code",
-          "url": "https://www.cls.cn/detail/2416593",
-          "source": "财联社热门",
+          "title": "中国结算发布《债券通用质押式回购交易结算委托协议必备条款（试行）》和《债券通用质押式回购交易结算风险揭示书必备条款（试行）》的通知。",
+          "url": "https://wallstreetcn.com/livenews/3128707",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时25分"
+          "time_info": "21时40分"
         },
         {
           "title": "巴西规划部长：柴油补贴的取消速度将慢于汽油，以避免价格剧烈波动和供应风险。",
@@ -2138,8 +2280,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 21时40分]"
         },
         {
           "title": "苹果涨价潮席卷二手市场",
@@ -2297,6 +2439,45 @@
       ]
     },
     {
+      "keyword_group": "回购",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "万亿逆回购来了！央行结束缩量操作 精准对冲7月资金到期压力",
+          "url": "https://www.cls.cn/detail/2416860",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时40分"
+        },
+        {
+          "title": "中国央行今日开展630亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日2315亿元逆回购到期。本周净回笼15870亿元。",
+          "url": "https://wallstreetcn.com/livenews/3128328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
+          "url": "https://wallstreetcn.com/livenews/3128255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "复盘",
       "match_count": 2,
       "titles": [
@@ -2306,11 +2487,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 16时47分]"
+          "appearance_count": 3,
+          "time_info": "[13时43分 ~ 21时40分]"
         },
         {
           "title": "深度复盘长鑫科技发展史",
@@ -2339,7 +2521,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         },
@@ -2350,37 +2532,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国央行今日开展630亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日2315亿元逆回购到期。本周净回笼15870亿元。",
-          "url": "https://wallstreetcn.com/livenews/3128328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "上半年300余家公司拟回购逾千亿元，A股回购市场呈现三大新趋势",
-          "url": "https://wallstreetcn.com/livenews/3128255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         }
       ]
     },
@@ -2395,7 +2549,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时25分"
         }
