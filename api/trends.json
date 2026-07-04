@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T22:23:55.327504+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-07-04T23:54:49.029432+08:00",
+  "total_titles_processed": 1360,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "伊朗总统在哈梅内伊葬礼上双手掩面",
@@ -46,33 +46,47 @@
           "url": "https://wallstreetcn.com/livenews/3128947",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
-          "url": "https://flash.jin10.com/detail/20260704220954516800",
-          "source": "金十数据",
-          "ranks": [
+            1,
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
         },
         {
           "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
           "url": "https://wallstreetcn.com/livenews/3128945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
+        },
+        {
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://wallstreetcn.com/livenews/3128943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
+        },
+        {
+          "title": "伊朗外长会晤黎真主党及哈马斯代表",
+          "url": "https://wallstreetcn.com/livenews/3128948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时23分"
+          "time_info": "23时54分"
         },
         {
           "title": "惠誉评级：重新评估全球企业部门面临的与伊朗相关的持续风险。",
@@ -97,17 +111,6 @@
           "time_info": "03时01分"
         },
         {
-          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
-          "url": "https://wallstreetcn.com/livenews/3128943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
           "title": "伊朗总统在哈梅内伊告别仪式抹泪",
           "url": "https://www.toutiao.com/trending/7658230002110119978/",
           "source": "今日头条",
@@ -118,6 +121,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时56分 ~ 13时37分]"
+        },
+        {
+          "title": "伊朗传统两派对立格局被打破，保守派内部进一步分裂，新最高领袖的绝对权力正在被稀释",
+          "url": "https://flash.jin10.com/detail/20260704221625100800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗总统与俄罗斯讨论了扩大合作事宜。",
@@ -147,6 +161,31 @@
           "time_info": "[04时15分 ~ 07时56分]"
         },
         {
+          "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
+          "url": "https://flash.jin10.com/detail/20260704220954516800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
+        },
+        {
+          "title": "上千万伊朗人参与哈梅内伊告别仪式",
+          "url": "https://wallstreetcn.com/livenews/3128938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时54分]"
+        },
+        {
           "title": "伊朗称将回应违反谅解备忘录的行为",
           "url": "https://wallstreetcn.com/livenews/3128852",
           "source": "华尔街见闻-快讯",
@@ -157,18 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 09时54分]"
-        },
-        {
-          "title": "上千万伊朗人参与哈梅内伊告别仪式",
-          "url": "https://wallstreetcn.com/livenews/3128938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时23分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国必须“接受贸易领域的既定现实”。",
@@ -196,6 +223,20 @@
         },
         {
           "title": "伊朗民众泪别哈梅内伊",
+          "url": "https://wallstreetcn.com/livenews/3128923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            17,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 23时54分]"
+        },
+        {
+          "title": "伊朗民众泪别哈梅内伊",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B0%91%E4%BC%97%E6%B3%AA%E5%88%AB%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A",
           "source": "百度热搜",
           "ranks": [
@@ -206,19 +247,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时48分 ~ 22时23分]"
-        },
-        {
-          "title": "伊朗民众泪别哈梅内伊",
-          "url": "https://wallstreetcn.com/livenews/3128923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 22时23分]"
         },
         {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
@@ -233,6 +261,30 @@
           "time_info": "[20时02分 ~ 22时23分]"
         },
         {
+          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
+          "url": "https://flash.jin10.com/detail/20260704214033656800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
+          "url": "https://flash.jin10.com/detail/20260704212154579800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
+        },
+        {
           "title": "伊朗与巴基斯坦在前最高领袖哈梅内伊葬礼结束后举行了会谈。（ISNA）",
           "url": "https://wallstreetcn.com/livenews/3128790",
           "source": "华尔街见闻-快讯",
@@ -243,6 +295,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 03时01分]"
+        },
+        {
+          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
+          "url": "https://flash.jin10.com/detail/20260704211410750800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
         },
         {
           "title": "全国人大常委会副委员长何维代表中方出席伊朗已故最高领袖哈梅内伊葬礼",
@@ -305,15 +369,16 @@
           "time_info": "[18时49分 ~ 20时02分]"
         },
         {
-          "title": "伊朗称捣毁多个与美以有关的“恐怖和极端组织”窝点",
-          "url": "https://flash.jin10.com/detail/20260704214033656800",
+          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
+          "url": "https://flash.jin10.com/detail/20260704200114603800",
           "source": "金十数据",
           "ranks": [
-            6
+            16,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗和巴基斯坦双方在伊朗前最高领袖哈梅内伊的葬礼后举行会谈。",
@@ -336,28 +401,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "据沙特媒体哈达斯与阿拉伯卫星电视台报道，美国与伊朗的谈判将于7月11日在巴基斯坦进行。",
-          "url": "https://flash.jin10.com/detail/20260704212154579800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "阿里·阿兹马伊被任命为伊朗伊斯兰革命卫队海军司令",
-          "url": "https://flash.jin10.com/detail/20260704211410750800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "以总理办公室否认计划暗杀伊朗谈判代表",
@@ -402,17 +445,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        },
-        {
-          "title": "伊朗警告域外国家勿在霍尔木兹海峡制造危机",
-          "url": "https://flash.jin10.com/detail/20260704200114603800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         },
         {
           "title": "伊朗为已故最高领袖哈梅内伊举行公众告别与悼念仪式",
@@ -509,6 +541,17 @@
           "time_info": "[16时22分 ~ 20时02分]"
         },
         {
+          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
+          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时54分]"
+        },
+        {
           "title": "从保守派宠儿到MAGA公敌，她为什么敢“背叛”特朗普？",
           "url": "https://news.ifeng.com/c/8uSuVg66mIs",
           "source": "凤凰网",
@@ -532,26 +575,15 @@
           "time_info": "[01时12分 ~ 09时54分]"
         },
         {
-          "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
-          "url": "https://news.ifeng.com/c/8uUUEfrnQmU",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时23分]"
-        },
-        {
           "title": "特朗普还不死心：我平息了8场战争，却依然没拿到诺奖",
           "url": "https://v.ifeng.com/c/8uU91uEdDMo",
           "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
         },
         {
           "title": "特朗普：我知道沃什想做什么，但他须做分内之事，美联储理事会可能有点“敌对”",
@@ -650,11 +682,12 @@
           "ranks": [
             10,
             14,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时49分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[18时49分 ~ 23时54分]"
         },
         {
           "title": "美国250周年庆典变特朗普私人派对？",
@@ -664,8 +697,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时54分]"
+        },
+        {
+          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
+          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时02分 ~ 23时54分]"
         },
         {
           "title": "美国250周年遇上特朗普",
@@ -677,17 +721,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时48分 ~ 18时49分]"
-        },
-        {
-          "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
-          "url": "https://v.ifeng.com/c/8uTnyXsavVt",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时02分 ~ 22时23分]"
         },
         {
           "title": "美国总统特朗普：伊朗非常想达成协议；因举办哈梅内伊的葬礼，给伊朗放了一周假。",
@@ -765,6 +798,136 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "售价十几万至九十九万的「机器人伴侣」订单破万，仅限成人购买，花高价买仿生陪伴机器人值得吗？",
+          "url": "https://www.zhihu.com/question/2055671696800143351",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            5,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 20时02分]"
+        },
+        {
+          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
+          "url": "https://www.cls.cn/detail/2416624",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 13时37分]"
+        },
+        {
+          "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
+          "url": "https://www.zhihu.com/question/2056338500371182782",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8,
+            14,
+            13,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 09时54分]"
+        },
+        {
+          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
+          "url": "https://www.cls.cn/detail/2416590",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 07时56分]"
+        },
+        {
+          "title": "机器人出口每4元产值有1元深圳造 深圳机器人全球卖爆",
+          "url": "https://flash.jin10.com/detail/20260704222818603800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
+          "url": "https://wallstreetcn.com/livenews/3128913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 20时02分]"
+        },
+        {
+          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
+          "url": "https://flash.jin10.com/detail/20260704150630005800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 18时49分]"
+        },
+        {
+          "title": "无界动力张玉峰：2025年全球人形机器人产量约2万台 商用落地仍接近空白",
+          "url": "https://flash.jin10.com/detail/20260704111528600800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "美发射商业航天器抬升天文卫星轨道，延长工作寿命",
+          "url": "https://wallstreetcn.com/livenews/3128875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "机器人走进生活背后",
+          "url": "https://www.toutiao.com/trending/7658320648371965478/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     },
@@ -898,125 +1061,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "售价十几万至九十九万的「机器人伴侣」订单破万，仅限成人购买，花高价买仿生陪伴机器人值得吗？",
-          "url": "https://www.zhihu.com/question/2055671696800143351",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时54分 ~ 20时02分]"
-        },
-        {
-          "title": "股价剑指500元！“机器人新贵”挺进高价股阵营，这些股也入围“百元天团”",
-          "url": "https://www.cls.cn/detail/2416624",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 13时37分]"
-        },
-        {
-          "title": "优必选 CEO 称珍惜当牛马最后光阴，20 年后是机器人干活，如何看待这一发言？机器人上班会是趋势吗？",
-          "url": "https://www.zhihu.com/question/2056338500371182782",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            14,
-            13,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 09时54分]"
-        },
-        {
-          "title": "【每日收评】三大指数冲高回落小幅收红，机器人产业链全线爆发，半导体材料概念股集体调整",
-          "url": "https://www.cls.cn/detail/2416590",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时12分 ~ 07时56分]"
-        },
-        {
-          "title": "规范引导情感陪伴人形机器人健康发展，两协会联合倡议",
-          "url": "https://wallstreetcn.com/livenews/3128913",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 20时02分]"
-        },
-        {
-          "title": "规范引导情感陪伴人形机器人健康发展 两协会联合倡议",
-          "url": "https://flash.jin10.com/detail/20260704150630005800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 18时49分]"
-        },
-        {
-          "title": "无界动力张玉峰：2025年全球人形机器人产量约2万台 商用落地仍接近空白",
-          "url": "https://flash.jin10.com/detail/20260704111528600800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "美发射商业航天器抬升天文卫星轨道，延长工作寿命",
-          "url": "https://wallstreetcn.com/livenews/3128875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "机器人走进生活背后",
-          "url": "https://www.toutiao.com/trending/7658320648371965478/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "涨价 核心材料",
       "match_count": 7,
       "titles": [
@@ -1031,8 +1075,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时12分 ~ 22时23分]"
+          "appearance_count": 14,
+          "time_info": "[01时12分 ~ 23时54分]"
         },
         {
           "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
@@ -1151,6 +1195,18 @@
           "time_info": "[01时12分 ~ 06时54分]"
         },
         {
+          "title": "央视曝次抛衣健康风险",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%AC%A1%E6%8A%9B%E8%A1%A3%E5%81%A5%E5%BA%B7%E9%A3%8E%E9%99%A9%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
+        },
+        {
           "title": "欧洲央行行长拉加德：人工智能（AI）是生产力和收益的来源。 但该技术也构成了“重大风险”。 大约十年来，我们一直在讨论网络安全风险、黑客攻击、数据盗窃等问题。 但随着AI模型的加速和深化，我们面临的风险要严重得多，因为这一切发生得非常快，而且相应的防御手段以及所需资金仍然没有准备充分。",
           "url": "https://wallstreetcn.com/livenews/3128834",
           "source": "华尔街见闻-快讯",
@@ -1185,17 +1241,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
-        },
-        {
-          "title": "央视曝次抛衣健康风险",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E6%AC%A1%E6%8A%9B%E8%A1%A3%E5%81%A5%E5%BA%B7%E9%A3%8E%E9%99%A9%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
         }
       ]
     },
@@ -1203,6 +1248,20 @@
       "keyword_group": "美联储 非农",
       "match_count": 6,
       "titles": [
+        {
+          "title": "黄金如今又看美联储的脸色了",
+          "url": "https://wallstreetcn.com/articles/3776189",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时48分 ~ 23时54分]"
+        },
         {
           "title": "受AI热潮与美联储乐观预期提振，新兴市场资产全线反弹",
           "url": "https://wallstreetcn.com/livenews/3128844",
@@ -1216,19 +1275,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时56分 ~ 09时54分]"
-        },
-        {
-          "title": "黄金如今又看美联储的脸色了",
-          "url": "https://wallstreetcn.com/articles/3776189",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时48分 ~ 22时23分]"
         },
         {
           "title": "美联储：美国上周银行存款19.374万亿美元，之前一周19.304万亿美元。",
@@ -1282,8 +1328,20 @@
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
+          "url": "https://www.cls.cn/detail/2417029",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 23时54分]"
+        },
         {
           "title": "炸裂！存储巨头江波龙上半年净利预增62204%~74394% | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3776160",
@@ -1300,18 +1358,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时01分 ~ 18时49分]"
-        },
-        {
-          "title": "【早报】证监会征求意见，事关上市公司再融资；A股存储龙头半年报净利最高预增740倍",
-          "url": "https://www.cls.cn/detail/2417029",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 22时23分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -1343,51 +1389,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时01分 ~ 13时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 3,
-      "titles": [
+        },
         {
-          "title": "埃及央行：埃及5月份M2货币供应同比增长19.6%。",
-          "url": "https://flash.jin10.com/detail/20260704221159670800",
-          "source": "金十数据",
+          "title": "韩国存储扩产、Meta出租算力--野村谈“存储两大利空”",
+          "url": "https://wallstreetcn.com/articles/3776202",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时23分"
-        },
-        {
-          "title": "福建：未来5年力争数字经济核心产业增加值年均增长8%以上",
-          "url": "https://flash.jin10.com/detail/20260704091644842800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "蓄力稳增长，三季度专项债发行或加码",
-          "url": "https://wallstreetcn.com/livenews/3128857",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "23时54分"
         }
       ]
     },
     {
       "keyword_group": "复盘",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "米勒复盘BLG战胜T1",
@@ -1396,9 +1414,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
         },
         {
           "title": "非农仅增5.7万，美联储为何不能轻易转鸽？｜大师复盘",
@@ -1412,6 +1430,17 @@
           "time_info": "13时37分"
         },
         {
+          "title": "BLG战胜T1赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%88%98%E8%83%9CT1%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "葡萄牙晋级16强赛后复盘",
           "url": "https://search.bilibili.com/all?keyword=%E8%91%A1%E8%90%84%E7%89%99%E6%99%8B%E7%BA%A716%E5%BC%BA%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
@@ -1421,6 +1450,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "福建：未来5年力争数字经济核心产业增加值年均增长8%以上",
+          "url": "https://flash.jin10.com/detail/20260704091644842800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "埃及央行：埃及5月份M2货币供应同比增长19.6%。",
+          "url": "https://flash.jin10.com/detail/20260704221159670800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
+        },
+        {
+          "title": "蓄力稳增长，三季度专项债发行或加码",
+          "url": "https://wallstreetcn.com/livenews/3128857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
         }
       ]
     },
@@ -1538,9 +1607,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
         }
       ]
     },
@@ -1576,8 +1645,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时37分 ~ 22时23分]"
+          "appearance_count": 7,
+          "time_info": "[13时37分 ~ 23时54分]"
         }
       ]
     },
@@ -1607,11 +1676,12 @@
           "url": "https://www.cls.cn/detail/2417150",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 23时54分]"
         }
       ]
     },
@@ -1628,8 +1698,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时12分 ~ 22时23分]"
+          "appearance_count": 14,
+          "time_info": "[01时12分 ~ 23时54分]"
         }
       ]
     }
