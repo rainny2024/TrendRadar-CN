@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-06T07:56:26.400020+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-07-06T10:03:57.169132+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
           "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 10时03分]"
         },
         {
           "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
@@ -27,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 10时03分]"
         },
         {
           "title": "特朗普又把自己加上了“总统山”",
@@ -56,13 +57,35 @@
           "time_info": "[00时01分 ~ 07时56分]"
         },
         {
+          "title": "特朗普一通电话后，国际足联“破例”了",
+          "url": "https://news.ifeng.com/c/8uWz9x0USqP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "伊朗民众葬礼上向特朗普发出威胁：无耻混蛋，等着被割喉吧",
+          "url": "https://news.ifeng.com/c/8uX2nwSL9n5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "特朗普对哈梅内伊葬礼感到“震惊”",
           "url": "https://wallstreetcn.com/livenews/3129042",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -73,7 +96,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -265,9 +288,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
+        },
+        {
+          "title": "哈梅内伊三子出席葬礼，穆杰塔巴仍未露面！德黑兰高呼“复仇”，特朗普称“震惊”",
+          "url": "https://flash.jin10.com/detail/20260706093626317800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美国高级官员：（特朗普）将在北约峰会期间宣布涉及数十亿美元的计划。",
@@ -292,6 +326,17 @@
           "time_info": "01时13分"
         },
         {
+          "title": "特朗普发文感谢国际足联",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E6%96%87%E6%84%9F%E8%B0%A2%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "白宫官员：特朗普将在北约之行期间与土耳其总统埃尔多安举行会晤。",
           "url": "https://flash.jin10.com/detail/20260706011411437800",
           "source": "金十数据",
@@ -309,7 +354,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -328,7 +373,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
@@ -455,6 +500,17 @@
           "time_info": "[00时01分 ~ 00时02分]"
         },
         {
+          "title": "伊朗最高领袖发布任免令",
+          "url": "https://news.ifeng.com/c/8uX0AQwmuwO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：只要我担任总理，伊朗就不会获得核武器。",
           "url": "https://flash.jin10.com/detail/20260705235628247800",
           "source": "金十数据",
@@ -464,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时13分"
+        },
+        {
+          "title": "亚洲贷款市场迎16年来最冷上半年，伊朗战争余波压制信心",
+          "url": "https://flash.jin10.com/detail/20260706093445930800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "据沙特媒体哈达斯：伊朗议会议长卡利巴夫表示，伊朗认为尽管存在困难，但与美国达成共识是可能的。",
@@ -480,7 +547,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "奥来德：预计上半年净利润1.6亿元至1.9亿元，同比增长492.49%至603.58%",
@@ -573,12 +640,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时56分]"
+        },
+        {
+          "title": "A股存储芯片板块集体高开，江波龙涨超10%，中电港、华大九天、深圳华强、佰维存储、朗科科技等纷纷高开，消息上，江波龙预计上半年净利润92亿元-110亿元，同比增长62204%-74394%。",
+          "url": "https://wallstreetcn.com/livenews/3129078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
           "title": "商业航天独角兽长光卫星，完成近50亿元股权融资",
@@ -607,6 +685,17 @@
           "time_info": "[00时02分 ~ 07时56分]"
         },
         {
+          "title": "99万元机器人伴侣续航撑不过一晚",
+          "url": "https://www.toutiao.com/trending/7659051533732642857/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "加速走向全球：今年前5个月我国机器人出口近200亿元",
           "url": "https://wallstreetcn.com/livenews/3128970",
           "source": "华尔街见闻-快讯",
@@ -618,6 +707,28 @@
           "time_info": "[00时02分 ~ 05时51分]"
         },
         {
+          "title": "已进入多家本体、模组厂商和灵巧手企业供应链 人形机器人概念股单日涨超14% 本周机构密集调研相关上市公司",
+          "url": "https://www.cls.cn/detail/2417369",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "99万机器人伴侣续航撑不过一晚",
+          "url": "https://s.weibo.com/weibo?q=99%E4%B8%87%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%B4%E4%BE%A3%E7%BB%AD%E8%88%AA%E6%92%91%E4%B8%8D%E8%BF%87%E4%B8%80%E6%99%9A&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "国泰海通：机器人、商业航天、AI新材料等主题投资再次兴起",
           "url": "https://flash.jin10.com/detail/20260705225805600800",
           "source": "金十数据",
@@ -627,6 +738,108 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "99万元机器人伴侣发布引争议",
+          "url": "https://www.toutiao.com/trending/7659082388781141546/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 07时56分]"
+        },
+        {
+          "title": "本周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
+          "url": "https://flash.jin10.com/detail/20260706070621012800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时56分"
+        },
+        {
+          "title": "美联储7月维持利率不变的概率为77%",
+          "url": "https://flash.jin10.com/detail/20260706055706494800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时51分 ~ 07时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证指数开盘报4059.19点，涨0.38%。 深证成指开盘报15677.93点，涨0.52%。 创业板指开盘报4050.88点，涨0.77%。 沪深300开盘报4868.54点，涨0.54%。 科创50开盘报2015.18点，涨2.00%。 中证500开盘报8790.97点，涨0.52%。 中证1000开盘报8669.12点，涨0.56%。",
+          "url": "https://wallstreetcn.com/livenews/3129075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股三大股指相继转跌，深证成指跌0.23%，创业板指跌0.6%。",
+          "url": "https://flash.jin10.com/detail/20260706093714471800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "创业板指翻绿，深证成指涨幅收窄至0.24%，沪指涨0.11%。",
+          "url": "https://flash.jin10.com/detail/20260706093124788800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -641,7 +854,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
         },
@@ -673,43 +886,120 @@
       ]
     },
     {
-      "keyword_group": "美联储 非农",
+      "keyword_group": "芯片 光模块",
       "match_count": 3,
       "titles": [
         {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
+          "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
+          "url": "https://www.zhihu.com/question/2056487235072029858",
+          "source": "知乎",
           "ranks": [
-            5,
-            4
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 04时14分]"
+        },
+        {
+          "title": "光模块巨头紧急澄清市场传言",
+          "url": "https://www.douyin.com/hot/2559854",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股集体高开 存储芯片等走强",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%AD%89%E8%B5%B0%E5%BC%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
+          "url": "https://www.cls.cn/detail/2417150",
+          "source": "财联社热门",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时01分 ~ 07时56分]"
         },
         {
-          "title": "本周重要事件与数据预告：美联储会议纪要；中国CPI、外储；SK海力士登陆美股",
-          "url": "https://flash.jin10.com/detail/20260706070621012800",
+          "title": "A股能源金属板块短线拉升，永杉锂业涨停，寒锐钴业、腾远钴业、融捷股份、盛新锂能、华友钴业跟涨。",
+          "url": "https://flash.jin10.com/detail/20260706094248990800",
           "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "A股钛白粉概念拉升，振华股份涨停，金浦钛业、惠云钛业、坤彩科技跟涨。",
+          "url": "https://flash.jin10.com/detail/20260706093814145800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
+          "url": "https://www.cls.cn/detail/2417296",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 10时03分]"
+        },
+        {
+          "title": "注销式回购引关注，上市公司打出“组合拳”",
+          "url": "https://wallstreetcn.com/livenews/3129033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "07时56分"
         },
         {
-          "title": "美联储7月维持利率不变的概率为77%",
-          "url": "https://flash.jin10.com/detail/20260706055706494800",
-          "source": "金十数据",
+          "title": "中国央行今日开展70亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日1575亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3129073",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            26
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -724,11 +1014,12 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 10时03分]"
         },
         {
           "title": "国泰海通：看好涨价确定性较强的CCL/高端MLCC/磷化铟等",
@@ -744,30 +1035,47 @@
       ]
     },
     {
-      "keyword_group": "回购",
+      "keyword_group": "存储 半导体",
       "match_count": 2,
       "titles": [
         {
-          "title": "周末要闻汇总：A股交易新规，明起施行；万亿逆回购来了",
-          "url": "https://www.cls.cn/detail/2417296",
-          "source": "财联社热门",
+          "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
+          "url": "https://wallstreetcn.com/articles/3776221",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 10时03分]"
         },
         {
-          "title": "注销式回购引关注，上市公司打出“组合拳”",
-          "url": "https://wallstreetcn.com/livenews/3129033",
+          "title": "韩国总统李在明：必须加快半导体集群的行政审批流程。 必须为半导体集群提前确保电力和水资源供应。 必须就大型项目的选址展开讨论。 将于8月成立委员会以提升半导体竞争力。",
+          "url": "https://wallstreetcn.com/livenews/3129070",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "10时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日经225指数高开0.3%，韩国首尔综指高开1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3129048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -791,37 +1099,19 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
+      "keyword_group": "核心技术 利润增长",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待极客湾麒麟 9030 芯片性能详细解析（Mate 80 Pro）视频上线？",
-          "url": "https://www.zhihu.com/question/2056487235072029858",
-          "source": "知乎",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 04时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国政府：拟使用半导体税收红利设立“未来应对基金”，规模最高100万亿韩元",
-          "url": "https://wallstreetcn.com/articles/3776221",
+          "title": "Karpathy最新Agent观点：大厂并没有掌握智能体核心技术，个人开发者正称霸前沿",
+          "url": "https://wallstreetcn.com/articles/3776229",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
@@ -843,19 +1133,19 @@
       ]
     },
     {
-      "keyword_group": "涨停 跌停",
+      "keyword_group": "跌破 拉升",
       "match_count": 1,
       "titles": [
         {
-          "title": "多股应声涨停！A股中报行情开启，12家上市公司净利最高同比预增超150%",
-          "url": "https://www.cls.cn/detail/2417150",
-          "source": "财联社热门",
+          "title": "A股有机硅板块盘初拉升，东岳硅材涨超10%，晨光新材、新亚强、回天新材、宏柏新材、江瀚新材等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260706093403833800",
+          "source": "金十数据",
           "ranks": [
-            5
+            19
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         }
       ]
     },
