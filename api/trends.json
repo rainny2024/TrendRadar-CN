@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T18:19:22.796296+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-07-07T21:12:23.592412+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时59分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 21时12分]"
         },
         {
           "title": "特朗普再回应巴洛贡红牌事件，称若比利时赢了美国就是有黑幕",
@@ -92,6 +92,18 @@
           "time_info": "[06时56分 ~ 06时57分]"
         },
         {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 21时12分]"
+        },
+        {
           "title": "民调：多数美国人认为特朗普在伊朗战争中得不偿失 拖累中期选举",
           "url": "https://www.cls.cn/detail/2417917",
           "source": "财联社热门",
@@ -112,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
+        },
+        {
+          "title": "特朗普：与普京总统进行了非常好的谈话。",
+          "url": "https://wallstreetcn.com/livenews/3130016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "据Axios：内塔尼亚胡在北约峰会前请求特朗普约束埃尔多安。",
@@ -158,16 +181,15 @@
           "time_info": "03时41分"
         },
         {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
+          "title": "特朗普：土耳其从美国购买了飞机。 土耳其曾协助试图结束我们与伊朗的战争。",
+          "url": "https://wallstreetcn.com/livenews/3130013",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            3
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 18时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：（回应特朗普）请尊重伊朗人民，否则我们将用另一种语言回应。",
@@ -179,6 +201,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "特朗普称赞美国经济。",
+          "url": "https://wallstreetcn.com/livenews/3130012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "美国总统特朗普：沃尔玛正“以大胆方式行动”，并呼吁其他零售商效仿这一“爱国企业”的做法。",
@@ -274,6 +307,18 @@
           "time_info": "[06时57分 ~ 08时00分]"
         },
         {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 21时12分]"
+        },
+        {
           "title": "如何看待比利时淘汰美国引球迷高喊正义必胜？赛前特朗普称若其赢球是黑幕，比利时可能会受到进一步影响吗？",
           "url": "https://www.zhihu.com/question/2057769216468415013",
           "source": "知乎",
@@ -283,6 +328,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 21时12分]"
         },
         {
           "title": "特朗普称不知道红牌还要禁赛",
@@ -307,6 +364,17 @@
           "time_info": "03时41分"
         },
         {
+          "title": "特朗普：今天将和土耳其谈贸易、军事事宜。 土耳其比其他国家更忠诚。 （谈F-35和土耳其）将就此作出决定。 我们已对北约进行了投资，盟友应该愿意提供帮助。 我们对伊朗采取行动的时候，我是在考验盟友。 法国、德国和其他国家当时都拒绝了我们。 对与土耳其的关系没有任何担忧。 美国-土耳其关系可能比以往任何时候都好。",
+          "url": "https://wallstreetcn.com/livenews/3130010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "美国总统特朗普：沃尔玛将降低价格。",
           "url": "https://flash.jin10.com/detail/20260707044646086800",
           "source": "金十数据",
@@ -316,6 +384,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
+        },
+        {
+          "title": "特朗普称赞土耳其总统埃尔多安。",
+          "url": "https://wallstreetcn.com/livenews/3130007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "特朗普一通电话毁了美国队",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "特朗普亲自“指导”沃尔玛降价，多类商品下调，其他零售商被点名“跟进”",
@@ -362,35 +452,13 @@
           "time_info": "03时41分"
         },
         {
-          "title": "卢卡库跳“特朗普之舞”贴脸嘲讽",
-          "url": "https://www.baidu.com/s?wd=%E5%8D%A2%E5%8D%A1%E5%BA%93%E8%B7%B3%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%8B%E8%88%9E%E2%80%9D%E8%B4%B4%E8%84%B8%E5%98%B2%E8%AE%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-07）",
           "url": "https://flash.jin10.com/detail/20260707180658184800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -404,6 +472,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "美国总统特朗普：丰田正在从墨西哥迁往美国德克萨斯州。",
+          "url": "https://wallstreetcn.com/livenews/3129994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”餐会上宣称：黑石集团、贝莱德集团、高盛都来了。",
@@ -423,7 +502,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -453,7 +532,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "世界银行：中国经济增长保持韧性",
@@ -467,13 +546,24 @@
           "time_info": "14时37分"
         },
         {
+          "title": "行云科技：预计2026年半年度净利润同比增长433%-699%",
+          "url": "https://flash.jin10.com/detail/20260707204241108800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "巨人网络：预计2026年半年度归属于上市公司股东的净利润为20亿元-22亿元，同比增长157.38%-183.12%。",
           "url": "https://wallstreetcn.com/livenews/3129893",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -490,6 +580,17 @@
           "time_info": "[05时21分 ~ 06时57分]"
         },
         {
+          "title": "美联储威廉姆斯：预计美国经济将保持稳定增长趋势。",
+          "url": "https://flash.jin10.com/detail/20260707204147667800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "德国5月工业产出超预期增长，汽车产量强劲回升",
           "url": "https://flash.jin10.com/detail/20260707142042990800",
           "source": "金十数据",
@@ -499,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
+        },
+        {
+          "title": "美国纽约联储主席（享有FOMC永久投票权、号称美联储三把手）威廉姆斯：认为经济增长稳健，劳动力市场保持稳定。 预计整体通胀率将随着能源价格走低。 通货膨胀率仍然相当高。 货币政策完全有条件实现目标。 鉴于存在不确定性，不宜提供明确的指导。",
+          "url": "https://wallstreetcn.com/livenews/3130006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "中报预增公司占比走高，新兴产业助力业绩增长",
@@ -518,7 +630,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -529,9 +641,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "行云科技：预计上半年净利润1000万元-1500万元，同比增长432.77%-699.15%；报告期内，公司算力业务快速发展，公司已销售67台服务器并确认当期收入，增加当期毛利润约6500万元。",
+          "url": "https://wallstreetcn.com/livenews/3130002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "巨人网络：预计2026年半年度净利润净利润为20亿元-22亿元 同比增长157.38%-183.12%",
@@ -540,7 +663,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -551,7 +674,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -562,7 +685,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -578,13 +701,24 @@
           "time_info": "01时35分"
         },
         {
+          "title": "浪潮信息：预计上半年净利润26亿元-31亿元，同比增长226%-288%。",
+          "url": "https://wallstreetcn.com/livenews/3129992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
           "title": "招商证券：预计2026年上半年净利润同比增长93%到112%",
           "url": "https://wallstreetcn.com/livenews/3129861",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -595,7 +729,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
@@ -603,7 +737,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "现场：伊朗民众向灵车抛投鲜花、头巾",
@@ -625,7 +759,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -647,9 +781,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 21时12分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：袭击伊朗、杀害伊朗人民的责任人，尤其是针对伊斯兰革命最高领袖的人，终将被追究责任。",
@@ -672,6 +806,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        },
+        {
+          "title": "卡塔尔方面表示，要求伊朗停止危害安全的行为。",
+          "url": "https://flash.jin10.com/detail/20260707203236639800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         },
         {
           "title": "伊朗外长：若威胁继续 不会启动最终谈判",
@@ -720,6 +865,471 @@
       ]
     },
     {
+      "keyword_group": "美联储 非农",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美联储威廉姆斯：通胀仍然相当高。",
+          "url": "https://flash.jin10.com/detail/20260707204256595800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "美联储威廉姆斯：能源价格回落是个好消息，料进一步回落并降温通胀。",
+          "url": "https://flash.jin10.com/detail/20260707204242796800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "美联储威廉姆斯：就业市场显示出稳定性。",
+          "url": "https://flash.jin10.com/detail/20260707204154824800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "周一（7月6日），美联储隔夜逆回购协议（RRP）使用规模为27.19亿美元（交易对手13家），上个交易日报21.75亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3129514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 03时41分]"
+        },
+        {
+          "title": "美联储7月维持利率不变的概率为74.3%",
+          "url": "https://flash.jin10.com/detail/20260707060536336800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时57分 ~ 08时00分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的27.19亿美元。",
+          "url": "https://flash.jin10.com/detail/20260707011840663800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "爱德蒙·德·罗斯柴尔德资产管理公司：美国国债收益率曲线可能开始趋陡。日本央行、欧洲央行和美联储可能在2026年底前进行协调干预，以提振日元。",
+          "url": "https://flash.jin10.com/detail/20260707203408701800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "大摩：建议押注美联储加息预期消退",
+          "url": "https://wallstreetcn.com/livenews/3129519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "美联储理事沃勒：设定一个通胀目标区间的设想是合理的",
+          "url": "https://wallstreetcn.com/livenews/3129493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美联储理事沃勒：无需针对很好地定义的反应机制讨论太多。 重要的是，沟通你们的反应机制。 如果美联储的反应机制没有被很好地理解，决策者们就需要讨论它。",
+          "url": "https://wallstreetcn.com/livenews/3129486",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美联储理事沃勒：FOMC官员们一直致力于实现2%通胀目标，这是一个可信的承诺。 劳动力市场似乎正趋于稳定。",
+          "url": "https://wallstreetcn.com/livenews/3129480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
+          "url": "https://www.zhihu.com/question/2057405995244938393",
+          "source": "知乎",
+          "ranks": [
+            14,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时34分 ~ 08时00分]"
+        },
+        {
+          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
+          "url": "https://www.cls.cn/detail/2417841",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时34分 ~ 06时57分]"
+        },
+        {
+          "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33526038",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时34分 ~ 14时37分]"
+        },
+        {
+          "title": "我国人形机器人整机产量有望破十万台",
+          "url": "https://www.toutiao.com/trending/7659749336267640329/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "人形机器人成高端制造出口新名片",
+          "url": "https://www.douyin.com/hot/2562518",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "第15000台机器人下线、超130家机器人领域企业集聚浦东 上海如何孕育具身智能？",
+          "url": "https://www.cls.cn/detail/2418658",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "99万元机器人伴侣续航撑不过一晚",
+          "url": "https://www.toutiao.com/trending/7659051533732642857/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时21分]"
+        },
+        {
+          "title": "前5月机器人规上企业营收超900亿元",
+          "url": "https://wallstreetcn.com/livenews/3129591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "IDC：到2030年全球商用服务机器人出货量将达45.4万台 市场规模将至31.7亿美元",
+          "url": "https://wallstreetcn.com/livenews/3129746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "马斯克部分推翻“推特机器人案”陪审团裁决。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3129479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
+          "url": "https://wallstreetcn.com/articles/3776333",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 21时12分]"
+        },
+        {
+          "title": "两大利空实为误读？野村：市场对存储芯片需求降温的恐慌明显过度",
+          "url": "https://www.cls.cn/detail/2417818",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 01时35分]"
+        },
+        {
+          "title": "亚洲跌完欧洲跌！芯片股抛售潮席卷全球 华尔街分析师热议",
+          "url": "https://www.cls.cn/detail/2419287",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "华为Mate90系列或将秋季登场，这次芯片将用上“韬定律”",
+          "url": "https://www.cls.cn/detail/2417798",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 01时35分]"
+        },
+        {
+          "title": "A股存储芯片板块午后走弱，北京君正跌超10%，普冉股份、德明利、江波龙、香农芯创、佰维存储跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3129772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "网传新能源车智驾芯片新规系谣言",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E4%BC%A0%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E6%99%BA%E9%A9%BE%E8%8A%AF%E7%89%87%E6%96%B0%E8%A7%84%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "智驾芯片70%自主化新规系谣言",
+          "url": "https://www.toutiao.com/trending/7659304880201515034/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
+          "url": "https://wallstreetcn.com/livenews/3129593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时00分"
+        },
+        {
+          "title": "消息人士表示，新思科技已于4月和5月向10多家芯片制造商通报了其软件套件的“停产”计划，公司将停产部分老旧分析产品，以将资源转向最具价值的产品。",
+          "url": "https://flash.jin10.com/detail/20260707141726926800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "【早报】道指创新高，存储、半导体板块爆发；黄金、白银大涨，油价下跌；C罗告别世界杯",
+          "url": "https://www.cls.cn/detail/2418591",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时59分 ~ 14时37分]"
+        },
+        {
+          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
+          "url": "https://wallstreetcn.com/articles/3776262",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时34分 ~ 05时21分]"
+        },
+        {
+          "title": "韩股崩跌熔断拖累全球市场！三星跌10%、美光盘前跌超6％，欧洲半导体股普跌，日元162水平徘徊",
+          "url": "https://wallstreetcn.com/articles/3776355",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 21时12分]"
+        },
+        {
+          "title": "存储“涨到头”了吗？",
+          "url": "https://wallstreetcn.com/articles/3776336",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 21时12分]"
+        },
+        {
+          "title": "曾参与“924行情”的华尔街明星基金经理，又在存储板块大赚一笔",
+          "url": "https://www.cls.cn/detail/2418574",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时36分 ~ 14时37分]"
+        },
+        {
+          "title": "【焦点复盘】三大指数全天缩量探底，全市场仅30余股涨停，资金逆势抱团半导体设备股",
+          "url": "https://www.cls.cn/detail/2419286",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        },
+        {
+          "title": "日本存储巨头铠侠（KIOXIA）股价持续走低，最新下跌12%。",
+          "url": "https://wallstreetcn.com/livenews/3129773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "分析师：存储超级周期至少维持至2027年上半年",
+          "url": "https://flash.jin10.com/detail/20260707141223862800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        },
+        {
+          "title": "三星暴力提价存储涨到头了吗",
+          "url": "https://www.toutiao.com/trending/7659730575271398963/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "纳斯达克 标普 道琼斯",
       "match_count": 8,
       "titles": [
@@ -736,6 +1346,18 @@
           "time_info": "[01时34分 ~ 08时00分]"
         },
         {
+          "title": "就在今日！SpaceX正式纳入纳斯达克100指数 巨震行情又将开启？",
+          "url": "https://www.cls.cn/detail/2419017",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 21时12分]"
+        },
+        {
           "title": "周一（7月6日）纽约尾盘，标普500股指期货最终涨0.83%，道指期货涨0.39%，纳斯达克100股指期货涨1.28%。 罗素2000股指期货涨0.69%。",
           "url": "https://wallstreetcn.com/livenews/3129571",
           "source": "华尔街见闻-快讯",
@@ -746,17 +1368,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时00分]"
-        },
-        {
-          "title": "就在今日！SpaceX正式纳入纳斯达克100指数 巨震行情又将开启？",
-          "url": "https://www.cls.cn/detail/2419017",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "据英国金融时报：前OpenAI研究员管理的对冲基金Situational Awareness与英国投资机构Baillie Gifford等机构拟认购约70亿美元SK海力士纳斯达克IPO股份。",
@@ -874,11 +1485,12 @@
           "url": "https://www.zhihu.com/question/2057584914892055667",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 21时12分]"
         },
         {
           "title": "北约秘书长吕特：国防工业必须准备承担更多风险。",
@@ -887,7 +1499,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -909,109 +1521,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
-          "url": "https://www.zhihu.com/question/2057405995244938393",
-          "source": "知乎",
-          "ranks": [
-            14,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时34分 ~ 08时00分]"
-        },
-        {
-          "title": "就在今天凌晨！人形机器人首度亮相世界杯赛场",
-          "url": "https://www.cls.cn/detail/2417841",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时34分 ~ 06时57分]"
-        },
-        {
-          "title": "优必选回应仿生机器人争议：续航2-4小时是行业普遍情况，定位是情感陪伴，不是伴侣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33526038",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12,
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时34分 ~ 14时37分]"
-        },
-        {
-          "title": "第15000台机器人下线、超130家机器人领域企业集聚浦东 上海如何孕育具身智能？",
-          "url": "https://www.cls.cn/detail/2418658",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
-        },
-        {
-          "title": "99万元机器人伴侣续航撑不过一晚",
-          "url": "https://www.toutiao.com/trending/7659051533732642857/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 05时21分]"
-        },
-        {
-          "title": "前5月机器人规上企业营收超900亿元",
-          "url": "https://wallstreetcn.com/livenews/3129591",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "IDC：到2030年全球商用服务机器人出货量将达45.4万台 市场规模将至31.7亿美元",
-          "url": "https://wallstreetcn.com/livenews/3129746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "马斯克部分推翻“推特机器人案”陪审团裁决。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3129479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
         }
       ]
     },
@@ -1176,7 +1688,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -1187,252 +1699,9 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "【早报】道指创新高，存储、半导体板块爆发；黄金、白银大涨，油价下跌；C罗告别世界杯",
-          "url": "https://www.cls.cn/detail/2418591",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时59分 ~ 14时37分]"
-        },
-        {
-          "title": "AI情绪反弹，美股上扬，存储概念股走高，西部数据涨超5%，美元走强",
-          "url": "https://wallstreetcn.com/articles/3776262",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时34分 ~ 05时21分]"
-        },
-        {
-          "title": "存储“涨到头”了吗？",
-          "url": "https://wallstreetcn.com/articles/3776336",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 18时19分]"
-        },
-        {
-          "title": "曾参与“924行情”的华尔街明星基金经理，又在存储板块大赚一笔",
-          "url": "https://www.cls.cn/detail/2418574",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时36分 ~ 14时37分]"
-        },
-        {
-          "title": "韩股崩跌熔断拖累全球市场！三星跌10%、美光盘前跌超6％，欧洲半导体股普跌，日元162水平徘徊",
-          "url": "https://wallstreetcn.com/articles/3776355",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "日本存储巨头铠侠（KIOXIA）股价持续走低，最新下跌12%。",
-          "url": "https://wallstreetcn.com/livenews/3129773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "分析师：存储超级周期至少维持至2027年上半年",
-          "url": "https://flash.jin10.com/detail/20260707141223862800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美联储 非农",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "周一（7月6日），美联储隔夜逆回购协议（RRP）使用规模为27.19亿美元（交易对手13家），上个交易日报21.75亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3129514",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 03时41分]"
-        },
-        {
-          "title": "美联储7月维持利率不变的概率为74.3%",
-          "url": "https://flash.jin10.com/detail/20260707060536336800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时57分 ~ 08时00分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的27.19亿美元。",
-          "url": "https://flash.jin10.com/detail/20260707011840663800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "大摩：建议押注美联储加息预期消退",
-          "url": "https://wallstreetcn.com/livenews/3129519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "美联储理事沃勒：设定一个通胀目标区间的设想是合理的",
-          "url": "https://wallstreetcn.com/livenews/3129493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "美联储理事沃勒：无需针对很好地定义的反应机制讨论太多。 重要的是，沟通你们的反应机制。 如果美联储的反应机制没有被很好地理解，决策者们就需要讨论它。",
-          "url": "https://wallstreetcn.com/livenews/3129486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "美联储理事沃勒：FOMC官员们一直致力于实现2%通胀目标，这是一个可信的承诺。 劳动力市场似乎正趋于稳定。",
-          "url": "https://wallstreetcn.com/livenews/3129480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "两大利空实为误读？野村：市场对存储芯片需求降温的恐慌明显过度",
-          "url": "https://www.cls.cn/detail/2417818",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 01时35分]"
-        },
-        {
-          "title": "大摩告诉客户：是时候“卖芯片、买云”，“存储”类似“白银”见顶",
-          "url": "https://wallstreetcn.com/articles/3776333",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 18时19分]"
-        },
-        {
-          "title": "华为Mate90系列或将秋季登场，这次芯片将用上“韬定律”",
-          "url": "https://www.cls.cn/detail/2417798",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 01时35分]"
-        },
-        {
-          "title": "A股存储芯片板块午后走弱，北京君正跌超10%，普冉股份、德明利、江波龙、香农芯创、佰维存储跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3129772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
-          "title": "三星二季度运营利润同比激增超1800%，AI需求继续提振存储芯片价格",
-          "url": "https://wallstreetcn.com/livenews/3129593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时00分"
-        },
-        {
-          "title": "消息人士表示，新思科技已于4月和5月向10多家芯片制造商通报了其软件套件的“停产”计划，公司将停产部分老旧分析产品，以将资源转向最具价值的产品。",
-          "url": "https://flash.jin10.com/detail/20260707141726926800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         }
       ]
     },
@@ -1469,7 +1738,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         }
@@ -1497,9 +1766,40 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "复盘",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "西班牙战胜葡萄牙 赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%88%98%E8%83%9C%E8%91%A1%E8%90%84%E7%89%99%20%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            22,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时59分 ~ 21时12分]"
+        },
+        {
+          "title": "F1英国大奖赛正赛无线电复盘",
+          "url": "https://search.bilibili.com/all?keyword=F1%E8%8B%B1%E5%9B%BD%E5%A4%A7%E5%A5%96%E8%B5%9B%E6%AD%A3%E8%B5%9B%E6%97%A0%E7%BA%BF%E7%94%B5%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         }
       ]
     },
@@ -1554,28 +1854,26 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 21时12分]"
         }
       ]
     },
     {
-      "keyword_group": "复盘",
+      "keyword_group": "立案调查",
       "match_count": 1,
       "titles": [
         {
-          "title": "西班牙战胜葡萄牙 赛后复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A5%BF%E7%8F%AD%E7%89%99%E6%88%98%E8%83%9C%E8%91%A1%E8%90%84%E7%89%99%20%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查",
+          "url": "https://wallstreetcn.com/livenews/3130009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            22,
-            28
+            8
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时59分 ~ 18时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时12分"
         }
       ]
     },
@@ -1590,9 +1888,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 21时12分]"
         }
       ]
     }
