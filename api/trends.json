@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T12:59:00.740740+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-07-08T15:26:30.769032+08:00",
+  "total_titles_processed": 1113,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 71,
+      "match_count": 80,
       "titles": [
         {
           "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时46分 ~ 15时26分]"
         },
         {
           "title": "美军：开始对伊朗发动系列打击",
@@ -29,8 +29,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时05分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[06时05分 ~ 15时26分]"
+        },
+        {
+          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
+          "url": "https://wallstreetcn.com/articles/3776409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时26分]"
         },
         {
           "title": "美军发动打击，伊朗多地传出爆炸声",
@@ -45,28 +56,6 @@
           "time_info": "[06时05分 ~ 09时29分]"
         },
         {
-          "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
-          "url": "https://wallstreetcn.com/articles/3776409",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时59分]"
-        },
-        {
-          "title": "美军称对伊朗新一轮打击，击中超80个目标",
-          "url": "https://news.ifeng.com/c/8uaXWjPtAEu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
           "title": "伊朗总统缺席哈梅内伊送葬仪式，从伊拉克紧急回国",
           "url": "https://news.ifeng.com/c/8uaIcKZ6By5",
           "source": "凤凰网",
@@ -74,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时26分]"
         },
         {
           "title": "美伊和平又生变数？美军发动攻击伊朗强硬回应，症结仍在霍尔木兹！",
@@ -83,6 +72,17 @@
           "source": "财联社热门",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时26分]"
+        },
+        {
+          "title": "美军称对伊朗新一轮打击，击中超80个目标",
+          "url": "https://news.ifeng.com/c/8uaXWjPtAEu",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -112,6 +112,17 @@
           "time_info": "[12时58分 ~ 12时59分]"
         },
         {
+          "title": "伊朗革命卫队反击：打击了85个美国军事目标",
+          "url": "https://news.ifeng.com/c/8uadsQoFuXq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "消息人士：由于需求疲软，俄罗斯乌拉尔原油在印度市场相对布伦特原油的贴水已扩大至每桶10美元以上。",
           "url": "https://flash.jin10.com/detail/20260708001158025800",
           "source": "金十数据",
@@ -132,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：当地官员表示，周三上午，伊朗南部布什尔省的两处军事基地遭到袭击，目前尚无人员伤亡报告。",
+          "url": "https://flash.jin10.com/detail/20260708151901762800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美国恢复对伊朗石油制裁",
@@ -173,7 +195,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -195,9 +217,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "欧洲航空安全局（EASA）：航空运营商不应在伊朗空域（德黑兰飞行信息区，OIIX）内，无论在任何高度和飞行高度层，进行飞行活动。",
+          "url": "https://flash.jin10.com/detail/20260708151707855800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "伊朗总统因美军袭击提前回国",
@@ -209,6 +242,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "伊朗议长：霸凌与敲诈的时代已经结束",
+          "url": "https://news.ifeng.com/c/8uanFtiMlYj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "伊朗外长阿拉格齐：我们重申将继续全面支持黎巴嫩的统一及其国家主权。",
@@ -233,6 +277,19 @@
           "time_info": "06时05分"
         },
         {
+          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
+          "url": "https://www.cls.cn/detail/2419758",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时46分 ~ 15时26分]"
+        },
+        {
           "title": "沙特外交部：伊朗应对此类袭击及其后果承担全部责任。",
           "url": "https://flash.jin10.com/detail/20260708023304943800",
           "source": "金十数据",
@@ -255,17 +312,28 @@
           "time_info": "06时05分"
         },
         {
-          "title": "美国撤销伊朗石油制裁豁免，油价飙升",
-          "url": "https://www.cls.cn/detail/2419758",
-          "source": "财联社热门",
+          "title": "伊朗外交部：美国的行为令停火协议的关键内容失效。 美国应对局势升级的后果负责。",
+          "url": "https://wallstreetcn.com/livenews/3130436",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            8,
-            6
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "美军称开始对伊朗发动系列打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            11
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[07时46分 ~ 12时59分]"
+          "time_info": "[09时29分 ~ 15时26分]"
         },
         {
           "title": "美军时隔10天再袭伊朗",
@@ -280,16 +348,39 @@
           "time_info": "[07时46分 ~ 12时59分]"
         },
         {
-          "title": "美军称开始对伊朗发动系列打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
-          "source": "澎湃新闻",
+          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
+          "url": "https://www.zhihu.com/question/2058125610363401206",
+          "source": "知乎",
           "ranks": [
-            17,
-            15
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时59分]"
+          "time_info": "[12时58分 ~ 15时26分]"
+        },
+        {
+          "title": "伊朗称击落一架美军“死神”无人机",
+          "url": "https://www.toutiao.com/trending/7659992996650614826/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时26分]"
+        },
+        {
+          "title": "伊朗总统启程回国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%90%AF%E7%A8%8B%E5%9B%9E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时26分]"
         },
         {
           "title": "美军称开始对伊朗发动一系列有力打击",
@@ -304,17 +395,6 @@
           "time_info": "[07时46分 ~ 09时29分]"
         },
         {
-          "title": "美军再袭伊朗致多人受伤，伊朗总统启程回国，强度是 10 天前四五倍，如何看待此轮打击？",
-          "url": "https://www.zhihu.com/question/2058125610363401206",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
           "title": "伊朗多地传出爆炸声",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
           "source": "百度热搜",
@@ -327,33 +407,11 @@
           "time_info": "[07时46分 ~ 09时29分]"
         },
         {
-          "title": "伊朗称击落一架美军“死神”无人机",
-          "url": "https://www.toutiao.com/trending/7659992996650614826/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
           "title": "美军对伊朗发动强力打击",
           "url": "https://www.toutiao.com/trending/7658946132311867455/",
           "source": "今日头条",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "伊朗总统启程回国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%90%AF%E7%A8%8B%E5%9B%9E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -503,6 +561,17 @@
           "time_info": "06时05分"
         },
         {
+          "title": "据伊朗国家媒体报道，伊朗革命卫队海军称，周三上午一名成员被“敌方的无人机”击毙。",
+          "url": "https://flash.jin10.com/detail/20260708150720504800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "卡塔尔谴责卡方天然气运输船遭袭 称伊朗应承担责任",
           "url": "https://wallstreetcn.com/livenews/3130256",
           "source": "华尔街见闻-快讯",
@@ -531,7 +600,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -542,7 +611,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -567,6 +636,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "伊朗媒体称布什尔传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3130426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美国7月EIA当年布伦特原油均价预期 81.91美元/桶，前值95.39美元/桶。",
@@ -630,7 +710,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -734,6 +814,17 @@
           "time_info": "02时55分"
         },
         {
+          "title": "伊朗军方称美在中东军事基地是“合法打击目标”",
+          "url": "https://wallstreetcn.com/livenews/3130416",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "伊朗最高领袖国际事务顾问：伊朗支持“抵抗力量”的立场不会改变。",
           "url": "https://flash.jin10.com/detail/20260708014929851800",
           "source": "金十数据",
@@ -778,6 +869,17 @@
           "time_info": "09时29分"
         },
         {
+          "title": "伊朗中央军事指挥部：只有伊朗给出的霍尔木兹海峡航线才安全。",
+          "url": "https://wallstreetcn.com/livenews/3130412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "美国终止对伊朗石油制裁豁免",
           "url": "https://wallstreetcn.com/livenews/3130152",
           "source": "华尔街见闻-快讯",
@@ -803,7 +905,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
@@ -920,8 +1022,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时29分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 15时26分]"
         },
         {
           "title": "特朗普承认与梅洛尼关系“变糟”：她人不错，但犯了个错误",
@@ -985,7 +1087,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -999,6 +1101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "美伊停火协议裂痕扩大 特朗普难以收场",
+          "url": "https://flash.jin10.com/detail/20260708150256432800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美国（国会山）民主党成员们发函Kalshi、Polymarket、以及特朗普媒体。",
@@ -1062,7 +1175,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -1393,8 +1506,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 12时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时46分 ~ 15时26分]"
         },
         {
           "title": "存储“涨到头”了吗？",
@@ -1434,22 +1547,23 @@
           "time_info": "[00时17分 ~ 06时05分]"
         },
         {
+          "title": "存储热潮将持续？SK海力士赴美上市受热捧 据悉已获数倍超额认购",
+          "url": "https://www.cls.cn/detail/2419859",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时26分]"
+        },
+        {
           "title": "荷兰大臣访华：同中方合作良好，希望解决安世半导体问题",
           "url": "https://news.ifeng.com/c/8uaVWTkSZ4C",
           "source": "凤凰网",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "存储热潮将持续？SK海力士赴美上市受热捧 据悉已获数倍超额认购",
-          "url": "https://www.cls.cn/detail/2419859",
-          "source": "财联社热门",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1470,7 +1584,7 @@
     },
     {
       "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如果早知道 阿伟也会创业失败",
@@ -1490,9 +1604,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "A股收评：创业板指收跌1.7% 算力股逆势走强",
+          "url": "https://flash.jin10.com/detail/20260708150244937800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "7月8日午间收评：科创50半日涨超3%，算力、芯片股集体走强",
@@ -1501,7 +1626,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -1512,7 +1637,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -1523,9 +1648,70 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "韩国股市强势翻红",
+          "url": "https://www.douyin.com/hot/2562892",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "日经225指数收复失地，转为微幅上涨，铠侠走高。",
+          "url": "https://wallstreetcn.com/livenews/3130261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "日经225指数收跌2.1%，报66819.05点。 日本东证指数收跌1.4%，报4,006.43点。 韩国KOSPI指数收盘下跌5.3%，报7246.79点。",
+          "url": "https://wallstreetcn.com/livenews/3130431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "日经225指数转涨，此前跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260708085517341800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
+        },
+        {
+          "title": "日经225指数低开近1%，韩国首尔综指低开2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3130244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         }
       ]
     },
@@ -1592,58 +1778,8 @@
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "韩国股市强势翻红",
-          "url": "https://www.douyin.com/hot/2562892",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "日经225指数收复失地，转为微幅上涨，铠侠走高。",
-          "url": "https://wallstreetcn.com/livenews/3130261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "日经225指数转涨，此前跌超1%。",
-          "url": "https://flash.jin10.com/detail/20260708085517341800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "日经225指数低开近1%，韩国首尔综指低开2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3130244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "增长 亮眼",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本央行审议委员浅田统一郎（Asada）：加息可能会拖累经济增长。（日本产经新闻）",
@@ -1655,6 +1791,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
+        },
+        {
+          "title": "断网后里程还在增长？华为乾崑回应：数据真实，展示时做了平滑处理",
+          "url": "https://wallstreetcn.com/livenews/3130430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "港交所上半年IPO金额同比增长92%",
@@ -1681,9 +1828,72 @@
       ]
     },
     {
-      "keyword_group": "风险",
-      "match_count": 2,
+      "keyword_group": "涨停 跌停",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
+          "url": "https://www.zhihu.com/question/2057930097039090211",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 09时29分]"
+        },
+        {
+          "title": "A股红利股局部活跃，山东高速触及涨停，粤高速A涨近2%，双双创历史新高，晋控煤业、山煤国际、厦门国贸、中国银行、皖通高速涨幅靠前。",
+          "url": "https://wallstreetcn.com/livenews/3130442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "A股ST板块震荡反弹，ST达华、ST星农、*ST发展、ST洲际、*ST中岩、ST西王等多只ST股午后封涨停板。",
+          "url": "https://wallstreetcn.com/livenews/3130433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "A股有色板块震荡下行，东方锆业、云南锗业午后跌停，宝武镁业、长裕集团、中矿资源、金钼股份、贵研铂业跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3130418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩股再次坐上“过山车”！韩国财政部发声：将密切监控股市波动风险",
+          "url": "https://www.cls.cn/detail/2420090",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
         {
           "title": "美前军官警告：美伊局势异常严峻，进一步升级风险不可忽视",
           "url": "https://flash.jin10.com/detail/20260708123003607800",
@@ -1691,7 +1901,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -1710,7 +1920,7 @@
     },
     {
       "keyword_group": "复盘",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "BLG战胜LYON赛后复盘",
@@ -1735,6 +1945,85 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
+        },
+        {
+          "title": "司晓迪鹿晗全复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8F%B8%E6%99%93%E8%BF%AA%E9%B9%BF%E6%99%97%E5%85%A8%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "全线暴跌！韩国三星、海力士杠杆ETF几乎全线跌破发行价，政客呼吁“摘牌退市”",
+          "url": "https://wallstreetcn.com/articles/3776423",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时26分]"
+        },
+        {
+          "title": "港股大模型概念股MINIMAX快速拉升，涨近20%，最高报388港元。",
+          "url": "https://wallstreetcn.com/livenews/3130425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "华虹宏力A股短线拉升，盘中涨超13%，刷新历史高点至367元/股。",
+          "url": "https://wallstreetcn.com/livenews/3130346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国上证综指7月8日（周三）收盘下跌19.36点，跌幅：0.49%，报3970.88点；<br/>中国深证成指7月8日（周三）收盘下跌285.39点，跌幅：1.87%，报14939.73点；<br/>中国沪深300指数7月8日（周三）收盘下跌36.73点，跌幅：0.77%，报4755.53点；<br/>中国创业板指数7月8日（周三）收盘下跌66.56点，跌幅：1.7%，报3845.35点；<br/>中国科创50指数7月8日（周三）收盘上涨14.64点，涨幅：0.73%，报2016.23点。",
+          "url": "https://flash.jin10.com/detail/20260708150236070800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "上证指数早盘收报4011.05点，涨0.52%。 深证成指早盘收报15237.45点，涨0.08%。 创业板指早盘收报3949.04点，涨0.95%。 沪深300早盘收报4821.65点，涨0.61%。 科创50早盘收报2064.20点，涨3.13%。 中证500早盘收报8546.14点，涨0.44%。 中证1000早盘收报8277.09点，跌0.30%。",
+          "url": "https://wallstreetcn.com/livenews/3130354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
@@ -1748,11 +2037,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 12时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 15时26分]"
         },
         {
           "title": "证监会：对安某编造传播涉中公教育虚假信息立案调查",
@@ -1797,34 +2087,6 @@
       ]
     },
     {
-      "keyword_group": "跌破 拉升",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "全线暴跌！韩国三星、海力士杠杆ETF几乎全线跌破发行价，政客呼吁“摘牌退市”",
-          "url": "https://wallstreetcn.com/articles/3776423",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
-        },
-        {
-          "title": "华虹宏力A股短线拉升，盘中涨超13%，刷新历史高点至367元/股。",
-          "url": "https://wallstreetcn.com/livenews/3130346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "回购",
       "match_count": 2,
       "titles": [
@@ -1853,19 +2115,19 @@
       ]
     },
     {
-      "keyword_group": "上证 深证",
+      "keyword_group": "中证2000 指数",
       "match_count": 1,
       "titles": [
         {
-          "title": "上证指数早盘收报4011.05点，涨0.52%。 深证成指早盘收报15237.45点，涨0.08%。 创业板指早盘收报3949.04点，涨0.95%。 沪深300早盘收报4821.65点，涨0.61%。 科创50早盘收报2064.20点，涨3.13%。 中证500早盘收报8546.14点，涨0.44%。 中证1000早盘收报8277.09点，跌0.30%。",
-          "url": "https://wallstreetcn.com/livenews/3130354",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年07月08日（周三）富时中国A50指数成分股今日收盘行情一览：银行、煤炭开采板块普涨，半导体、通信设备板块涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260708150232290800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "15时26分"
         }
       ]
     },
@@ -1887,21 +2149,19 @@
       ]
     },
     {
-      "keyword_group": "涨停 跌停",
+      "keyword_group": "空单",
       "match_count": 1,
       "titles": [
         {
-          "title": "证监会对安某编造传播涉中公教育虚假信息立案调查，一句低俗赌约，中公教育离奇涨停，其将承担哪些法律责任？",
-          "url": "https://www.zhihu.com/question/2057930097039090211",
-          "source": "知乎",
+          "title": "挂单报告：国际现货黄金下方多单密集 美日上方空单密集区较远",
+          "url": "https://flash.jin10.com/detail/20260708145606153800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            13,
-            17
+            28
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时17分 ~ 09时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     },
