@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T01:20:24.333750+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-07-09T03:05:44.199197+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "特朗普：今晚可能再打伊朗",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
@@ -59,19 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：我们现在石油过剩，油价将下跌。 石油（供应）将变得非常充裕，获取非常容易，且见效极快。",
-          "url": "https://wallstreetcn.com/livenews/3130828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "伊朗打击周边国家美军基地 特朗普称美伊谅解备忘录“已终结”",
@@ -81,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "特朗普要求切断与西班牙一切贸易往来，西班牙回应",
@@ -92,8 +81,78 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
+          "title": "美国总统特朗普：我们现在石油过剩，油价将下跌。 石油（供应）将变得非常充裕，获取非常容易，且见效极快。",
+          "url": "https://wallstreetcn.com/livenews/3130828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
+          "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2058225620715418670",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普：不认为会再次爆发伊朗战争",
+          "url": "https://wallstreetcn.com/livenews/3130824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
+          "title": "美国队惨败，比利时首相：我不会刺激特朗普",
+          "url": "https://news.ifeng.com/c/8uanN9kF7R0",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普要求切断美国与西班牙贸易往来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "特朗普：“今夜可能再打伊朗”，可能会恢复对伊朗的海上封锁；伊朗：将对冒险行为做出“立即回应”",
@@ -107,48 +166,26 @@
           "time_info": "01时20分"
         },
         {
-          "title": "美国总统特朗普 8 日在北约峰会上说，他认为美伊谅解备忘录「已终结」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2058225620715418670",
-          "source": "知乎",
+          "title": "特朗普先威胁“今夜”再打伊朗、恢复海上封锁，后“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "03时05分"
         },
         {
-          "title": "特朗普：不认为会再次爆发伊朗战争",
-          "url": "https://wallstreetcn.com/livenews/3130824",
+          "title": "伊朗外长：将以行动对特朗普言论作出回应",
+          "url": "https://wallstreetcn.com/livenews/3130854",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国队惨败，比利时首相：我不会刺激特朗普",
-          "url": "https://news.ifeng.com/c/8uanN9kF7R0",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "03时05分"
         },
         {
           "title": "德国两年期国债收益率涨超12个基点，特朗普威胁要在美股盘后袭击伊朗，国际油价走高",
@@ -184,6 +221,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "土耳其总统埃尔多安：与美国总统特朗普讨论了包括造船在内的联合国防工业措施。合作可能包括护卫舰、潜艇和轻型护卫舰。",
+          "url": "https://flash.jin10.com/detail/20260709021027332800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
           "title": "美国总统特朗普赞赏北约秘书长吕特。",
           "url": "https://wallstreetcn.com/livenews/3130815",
           "source": "华尔街见闻-快讯",
@@ -195,21 +243,226 @@
           "time_info": "01时20分"
         },
         {
-          "title": "特朗普要求切断美国与西班牙贸易往来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
           "source": "澎湃新闻",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "03时05分"
+        },
+        {
+          "title": "【特朗普：美伊之间的局势升级会很快平息】美国总统特朗普8日在土耳其首都安卡拉表示，当前美国与伊朗之间的局势升级会很快平息，他不认为会再度爆发与伊朗的战争。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3130833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "美联储传声筒：美联储分歧核心在通胀前景，而非政策方向",
+          "url": "https://flash.jin10.com/detail/20260709023708140800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储会议纪要：中东冲突推高通胀，大多数央行暗示未来将加息",
+          "url": "https://flash.jin10.com/detail/20260709023146120800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "资深策略师Yardeni警告美伊停火破裂恐推升通胀，加大美联储加息压力",
+          "url": "https://wallstreetcn.com/livenews/3130831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
+          "title": "美联储会议纪要：AI持续推动数据中心、高科技设备和软件的实际投资支出",
+          "url": "https://flash.jin10.com/detail/20260709022916976800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "会议纪要：美联储通胀担忧进一步加剧，少数官员认为6月有加息理由",
+          "url": "https://wallstreetcn.com/livenews/3130850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储会议纪要：是时候考虑对声明进行重大修改了",
+          "url": "https://flash.jin10.com/detail/20260709022201836800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "提醒：北京时间02:00，美联储将发布6月16-17日FOMC货币政策会议的纪要文件。",
+          "url": "https://wallstreetcn.com/livenews/3130846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储6月会议纪要关注点",
+          "url": "https://wallstreetcn.com/livenews/3130752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储会议纪要：官员对今明两年的通胀预期高于4月",
+          "url": "https://flash.jin10.com/detail/20260709021450315800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储会议纪要：大多数官员认为缩短声明有其优势，支持删除“宽松倾向”",
+          "url": "https://flash.jin10.com/detail/20260709021218920800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "周三（7月8日），美联储隔夜逆回购协议（RRP）使用规模为33.47亿美元（交易对手8家），上个交易日报44.84亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3130840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储会议纪要：部分与会者认为加息有必要，但还是支持利率不变",
+          "url": "https://flash.jin10.com/detail/20260709021018050800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "现货黄金在美联储会议纪要公布后变动不大。",
+          "url": "https://flash.jin10.com/detail/20260709020607138800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储会议纪要：官员们对利率年底是可能上升还是下降存在分歧。",
+          "url": "https://flash.jin10.com/detail/20260709020527023800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储会议纪要：多位官员认为政策立场不再具有限制性。",
+          "url": "https://flash.jin10.com/detail/20260709020511430800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储会议纪要：数位官员表示，通胀降温可能允许维持或降低利率。",
+          "url": "https://flash.jin10.com/detail/20260709020459441800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储会议纪要：联邦公开市场委员会成员一致认为，声明将传达对双重使命目标的承诺，并强调联邦公开市场委员会将实现价格稳定。",
+          "url": "https://flash.jin10.com/detail/20260709020406278800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗披露美军袭击造成的伤亡情况",
@@ -219,8 +472,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "霍尔木兹冲击波！美国撤销伊朗石油销售豁免，美军称开始对伊发动强力打击",
@@ -230,8 +483,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -241,8 +494,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "伊朗军方：若美国真的发动大规模战争，将会得到“惊喜”",
@@ -252,19 +505,53 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "美军称开始对伊朗发动系列打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33539157",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
+          "title": "美国副总统万斯声称：伊朗核计划被摧毁了。 如果他们（伊朗）射击我们的船只，美国将采取行动。 如果伊朗试图关闭霍尔木兹海峡，美方将做出反应。",
+          "url": "https://wallstreetcn.com/livenews/3130859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国副总统万斯：（关于伊朗）如果他们向我们的船只开火，美国将予以回击。",
+          "url": "https://flash.jin10.com/detail/20260709023654210800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "伊朗与卡塔尔通电话，讨论霍尔木兹海峡事件。",
+          "url": "https://wallstreetcn.com/livenews/3130856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         },
         {
           "title": "美军时隔10天再袭伊朗",
@@ -274,8 +561,19 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
+          "title": "伊朗外交部：伊朗与卡塔尔就霍尔木兹海峡事件进行电话讨论，强调需继续沟通协调，以防止地区紧张局势升级。",
+          "url": "https://flash.jin10.com/detail/20260709022956804800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "03时05分"
         },
         {
           "title": "伊朗外交部发言人：伊朗将坚定不移地维护国家利益，并行使国家主权。",
@@ -350,22 +648,23 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "世界杯八强球员停赛风险",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E7%90%83%E5%91%98%E5%81%9C%E8%B5%9B%E9%A3%8E%E9%99%A9%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
           "title": "瑞士央行行长：能源价格大幅上涨是全球经济发展的主要风险。",
           "url": "https://flash.jin10.com/detail/20260709005824671800",
           "source": "金十数据",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "世界杯八强球员停赛风险",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E7%90%83%E5%91%98%E5%81%9C%E8%B5%9B%E9%A3%8E%E9%99%A9%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -396,8 +695,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
@@ -407,15 +706,44 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "司晓迪鹿晗全复盘",
           "url": "https://search.bilibili.com/all?keyword=%E5%8F%B8%E6%99%93%E8%BF%AA%E9%B9%BF%E6%99%97%E5%85%A8%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "纳斯达克100指数转涨，此前一度跌1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3130842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "道指狂泄超800点，跌幅扩大至超过1.5%，标普、纳指跌超1%，半导体指数跌0.6%，银行指数跌2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3130801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -435,8 +763,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
@@ -446,8 +774,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         }
       ]
     },
@@ -463,19 +791,48 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "IMF预计今年全球经济增长3.0%，上调中国经济增长预期",
           "url": "https://m.thepaper.cn/newsDetail_forward_33543824",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "降息",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "分析师：美联储6月纪要释放鹰派信号，降息预期正在降温",
+          "url": "https://flash.jin10.com/detail/20260709022449906800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美联储会议纪要：官员对利率走向分歧明显，加息与降息可能性并存",
+          "url": "https://flash.jin10.com/detail/20260709021519916800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         }
       ]
     },
@@ -491,8 +848,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "AI芯片公司SambaNova Systems Inc.的CEO Rodrigo Liang：对高速推理的需求非常可观。 预计公司客户规模到2026年年底将达到100家，甚至更多。 随着投资者参与，公司计划扩大规模。（彭博电视）",
@@ -519,8 +876,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "美伊局势升温，道指跌幅扩大至1.6%，半导体指数跌0.6%，油价大涨8%，金银下挫",
@@ -530,8 +887,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         }
       ]
     },
@@ -544,22 +901,24 @@
           "url": "https://wallstreetcn.com/livenews/3130826",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         },
         {
           "title": "全线暴跌！韩国三星、海力士杠杆ETF几乎全线跌破发行价，政客呼吁“摘牌退市”",
           "url": "https://wallstreetcn.com/articles/3776423",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         }
       ]
     },
@@ -575,25 +934,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "道指狂泄超800点，跌幅扩大至超过1.5%，标普、纳指跌超1%，半导体指数跌0.6%，银行指数跌2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3130801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         }
       ]
     },
@@ -609,25 +951,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
         }
       ]
     },
     {
-      "keyword_group": "美联储 非农",
+      "keyword_group": "实体清单 制裁",
       "match_count": 1,
       "titles": [
         {
-          "title": "资深策略师Yardeni警告美伊停火破裂恐推升通胀，加大美联储加息压力",
-          "url": "https://wallstreetcn.com/livenews/3130831",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务卿鲁比奥：解除叙利亚制裁将打开国际贸易和投资的大门，并给予叙利亚重建机会。",
+          "url": "https://flash.jin10.com/detail/20260709021956809800",
+          "source": "金十数据",
           "ranks": [
-            1
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时20分"
+          "time_info": "03时05分"
         }
       ]
     }
