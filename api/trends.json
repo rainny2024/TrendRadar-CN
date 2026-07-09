@@ -1,11 +1,14 @@
 {
-  "generated_at": "2026-07-09T09:50:49.376795+08:00",
-  "total_titles_processed": 745,
-  "failed_sources": [],
+  "generated_at": "2026-07-09T14:00:43.027894+08:00",
+  "total_titles_processed": 943,
+  "failed_sources": [
+    "douyin",
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 73,
+      "match_count": 78,
       "titles": [
         {
           "title": "战火重燃，伊朗革命卫队处境艰难",
@@ -87,6 +90,17 @@
           "time_info": "[05时58分 ~ 07时02分]"
         },
         {
+          "title": "伊朗民众：美伊备忘录只是一纸空文，支持本国自卫",
+          "url": "https://news.ifeng.com/c/8uc3IRm0BcK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
           "title": "美军开始对伊朗实施更多打击",
           "url": "https://news.ifeng.com/c/8ubgRgsi7ZZ",
           "source": "凤凰网",
@@ -104,7 +118,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -118,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "据法尔斯通讯社：伊朗在美国袭击后暂停德黑兰至马什哈德的列车服务。",
+          "url": "https://flash.jin10.com/detail/20260709132924565800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         },
         {
           "title": "伊媒：伊朗防御系统正在应对美军打击",
@@ -174,6 +199,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
+        },
+        {
+          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
+          "url": "https://www.cls.cn/detail/2421013",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 14时00分]"
         },
         {
           "title": "据沙特阿拉伯阿拉比亚电视台：伊朗革命卫队称，将对美国打击行动进行回应。",
@@ -271,16 +309,16 @@
           "time_info": "[04时56分 ~ 07时02分]"
         },
         {
-          "title": "24小时内第二轮！美军宣布对伊朗发动新一轮袭击",
-          "url": "https://www.cls.cn/detail/2421013",
-          "source": "财联社热门",
+          "title": "美军称再次对伊朗发起打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            8
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 09时50分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 14时00分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：伊朗防空系统在该国南部击落一架“敌方无人机”。",
@@ -337,7 +375,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -406,6 +444,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
+        },
+        {
+          "title": "伊朗铁路公司：因今晨美国和以色列的袭击，从德黑兰开往马什哈德的列车暂时停运。",
+          "url": "https://flash.jin10.com/detail/20260709132230159800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         },
         {
           "title": "伊朗外交部发言人：伊朗将坚定不移地维护国家利益，并行使国家主权。",
@@ -551,6 +600,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "美军对伊朗发动新一轮打击，伊朗称将很快反击，美伊为何突然再次撕破脸？美方军事行动背后有何盘算？",
+          "url": "https://www.zhihu.com/question/2058455554222027217",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗与美国之间的谅解备忘录并非基于信任，而是基于明确的“承诺换承诺”机制。",
           "url": "https://flash.jin10.com/detail/20260709005647628800",
           "source": "金十数据",
@@ -590,7 +650,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -694,17 +754,6 @@
           "time_info": "05时58分"
         },
         {
-          "title": "美军称再次对伊朗发起打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "据伊朗努尔新闻(Nour News)：消息人士称，美国对布什尔地区的袭击未对核电站造成任何损害。",
           "url": "https://flash.jin10.com/detail/20260709044050815800",
           "source": "金十数据",
@@ -727,13 +776,24 @@
           "time_info": "04时56分"
         },
         {
+          "title": "美军空袭伊朗胡齐斯坦省已致3死多伤",
+          "url": "https://wallstreetcn.com/livenews/3131092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
           "title": "伊朗首次公开哈梅内伊官邸遭袭画面",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E5%AE%98%E9%82%B8%E9%81%AD%E8%A2%AD%E7%94%BB%E9%9D%A2%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -799,7 +859,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -821,7 +881,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -829,7 +889,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "美伊战火重燃！特朗普称谅解备忘录“已终结”，斥伊朗人是“人渣”",
@@ -837,11 +897,25 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 14时00分]"
+        },
+        {
+          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
+          "url": "https://wallstreetcn.com/articles/3776487",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 09时50分]"
+          "appearance_count": 5,
+          "time_info": "[05时58分 ~ 14时00分]"
         },
         {
           "title": "国际油价大涨6%金银跳水！特朗普一言引爆全球市场",
@@ -903,16 +977,81 @@
           "time_info": "[01时20分 ~ 07时02分]"
         },
         {
-          "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
-          "url": "https://wallstreetcn.com/articles/3776487",
+          "title": "特朗普：美伊谅解备忘录“已终结”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 14时00分]"
+        },
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时58分 ~ 09时50分]"
+          "time_info": "[09时50分 ~ 14时00分]"
+        },
+        {
+          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 14时00分]"
+        },
+        {
+          "title": "特朗普要求切断美国与西班牙贸易往来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20,
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 14时00分]"
+        },
+        {
+          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
+          "url": "https://www.cls.cn/detail/2421032",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 14时00分]"
+        },
+        {
+          "title": "特朗普称“今夜可能再打伊朗”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时05分 ~ 14时00分]"
         },
         {
           "title": "特朗普称“今夜可能再打伊朗”",
@@ -938,28 +1077,6 @@
           "time_info": "[01时20分 ~ 09时50分]"
         },
         {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "美国总统特朗普：对伊朗的攻击是为了报复昨天伊朗对船只的轰炸。如果再发生一次，后果将更加严重。",
           "url": "https://flash.jin10.com/detail/20260709053639585800",
           "source": "金十数据",
@@ -982,66 +1099,16 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普：美伊谅解备忘录“已终结”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33541797",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 09时50分]"
-        },
-        {
-          "title": "特朗普要求切断美国与西班牙贸易往来",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33542019",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 09时50分]"
-        },
-        {
-          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
-          "url": "https://www.cls.cn/detail/2421032",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "特朗普：我在伊朗的刺杀名单排第一位",
           "url": "https://news.ifeng.com/c/8ubvs5fh8TF",
           "source": "凤凰网",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "特朗普称“今夜可能再打伊朗”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33544015",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            14
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时05分 ~ 09时50分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 14时00分]"
         },
         {
           "title": "特朗普称“伊朗协议已终结”，拉美资产应声下滑",
@@ -1104,6 +1171,28 @@
           "time_info": "[05时58分 ~ 07时02分]"
         },
         {
+          "title": "特朗普点名批评章家敦，释放一个明确信号",
+          "url": "https://news.ifeng.com/c/8ubwZV9LhlF",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 14时00分]"
+        },
+        {
+          "title": "特朗普下令：切断所有与西班牙的贸易往来，“他们是北约内的糟糕盟友”！",
+          "url": "https://wallstreetcn.com/articles/3776465",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 14时00分]"
+        },
+        {
           "title": "特朗普先威胁“今夜”再打伊朗、恢复海上封锁，后“降温”：美伊局势升级会很快平息",
           "url": "https://wallstreetcn.com/articles/3776487",
           "source": "华尔街见闻",
@@ -1161,17 +1250,6 @@
           "time_info": "01时20分"
         },
         {
-          "title": "特朗普点名批评章家敦，释放一个明确信号",
-          "url": "https://news.ifeng.com/c/8ubwZV9LhlF",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "美国总统特朗普谈及住房立法草案，声称：我是“拯救美国”立法草案的大粉丝。",
           "url": "https://wallstreetcn.com/livenews/3130928",
           "source": "华尔街见闻-快讯",
@@ -1181,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "特朗普要求切断美国与西班牙贸易往来，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/2058242652987045100",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时59分"
         },
         {
           "title": "美国总统特朗普：今天的会议（围绕北约）解决了很多问题。",
@@ -1205,15 +1294,15 @@
           "time_info": "07时02分"
         },
         {
-          "title": "特朗普下令：切断所有与西班牙的贸易往来，“他们是北约内的糟糕盟友”！",
-          "url": "https://wallstreetcn.com/articles/3776465",
-          "source": "华尔街见闻",
+          "title": "特朗普：伊朗不久前打来电话，他们想达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3131109",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "14时00分"
         },
         {
           "title": "美国总统特朗普：西班牙今天非常慷慨。",
@@ -1315,6 +1404,28 @@
           "time_info": "07时02分"
         },
         {
+          "title": "美国总统特朗普：尚未决定是否从格陵兰岛撤回部队。",
+          "url": "https://flash.jin10.com/detail/20260709131326731800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "美国总统特朗普：尚未决定是否取消格陵兰之行。",
+          "url": "https://flash.jin10.com/detail/20260709131233625800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
           "title": "美国总统特朗普在社媒上发布数条关于伊朗遭到打击后的爆炸视频或图片。",
           "url": "https://flash.jin10.com/detail/20260709053855833800",
           "source": "金十数据",
@@ -1324,6 +1435,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗早些时候打来电话，他们想达成协议。",
+          "url": "https://flash.jin10.com/detail/20260709131218540800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         },
         {
           "title": "特朗普：若伊朗再袭船只 后果将更严重",
@@ -1362,8 +1484,21 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "美联储会议纪要：部分官员支持6月加息 分歧表征实为“等数据”",
+          "url": "https://www.cls.cn/detail/2420995",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时02分 ~ 14时00分]"
+        },
         {
           "title": "美联储传声筒：美联储分歧核心在通胀前景，而非政策方向",
           "url": "https://flash.jin10.com/detail/20260709023708140800",
@@ -1374,6 +1509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "巴克莱：美联储或将按兵不动到2027年底",
+          "url": "https://flash.jin10.com/detail/20260709132712874800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         },
         {
           "title": "美联储会议纪要：中东冲突推高通胀，大多数央行暗示未来将加息",
@@ -1397,18 +1543,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 03时05分]"
-        },
-        {
-          "title": "美联储会议纪要：部分官员支持6月加息 分歧表征实为“等数据”",
-          "url": "https://www.cls.cn/detail/2420995",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 09时50分]"
         },
         {
           "title": "美联储会议纪要：AI持续推动数据中心、高科技设备和软件的实际投资支出",
@@ -1612,8 +1746,19 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
+          "url": "https://wallstreetcn.com/articles/3776500",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 14时00分]"
+        },
         {
           "title": "世界杯八强球员停赛风险",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%96%E7%95%8C%E6%9D%AF%E5%85%AB%E5%BC%BA%E7%90%83%E5%91%98%E5%81%9C%E8%B5%9B%E9%A3%8E%E9%99%A9%23&t=31&band_rank=17&Refer=top",
@@ -1628,15 +1773,15 @@
           "time_info": "[01时20分 ~ 07时02分]"
         },
         {
-          "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
-          "url": "https://wallstreetcn.com/articles/3776500",
-          "source": "华尔街见闻",
+          "title": "首次！美联储将AI投资列为三大通胀主要风险之一",
+          "url": "https://www.cls.cn/detail/2421292",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
         },
         {
           "title": "穆迪称：尽管存在支出风险，日本评级前景依然稳定",
@@ -1661,6 +1806,17 @@
           "time_info": "04时56分"
         },
         {
+          "title": "日本央行：多个地区表示，出口和产出急剧下降的风险已有所减弱。 企业维持了强劲的资本支出计划，因全球AI需求扩大，芯片设备和芯片订单有所增加。 包括中小企业在内的企业今年提供了较高的工资涨幅，尽管也有部分企业表示持续加薪可能较为困难。 企业继续通过提价来转嫁不断上升的劳动力和流通成本。 与中东冲突相关的原材料成本上涨的转嫁速度比过去更快。 企业正在考虑自夏季起上调食品和日用品价格。 中小企业难以将上涨的投入成本转嫁出去，这正在挤压其利润空间。",
+          "url": "https://wallstreetcn.com/livenews/3131103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
           "title": "瑞士央行行长：能源价格大幅上涨是全球经济发展的主要风险。",
           "url": "https://flash.jin10.com/detail/20260709005824671800",
           "source": "金十数据",
@@ -1670,6 +1826,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "【沐曦股份：澄清“产品订单排到明年”传闻不实 公司仍处亏损状态】沐曦股份7月9日公告称，关注到有媒体报道公司部分产品订单已排到明年甚至之后，经核查上述传闻不属实。公司首席产品官、高级副总裁孙国梁在“活力中国调研行”活动中的发言未对公司订单情况发表观点。公司目前生产经营正常，不存在应披露而未披露的重大信息。公司2026年一季度营业收入5.62亿元，归母净利润-9884.24万元，仍处于亏损状态，市净率显著高于行业均值，存在估值高、股价波动较大的风险。",
+          "url": "https://wallstreetcn.com/livenews/3131099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "高盛称中东局势再恶化或拖慢石油供应恢复进程 油价走势存双向风险",
+          "url": "https://wallstreetcn.com/livenews/3131095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
         },
         {
           "title": "法国巴黎银行：特斯拉并购溢价被执行风险抵消",
@@ -1689,7 +1867,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1703,6 +1881,282 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
+          "url": "https://wallstreetcn.com/articles/3776428",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 14时00分]"
+        },
+        {
+          "title": "科创50指数涨超2%，澜起科技、沐曦股份涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260709093811693800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "科创50指数涨幅扩大至5%，沐曦股份、摩尔线程、中芯国际、澜起科技等半导体个股领涨。",
+          "url": "https://wallstreetcn.com/livenews/3131116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "创业板指涨超2%，科创50涨超5%，沪指涨0.22%，深成指涨1.05%，半导体芯片、油气、AI手机、算力硬件等方向领涨，沪深京三市上涨个股近1400只。",
+          "url": "https://wallstreetcn.com/livenews/3131115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
+          "url": "https://www.cls.cn/detail/2420430",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时05分]"
+        },
+        {
+          "title": "科创50指数涨幅扩大至4%。",
+          "url": "https://wallstreetcn.com/livenews/3131108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "A股半导体产业链开盘活跃，合肥城建接近涨停，普冉股份、汇成股份、沐曦股份、晶合集成、神工股份纷纷高开，消息上，长鑫科技披露科创板上市招股意向书及《发行安排及初步询价公告》，正式启动科创板IPO发行程序，公司新股网下申购日和网上申购日均为2026年7月16日。",
+          "url": "https://wallstreetcn.com/livenews/3130996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "科创50指数涨幅扩大至4%。",
+          "url": "https://flash.jin10.com/detail/20260709131014265800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "A股券商股开盘拉升，华安证券直线涨停，招商证券涨超6%，长江证券、中金公司、中信建投、天风证券跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3131006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股券商股盘初冲高，华安证券涨停，招商证券、长江证券、中信建投、天风证券、中金公司跟涨。",
+          "url": "https://flash.jin10.com/detail/20260709093340574800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "次新股华润新能源午后触及跌停，成交额超37亿元。",
+          "url": "https://flash.jin10.com/detail/20260709132314129800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "A股PCB概念股盘初拉升，宝鼎科技涨停，本川智能、泰金新能、木林森、满坤科技、快克智能跟涨。",
+          "url": "https://flash.jin10.com/detail/20260709093303962800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "A股先进封装板块午后再度拉升，长电科技、深科技双双涨停，华天科技、旭光电子、崇达技术此前封板，通富微电、甬矽电子涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3131106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "A股中药板块局部异动，华森制药直线涨停，盘龙药业涨近7%，汉森制药、天目药业、太极集团、马应龙等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3131105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "A股CPO、光通信方向午后拉升，深科达20CM涨停，长光华芯、天孚通信、光迅科技、东山精密纷纷拉升。",
+          "url": "https://flash.jin10.com/detail/20260709131518521800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "A股先进封装板块午后再度拉升，长电科技、深科技双双涨停，华天科技、旭光电子、崇达技术此前封板，通富微电、甬矽电子涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260709130850458800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
+          "url": "https://wallstreetcn.com/articles/3776355",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时20分 ~ 07时02分]"
+        },
+        {
+          "title": "美伊局势升温，道指跌幅扩大至1.6%，半导体指数跌0.6%，油价大涨8%，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 05时58分]"
+        },
+        {
+          "title": "半导体设备ETF招商涨超5%，重仓股中微公司涨近6%。",
+          "url": "https://flash.jin10.com/detail/20260709133009286800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "A股半导体设备板块震荡走高，长川科技涨近10%，中微公司、北方华创、微导纳米、华海清科纷纷上扬。",
+          "url": "https://wallstreetcn.com/livenews/3131114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        },
+        {
+          "title": "美光、闪迪领跌、整个板块全线重挫，市场焦点：存储见顶了吗？",
+          "url": "https://wallstreetcn.com/articles/3776420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时58分 ~ 07时02分]"
+        },
+        {
+          "title": "获逾七倍超额认购！存储巨头SK海力士赴美上市遭疯抢",
+          "url": "https://www.cls.cn/detail/2421193",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
+          "title": "道指收跌约1.1%，纳指科技指数涨约0.8%，半导体指数涨超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3130879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
         }
       ]
     },
@@ -1870,11 +2324,12 @@
             15,
             14,
             10,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 09时50分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 14时00分]"
         },
         {
           "title": "净利同比最高增长5.61倍！120亿存储芯片概念股发布半年度业绩预告|盘后公告集锦",
@@ -1901,6 +2356,18 @@
           "time_info": "[04时56分 ~ 05时58分]"
         },
         {
+          "title": "本科生进厂五年涨薪 25%，制造业正成为近年来工资增长最快的领域，会有越来越多年轻人选择「进厂」吗？",
+          "url": "https://www.zhihu.com/question/2057858678024319907",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 13时59分]"
+        },
+        {
           "title": "道明证券美国利率策略主管Gennadiy Goldberg表示：美债实际利率走高受到稳健的增长预期，以及市场担忧美联储在中东冲突升级的情况下需要进一步收紧政策的共同推动。",
           "url": "https://wallstreetcn.com/livenews/3130895",
           "source": "华尔街见闻-快讯",
@@ -1910,122 +2377,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        },
-        {
-          "title": "本科生进厂五年涨薪 25%，制造业正成为近年来工资增长最快的领域，会有越来越多年轻人选择「进厂」吗？",
-          "url": "https://www.zhihu.com/question/2057858678024319907",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
         }
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
+      "keyword_group": "上证 深证",
       "match_count": 4,
       "titles": [
         {
-          "title": "恒科指暴涨5%，科网股爆发、阿里狂飙超12%，A股三大股指集体收跌，科创50独自收红，AI服务器逆势爆发",
-          "url": "https://wallstreetcn.com/articles/3776428",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 09时50分]"
-        },
-        {
-          "title": "科创50指数涨超2%，澜起科技、沐曦股份涨超5%。",
-          "url": "https://flash.jin10.com/detail/20260709093811693800",
+          "title": "深证成指日内涨幅达1%，创业板指涨1.66%，沪指涨0.17%。",
+          "url": "https://flash.jin10.com/detail/20260709093721945800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.7%，算力租赁逆势走强，机器人、锂电概念股集体重挫",
-          "url": "https://www.cls.cn/detail/2420430",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 03时05分]"
-        },
-        {
-          "title": "A股半导体产业链开盘活跃，合肥城建接近涨停，普冉股份、汇成股份、沐曦股份、晶合集成、神工股份纷纷高开，消息上，长鑫科技披露科创板上市招股意向书及《发行安排及初步询价公告》，正式启动科创板IPO发行程序，公司新股网下申购日和网上申购日均为2026年7月16日。",
-          "url": "https://wallstreetcn.com/livenews/3130996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊局势叠加三星财报，纳指100盘中跌超2%，半导体指数大跌5%，原油大涨，白银重挫",
-          "url": "https://wallstreetcn.com/articles/3776355",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 07时02分]"
-        },
-        {
-          "title": "美伊局势升温，道指跌幅扩大至1.6%，半导体指数跌0.6%，油价大涨8%，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 05时58分]"
+          "appearance_count": 1,
+          "time_info": "09时50分"
         },
         {
-          "title": "美光、闪迪领跌、整个板块全线重挫，市场焦点：存储见顶了吗？",
-          "url": "https://wallstreetcn.com/articles/3776420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时58分 ~ 07时02分]"
-        },
-        {
-          "title": "道指收跌约1.1%，纳指科技指数涨约0.8%，半导体指数涨超2.2%",
-          "url": "https://wallstreetcn.com/livenews/3130879",
+          "title": "上证指数开盘报3977.55点，涨0.17%。 深证成指开盘报15038.47点，涨0.66%。 创业板指开盘报3892.12点，涨1.22%。 沪深300开盘报4774.40点，涨0.40%。 科创50开盘报2047.24点，涨1.54%。 中证500开盘报8437.15点，涨0.56%。 中证1000开盘报8161.86点，涨0.54%。",
+          "url": "https://wallstreetcn.com/livenews/3130992",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时58分"
+          "time_info": "09时50分"
+        },
+        {
+          "title": "上证报：理性看待市场短期波动，多重逻辑支撑A股中长期配置价值",
+          "url": "https://wallstreetcn.com/livenews/3130915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "创业板指午后拉升，再度涨超1%。深证成指涨0.49%，沪指跌0.06%。",
+          "url": "https://flash.jin10.com/detail/20260709131001146800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "CPI",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国家统计局：6月份CPI同比保持温和上涨，PPI同比涨幅略有扩大",
+          "url": "https://wallstreetcn.com/livenews/3131004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "中国6月CPI同比 1%，前值 1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3131001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
+        },
+        {
+          "title": "国家统计局：6月份CPI同比上涨1.0%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33547260",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 14时00分]"
+        },
+        {
+          "title": "提醒：北京时间09:30将公布中国6月CPI和PPI。",
+          "url": "https://wallstreetcn.com/livenews/3130988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
@@ -2040,11 +2491,12 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 09时50分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 14时00分]"
         },
         {
           "title": "韩国股市，正走向现实版“鱿鱼游戏”",
@@ -2064,48 +2516,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 深证",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "深证成指日内涨幅达1%，创业板指涨1.66%，沪指涨0.17%。",
-          "url": "https://flash.jin10.com/detail/20260709093721945800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "上证指数开盘报3977.55点，涨0.17%。 深证成指开盘报15038.47点，涨0.66%。 创业板指开盘报3892.12点，涨1.22%。 沪深300开盘报4774.40点，涨0.40%。 科创50开盘报2047.24点，涨1.54%。 中证500开盘报8437.15点，涨0.56%。 中证1000开盘报8161.86点，涨0.54%。",
-          "url": "https://wallstreetcn.com/livenews/3130992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "上证报：理性看待市场短期波动，多重逻辑支撑A股中长期配置价值",
-          "url": "https://wallstreetcn.com/livenews/3130915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "09时50分"
         }
       ]
     },
@@ -2135,11 +2548,12 @@
             29,
             25,
             26,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时20分 ~ 09时50分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 14时00分]"
         },
         {
           "title": "【焦点复盘】三大指数高开低走录得日线3连阴，AI服务器、华为昇腾概念逆势活跃",
@@ -2151,84 +2565,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时20分 ~ 07时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "涨停 跌停",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股券商股开盘拉升，华安证券直线涨停，招商证券涨超6%，长江证券、中金公司、中信建投、天风证券跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3131006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "A股券商股盘初冲高，华安证券涨停，招商证券、长江证券、中信建投、天风证券、中金公司跟涨。",
-          "url": "https://flash.jin10.com/detail/20260709093340574800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "A股PCB概念股盘初拉升，宝鼎科技涨停，本川智能、泰金新能、木林森、满坤科技、快克智能跟涨。",
-          "url": "https://flash.jin10.com/detail/20260709093303962800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "CPI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国家统计局：6月份CPI同比保持温和上涨，PPI同比涨幅略有扩大",
-          "url": "https://wallstreetcn.com/livenews/3131004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "中国6月CPI同比 1%，前值 1.2%。",
-          "url": "https://wallstreetcn.com/livenews/3131001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "提醒：北京时间09:30将公布中国6月CPI和PPI。",
-          "url": "https://wallstreetcn.com/livenews/3130988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
         }
       ]
     },
@@ -2284,7 +2620,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -2295,7 +2631,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -2359,6 +2695,23 @@
       ]
     },
     {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小鹏Robotaxi开启内测，何小鹏称Robotaxi是小鹏迈向“机器人汽车”的重要一步",
+          "url": "https://wallstreetcn.com/livenews/3131081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "实体清单 制裁",
       "match_count": 1,
       "titles": [
@@ -2386,7 +2739,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
