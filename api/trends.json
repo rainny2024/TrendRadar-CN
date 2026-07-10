@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-07-10T13:54:07.841200+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2026-07-10T17:01:14.005539+08:00",
+  "total_titles_processed": 1089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
       "match_count": 29,
       "titles": [
+        {
+          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
+          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时01分]"
+        },
+        {
+          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
+          "url": "https://wallstreetcn.com/articles/3776602",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时01分]"
+        },
         {
           "title": "美军称再次对伊朗发起打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_33546490",
@@ -25,29 +48,6 @@
           "ranks": [
             4,
             2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时54分]"
-        },
-        {
-          "title": "伊朗发生致命枪击事件，距哈梅内伊安葬地仅17公里",
-          "url": "https://news.ifeng.com/c/8udfBwd2vGP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时54分]"
-        },
-        {
-          "title": "霍尔木兹危机冲击供应：伊朗被曝24小时紧急运出超千万桶原油、卡塔尔暂停LNG产能恢复",
-          "url": "https://wallstreetcn.com/articles/3776602",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -339,7 +339,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美军又袭伊朗！特朗普威胁“今夜”再打、恢复海上封锁，后一度“降温”：美伊局势升级会很快平息",
@@ -366,13 +366,25 @@
           "time_info": "[01时47分 ~ 07时02分]"
         },
         {
+          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
+          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时01分]"
+        },
+        {
           "title": "特朗普协议埋下“定时炸弹”：一个模糊条款引爆霍尔木兹海峡控制权争夺",
           "url": "https://flash.jin10.com/detail/20260710133524777800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -388,16 +400,17 @@
           "time_info": "[01时47分 ~ 09时50分]"
         },
         {
-          "title": "特朗普称“日本导弹”打美国航母，白宫回应",
-          "url": "https://news.ifeng.com/c/8udg4food2U",
+          "title": "特朗普搞中国那套，拿来对付西班牙？",
+          "url": "https://news.ifeng.com/c/8udchHV60GP",
           "source": "凤凰网",
           "ranks": [
-            2,
-            6
+            6,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时54分]"
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时01分]"
         },
         {
           "title": "特朗普：伊朗这件事上，中国赢得了美国的尊重",
@@ -445,27 +458,16 @@
           "time_info": "[03时21分 ~ 05时12分]"
         },
         {
-          "title": "特朗普搞中国那套，拿来对付西班牙？",
-          "url": "https://news.ifeng.com/c/8udchHV60GP",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时54分]"
-        },
-        {
           "title": "特朗普“把自己困住了”，陷入两难",
           "url": "https://news.ifeng.com/c/8uddEUs34xh",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 17时01分]"
         },
         {
           "title": "以色列向美国递交新情报：伊朗再被曝策划刺杀特朗普",
@@ -562,7 +564,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -587,13 +589,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时12分"
+        },
+        {
+          "title": "以色列媒体：以愿参与对伊打击 正等特朗普表态",
+          "url": "https://wallstreetcn.com/livenews/3131864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         }
       ]
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "AI投资已成通胀主要推手？美联储“三把手”：或被迫加息应对！",
+          "url": "https://www.cls.cn/detail/2422609",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
         {
           "title": "美联储主席沃什组建外部专家团队，审查货币政策框架",
           "url": "https://flash.jin10.com/detail/20260710031013582800",
@@ -612,7 +636,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -626,6 +650,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
+          "url": "https://wallstreetcn.com/articles/3776606",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时01分]"
         },
         {
           "title": "美联储：工作组将评估政策工具、分析方法和政策框架是否需要改进。",
@@ -650,6 +687,18 @@
           "time_info": "03时21分"
         },
         {
+          "title": "7月10日会员早报：中东战火重燃 沃什请“外脑”改造美联储",
+          "url": "https://wallstreetcn.com/premium/articles/3776608?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时01分]"
+        },
+        {
           "title": "周四（7月9日），美联储隔夜逆回购协议（RRP）使用规模为57.72亿美元（交易对手6家），上个交易日报33.47亿美元。",
           "url": "https://wallstreetcn.com/livenews/3131492",
           "source": "华尔街见闻-快讯",
@@ -660,30 +709,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 03时21分]"
-        },
-        {
-          "title": "美联储官宣五大改革工作组领导阵容，前央行行长、硅谷AI大佬、诺奖经济学家加盟",
-          "url": "https://wallstreetcn.com/articles/3776606",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时54分]"
-        },
-        {
-          "title": "7月10日会员早报：中东战火重燃 沃什请“外脑”改造美联储",
-          "url": "https://wallstreetcn.com/premium/articles/3776608?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时54分]"
         },
         {
           "title": "美联储公布“五大改革工作组”领导名单",
@@ -810,19 +835,215 @@
       ]
     },
     {
+      "keyword_group": "增长 亮眼",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
+          "url": "https://www.cls.cn/detail/2422188",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时12分 ~ 13时54分]"
+        },
+        {
+          "title": "焦作万方：预计上半年净利润11.7亿元-12.7亿元，同比增长118.35%-137.01%，电解铝价格较上年同期保持高位运行。",
+          "url": "https://wallstreetcn.com/livenews/3131905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "诚志股份：预计2026年上半年净利润同比增长1259.43%-1573.15%",
+          "url": "https://wallstreetcn.com/livenews/3131899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "中信证券：预计上半年归母净利润同比增长69.59%",
+          "url": "https://wallstreetcn.com/livenews/3131898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "【中矿资源：预计上半年净利润同比增长1078.07%-1302.46%】中矿资源公告，预计2026年上半年净利润为10.5亿元-12.5亿元，同比增长1,078.07%-1,302.46%。2026年上半年，公司预计归属于上市公司股东的净利润较上年同期实现较大幅度增长，主要变动原因如下：受益于下游储能及动力电池行业的发展，锂盐产品价格同比上行，公司锂电新能源原料开发与利用板块经营效益改善，利润实现同比增长，公司整体盈利水平提升。公司所属纳米比亚Tsumeb冶炼厂因业务转型，与上年同期相比大幅减亏。",
+          "url": "https://wallstreetcn.com/livenews/3131896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "宝马第二季度纯电动汽车销量同比增长5.2%。",
+          "url": "https://flash.jin10.com/detail/20260710165047455800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "北向资金二季度持仓市值增长5400亿元",
+          "url": "https://wallstreetcn.com/livenews/3131571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        },
+        {
+          "title": "三孚股份：预计2026年上半年净利润同比增长191.22%到222.43%",
+          "url": "https://wallstreetcn.com/livenews/3131893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "【三六零：预计上半年净利润约为1.8亿元至2.6亿元，上年同期亏损2.82亿元 】报告期内，公司业绩预盈的主要原因如下：一是公司持续迭代全线互联网产品，通过功能升级与精细化运营，不断提升用户体验，驱动互联网产品业务营收增长，毛利水平同步提升；二是公司主动调整产品推广策略，优化资源配置，市场推广费用同比下降。",
+          "url": "https://wallstreetcn.com/livenews/3131887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "诚志股份：预计上半年净利润2.6亿元-3.2亿元，同比增长1259.43%-1573.15%",
+          "url": "https://flash.jin10.com/detail/20260710164801414800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "法国央行：预计二季度GDP增长0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3131500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        },
+        {
+          "title": "香农芯创：预计2026年上半年净利润同比增长2117.54%～2434.34%",
+          "url": "https://wallstreetcn.com/livenews/3131882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "宏桥控股：预计上半年净利润150亿元-160亿元，同比增长69.72%-81.04%；上半年，电解铝市场销售价格同比大幅上涨，相关业务毛利实现显著提升。",
+          "url": "https://wallstreetcn.com/livenews/3131878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "深圳燃气：2026年上半年净利润7.78亿元，同比增长22.02%",
+          "url": "https://flash.jin10.com/detail/20260710164637126800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "焦作万方：预计2026年上半年净利润11.7亿元—12.7亿元 同比增长118.35%-137.01%",
+          "url": "https://flash.jin10.com/detail/20260710164624229800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "中远海能：预计上半年净利润45亿元，同比增长141%",
+          "url": "https://wallstreetcn.com/livenews/3131869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        },
+        {
+          "title": "巨化股份：2026年上半年营收125.35亿元 同比增长7.03%",
+          "url": "https://flash.jin10.com/detail/20260710164337562800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 机器人",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "长征十号乙首飞告捷 全球首创海上网系回收成功 商业航天下半年迎三重共振",
           "url": "https://www.cls.cn/detail/2422618",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 17时01分]"
         },
         {
           "title": "港股商业航天股集体上扬，钧达股份(02865.HK)涨超28%，亚太卫星(01045.HK)涨超16%，金风科技(02208.HK)涨超15%，航天控股(00031.HK)涨超10%，中国技术集团(01725.HK)涨超9%。",
@@ -831,7 +1052,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -842,9 +1063,43 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33549462",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 17时01分]"
+        },
+        {
+          "title": "马斯克“画饼”，宇树填坑？全球首例人形机器人手术登上Nature",
+          "url": "https://www.cls.cn/detail/2422471",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
+          "title": "大V：中国商业航天开启新时代",
+          "url": "https://www.toutiao.com/trending/7660801284114484755/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
         },
         {
           "title": "商业航天板块拉升 海兰信20cm涨停",
@@ -858,24 +1113,13 @@
           "time_info": "[13时53分 ~ 13时54分]"
         },
         {
-          "title": "经纬度：AI硬件、机器人出海，上海外贸新引擎动力十足",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33549462",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
-        },
-        {
           "title": "商业航天板块爆发 我国成功实施运载火箭一子级可控回收",
           "url": "https://wallstreetcn.com/livenews/3131759",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -886,9 +1130,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "港股收盘：恒生指数收涨0.6%，恒生科技指数收跌0.21%。商业航天概念股走高，钧达股份涨超24%，金风科技涨超8%，亚太卫星涨超4%；创新药概念股上涨，派格生物医药涨超28%，乐普生物涨超4%，药明康德涨超4%。AI大模型概念股下挫，智谱跌超19%，MiniMax跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3131875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         },
         {
           "title": "商业航天板块爆发 我国成功实施运载火箭一子级可控回收",
@@ -897,9 +1152,118 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "商业航天概念今日活跃 游资买入海兰信",
+          "url": "https://flash.jin10.com/detail/20260710164325736800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2422043",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 09时50分]"
+        },
+        {
+          "title": "卢特尼克敦促SK海力士、三星扩大美国存储芯片产能",
+          "url": "https://flash.jin10.com/detail/20260710044106700800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时12分 ~ 07时02分]"
+        },
+        {
+          "title": "怎么看印度扬言要在芯片领域超过中国",
+          "url": "https://www.toutiao.com/trending/7660534796434542143/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 07时02分]"
+        },
+        {
+          "title": "AI“狂吞”存储恐冲击经济 美商务部长敦促韩国“芯片双雄”在美扩产",
+          "url": "https://www.cls.cn/detail/2422428",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        },
+        {
+          "title": "阿波罗350亿美元AI芯片信贷交易即将开始交易",
+          "url": "https://wallstreetcn.com/livenews/3131478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "美股收盘：三大股指收涨 芯片股走强",
+          "url": "https://flash.jin10.com/detail/20260710040126846800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "乾照光电：在研100G VCSEL光芯片可用于800G光模块",
+          "url": "https://flash.jin10.com/detail/20260710125741426800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "美国商务部长敦促SK海力士和三星电子扩大在美国的内存芯片产能",
+          "url": "https://wallstreetcn.com/livenews/3131607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时50分"
         }
       ]
     },
@@ -918,8 +1282,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 13时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时47分 ~ 17时01分]"
         },
         {
           "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
@@ -1026,7 +1390,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1059,7 +1423,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1070,7 +1434,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1081,7 +1445,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
         },
@@ -1091,93 +1455,6 @@
           "source": "金十数据",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2422043",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 09时50分]"
-        },
-        {
-          "title": "卢特尼克敦促SK海力士、三星扩大美国存储芯片产能",
-          "url": "https://flash.jin10.com/detail/20260710044106700800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时12分 ~ 07时02分]"
-        },
-        {
-          "title": "怎么看印度扬言要在芯片领域超过中国",
-          "url": "https://www.toutiao.com/trending/7660534796434542143/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 07时02分]"
-        },
-        {
-          "title": "阿波罗350亿美元AI芯片信贷交易即将开始交易",
-          "url": "https://wallstreetcn.com/livenews/3131478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 芯片股走强",
-          "url": "https://flash.jin10.com/detail/20260710040126846800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "乾照光电：在研100G VCSEL光芯片可用于800G光模块",
-          "url": "https://flash.jin10.com/detail/20260710125741426800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "美国商务部长敦促SK海力士和三星电子扩大在美国的内存芯片产能",
-          "url": "https://wallstreetcn.com/livenews/3131607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1258,9 +1535,96 @@
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
+          "url": "https://wallstreetcn.com/articles/3776526",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时47分 ~ 17时01分]"
+        },
+        {
+          "title": "半导体行业两大催化共振 科创50创今年最大单日涨幅",
+          "url": "https://www.cls.cn/detail/2421662",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 07时02分]"
+        },
+        {
+          "title": "一图看懂 | 下周打新，科创板最能赚钱的企业要来了",
+          "url": "https://www.cls.cn/detail/2421703",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 05时12分]"
+        },
+        {
+          "title": "【焦点复盘】科创50涨8.41%创单日历史第四大涨幅，中芯国际等多只成分股创上市新高",
+          "url": "https://www.cls.cn/detail/2421756",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 07时02分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超4%，半导体产业链持续爆发，算力硬件股集体反攻",
+          "url": "https://www.cls.cn/detail/2421711",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 03时21分]"
+        },
+        {
+          "title": "自打“科创型券商”标签，至少29家券商表明科创属性",
+          "url": "https://www.cls.cn/detail/2422334",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时00分 ~ 17时01分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "风险",
       "match_count": 6,
       "titles": [
+        {
+          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时50分 ~ 17时01分]"
+        },
         {
           "title": "美联储会议纪要：通胀担忧加剧，少数官员支持6月加息，AI跻身三大通胀风险",
           "url": "https://wallstreetcn.com/articles/3776500",
@@ -1271,17 +1635,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 05时12分]"
-        },
-        {
-          "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时50分 ~ 13时54分]"
         },
         {
           "title": "美联储：美联储工作组成员还包括经济学家曼昆、萨金特、切蒂，风险投资家安德森及Xbox CEO夏尔马。",
@@ -1391,108 +1744,41 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "午后大反击！创业板暴涨超4%，科创50狂飙8%，中芯国际创新高，港股AI大模型双雄分化，智谱涨11%、MINIMAX大跌18%",
-          "url": "https://wallstreetcn.com/articles/3776526",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 13时54分]"
-        },
-        {
-          "title": "半导体行业两大催化共振 科创50创今年最大单日涨幅",
-          "url": "https://www.cls.cn/detail/2421662",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 07时02分]"
-        },
-        {
-          "title": "一图看懂 | 下周打新，科创板最能赚钱的企业要来了",
-          "url": "https://www.cls.cn/detail/2421703",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 05时12分]"
-        },
-        {
-          "title": "【焦点复盘】科创50涨8.41%创单日历史第四大涨幅，中芯国际等多只成分股创上市新高",
-          "url": "https://www.cls.cn/detail/2421756",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 07时02分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨超4%，半导体产业链持续爆发，算力硬件股集体反攻",
-          "url": "https://www.cls.cn/detail/2421711",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 03时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
+      "keyword_group": "跌破 拉升",
       "match_count": 3,
       "titles": [
         {
-          "title": "AI产业链中报预告密集披露 存储牛股业绩迎10倍增长|财报解读",
-          "url": "https://www.cls.cn/detail/2422188",
-          "source": "财联社热门",
+          "title": "港股光通信板块震荡拉升，长飞光纤光缆(06869.HK)涨超12%，剑桥科技(06166.HK)涨超9%，华虹宏力(01347.HK)涨超7%，海光芯正(01191.HK)涨超4%。",
+          "url": "https://flash.jin10.com/detail/20260710094130246800",
+          "source": "金十数据",
           "ranks": [
-            9,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时12分 ~ 13时54分]"
-        },
-        {
-          "title": "北向资金二季度持仓市值增长5400亿元",
-          "url": "https://wallstreetcn.com/livenews/3131571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "09时50分"
         },
         {
-          "title": "法国央行：预计二季度GDP增长0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3131500",
-          "source": "华尔街见闻-快讯",
+          "title": "A股光纤概念盘初拉升，必创科技涨超12%，光迅科技涨超8%，至纯科技涨超7%，天孚通信、炬光科技涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260710093718113800",
+          "source": "金十数据",
           "ranks": [
-            18
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "09时50分"
+        },
+        {
+          "title": "霍尔木兹几近停航，布油却跌破76美元｜原油头条",
+          "url": "https://flash.jin10.com/detail/20260710165027204800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         }
       ]
     },
@@ -1533,11 +1819,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CHLE",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 13时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 17时01分]"
         },
         {
           "title": "复盘BLG战胜LCK一号种子",
@@ -1578,34 +1865,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 13时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "港股光通信板块震荡拉升，长飞光纤光缆(06869.HK)涨超12%，剑桥科技(06166.HK)涨超9%，华虹宏力(01347.HK)涨超7%，海光芯正(01191.HK)涨超4%。",
-          "url": "https://flash.jin10.com/detail/20260710094130246800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "A股光纤概念盘初拉升，必创科技涨超12%，光迅科技涨超8%，至纯科技涨超7%，天孚通信、炬光科技涨超6%。",
-          "url": "https://flash.jin10.com/detail/20260710093718113800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时50分"
         }
       ]
     },
@@ -1657,6 +1916,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "问询函",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "*ST天喻：再次延期至7月17日前回复深交所2025年报问询函",
+          "url": "https://flash.jin10.com/detail/20260710164710282800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时01分"
         }
       ]
     },
