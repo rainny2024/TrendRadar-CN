@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T13:16:18.991282+08:00",
-  "total_titles_processed": 782,
+  "generated_at": "2026-07-12T15:58:04.764068+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 67,
+      "match_count": 76,
       "titles": [
         {
           "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
@@ -34,6 +34,29 @@
           "time_info": "[00时42分 ~ 13时16分]"
         },
         {
+          "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
+          "url": "https://wallstreetcn.com/articles/3776710",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://news.ifeng.com/c/8uh9QTGdynH",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时58分]"
+        },
+        {
           "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
           "url": "https://wallstreetcn.com/livenews/3132344",
           "source": "华尔街见闻-快讯",
@@ -45,6 +68,32 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 09时31分]"
+        },
+        {
+          "title": "美军持续打击，伊朗驻联合国大使发出警告",
+          "url": "https://news.ifeng.com/c/8uh6mNB6lah",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
+          "url": "https://wallstreetcn.com/livenews/3132368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时44分 ~ 15时58分]"
         },
         {
           "title": "伊朗消息人士：美国不放弃现有立场就“免谈”",
@@ -71,19 +120,6 @@
           "time_info": "[00时42分 ~ 07时43分]"
         },
         {
-          "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
-          "url": "https://wallstreetcn.com/livenews/3132368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时44分 ~ 13时16分]"
-        },
-        {
           "title": "美国驻以色列大使：以色列已通知我们有关伊朗策划刺杀美国总统一事。伊朗的威胁并不新鲜，其行为也没有改变。我们没有看到伊朗存在温和派的真实证据。",
           "url": "https://flash.jin10.com/detail/20260712021317281800",
           "source": "金十数据",
@@ -96,17 +132,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时44分 ~ 07时43分]"
-        },
-        {
-          "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
-          "url": "https://wallstreetcn.com/articles/3776710",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "美军称开始对伊朗发动一周内第三轮打击",
@@ -163,15 +188,15 @@
           "time_info": "[03时59分 ~ 07时43分]"
         },
         {
-          "title": "伊朗打击美国在中东地区目标",
-          "url": "https://news.ifeng.com/c/8uh9QTGdynH",
+          "title": "伊朗的报复力度越来越大说明什么？凤凰女记者解读",
+          "url": "https://news.ifeng.com/c/8uhQEpIUZBO",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
@@ -199,15 +224,15 @@
           "time_info": "[04时44分 ~ 07时43分]"
         },
         {
-          "title": "美军持续打击，伊朗驻联合国大使发出警告",
-          "url": "https://news.ifeng.com/c/8uh6mNB6lah",
+          "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
+          "url": "https://news.ifeng.com/c/8uhOrhFxC9j",
           "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼与伊朗同意继续进行技术和政治谈判，以在国际法框架下达成霍尔木兹海峡航行协议。",
@@ -238,18 +263,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "伊朗称其武装力量目标清单持续更新",
-          "url": "https://wallstreetcn.com/livenews/3132389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -265,26 +279,15 @@
           "time_info": "09时31分"
         },
         {
-          "title": "伊朗议长说单方面协议时代已结束",
-          "url": "https://wallstreetcn.com/livenews/3132388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "伊朗称打击阿曼杜库姆港美军目标",
-          "url": "https://wallstreetcn.com/livenews/3132387",
-          "source": "华尔街见闻-快讯",
+          "title": "科威特外交部：强烈谴责今天早晨伊朗针对科威特的恶劣袭击。",
+          "url": "https://flash.jin10.com/detail/20260712152531086800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "15时58分"
         },
         {
           "title": "伊朗称其武装力量目标清单持续更新",
@@ -293,18 +296,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "伊朗打击科威特巴林的美军设施",
-          "url": "https://wallstreetcn.com/livenews/3132386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -320,15 +312,39 @@
           "time_info": "09时31分"
         },
         {
-          "title": "伊朗称再次打击“违规船只”，并对卡塔尔美军基地发动袭击",
-          "url": "https://wallstreetcn.com/livenews/3132385",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称“以实力掌控和维护”霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260712151620377800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时16分"
+          "time_info": "15时58分"
+        },
+        {
+          "title": "伊朗称其武装力量目标清单持续更新",
+          "url": "https://wallstreetcn.com/livenews/3132389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗议长说单方面协议时代已结束",
+          "url": "https://wallstreetcn.com/livenews/3132388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 15时58分]"
         },
         {
           "title": "阿曼同意与伊朗继续就霍尔木兹海峡问题举行会谈",
@@ -336,11 +352,61 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            15
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗南部多地传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3132370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗称打击阿曼杜库姆港美军目标",
+          "url": "https://wallstreetcn.com/livenews/3132387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗革命卫队宣布关闭霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3132371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时58分]"
         },
         {
           "title": "伊朗宣布关闭霍尔木兹海峡",
@@ -355,28 +421,28 @@
           "time_info": "[09时30分 ~ 13时16分]"
         },
         {
-          "title": "伊朗南部多地传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3132370",
+          "title": "伊朗打击科威特巴林的美军设施",
+          "url": "https://wallstreetcn.com/livenews/3132386",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 15时58分]"
         },
         {
-          "title": "伊朗革命卫队宣布关闭霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3132371",
+          "title": "伊朗称再次打击“违规船只”，并对卡塔尔美军基地发动袭击",
+          "url": "https://wallstreetcn.com/livenews/3132385",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            18
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 15时58分]"
         },
         {
           "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
@@ -391,6 +457,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时42分 ~ 03时59分]"
+        },
+        {
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时58分]"
+        },
+        {
+          "title": "美军称对伊朗发动本周第三轮袭击",
+          "url": "https://wallstreetcn.com/livenews/3132372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时31分 ~ 15时58分]"
         },
         {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
@@ -419,38 +509,28 @@
           "time_info": "[00时42分 ~ 02时44分]"
         },
         {
-          "title": "美军称对伊朗发动本周第三轮袭击",
-          "url": "https://wallstreetcn.com/livenews/3132372",
+          "title": "伊朗称打击约旦哈桑王子空军基地",
+          "url": "https://wallstreetcn.com/livenews/3132384",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            19
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时31分 ~ 13时16分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 15时58分]"
         },
         {
           "title": "伊朗打击美国在中东地区目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
-          "source": "澎湃新闻",
+          "url": "https://wallstreetcn.com/livenews/3132379",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "time_info": "[13时16分 ~ 15时58分]"
         },
         {
           "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
@@ -487,15 +567,15 @@
           "time_info": "[13时15分 ~ 13时16分]"
         },
         {
-          "title": "伊朗称打击约旦哈桑王子空军基地",
-          "url": "https://wallstreetcn.com/livenews/3132384",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗议长：单方面协议时代已经结束",
+          "url": "https://www.toutiao.com/trending/7661114422224076827/",
+          "source": "今日头条",
           "ranks": [
-            6
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "据《以色列今日报》（Israel Hayom）：阿曼已通知美国，伊朗拒绝接受有关霍尔木兹海峡的提议条款。这一外交僵局促使美国立即恢复制裁并重新实施海上封锁。",
@@ -515,7 +595,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -548,7 +628,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -570,7 +650,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -592,18 +672,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "伊朗打击美国在中东地区目标",
-          "url": "https://wallstreetcn.com/livenews/3132379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -614,7 +683,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -636,7 +705,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -658,9 +727,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外交部长与巴基斯坦副外部长通话讨论地区发展情况。",
+          "url": "https://flash.jin10.com/detail/20260712142859301800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "市场消息：伊朗在首都德黑兰启用空中防御系统。",
@@ -680,7 +760,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -694,6 +774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "据沙特国家新闻社：约旦军方表示，三枚从伊朗发射的导弹落在该国境内，未造成人员伤亡。",
+          "url": "https://flash.jin10.com/detail/20260712141945313800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "伊朗南部多地遭美军袭击",
@@ -713,7 +804,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -740,6 +831,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "据伊朗国家媒体：当地官员表示，伊朗中部的孔达布地区于周日遭到袭击。",
+          "url": "https://flash.jin10.com/detail/20260712141912828800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：在格什姆岛听到爆炸声。",
           "url": "https://flash.jin10.com/detail/20260712080017473800",
           "source": "金十数据",
@@ -757,7 +859,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -771,6 +873,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "卡塔尔内政部：伊朗袭击后，三人受伤，其中包括一名儿童，均因弹片落下所致。",
+          "url": "https://flash.jin10.com/detail/20260712140301072800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "伊朗革命卫队宣布关闭霍尔木兹海峡",
@@ -787,7 +900,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -814,6 +927,20 @@
           "time_info": "[00时42分 ~ 07时43分]"
         },
         {
+          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
+          "url": "https://wallstreetcn.com/articles/3776705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时39分 ~ 15时58分]"
+        },
+        {
           "title": "特朗普在北约峰会说了什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%8C%97%E7%BA%A6%E5%B3%B0%E4%BC%9A%E8%AF%B4%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -829,18 +956,15 @@
           "time_info": "[00时42分 ~ 06时37分]"
         },
         {
-          "title": "伊朗最高领袖称将报复美以，特朗普：1000枚导弹已瞄准伊朗",
-          "url": "https://wallstreetcn.com/articles/3776705",
-          "source": "华尔街见闻",
+          "title": "曝光特朗普临时换专机，美媒吃传票了",
+          "url": "https://news.ifeng.com/c/8ugMf4GiwsZ",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            8,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时39分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时58分]"
         },
         {
           "title": "美国总统特朗普：我刚在沃尔特·里德医院完成了一次完美的体检。我每六个月做一次体检，此外，我还要求了另一项认知测试，我是唯一一位这样做的总统，三次测试我都通过了——每个问题都答对了。",
@@ -880,15 +1004,15 @@
           "time_info": "[06时37分 ~ 07时43分]"
         },
         {
-          "title": "曝光特朗普临时换专机，美媒吃传票了",
-          "url": "https://news.ifeng.com/c/8ugMf4GiwsZ",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：林赛·格雷厄姆参议员，我所认识的最伟大的人和参议员之一，已经去世！他总是在工作，是一位真正的美国爱国者。林赛将被深深怀念！",
+          "url": "https://flash.jin10.com/detail/20260712152257294800",
+          "source": "金十数据",
           "ranks": [
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         },
         {
           "title": "特朗普为何一改态度向德出售战斧导弹",
@@ -908,7 +1032,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         },
@@ -919,7 +1043,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
         }
@@ -927,7 +1051,7 @@
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -970,28 +1094,41 @@
           "url": "https://s.weibo.com/weibo?q=%E7%AE%97%E5%8A%9B%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时58分]"
         },
         {
           "title": "三星电子将龙仁首座芯片厂投产提前至2029年，比原计划早1-2年",
           "url": "https://wallstreetcn.com/livenews/3132383",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 15时58分]"
+        },
+        {
+          "title": "三星电子将龙仁首座芯片厂投产提前至2029年，比原计划早1-2年",
+          "url": "https://wallstreetcn.com/articles/3776715",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
         }
       ]
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "存储器投资爆火 内存ETF成立三个月疯狂吸金220亿美元",
@@ -1006,6 +1143,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时44分 ~ 07时43分]"
+        },
+        {
+          "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
+          "url": "https://wallstreetcn.com/articles/3776714",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时58分]"
         },
         {
           "title": "长江存储公布IPO辅导团队 中信与中信建投合计31人组成",
@@ -1034,15 +1183,97 @@
           "time_info": "[03时59分 ~ 05时39分]"
         },
         {
-          "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
-          "url": "https://wallstreetcn.com/articles/3776714",
-          "source": "华尔街见闻",
+          "title": "长江存储公布IPO辅导团队，中信与中信建投合计31人组成",
+          "url": "https://wallstreetcn.com/livenews/3132390",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "MLCC涨价潮下的华强北“众生相”：结构性紧缺下渠道躁动 商户喜忧分化",
+          "url": "https://www.cls.cn/detail/2423531",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 15时58分]"
+        },
+        {
+          "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
+          "url": "https://www.zhihu.com/question/2058111600045678958",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
+        },
+        {
+          "title": "茶饮会因茉莉花受灾集体涨价吗",
+          "url": "https://www.toutiao.com/trending/7661478416859794963/",
+          "source": "今日头条",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时15分 ~ 13时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "我国商业航天燃料实现多元化突破",
+          "url": "https://www.douyin.com/hot/2567185",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 09时31分]"
+        },
+        {
+          "title": "特写｜当机器人来到古村落",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33565908",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时30分 ~ 15时58分]"
+        },
+        {
+          "title": "商业航天“DeepSeek时刻”到了吗",
+          "url": "https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E2%80%9CDeepSeek%E6%97%B6%E5%88%BB%E2%80%9D%E5%88%B0%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
         }
       ]
     },
@@ -1086,65 +1317,6 @@
       ]
     },
     {
-      "keyword_group": "涨价 核心材料",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "MLCC涨价潮下的华强北“众生相”：结构性紧缺下渠道躁动 商户喜忧分化",
-          "url": "https://www.cls.cn/detail/2423531",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 13时16分]"
-        },
-        {
-          "title": "茶饮会因茉莉花受灾集体涨价吗",
-          "url": "https://www.toutiao.com/trending/7661478416859794963/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "我国商业航天燃料实现多元化突破",
-          "url": "https://www.douyin.com/hot/2567185",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 09时31分]"
-        },
-        {
-          "title": "特写｜当机器人来到古村落",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33565908",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时30分 ~ 13时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美联储 非农",
       "match_count": 2,
       "titles": [
@@ -1159,8 +1331,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时43分 ~ 13时16分]"
+          "appearance_count": 11,
+          "time_info": "[04时43分 ~ 15时58分]"
         },
         {
           "title": "财报季、沃什和美国通胀--美联储和市场将走向何方？下周“初见端倪”！",
@@ -1170,8 +1342,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时58分]"
         }
       ]
     },
@@ -1185,11 +1357,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 13时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 15时58分]"
         }
       ]
     },
@@ -1202,11 +1375,29 @@
           "url": "https://www.cls.cn/detail/2423676",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "appearance_count": 4,
+          "time_info": "[13时15分 ~ 15时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国股市“便宜”未必是机会，AI热潮难掩周期性阴影",
+          "url": "https://flash.jin10.com/detail/20260712141642422800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     },
@@ -1223,8 +1414,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 13时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 15时58分]"
         }
       ]
     },
@@ -1243,8 +1434,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时42分 ~ 13时16分]"
+          "appearance_count": 16,
+          "time_info": "[00时42分 ~ 15时58分]"
         }
       ]
     }
