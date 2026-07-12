@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T15:58:04.764068+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-07-12T17:47:17.502810+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 76,
+      "match_count": 81,
       "titles": [
         {
           "title": "美国被曝已向伊朗下最后通牒，要求必须做出一项承诺",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 15时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 17时47分]"
         },
         {
           "title": "伊朗打击美国在中东地区目标",
@@ -53,8 +53,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 15时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 17时47分]"
         },
         {
           "title": "穆杰塔巴称对美以追责是伊朗人民的共同要求",
@@ -70,6 +70,17 @@
           "time_info": "[00时42分 ~ 09时31分]"
         },
         {
+          "title": "伊朗的报复力度越来越大说明什么？凤凰女记者解读",
+          "url": "https://news.ifeng.com/c/8uhQEpIUZBO",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时57分 ~ 17时47分]"
+        },
+        {
           "title": "美军持续打击，伊朗驻联合国大使发出警告",
           "url": "https://news.ifeng.com/c/8uh6mNB6lah",
           "source": "凤凰网",
@@ -80,6 +91,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时15分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
+          "url": "https://news.ifeng.com/c/8uhOrhFxC9j",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时57分 ~ 17时47分]"
         },
         {
           "title": "伊朗方面公布被导弹击中的约旦美军基地卫星图像",
@@ -188,17 +210,6 @@
           "time_info": "[03时59分 ~ 07时43分]"
         },
         {
-          "title": "伊朗的报复力度越来越大说明什么？凤凰女记者解读",
-          "url": "https://news.ifeng.com/c/8uhQEpIUZBO",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
-        },
-        {
           "title": "阿曼与伊朗将继续谈判 以达成霍尔木兹海峡通航协议",
           "url": "https://flash.jin10.com/detail/20260712024237763800",
           "source": "金十数据",
@@ -224,15 +235,16 @@
           "time_info": "[04时44分 ~ 07时43分]"
         },
         {
-          "title": "伊朗发布最高领袖穆杰塔巴的全新照片",
-          "url": "https://news.ifeng.com/c/8uhOrhFxC9j",
-          "source": "凤凰网",
+          "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 17时47分]"
         },
         {
           "title": "据阿曼国家通讯社：阿曼与伊朗同意继续进行技术和政治谈判，以在国际法框架下达成霍尔木兹海峡航行协议。",
@@ -268,6 +280,28 @@
           "time_info": "13时16分"
         },
         {
+          "title": "卡塔尔外交部：伊朗袭击的持续进行，是一种严重的升级行为，将使该地区遏制紧张局势的努力变得更加复杂。",
+          "url": "https://flash.jin10.com/detail/20260712172804711800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 17时47分]"
+        },
+        {
           "title": "据AXIOS：美国官员表示，对伊朗打击的目标包括火箭和无人机发射场，以及空中监视雷达和导弹存储地点。",
           "url": "https://flash.jin10.com/detail/20260712090500513800",
           "source": "金十数据",
@@ -279,13 +313,24 @@
           "time_info": "09时31分"
         },
         {
+          "title": "卡塔尔外交部：卡塔尔谴责伊朗对其领土及其他阿拉伯国家的袭击。",
+          "url": "https://flash.jin10.com/detail/20260712172655313800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "科威特外交部：强烈谴责今天早晨伊朗针对科威特的恶劣袭击。",
           "url": "https://flash.jin10.com/detail/20260712152531086800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -318,33 +363,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
-        },
-        {
-          "title": "伊朗称其武装力量目标清单持续更新",
-          "url": "https://wallstreetcn.com/livenews/3132389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时58分]"
-        },
-        {
-          "title": "伊朗议长说单方面协议时代已结束",
-          "url": "https://wallstreetcn.com/livenews/3132388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时58分]"
         },
         {
           "title": "阿曼同意与伊朗继续就霍尔木兹海峡问题举行会谈",
@@ -353,11 +374,51 @@
           "ranks": [
             2,
             15,
-            21
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 17时47分]"
+        },
+        {
+          "title": "伊朗称其武装力量目标清单持续更新",
+          "url": "https://wallstreetcn.com/livenews/3132389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时31分 ~ 15时58分]"
+          "time_info": "[13时16分 ~ 17时47分]"
+        },
+        {
+          "title": "伊朗议长说单方面协议时代已结束",
+          "url": "https://wallstreetcn.com/livenews/3132388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时47分]"
+        },
+        {
+          "title": "伊朗称打击阿曼杜库姆港美军目标",
+          "url": "https://wallstreetcn.com/livenews/3132387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时47分]"
         },
         {
           "title": "伊朗南部多地传出爆炸声",
@@ -373,16 +434,17 @@
           "time_info": "[09时31分 ~ 15时58分]"
         },
         {
-          "title": "伊朗称打击阿曼杜库姆港美军目标",
-          "url": "https://wallstreetcn.com/livenews/3132387",
+          "title": "伊朗打击科威特巴林的美军设施",
+          "url": "https://wallstreetcn.com/livenews/3132386",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            9
+            4,
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时47分]"
         },
         {
           "title": "伊朗革命卫队宣布关闭霍尔木兹海峡",
@@ -398,15 +460,17 @@
           "time_info": "[09时31分 ~ 15时58分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33568960",
-          "source": "澎湃新闻",
+          "title": "伊朗称再次打击“违规船只”，并对卡塔尔美军基地发动袭击",
+          "url": "https://wallstreetcn.com/livenews/3132385",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            5,
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时47分]"
         },
         {
           "title": "伊朗宣布关闭霍尔木兹海峡",
@@ -419,30 +483,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时30分 ~ 13时16分]"
-        },
-        {
-          "title": "伊朗打击科威特巴林的美军设施",
-          "url": "https://wallstreetcn.com/livenews/3132386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时58分]"
-        },
-        {
-          "title": "伊朗称再次打击“违规船只”，并对卡塔尔美军基地发动袭击",
-          "url": "https://wallstreetcn.com/livenews/3132385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时58分]"
         },
         {
           "title": "伊朗代表称若美继续违反其义务 伊将不再遵守谅解备忘录",
@@ -459,17 +499,6 @@
           "time_info": "[00时42分 ~ 03时59分]"
         },
         {
-          "title": "伊朗打击美国在中东地区目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33569534",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 15时58分]"
-        },
-        {
           "title": "美军称对伊朗发动本周第三轮袭击",
           "url": "https://wallstreetcn.com/livenews/3132372",
           "source": "华尔街见闻-快讯",
@@ -481,6 +510,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时31分 ~ 15时58分]"
+        },
+        {
+          "title": "伊朗称打击约旦哈桑王子空军基地",
+          "url": "https://wallstreetcn.com/livenews/3132384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时47分]"
+        },
+        {
+          "title": "伊朗打击美国在中东地区目标",
+          "url": "https://wallstreetcn.com/livenews/3132379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时47分]"
         },
         {
           "title": "伊朗最高领袖就哈梅内伊之死号召复仇，为新谈判前景增添变数",
@@ -509,30 +564,6 @@
           "time_info": "[00时42分 ~ 02时44分]"
         },
         {
-          "title": "伊朗称打击约旦哈桑王子空军基地",
-          "url": "https://wallstreetcn.com/livenews/3132384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时58分]"
-        },
-        {
-          "title": "伊朗打击美国在中东地区目标",
-          "url": "https://wallstreetcn.com/livenews/3132379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时58分]"
-        },
-        {
           "title": "据Axios网站：据知情外交官透露，卡塔尔官员正在参加伊朗与阿曼在马斯喀特就霍尔木兹海峡问题举行的会谈。",
           "url": "https://flash.jin10.com/detail/20260711221401757800",
           "source": "金十数据",
@@ -543,6 +574,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时42分 ~ 01时45分]"
+        },
+        {
+          "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
+          "url": "https://www.zhihu.com/question/2059566718733776028",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
         },
         {
           "title": "伊朗再关闭霍尔木兹海峡",
@@ -710,6 +752,17 @@
           "time_info": "13时16分"
         },
         {
+          "title": "阿联酋国防部：在伊朗向中东各地发动袭击后，阿联酋“监测与追踪系统正以最高战备水平全天候高效运行”。",
+          "url": "https://flash.jin10.com/detail/20260712165742425800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗南部霍尔木兹甘省贾斯克市发生4次爆炸。",
           "url": "https://flash.jin10.com/detail/20260712081937650800",
           "source": "金十数据",
@@ -738,7 +791,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -782,7 +835,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -837,7 +890,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -881,9 +934,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "卡塔尔拦截伊朗目标 弹片致3人受伤",
+          "url": "https://flash.jin10.com/detail/20260712162718536800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         },
         {
           "title": "伊朗革命卫队宣布关闭霍尔木兹海峡",
@@ -900,7 +964,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普：1000枚导弹已瞄准伊朗",
@@ -934,11 +998,12 @@
             10,
             8,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时39分 ~ 15时58分]"
+          "appearance_count": 11,
+          "time_info": "[05时39分 ~ 17时47分]"
         },
         {
           "title": "特朗普在北约峰会说了什么",
@@ -1004,13 +1069,35 @@
           "time_info": "[06时37分 ~ 07时43分]"
         },
         {
+          "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
+          "url": "https://news.ifeng.com/c/8uhQRko1ti1",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "美国总统特朗普：参议员林赛·格雷厄姆，我所认识的最伟大的人和参议员之一，去世了！他总是勤勉工作，是一位真正的美国爱国者。林赛将被深深怀念！！！后续将公布更多细节和安排。太令人悲痛了！",
+          "url": "https://flash.jin10.com/detail/20260712171914835800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
           "title": "美国总统特朗普：林赛·格雷厄姆参议员，我所认识的最伟大的人和参议员之一，已经去世！他总是在工作，是一位真正的美国爱国者。林赛将被深深怀念！",
           "url": "https://flash.jin10.com/detail/20260712152257294800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -1046,6 +1133,120 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时16分"
+        },
+        {
+          "title": "伊朗议员阿拉丁·布鲁杰迪表示，特朗普、以色列总理内塔尼亚胡及其“代理人”应预料到“自由的世界人民”将实施“神圣的复仇之手”，并称“世界上没有任何地方——即便是白宫——对他们而言会是安全的”。",
+          "url": "https://flash.jin10.com/detail/20260712162835799800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "伊朗议员阿拉丁·布鲁杰迪表示，白宫对美国总统特朗普而言“将不再安全”，并称为已故最高领袖阿里·哈梅内伊复仇已成为其追随者和“全世界所有自由人民”的“一项义务”。",
+          "url": "https://flash.jin10.com/detail/20260712162807383800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "存储器投资爆火 内存ETF成立三个月疯狂吸金220亿美元",
+          "url": "https://flash.jin10.com/detail/20260712021117643800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            7,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时44分 ~ 07时43分]"
+        },
+        {
+          "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
+          "url": "https://wallstreetcn.com/articles/3776714",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 17时47分]"
+        },
+        {
+          "title": "长江存储公布IPO辅导团队 中信与中信建投合计31人组成",
+          "url": "https://flash.jin10.com/detail/20260711223053682800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            17,
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 03时59分]"
+        },
+        {
+          "title": "荷兰为何急着解决安世半导体问题",
+          "url": "https://www.toutiao.com/trending/7661180211047697966/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时59分 ~ 05时39分]"
+        },
+        {
+          "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
+          "url": "https://www.cls.cn/detail/2423777",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "WPS再回应C盘占用问题：已完成存储优化 正式版7月底推送",
+          "url": "https://flash.jin10.com/detail/20260712163511311800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "长江存储公布IPO辅导团队，中信与中信建投合计31人组成",
+          "url": "https://wallstreetcn.com/livenews/3132390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
         }
       ]
     },
@@ -1107,11 +1308,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[13时16分 ~ 17时47分]"
         },
         {
           "title": "三星电子将龙仁首座芯片厂投产提前至2029年，比原计划早1-2年",
@@ -1127,71 +1329,102 @@
       ]
     },
     {
-      "keyword_group": "存储 半导体",
-      "match_count": 5,
+      "keyword_group": "风险",
+      "match_count": 4,
       "titles": [
         {
-          "title": "存储器投资爆火 内存ETF成立三个月疯狂吸金220亿美元",
-          "url": "https://flash.jin10.com/detail/20260712021117643800",
+          "title": "纳指ETF汇添富：提示二级市场交易价格溢价风险",
+          "url": "https://flash.jin10.com/detail/20260712170539580800",
           "source": "金十数据",
           "ranks": [
-            5,
-            7,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时44分 ~ 07时43分]"
-        },
-        {
-          "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
-          "url": "https://wallstreetcn.com/articles/3776714",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 15时58分]"
-        },
-        {
-          "title": "长江存储公布IPO辅导团队 中信与中信建投合计31人组成",
-          "url": "https://flash.jin10.com/detail/20260711223053682800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            17,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 03时59分]"
-        },
-        {
-          "title": "荷兰为何急着解决安世半导体问题",
-          "url": "https://www.toutiao.com/trending/7661180211047697966/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时59分 ~ 05时39分]"
-        },
-        {
-          "title": "长江存储公布IPO辅导团队，中信与中信建投合计31人组成",
-          "url": "https://wallstreetcn.com/livenews/3132390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时58分"
+          "time_info": "17时47分"
+        },
+        {
+          "title": "纳指ETF易方达：提示二级市场交易价格溢价风险",
+          "url": "https://flash.jin10.com/detail/20260712170435719800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "国投白银LOF：提示A类基金份额二级市场交易价格溢价风险",
+          "url": "https://flash.jin10.com/detail/20260712170307917800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "纳指ETF嘉实：提示二级市场交易价格溢价风险",
+          "url": "https://flash.jin10.com/detail/20260712170242979800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "复盘",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "赛后复盘英格兰战胜挪威",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%88%98%E8%83%9C%E6%8C%AA%E5%A8%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时30分 ~ 09时31分]"
+        },
+        {
+          "title": "央视复盘广西六蓝水库险情",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E9%99%A9%E6%83%85",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        },
+        {
+          "title": "邹市明夫妇“两亿败局”的商业复盘",
+          "url": "https://www.toutiao.com/trending/7661213450978508842/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时46分 ~ 17时47分]"
+        },
+        {
+          "title": "徐亮Bossman复盘1/4决赛",
+          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E4%BA%AEBossman%E5%A4%8D%E7%9B%981%2F4%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         }
       ]
     },
@@ -1209,19 +1442,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 15时58分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 17时47分]"
         },
         {
           "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
           "url": "https://www.zhihu.com/question/2058111600045678958",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
+          "appearance_count": 4,
+          "time_info": "[15时57分 ~ 17时47分]"
         },
         {
           "title": "茶饮会因茉莉花受灾集体涨价吗",
@@ -1258,11 +1492,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时30分 ~ 15时58分]"
+          "appearance_count": 8,
+          "time_info": "[09时30分 ~ 17时47分]"
         },
         {
           "title": "商业航天“DeepSeek时刻”到了吗",
@@ -1278,41 +1513,61 @@
       ]
     },
     {
-      "keyword_group": "复盘",
-      "match_count": 3,
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 2,
       "titles": [
         {
-          "title": "赛后复盘英格兰战胜挪威",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98%E8%8B%B1%E6%A0%BC%E5%85%B0%E6%88%98%E8%83%9C%E6%8C%AA%E5%A8%81",
-          "source": "bilibili 热搜",
+          "title": "环球下周看点：通胀、财报与中东风险“三碰头” 标普再冲新高",
+          "url": "https://www.cls.cn/detail/2423676",
+          "source": "财联社热门",
           "ranks": [
-            6
+            9,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时30分 ~ 09时31分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 17时47分]"
         },
         {
-          "title": "央视复盘广西六蓝水库险情",
-          "url": "https://search.bilibili.com/all?keyword=%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E9%99%A9%E6%83%85",
-          "source": "bilibili 热搜",
+          "title": "纳斯达克100ETF大成：提示基金二级市场交易价格溢价风险",
+          "url": "https://flash.jin10.com/detail/20260712170255334800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】中方：对氦气实施临时禁止出口管理；香农芯创、融捷股份等公司预计上半年业绩增长10倍",
+          "url": "https://www.cls.cn/detail/2423440",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 17时47分]"
         },
         {
-          "title": "徐亮Bossman复盘1/4决赛",
-          "url": "https://www.baidu.com/s?wd=%E5%BE%90%E4%BA%AEBossman%E5%A4%8D%E7%9B%981%2F4%E5%86%B3%E8%B5%9B",
-          "source": "百度热搜",
+          "title": "埃及央行：埃及2025/26财年7月至次年3月的旅游收入为144亿美元，较去年同期的125亿美元有所增长。",
+          "url": "https://flash.jin10.com/detail/20260712161525960800",
+          "source": "金十数据",
           "ranks": [
-            25
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时15分 ~ 13时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         }
       ]
     },
@@ -1328,22 +1583,24 @@
             10,
             8,
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[04时43分 ~ 15时58分]"
+          "appearance_count": 13,
+          "time_info": "[04时43分 ~ 17时47分]"
         },
         {
           "title": "财报季、沃什和美国通胀--美联储和市场将走向何方？下周“初见端倪”！",
           "url": "https://wallstreetcn.com/articles/3776712",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 15时58分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 17时47分]"
         }
       ]
     },
@@ -1358,29 +1615,12 @@
           "ranks": [
             7,
             6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 15时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "环球下周看点：通胀、财报与中东风险“三碰头” 标普再冲新高",
-          "url": "https://www.cls.cn/detail/2423676",
-          "source": "财联社热门",
-          "ranks": [
             9,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 15时58分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 17时47分]"
         }
       ]
     },
@@ -1395,27 +1635,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】中方：对氦气实施临时禁止出口管理；香农芯创、融捷股份等公司预计上半年业绩增长10倍",
-          "url": "https://www.cls.cn/detail/2423440",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 15时58分]"
         }
       ]
     },
@@ -1434,8 +1656,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 15时58分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 17时47分]"
         }
       ]
     }
