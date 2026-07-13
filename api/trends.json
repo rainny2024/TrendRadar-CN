@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T09:31:54.661151+08:00",
-  "total_titles_processed": 668,
+  "generated_at": "2026-07-13T13:25:50.395691+08:00",
+  "total_titles_processed": 869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 55,
+      "match_count": 63,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -109,6 +109,18 @@
           "time_info": "[00时45分 ~ 06时38分]"
         },
         {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时25分]"
+        },
+        {
           "title": "伊朗否认布什尔核电站区域遭袭",
           "url": "https://flash.jin10.com/detail/20260713035228154800",
           "source": "金十数据",
@@ -133,24 +145,13 @@
           "time_info": "[00时45分 ~ 05时39分]"
         },
         {
-          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
-          "url": "https://www.cls.cn/detail/2423960",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
           "title": "直播：美国对伊朗发动本周内第四次打击",
           "url": "https://i.ifeng.com/c/8r9IfZOQO8x",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -164,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
+          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗革命卫队此前在科威特的无人机行动中瞄准了美国火箭弹发射系统。",
@@ -578,7 +590,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -605,13 +617,35 @@
           "time_info": "07时43分"
         },
         {
+          "title": "约旦称击落伊朗发射的四枚导弹。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3132615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "约旦称拦截并击落4枚自伊朗方向进入其领空导弹",
+          "url": "https://flash.jin10.com/detail/20260713130415997800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "中东局势追踪：伊朗、阿曼展开通航磋商 霍尔木兹海峡再度关闭",
           "url": "https://www.cls.cn/detail/2423670",
           "source": "财联社热门",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -649,15 +683,70 @@
           "time_info": "07时43分"
         },
         {
+          "title": "伊朗对位于科威特美军设施发动新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3132603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "伊朗称击毁美军海马斯发射平台",
+          "url": "https://flash.jin10.com/detail/20260713124315706800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "布伦特原油日内大涨4.00%，现报79美元/桶，WTI原油涨近4%。",
           "url": "https://flash.jin10.com/detail/20260713085309896800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "伊朗革命卫队：摧毁两台部署至科威特的美国海马斯火箭炮发射系统。",
+          "url": "https://flash.jin10.com/detail/20260713124116206800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "伊朗军方谴责美国屡次“非法袭击”",
+          "url": "https://wallstreetcn.com/livenews/3132597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "据伊朗媒体7月13日报道，巴林一处美商业机构遭袭起火。（CCTV国际时讯）",
+          "url": "https://wallstreetcn.com/livenews/3132596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "伊朗学者：伊方寻求推进霍尔木兹海峡管理新框架",
@@ -677,7 +766,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
@@ -685,7 +774,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -728,9 +817,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时25分]"
         },
         {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
@@ -777,15 +866,37 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "特朗普命令全国降半旗",
+          "url": "https://www.douyin.com/hot/2569217",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "特朗普命令全国降半旗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BD%E4%BB%A4%E5%85%A8%E5%9B%BD%E9%99%8D%E5%8D%8A%E6%97%97%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
@@ -832,7 +943,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -848,6 +959,17 @@
           "time_info": "07时43分"
         },
         {
+          "title": "半导体设备龙头复牌巨震：从大跌18%到拉升大涨",
+          "url": "https://www.cls.cn/detail/2424235",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "基本半导体(09971.HK)公告，其部分产品价格预计上调幅度最高不超过25%，具体调整方案将根据产品类别、订单规模、合作模式、市场区域及双方商业安排等因素综合确定，并与相关客户有序实施。",
           "url": "https://flash.jin10.com/detail/20260713060353055800",
           "source": "金十数据",
@@ -858,12 +980,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时43分]"
+        },
+        {
+          "title": "韩国券商一句业绩“不及预期”，SK海力士大跌12%，存储板块全线承压！",
+          "url": "https://wallstreetcn.com/articles/3776764",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
     {
       "keyword_group": "日经 韩国股市",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "日经225指数日内跌幅达1.00%。",
@@ -872,9 +1005,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "韩国股市恢复交易，此前跌超8%，触发熔断机制，暂停交易20分钟。",
+          "url": "https://wallstreetcn.com/livenews/3132617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "日经指数期货下跌0.9%。",
@@ -889,13 +1033,24 @@
           "time_info": "[06时38分 ~ 07时43分]"
         },
         {
+          "title": "中东战事搅动市场，韩国股市大跌触发熔断，SK海力士跌超8%，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "日经225指数日内跌幅扩大至1%。",
           "url": "https://wallstreetcn.com/livenews/3132505",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         },
@@ -906,15 +1061,66 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科创50指数跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3132620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "券商另类子三年投资科创逾200亿元，中证协发文建言拓宽发展空间",
+          "url": "https://wallstreetcn.com/livenews/3132457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时43分]"
+        },
+        {
+          "title": "拳王创业为何越努力越亏钱",
+          "url": "https://www.toutiao.com/trending/7661788873713782314/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "7月13日午间收评：深成指、创业板指均跌超2%，全市场下跌个股超4500只",
+          "url": "https://wallstreetcn.com/livenews/3132592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "涨价 核心材料",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "MLCC涨价潮下的华强北“众生相”：结构性紧缺下渠道躁动 商户喜忧分化",
@@ -935,11 +1141,12 @@
           "ranks": [
             17,
             16,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时01分 ~ 09时31分]"
+          "appearance_count": 9,
+          "time_info": "[04时01分 ~ 13时25分]"
         },
         {
           "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
@@ -952,12 +1159,73 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时38分 ~ 07时43分]"
+        },
+        {
+          "title": "5000元以下笔记本越来越少了，经销商：至少一年看不到涨价尽头",
+          "url": "https://wallstreetcn.com/livenews/3132588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "三星准备生产特斯拉AI5芯片",
+          "url": "https://flash.jin10.com/detail/20260713131019006800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "韩国总统李在明：将引导政府支持芯片、人工智能数据中心及物理人工智能这三大重点项目。",
+          "url": "https://flash.jin10.com/detail/20260713130702547800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "特斯拉次时代AI芯片AI5，已完成设计定案，即将进入大规模量产准备阶段。该芯片由三星电子德州泰勒厂采用2纳米制程制造。 (台湾电子时报)",
+          "url": "https://wallstreetcn.com/livenews/3132618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "“存储双雄”又暴跌！韩国央行发声：AI驱动的芯片超级周期将持续",
+          "url": "https://www.cls.cn/detail/2424084",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
     {
       "keyword_group": "涨停 跌停",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
@@ -969,8 +1237,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 09时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 13时25分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
@@ -992,9 +1260,59 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "赛力斯触及跌停",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E5%8A%9B%E6%96%AF%E8%A7%A6%E5%8F%8A%E8%B7%8C%E5%81%9C%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证指数开盘报3966.02点，跌0.75%。 深证成指开盘报14908.98点，跌0.92%。 创业板指开盘报3809.86点，跌0.86%。 沪深300开盘报4745.44点，跌0.74%。 科创50开盘报2038.36点，跌1.29%。 中证500开盘报8409.14点，跌1.12%。 中证1000开盘报8124.36点，跌0.90%。",
+          "url": "https://wallstreetcn.com/livenews/3132513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "深证成指午后跌幅扩大至3%，上证综指跌1.81%，创业板指跌近3%。",
+          "url": "https://flash.jin10.com/detail/20260713130230231800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "上证指数早盘收报3934.74点，跌1.54%。 深证成指早盘收报14654.49点，跌2.61%。 创业板指早盘收报3751.33点，跌2.38%。 沪深300早盘收报4716.67点，跌1.34%。 科创50早盘收报2026.96点，跌1.84%。 中证500早盘收报8233.65点，跌3.18%。 中证1000早盘收报7914.59点，跌3.46%。",
+          "url": "https://wallstreetcn.com/livenews/3132593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
@@ -1014,6 +1332,18 @@
           "time_info": "[00时44分 ~ 07时43分]"
         },
         {
+          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时25分]"
+        },
+        {
           "title": "本周重要事件与数据预告：美国CPI、中国GDP、沃什国会首秀",
           "url": "https://flash.jin10.com/detail/20260713072750988800",
           "source": "金十数据",
@@ -1023,17 +1353,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
-        },
-        {
-          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
-          "url": "https://wallstreetcn.com/articles/3776632",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
         }
       ]
     },
@@ -1081,31 +1400,91 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
+      "keyword_group": "风险",
       "match_count": 2,
       "titles": [
         {
-          "title": "券商另类子三年投资科创逾200亿元，中证协发文建言拓宽发展空间",
-          "url": "https://wallstreetcn.com/livenews/3132457",
-          "source": "华尔街见闻-快讯",
+          "title": "巨力索具：澄清商业航天业务不实传闻 提醒投资风险",
+          "url": "https://flash.jin10.com/detail/20260712225957823800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            10
+            17,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时43分]"
+          "time_info": "[00时45分 ~ 01时52分]"
         },
         {
-          "title": "拳王创业为何越努力越亏钱",
-          "url": "https://www.toutiao.com/trending/7661788873713782314/",
-          "source": "今日头条",
+          "title": "吉林省水利厅和吉林省气象局7月13日11时联合发布山洪灾害气象风险红色预警。",
+          "url": "https://wallstreetcn.com/livenews/3132600",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国总统李在明：将超出趋势的税收投资于青年、增长引擎、地区和人才。",
+          "url": "https://flash.jin10.com/detail/20260713130552614800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "韩国7月1-10日出口同比增长53.9%，进口增长17.4%。",
+          "url": "https://wallstreetcn.com/livenews/3132485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "复盘",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "邹市明夫妇“两亿败局”的商业复盘",
+          "url": "https://www.toutiao.com/trending/7661213450978508842/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            13,
+            10,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 07时43分]"
+        },
+        {
+          "title": "战术复盘HLE战胜BLG",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E6%9C%AF%E5%A4%8D%E7%9B%98HLE%E6%88%98%E8%83%9CBLG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
@@ -1176,79 +1555,6 @@
       ]
     },
     {
-      "keyword_group": "上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数开盘报3966.02点，跌0.75%。 深证成指开盘报14908.98点，跌0.92%。 创业板指开盘报3809.86点，跌0.86%。 沪深300开盘报4745.44点，跌0.74%。 科创50开盘报2038.36点，跌1.29%。 中证500开盘报8409.14点，跌1.12%。 中证1000开盘报8124.36点，跌0.90%。",
-          "url": "https://wallstreetcn.com/livenews/3132513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巨力索具：澄清商业航天业务不实传闻 提醒投资风险",
-          "url": "https://flash.jin10.com/detail/20260712225957823800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时45分 ~ 01时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国7月1-10日出口同比增长53.9%，进口增长17.4%。",
-          "url": "https://wallstreetcn.com/livenews/3132485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "复盘",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "邹市明夫妇“两亿败局”的商业复盘",
-          "url": "https://www.toutiao.com/trending/7661213450978508842/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            13,
-            10,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "上升趋势 上升通道",
       "match_count": 1,
       "titles": [
@@ -1296,7 +1602,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
         }
