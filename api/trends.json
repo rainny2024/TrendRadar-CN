@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T19:51:02.031963+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2026-07-13T22:03:34.929759+08:00",
+  "total_titles_processed": 1394,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 93,
+      "match_count": 101,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -65,6 +65,17 @@
           "time_info": "[00时44分 ~ 09时31分]"
         },
         {
+          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
+          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 22时03分]"
+        },
+        {
           "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
           "url": "https://www.zhihu.com/question/2059566718733776028",
           "source": "知乎",
@@ -95,17 +106,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时44分 ~ 07时43分]"
-        },
-        {
-          "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
-          "url": "https://news.ifeng.com/c/8uiovLcFI7X",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 19时51分]"
         },
         {
           "title": "伊朗：霍尔木兹海峡目前无法通行",
@@ -320,6 +320,19 @@
           "time_info": "[01时52分 ~ 04时53分]"
         },
         {
+          "title": "美军称对伊朗发起新一轮打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 22时03分]"
+        },
+        {
           "title": "伊朗外交部：周六的马斯喀特会谈集中在霍尔木兹海峡的管理问题上，但美国通过施压阿曼阻止了在此问题上达成结果。",
           "url": "https://flash.jin10.com/detail/20260713052720745800",
           "source": "金十数据",
@@ -391,18 +404,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时38分]"
-        },
-        {
-          "title": "美军称对伊朗发起新一轮打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572651",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时51分]"
         },
         {
           "title": "伊朗宣布关闭霍尔木兹海峡",
@@ -629,6 +630,17 @@
           "time_info": "[04时01分 ~ 04时53分]"
         },
         {
+          "title": "伊朗驻英国大使：霍尔木兹海峡安全是双向道路。那些造成该地区这一危险局势的人，若真希望安全无害地通过霍尔木兹海峡，就必须重新考虑其立场。",
+          "url": "https://flash.jin10.com/detail/20260713214811884800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美军袭击伊朗一水泵站 致1死4伤",
           "url": "https://wallstreetcn.com/livenews/3132512",
           "source": "华尔街见闻-快讯",
@@ -701,7 +713,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -734,7 +746,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -745,7 +757,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -805,6 +817,28 @@
           "time_info": "06时38分"
         },
         {
+          "title": "伊朗革命卫队：绝不允许霍尔木兹海峡脱离伊朗的主权管辖。若有船只再次违规，将面临果断惩戒；若美国试图固化违规行为，将再次受到惩罚。",
+          "url": "https://flash.jin10.com/detail/20260713214234259800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "伊朗军方称不会允许美国干涉霍尔木兹海峡 并警告地区国家勿配合美军",
+          "url": "https://wallstreetcn.com/livenews/3132932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "伊朗外交部：我们不会允许霍尔木兹海峡变成威胁我们安全的地方，我们真诚致力于保障海峡航行安全。",
           "url": "https://flash.jin10.com/detail/20260713163438809800",
           "source": "金十数据",
@@ -822,9 +856,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
+        },
+        {
+          "title": "伊朗外交部：要为伤亡伊朗人复仇",
+          "url": "https://flash.jin10.com/detail/20260713213849453800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "霍尔木兹大战升级！伊朗导弹横扫海湾多国，再次宣布关闭海峡",
@@ -844,7 +889,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -932,9 +977,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
+        },
+        {
+          "title": "伊朗革命卫队：我们将使美国受到前所未有的羞辱",
+          "url": "https://flash.jin10.com/detail/20260713213456081800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊朗石油部长与俄罗斯能源部长讨论能源贸易问题",
@@ -954,9 +1010,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
+        },
+        {
+          "title": "伊朗：不会被迫为船只通行向敌人支付费用",
+          "url": "https://wallstreetcn.com/livenews/3132924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "布伦特原油日内大涨4.00%，现报79美元/桶，WTI原油涨近4%。",
@@ -990,6 +1057,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "伊朗局势生变 交易员的“战事已过”投资剧本瞬间作废",
+          "url": "https://wallstreetcn.com/livenews/3132922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊朗军方谴责美国屡次“非法袭击”",
@@ -1042,9 +1120,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
+        },
+        {
+          "title": "伊朗波斯湾海峡管理局：霍尔木兹海峡已不可通行",
+          "url": "https://wallstreetcn.com/livenews/3132919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "伊朗学者：伊方寻求推进霍尔木兹海峡管理新框架",
@@ -1075,7 +1164,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1097,7 +1186,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         }
@@ -1105,7 +1194,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "博杰股份：预计2026年上半年净利润1.5亿-1.85亿元，同比增长642.86%-816.20%",
@@ -1114,7 +1203,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1125,7 +1214,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1136,7 +1225,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1147,7 +1236,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1158,7 +1247,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1180,7 +1269,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1202,7 +1291,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1213,7 +1302,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1235,7 +1324,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1246,7 +1335,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1257,9 +1346,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
+        },
+        {
+          "title": "莲花控股：预计2026年上半年净利润同比增长48.75%至61.14%",
+          "url": "https://wallstreetcn.com/livenews/3132931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "闰土股份：预计上半年净利润5.3亿元-6.5亿元，同比增长254.03%-334.19%，公司染料业务经营利润较去年同期有所增加。",
@@ -1268,7 +1368,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1279,7 +1379,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1290,7 +1390,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1301,7 +1401,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
         },
@@ -1320,7 +1420,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普立下数千枚导弹“报复遗嘱”，万斯可以不听吗？",
@@ -1341,8 +1441,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 19时51分]"
+          "appearance_count": 7,
+          "time_info": "[09时31分 ~ 22时03分]"
         },
         {
           "title": "委内瑞拉代总统成傀儡？采访要特朗普批，发文要鲁比奥审",
@@ -1379,6 +1479,28 @@
           "time_info": "[16时45分 ~ 16时46分]"
         },
         {
+          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
+          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 22时03分]"
+        },
+        {
+          "title": "特朗普放话拟接管霍尔木兹海峡，索要巨额补偿，伊朗强硬回呛！",
+          "url": "https://flash.jin10.com/detail/20260713215044887800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "特朗普在对伊战争上“没有什么可以向美国选民兜售的”",
           "url": "https://flash.jin10.com/detail/20260713021538403800",
           "source": "金十数据",
@@ -1391,17 +1513,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时48分 ~ 05时39分]"
-        },
-        {
-          "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
-          "url": "https://news.ifeng.com/c/8uj34x8QE0R",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时51分]"
         },
         {
           "title": "曝特朗普登上伊朗复仇名单",
@@ -1492,12 +1603,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "特朗普：我们会给格雷厄姆办一场特别的葬礼。",
+          "url": "https://wallstreetcn.com/livenews/3132916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "特朗普称要接管霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3132914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "特朗普：若冗长辩论规则不终结，9月可能出现政府停摆。 我们正在接管霍尔穆兹海峡。 伊朗一无所有。 伊朗什么都没得到。 伊朗从我这里什么都没得到。 昨晚对伊朗进行了重击。 我们将可能负责管理霍尔木兹海峡。 如果由美国负责霍尔木兹海峡，美国将获得补偿。 我们将成为海峡的守护者。 我们会因为守卫它而获得报酬。",
+          "url": "https://wallstreetcn.com/livenews/3132913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI恐慌蔓延，美股盘前存储芯片股普跌，SK海力士暴跌15.4%创历史最大跌幅，原油上涨，黄金下跌",
@@ -1510,6 +1654,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时45分 ~ 19时51分]"
+        },
+        {
+          "title": "AI恐慌叠加中东局势升温，美股指涨跌互现，存储芯片股普跌，SK海力士跌8%，原油上涨，黄金下跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         },
         {
           "title": "三星准备生产特斯拉AI5芯片",
@@ -1590,6 +1745,17 @@
           "time_info": "[19时50分 ~ 19时51分]"
         },
         {
+          "title": "美股盘初：纳指跌0.7%，存储芯片股普跌，SK海力士跌约8%",
+          "url": "https://wallstreetcn.com/livenews/3132940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "美股盘前，存储芯片股普跌，SK海力士跌近10%",
           "url": "https://wallstreetcn.com/livenews/3132708",
           "source": "华尔街见闻-快讯",
@@ -1601,6 +1767,17 @@
           "time_info": "16时46分"
         },
         {
+          "title": "中东局势升级叠加AI交易降温 美股期指走弱 芯片股集体承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2424933",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "全球首颗软件定义近存计算3D芯片在上海发布",
           "url": "https://wallstreetcn.com/livenews/3132686",
           "source": "华尔街见闻-快讯",
@@ -1610,12 +1787,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        },
+        {
+          "title": "英特尔将斥资50亿欧元扩建爱尔兰工厂，以保持在AI芯片竞赛中的竞争力",
+          "url": "https://wallstreetcn.com/livenews/3132915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
@@ -1656,25 +1844,26 @@
           "time_info": "[00时44分 ~ 09时31分]"
         },
         {
-          "title": "半导体设备龙头复牌巨震：从大跌18%到拉升大涨",
-          "url": "https://www.cls.cn/detail/2424235",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时25分 ~ 19时51分]"
-        },
-        {
           "title": "韩国券商一句业绩“不及预期”，SK海力士大跌12%，存储板块全线承压！",
           "url": "https://wallstreetcn.com/articles/3776764",
           "source": "华尔街见闻",
           "ranks": [
             6,
             4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时25分 ~ 22时03分]"
+        },
+        {
+          "title": "半导体设备龙头复牌巨震：从大跌18%到拉升大涨",
+          "url": "https://www.cls.cn/detail/2424235",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
             1
           ],
           "is_new": false,
@@ -1704,6 +1893,18 @@
           "time_info": "07时43分"
         },
         {
+          "title": "A股存储一哥回应跌停",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E5%9B%9E%E5%BA%94%E8%B7%8C%E5%81%9C%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时03分]"
+        },
+        {
           "title": "基本半导体(09971.HK)公告，其部分产品价格预计上调幅度最高不超过25%，具体调整方案将根据产品类别、订单规模、合作模式、市场区域及双方商业安排等因素综合确定，并与相关客户有序实施。",
           "url": "https://flash.jin10.com/detail/20260713060353055800",
           "source": "金十数据",
@@ -1716,15 +1917,111 @@
           "time_info": "[06时38分 ~ 07时43分]"
         },
         {
-          "title": "A股存储一哥回应跌停",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E4%B8%80%E5%93%A5%E5%9B%9E%E5%BA%94%E8%B7%8C%E5%81%9C%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨超2%，日常消费品ETF涨近1%，半导体ETF跌2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3132944",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "环球下周看点：通胀、财报与中东风险“三碰头” 标普再冲新高",
+          "url": "https://www.cls.cn/detail/2423676",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 09时31分]"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3132947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "标普500指数低开27.86点，跌幅0.37%，报7547.53点； 道琼斯工业平均指数高开39.52点，涨幅0.08%，报52676.53点； 纳斯达克综合指数低开193.29点，跌幅0.74%，报26088.31点。",
+          "url": "https://wallstreetcn.com/livenews/3132939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
+          "title": "标普：（关于印度尼西亚）继续相信印度尼西亚的政治和政策机构总体稳定，且其合法性没有受到挑战。",
+          "url": "https://flash.jin10.com/detail/20260713163619588800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "标普：（关于印度尼西亚）美国关税的影响正在减弱，中东战争和霍尔木兹海峡的关闭带来了新的脆弱性。",
+          "url": "https://flash.jin10.com/detail/20260713163613746800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "标普：印度尼西亚评级维持在BBB/A-2；展望稳定。",
+          "url": "https://flash.jin10.com/detail/20260713163458933800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "标普：相信印尼政府在集中管理、减少资源和矿产部门泄漏方面的努力将有助于增加收入和出口收益。",
+          "url": "https://flash.jin10.com/detail/20260713163448575800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "道琼斯指数7月13日（周一）开盘上涨76.87点，涨幅0.15%，报52713.88点；<br/>标普500指数7月13日（周一）开盘下跌13.95点，跌幅0.18%，报7561.44点；<br/>纳斯达克综合指数7月13日（周一）开盘下跌170.86点，跌幅0.65%，报26110.75点。",
+          "url": "https://flash.jin10.com/detail/20260713213138971800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     },
@@ -1770,11 +2067,12 @@
           "url": "https://wallstreetcn.com/articles/3776742",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 22时03分]"
         },
         {
           "title": "日经指数期货下跌0.9%。",
@@ -1855,11 +2153,12 @@
           "url": "https://wallstreetcn.com/articles/3776758",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时03分]"
         },
         {
           "title": "A股收盘：创业板指、深成指均跌超3%",
@@ -1897,71 +2196,8 @@
       ]
     },
     {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "环球下周看点：通胀、财报与中东风险“三碰头” 标普再冲新高",
-          "url": "https://www.cls.cn/detail/2423676",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 09时31分]"
-        },
-        {
-          "title": "标普：（关于印度尼西亚）继续相信印度尼西亚的政治和政策机构总体稳定，且其合法性没有受到挑战。",
-          "url": "https://flash.jin10.com/detail/20260713163619588800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "标普：（关于印度尼西亚）美国关税的影响正在减弱，中东战争和霍尔木兹海峡的关闭带来了新的脆弱性。",
-          "url": "https://flash.jin10.com/detail/20260713163613746800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "标普：印度尼西亚评级维持在BBB/A-2；展望稳定。",
-          "url": "https://flash.jin10.com/detail/20260713163458933800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "标普：相信印尼政府在集中管理、减少资源和矿产部门泄漏方面的努力将有助于增加收入和出口收益。",
-          "url": "https://flash.jin10.com/detail/20260713163448575800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "涨停 跌停",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
@@ -1990,6 +2226,17 @@
           "time_info": "[00时44分 ~ 09时31分]"
         },
         {
+          "title": "赛力斯A股股价跌停",
+          "url": "https://www.toutiao.com/trending/7661625503505252393/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "电子特气概念开盘活跃，九丰能源、陕鼓动力触及涨停，华特气体涨超10%，蜀道装备、金宏气体、杭氧股份纷纷高开，消息上，商务部、海关总署10日公告，对氦气实施临时禁止出口管理，公告自公布之日起执行，后续相关调整将另行公告。",
           "url": "https://wallstreetcn.com/livenews/3132518",
           "source": "华尔街见闻-快讯",
@@ -2005,11 +2252,12 @@
           "url": "https://www.cls.cn/detail/2424589",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时03分]"
         },
         {
           "title": "赛力斯触及跌停",
@@ -2025,64 +2273,8 @@
       ]
     },
     {
-      "keyword_group": "涨价 核心材料",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "MLCC涨价潮下的华强北“众生相”：结构性紧缺下渠道躁动 商户喜忧分化",
-          "url": "https://www.cls.cn/detail/2423531",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 07时43分]"
-        },
-        {
-          "title": "调查：“扫开就近2块钱”，共享单车涨价到哪里是个头",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33572014",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            16,
-            8,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[04时01分 ~ 19时51分]"
-        },
-        {
-          "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
-          "url": "https://www.zhihu.com/question/2058111600045678958",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时43分]"
-        },
-        {
-          "title": "5000元以下笔记本越来越少了，经销商：至少一年看不到涨价尽头",
-          "url": "https://wallstreetcn.com/livenews/3132588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "风险",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "一周三轮互袭，争夺霍尔木兹海峡，美伊“灰色对抗”失控风险增大",
@@ -2090,11 +2282,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 22时03分]"
         },
         {
           "title": "李大霄：反复提醒风险时几乎无人警觉",
@@ -2120,6 +2313,17 @@
           "time_info": "[00时45分 ~ 01时52分]"
         },
         {
+          "title": "天际股份：因2023年年报存在虚假记载 公司股票被实施其他风险警示7月15日起简称变更为“ST天际”",
+          "url": "https://wallstreetcn.com/livenews/3132934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "吉林省水利厅和吉林省气象局7月13日11时联合发布山洪灾害气象风险红色预警。",
           "url": "https://wallstreetcn.com/livenews/3132600",
           "source": "华尔街见闻-快讯",
@@ -2134,7 +2338,7 @@
     },
     {
       "keyword_group": "实体清单 制裁",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "欧盟再次未就第21轮对俄制裁方案达成一致",
@@ -2174,6 +2378,17 @@
           "time_info": "[06时38分 ~ 07时43分]"
         },
         {
+          "title": "欧盟对俄罗斯4名个人和5家实体实施制裁",
+          "url": "https://wallstreetcn.com/livenews/3132935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
+        },
+        {
           "title": "欧盟外交与安全政策高级代表卡拉斯：欧盟对（俄罗斯）九名个人和四个实体实施限制措施。这些欧盟制裁措施也将包括针对俄罗斯格鲁乌(俄罗斯军事情报总局) 情报官员的内容。",
           "url": "https://flash.jin10.com/detail/20260713162701646800",
           "source": "金十数据",
@@ -2183,6 +2398,62 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "MLCC涨价潮下的华强北“众生相”：结构性紧缺下渠道躁动 商户喜忧分化",
+          "url": "https://www.cls.cn/detail/2423531",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 07时43分]"
+        },
+        {
+          "title": "调查：“扫开就近2块钱”，共享单车涨价到哪里是个头",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33572014",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16,
+            8,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[04时01分 ~ 22时03分]"
+        },
+        {
+          "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
+          "url": "https://www.zhihu.com/question/2058111600045678958",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时38分 ~ 07时43分]"
+        },
+        {
+          "title": "5000元以下笔记本越来越少了，经销商：至少一年看不到涨价尽头",
+          "url": "https://wallstreetcn.com/livenews/3132588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
@@ -2260,11 +2531,12 @@
           "url": "https://www.cls.cn/detail/2424673",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时50分 ~ 19时51分]"
+          "appearance_count": 3,
+          "time_info": "[19时50分 ~ 22时03分]"
         }
       ]
     },
@@ -2290,11 +2562,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时51分]"
+          "appearance_count": 5,
+          "time_info": "[16时45分 ~ 22时03分]"
         },
         {
           "title": "美联储7月维持利率不变的概率为62.1%",
@@ -2465,6 +2738,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纽约联储隔夜回购操作未收到任何投标。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3132920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时03分"
         }
       ]
     }
