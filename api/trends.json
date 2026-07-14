@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T07:42:59.390542+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-07-14T09:20:23.200270+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 53,
+      "match_count": 62,
       "titles": [
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -23,22 +23,24 @@
           "url": "https://news.ifeng.com/c/8ujWVX3Tjrl",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时20分]"
         },
         {
           "title": "霍尔木兹海峡，伊朗不能承受之重",
           "url": "https://news.ifeng.com/c/8uixCdUTtOq",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时20分]"
         },
         {
           "title": "布伦特原油期货结算价为每桶83.30美元，上涨7.29美元，涨幅9.59%。",
@@ -50,6 +52,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：约旦东部马瓦法克·苏尔蒂空军基地发生剧烈爆炸。阿拉伯消息人士称该国军事目标遭导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260714091152407800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "美国将恢复“针对伊朗的封锁”",
@@ -66,6 +79,28 @@
           "time_info": "[01时05分 ~ 07时42分]"
         },
         {
+          "title": "伊朗称袭击美国海军第五舰队司令部",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9B%BD%E6%B5%B7%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E5%8F%B8%E4%BB%A4%E9%83%A8",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "直播：美军连续三天空袭伊朗",
+          "url": "https://i.ifeng.com/c/8r9IfZOQO8x",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "据CNN：美国官员表示，美军打击目标为伊朗军事设施，包括海岸监视系统、无人机和导弹能力。",
           "url": "https://flash.jin10.com/detail/20260714052140189800",
           "source": "金十数据",
@@ -75,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队（IRGC）方面表示，有两艘违规的超级油轮受美国蛊惑，关闭导航系统并无视霍尔木兹海峡安全控制中心的多次警告，执意通过布雷海域，危及了该航道的航运安全；这两艘油轮随后遭到打击并丧失了航行能力。",
+          "url": "https://flash.jin10.com/detail/20260714090953494800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "布伦特原油突破80美元/桶，日内涨5.35%。",
@@ -119,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美军首次使用海上无人艇打击伊朗，现场画面公布",
+          "url": "https://news.ifeng.com/c/8ujiA6HPQR0",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "伊朗称袭击驻科威特美军 并向美军舰艇发射巡航导弹",
@@ -262,6 +319,17 @@
           "time_info": "[06时44分 ~ 07时42分]"
         },
         {
+          "title": "美军连续第三晚空袭伊朗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%B8%89%E6%99%9A%E7%A9%BA%E8%A2%AD%E4%BC%8A%E6%9C%97",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗南部阿巴斯港传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260714051347163800",
           "source": "金十数据",
@@ -383,6 +451,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "伊朗外长：伊朗永远是霍尔木兹海峡的守护者",
+          "url": "https://wallstreetcn.com/livenews/3133158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队称击落两架美制卢卡斯无人机",
           "url": "https://flash.jin10.com/detail/20260714021059058800",
           "source": "金十数据",
@@ -427,6 +506,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "伊朗袭击美国海军第五舰队司令部",
+          "url": "https://www.toutiao.com/trending/7661886519921573894/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "据伊朗国家电视台：截至目前，伊朗南部地区包括班达尔阿巴斯在内的多地暂无爆炸报告。",
           "url": "https://flash.jin10.com/detail/20260714033243959800",
           "source": "金十数据",
@@ -455,9 +545,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "伊朗媒体说伊朗袭击了美国海军第五舰队司令部",
+          "url": "https://wallstreetcn.com/livenews/3133153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "美国将从15日凌晨4点起封锁伊朗港口",
@@ -606,7 +707,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -618,8 +719,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时20分]"
+        },
+        {
+          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时20分]"
+        },
+        {
+          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
+          "url": "https://wallstreetcn.com/articles/3776822",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 09时20分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -633,16 +758,15 @@
           "time_info": "[01时05分 ~ 07时42分]"
         },
         {
-          "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33578684",
-          "source": "澎湃新闻",
+          "title": "特朗普点名以色列和海湾5国",
+          "url": "https://news.ifeng.com/c/8ukJUmAUZFg",
+          "source": "凤凰网",
           "ranks": [
-            18,
-            16
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "特朗普将于周五早上9点发表全国讲话",
@@ -654,17 +778,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
-          "url": "https://wallstreetcn.com/articles/3776822",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
         },
         {
           "title": "美媒：特朗普已通知国会伊朗战事重新爆发",
@@ -695,18 +808,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "特朗普称美国将恢复「针对伊朗的封锁」，如何解读美伊此轮博弈？将如何影响中东局势和全球能源市场？",
-          "url": "https://www.zhihu.com/question/2060130032056366712",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -757,6 +859,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时48分 ~ 05时44分]"
+        },
+        {
+          "title": "特朗普称美国将恢复「针对伊朗的封锁」，如何解读美伊此轮博弈？将如何影响中东局势和全球能源市场？",
+          "url": "https://www.zhihu.com/question/2060130032056366712",
+          "source": "知乎",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 09时20分]"
         },
         {
           "title": "美国总统特朗普：我有时不同意内塔尼亚胡的做法，我也会明确告诉他。",
@@ -897,7 +1011,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -908,7 +1022,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -930,7 +1044,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -952,7 +1066,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -963,7 +1077,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -974,7 +1088,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -985,7 +1099,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -1018,7 +1132,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -1084,7 +1198,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -1122,6 +1236,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "布伦特原油期货涨至每桶85美元上方，日内涨超2%，此前特朗普称要再次封锁伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3133150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）削弱伊朗的进攻能力。",
           "url": "https://flash.jin10.com/detail/20260714060022197800",
           "source": "金十数据",
@@ -1142,6 +1267,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "特朗普已通知国会伊朗战事重新爆发",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E9%80%9A%E7%9F%A5%E5%9B%BD%E4%BC%9A%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E9%87%8D%E6%96%B0%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "黎巴嫩总统府：总统奥恩与总理萨拉姆还讨论了奥恩即将访问美国及与美国总统特朗普会晤等事宜。",
@@ -1169,7 +1305,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美联储理事沃勒：近期就业报告持续好于预期，且表现强劲。",
@@ -1270,6 +1406,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美联储沃勒：加息仍需等待更多数据 通胀持续高企才可能采取行动",
+          "url": "https://www.cls.cn/detail/2425164",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         },
         {
           "title": "美联储理事沃勒：决心避免重蹈美联储2021年的覆辙，但当前劳动力市场已不像当时那样紧张，通胀预期仍保持稳定。",
@@ -1429,8 +1576,19 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 09时20分]"
+        },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
           "url": "https://wallstreetcn.com/articles/3776754",
@@ -1452,17 +1610,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
-        },
-        {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
         },
         {
           "title": "周一（7月13日），美股存储芯片与硬件供应链指数跌6.96%，报213.87点。 美股超大规模云服务商（Hyperscalers）跌1.01%，报93.03点。 信息科技指数跌4.60%，报405.46点。 人工智能（AI）赢家指数跌4.36%，报402.62点。 AI软件先驱指数涨1.04%，报111.48点。 北美科技软件股指数ETF涨0.31%，Global X网络安全ETF涨0.69%，纳斯达克网络安全ETF跌0.04%，ETFMG网络安全ETF涨0.28%。 美国科技股七巨头（Magnificent 7）指数跌0.94%，报215.76点，整体持续走低。 “超大”市值科技股指数跌1.81%，报438.29点。",
@@ -1524,6 +1671,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.toutiao.com/trending/7662155234273152575/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "美元指数涨0.3%，刷新日高",
           "url": "https://wallstreetcn.com/livenews/3133062",
           "source": "华尔街见闻-快讯",
@@ -1558,11 +1716,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[06时44分 ~ 09时20分]"
         },
         {
           "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
@@ -1743,7 +1902,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "尽管遭遇热浪 英国6月零售额仍实现增长",
@@ -1752,7 +1911,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -1768,6 +1927,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "日本财务大臣片山皋月：随着政府推进增长战略，日本资产的吸引力将增强。",
+          "url": "https://flash.jin10.com/detail/20260714085113127800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "欧洲央行执委施纳贝尔阐述欧洲增长面临的挑战与对策",
           "url": "https://wallstreetcn.com/livenews/3133024",
           "source": "华尔街见闻-快讯",
@@ -1779,6 +1949,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "新加坡第二季度GDP环比增长1.1%，预估为1.3%。 新加坡第二季度GDP同比增长5.7%，预估5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3133145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
           "title": "TCL科技预计上半年净利增长96%-108%",
           "url": "https://www.toutiao.com/trending/7661773500847652883/",
           "source": "今日头条",
@@ -1788,6 +1969,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "韩国股市为何频频熔断",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%BA%E4%BD%95%E9%A2%91%E9%A2%91%E7%86%94%E6%96%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "韩国股市崩盘，与中东局势冲击新兴市场股市跌至七周低点",
+          "url": "https://wallstreetcn.com/livenews/3133089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时44分 ~ 06时44分]"
+        },
+        {
+          "title": "恐慌抛售引发3442亿韩元强制平仓潮，韩国股市陷信用盘危机",
+          "url": "https://wallstreetcn.com/articles/3776811",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
+        },
+        {
+          "title": "日经225指数盘初跌0.6%，韩国首尔综指跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3133144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     },
@@ -1815,11 +2047,12 @@
           "ranks": [
             19,
             16,
-            12
+            12,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时48分 ~ 07时42分]"
+          "appearance_count": 5,
+          "time_info": "[04时48分 ~ 09时20分]"
         },
         {
           "title": "中国自研AI芯片取得架构突破",
@@ -1827,11 +2060,12 @@
           "source": "微博",
           "ranks": [
             19,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时05分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[01时05分 ~ 09时20分]"
         }
       ]
     },
@@ -1847,8 +2081,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时42分]"
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 09时20分]"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -1868,7 +2102,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
@@ -1945,20 +2179,31 @@
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 1,
+      "keyword_group": "暴涨",
+      "match_count": 2,
       "titles": [
         {
-          "title": "韩国股市崩盘，与中东局势冲击新兴市场股市跌至七周低点",
-          "url": "https://wallstreetcn.com/livenews/3133089",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
+          "url": "https://www.cls.cn/detail/2425210",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            30
+            10,
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时44分]"
+          "time_info": "[07时42分 ~ 09时20分]"
+        },
+        {
+          "title": "世界杯最疯狂的生意 1年暴涨300倍",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%9C%80%E7%96%AF%E7%8B%82%E7%9A%84%E7%94%9F%E6%84%8F+1%E5%B9%B4%E6%9A%B4%E6%B6%A8300%E5%80%8D",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时20分"
         }
       ]
     },
@@ -1977,23 +2222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时44分 ~ 07时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "暴涨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
-          "url": "https://www.cls.cn/detail/2425210",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时42分"
         }
       ]
     },
@@ -2059,7 +2287,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         }
