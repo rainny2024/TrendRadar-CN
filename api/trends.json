@@ -1,11 +1,437 @@
 {
-  "generated_at": "2026-07-15T03:02:15.871708+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-07-15T04:13:24.515908+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 38,
+      "titles": [
+        {
+          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
+          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
+        },
+        {
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
+        },
+        {
+          "title": "英新首相上任即迎考验 经济承压、伊朗风险加剧",
+          "url": "https://flash.jin10.com/detail/20260715005315767800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "布伦特原油期货结算价为每桶84.73美元，上涨1.43美元，涨幅1.72%。",
+          "url": "https://flash.jin10.com/detail/20260715025231352800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗革命卫队：只要美国在地区的“邪恶行动”存在，地区将不会有一滴石油和天然气出口。",
+          "url": "https://flash.jin10.com/detail/20260715024734485800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗霍尔木兹甘省政府表示，当地时间约23时，美军打击命中伊朗南部锡里克附近地区。",
+          "url": "https://flash.jin10.com/detail/20260715034852680800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美军对伊朗发动新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3133849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗革命卫队：只要美国继续行动，霍尔木兹海峡的重新开放就将被推迟。",
+          "url": "https://flash.jin10.com/detail/20260715024447912800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "据伊朗官方媒体：伊朗班达尔阿巴斯市政府消息称，美军打击已击中伊朗南部港口城市班达尔阿巴斯周边地区。",
+          "url": "https://flash.jin10.com/detail/20260715034717920800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗革命卫队：在“承诺2号行动”第三轮打击中，向巴林谢赫·伊萨基地和科威特阿里·萨利姆基地发动导弹及无人机袭击，目标包括弹药设施、舰机零部件仓库及MQ-9无人机设施。",
+          "url": "https://flash.jin10.com/detail/20260715024433438800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗逾180名议员发表声明，要求“惩罚”袭击肇事者",
+          "url": "https://wallstreetcn.com/livenews/3133796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美军：今天美东时间15:00开始再次袭击伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3133847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
+          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.toutiao.com/trending/7662353080528145926/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://wallstreetcn.com/articles/3776923",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时13分]"
+        },
+        {
+          "title": "伊朗向科威特目标、巴林目标发射导弹和无人机。（伊朗媒体MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3133823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时13分]"
+        },
+        {
+          "title": "美中央司令部证实已对伊朗发动新一轮打击",
+          "url": "https://flash.jin10.com/detail/20260715034252087800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "据CNBC：美国官员称，美军今日（周二）对伊朗军事目标发动数次追加打击，旨在消除新出现的威胁。<br/>",
+          "url": "https://flash.jin10.com/detail/20260715024025097800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "伊朗西南部胡齐斯坦省首府传出爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3133845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗副外长：目前伊朗在与美国的《伊斯兰堡谅解备忘录》框架下不存在任何承诺。",
+          "url": "https://flash.jin10.com/detail/20260715023727946800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "报道：伊朗称战时必须控制整个霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3133843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美军确认对伊朗进行了新一轮打击",
+          "url": "https://flash.jin10.com/detail/20260715033059498800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "据伊朗媒体：伊朗格什姆岛和班达尔阿巴斯再次传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260715032420134800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗革命卫队：对巴林及科威特的美军基地实施打击",
+          "url": "https://wallstreetcn.com/livenews/3133835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗副外长：如果美国认为可以通过制裁迫使我们主动请求谈判，那他们就错了。",
+          "url": "https://flash.jin10.com/detail/20260715032148040800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗基什岛水电工程公司表示，在美国于周二凌晨发动的袭击中，一枚射弹在基什岛供水供电设施附近爆炸。由于爆炸点距离发电机组较近，部分发电机组的技术参数发生变化。",
+          "url": "https://flash.jin10.com/detail/20260715003916670800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "据伊朗官方媒体：美国炮弹击中伊朗格什姆岛目标。",
+          "url": "https://flash.jin10.com/detail/20260715022456719800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国支持重启伊拉克-叙利亚输油管道，以削弱伊朗的海峡影响力",
+          "url": "https://flash.jin10.com/detail/20260715031604115800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "科威特军方：自今晚以来已拦截1枚弹道导弹、5枚巡航导弹和33架无人机。伊朗袭击导致多处重要及民用设施受损，部分地点遭弹片波及；一艘科威特海军舰艇遭袭，造成4名军人受伤，目前伤情稳定。",
+          "url": "https://flash.jin10.com/detail/20260715031321598800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗副外长：在战争状态下，我们将完全管理霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260715031212695800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗副外长：伊朗革命卫队海军已按相关谅解备忘录在霍尔木兹海峡北部完成扫雷，但旧航道仍有水雷存在。",
+          "url": "https://flash.jin10.com/detail/20260715031143914800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "据ABC：一名美国官员证实，美军目前正在伊朗境内实施空袭行动。该官员表示，空袭已持续数小时。",
+          "url": "https://flash.jin10.com/detail/20260715020245338800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗南部胡齐斯坦省阿瓦士传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260715031033960800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗副外长：我方已为阿曼船只规划了一条新航道。",
+          "url": "https://flash.jin10.com/detail/20260715031024707800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "伊朗Andimeshk市传出爆炸声。（Irib新闻社）",
+          "url": "https://wallstreetcn.com/livenews/3133778",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：伊朗向科威特、巴林发射导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260715015740918800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "英国财政部：如果美国与伊朗的战争进一步加剧，油价可能会达到150美元/桶。 预计英国央行将在2026年加息至少一次。 预计四季度通胀为3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3133776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美联储 非农",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "美联储主席沃什：我们应做到负责任、可问责。",
@@ -25,7 +451,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -49,8 +475,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "沃什：美联储对持续高通胀“零容忍”",
@@ -60,8 +486,31 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时13分]"
+        },
+        {
+          "title": "美联储主席沃什7月14日听证会要点总结：一次极具鹰派色彩的“美联储新政宣言”",
+          "url": "https://wallstreetcn.com/livenews/3133819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
+          "time_info": "[03时02分 ~ 04时13分]"
+        },
+        {
+          "title": "美国两年期国债收益率跌约10个基点，CPI通胀数据打压美联储加息预期",
+          "url": "https://wallstreetcn.com/livenews/3133846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美联储主席沃什：我们应该对决策的理由保持透明。",
@@ -163,15 +612,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "美联储主席沃什7月14日听证会要点总结：一次极具鹰派色彩的“美联储新政宣言”",
-          "url": "https://wallstreetcn.com/livenews/3133819",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储理事鲍曼：美联储不应在人工智能等新技术上过度干预银行",
+          "url": "https://flash.jin10.com/detail/20260715032619811800",
+          "source": "金十数据",
           "ranks": [
-            13
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时02分"
+          "time_info": "04时13分"
         },
         {
           "title": "美联储主席沃什：绝对致力于兑现实现充分就业的承诺。",
@@ -213,7 +662,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -235,7 +684,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -246,7 +695,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -268,7 +717,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -323,7 +772,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -345,7 +794,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -363,245 +812,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
-          "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
-        },
-        {
-          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
-          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
-        },
-        {
-          "title": "英新首相上任即迎考验 经济承压、伊朗风险加剧",
-          "url": "https://flash.jin10.com/detail/20260715005315767800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "布伦特原油期货结算价为每桶84.73美元，上涨1.43美元，涨幅1.72%。",
-          "url": "https://flash.jin10.com/detail/20260715025231352800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗革命卫队：只要美国在地区的“邪恶行动”存在，地区将不会有一滴石油和天然气出口。",
-          "url": "https://flash.jin10.com/detail/20260715024734485800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗革命卫队：只要美国继续行动，霍尔木兹海峡的重新开放就将被推迟。",
-          "url": "https://flash.jin10.com/detail/20260715024447912800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗革命卫队：在“承诺2号行动”第三轮打击中，向巴林谢赫·伊萨基地和科威特阿里·萨利姆基地发动导弹及无人机袭击，目标包括弹药设施、舰机零部件仓库及MQ-9无人机设施。",
-          "url": "https://flash.jin10.com/detail/20260715024433438800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗逾180名议员发表声明，要求“惩罚”袭击肇事者",
-          "url": "https://wallstreetcn.com/livenews/3133796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.toutiao.com/trending/7662353080528145926/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
-        },
-        {
-          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
-          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://wallstreetcn.com/articles/3776923",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
-        },
-        {
-          "title": "据CNBC：美国官员称，美军今日（周二）对伊朗军事目标发动数次追加打击，旨在消除新出现的威胁。<br/>",
-          "url": "https://flash.jin10.com/detail/20260715024025097800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗副外长：目前伊朗在与美国的《伊斯兰堡谅解备忘录》框架下不存在任何承诺。",
-          "url": "https://flash.jin10.com/detail/20260715023727946800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗向科威特目标、巴林目标发射导弹和无人机。（伊朗媒体MEHR）",
-          "url": "https://wallstreetcn.com/livenews/3133823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗基什岛水电工程公司表示，在美国于周二凌晨发动的袭击中，一枚射弹在基什岛供水供电设施附近爆炸。由于爆炸点距离发电机组较近，部分发电机组的技术参数发生变化。",
-          "url": "https://flash.jin10.com/detail/20260715003916670800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "据伊朗官方媒体：美国炮弹击中伊朗格什姆岛目标。",
-          "url": "https://flash.jin10.com/detail/20260715022456719800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "据ABC：一名美国官员证实，美军目前正在伊朗境内实施空袭行动。该官员表示，空袭已持续数小时。",
-          "url": "https://flash.jin10.com/detail/20260715020245338800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗Andimeshk市传出爆炸声。（Irib新闻社）",
-          "url": "https://wallstreetcn.com/livenews/3133778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：伊朗向科威特、巴林发射导弹和无人机。",
-          "url": "https://flash.jin10.com/detail/20260715015740918800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
-          "title": "英国财政部：如果美国与伊朗的战争进一步加剧，油价可能会达到150美元/桶。 预计英国央行将在2026年加息至少一次。 预计四季度通胀为3.2%。",
-          "url": "https://wallstreetcn.com/livenews/3133776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -612,8 +824,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -623,8 +835,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -635,8 +847,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "如何看特朗普在霍尔木兹收费",
@@ -644,11 +856,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            10
+            10,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -658,8 +871,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时13分]"
         },
         {
           "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
@@ -669,8 +882,20 @@
             14
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时13分]"
+        },
+        {
+          "title": "特朗普宣称将与伊拉克达成“庞大”的石油交易",
+          "url": "https://wallstreetcn.com/livenews/3133830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
+          "time_info": "[03时02分 ~ 04时13分]"
         },
         {
           "title": "美国总统特朗普称代理司法部长托德·布兰奇“表现卓越”，敦促参议院尽快批准其正式任职。",
@@ -679,7 +904,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -695,26 +920,26 @@
           "time_info": "01时02分"
         },
         {
-          "title": "特朗普宣称将与伊拉克达成“庞大”的石油交易",
-          "url": "https://wallstreetcn.com/livenews/3133830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        },
-        {
           "title": "市场消息：美国众议院议员拉斯金致信派拉蒙CEO埃里森，要求其回应是否在推动CBS新闻报道迎合特朗普立场。",
           "url": "https://flash.jin10.com/detail/20260715023131877800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
+          "url": "https://www.cls.cn/detail/2426473",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美国总统特朗普针对俄罗斯制裁立法草案声称：（美国国会山）可能会将伊朗塞入其中。 他们可能会将霍尔木兹海峡问题塞入俄罗斯草案。 俄罗斯草案可能会纳入霍尔木兹与伊朗。",
@@ -737,6 +962,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "美国法官阻止特朗普政府执行针对社交媒体虚假信息研究人员的签证限制政策。",
+          "url": "https://flash.jin10.com/detail/20260715030602681800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美国总统特朗普声称：伊拉克因为石油而具有潜力。",
@@ -767,9 +1003,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "据悉美国对俄制裁法案允许特朗普在认定符合美国国家利益时豁免相关制裁。<br/>",
+          "url": "https://flash.jin10.com/detail/20260715030217353800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "特朗普重申任何人都不应该对霍尔木兹海峡收取通行费，但美国按“补偿费”名头进行",
@@ -797,7 +1044,7 @@
     },
     {
       "keyword_group": "CPI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "通胀全面降温！美国6月CPI同比上涨3.5%远低于预期，环比六年来首次下降，核心CPI涨幅收窄至2.6%",
@@ -807,8 +1054,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "美国6月CPI低于预期 纳指期货涨超1% IBM盘前暴跌逾22% | 今夜看点",
@@ -819,8 +1066,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "德国两年期国债收益率于美国CPI通胀数据发布日涨超3个基点",
@@ -834,6 +1081,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "非美货币在美国CPI发布日普涨，纽元、挪威克朗、巴西雷亚尔涨超1%领跑",
+          "url": "https://wallstreetcn.com/livenews/3133850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
           "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
           "url": "https://wallstreetcn.com/articles/3776884",
           "source": "华尔街见闻",
@@ -842,19 +1100,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：美国6月CPI通胀数据不错。",
           "url": "https://wallstreetcn.com/livenews/3133817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 04时13分]"
         },
         {
           "title": "英债价格于美国CPI通胀数据发布日呈现出V形走势",
@@ -863,7 +1122,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         },
@@ -874,7 +1133,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         }
@@ -892,8 +1151,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "净利同比最高增长49.35倍！800亿锂矿龙头发布半年度业绩预告|盘后公告集锦",
@@ -904,8 +1163,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
@@ -932,6 +1191,45 @@
       ]
     },
     {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
+          "url": "https://wallstreetcn.com/articles/3776754",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
+        },
+        {
+          "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
+          "url": "https://wallstreetcn.com/livenews/3133851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美元指数跌超0.3%",
+          "url": "https://wallstreetcn.com/livenews/3133844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "风险",
       "match_count": 2,
       "titles": [
@@ -944,8 +1242,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "更换隐喻、不再谈“飓风”，摩根大通CEO改用“地壳板块”解读风险",
@@ -954,7 +1252,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
         }
@@ -973,8 +1271,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
@@ -1002,19 +1300,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         },
         {
           "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
           "url": "https://www.zhihu.com/question/2058449781597459395",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时01分 ~ 04时13分]"
         }
       ]
     },
@@ -1036,23 +1335,6 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3776754",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "科创 创业 创业板 科创板",
       "match_count": 1,
       "titles": [
@@ -1064,8 +1346,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         }
       ]
     },
@@ -1079,11 +1361,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         }
       ]
     },
@@ -1100,8 +1383,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         }
       ]
     },
@@ -1115,11 +1398,12 @@
           "source": "抖音",
           "ranks": [
             17,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 04时13分]"
         }
       ]
     }
