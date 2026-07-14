@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T19:18:38.402064+08:00",
-  "total_titles_processed": 1425,
+  "generated_at": "2026-07-14T21:04:58.074805+08:00",
+  "total_titles_processed": 1574,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 77,
+      "match_count": 82,
       "titles": [
         {
           "title": "穆杰塔巴报复名单加剧对立，美以恐谋求颠覆伊朗现政权",
@@ -31,6 +31,17 @@
           "time_info": "[01时05分 ~ 09时20分]"
         },
         {
+          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
+          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 21时04分]"
+        },
+        {
           "title": "霍尔木兹海峡，伊朗不能承受之重",
           "url": "https://news.ifeng.com/c/8uixCdUTtOq",
           "source": "凤凰网",
@@ -54,17 +65,6 @@
           "time_info": "[09时20分 ~ 15时04分]"
         },
         {
-          "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
-          "url": "https://news.ifeng.com/c/8ukLcwiKckH",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时18分]"
-        },
-        {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
           "url": "https://news.ifeng.com/c/8ukhwi9IbW5",
           "source": "凤凰网",
@@ -72,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 21时04分]"
         },
         {
           "title": "布伦特原油期货结算价为每桶83.30美元，上涨7.29美元，涨幅9.59%。",
@@ -374,6 +374,18 @@
           "time_info": "[05时44分 ~ 06时44分]"
         },
         {
+          "title": "伊朗称布什尔市四个地区遭美军袭击",
+          "url": "https://www.toutiao.com/trending/7662322212086484530/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 21时04分]"
+        },
+        {
           "title": "伊朗南部阿巴斯港再次传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3133105",
           "source": "华尔街见闻-快讯",
@@ -464,6 +476,17 @@
           "time_info": "12时40分"
         },
         {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹表示，霍尔木兹海峡的规则由伊朗制定。那些干涉他国并屡遭失败的人，应停止空洞叫嚣，公布其人员伤亡和经济损失的真实数字。",
           "url": "https://flash.jin10.com/detail/20260714022517350800",
           "source": "金十数据",
@@ -495,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国中央司令部确认恢复对伊朗港口的封锁",
@@ -585,15 +619,15 @@
           "time_info": "15时04分"
         },
         {
-          "title": "伊朗称布什尔市四个地区遭美军袭击",
-          "url": "https://www.toutiao.com/trending/7662322212086484530/",
-          "source": "今日头条",
+          "title": "【伊朗称美进入正式战争状态】据伊朗媒体报道，伊朗最高领袖穆杰塔巴·哈梅内伊的军事顾问雷扎伊今天（7月14日）表示，“已不再存在伊美谅解备忘录，敌人已正式进入战争状态。” (CCTV国际时讯)",
+          "url": "https://wallstreetcn.com/livenews/3133647",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时18分"
+          "time_info": "21时04分"
         },
         {
           "title": "伊朗伊斯兰革命卫队称击落两架美制卢卡斯无人机",
@@ -695,6 +729,17 @@
           "time_info": "15时04分"
         },
         {
+          "title": "伊朗前总统内贾德被软禁",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%89%8D%E6%80%BB%E7%BB%9F%E5%86%85%E8%B4%BE%E5%BE%B7%E8%A2%AB%E8%BD%AF%E7%A6%81%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美国将从15日凌晨4点起封锁伊朗港口",
           "url": "https://flash.jin10.com/detail/20260714015911804800",
           "source": "金十数据",
@@ -704,6 +749,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：（向伊朗领导人喊话）如果你们攻击我们，这次将不再是重播。回应将比过去强大得多。",
+          "url": "https://flash.jin10.com/detail/20260714203844435800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "伊朗科纳拉克周边地区遭袭",
@@ -822,7 +878,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -874,7 +930,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "特朗普宣称接管霍尔木兹海峡，伊朗警告战火将蔓延全区",
@@ -887,8 +943,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 21时04分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -900,8 +956,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时42分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[07时42分 ~ 21时04分]"
         },
         {
           "title": "特朗普：恢复对伊朗封锁，将收取海峡货运两成费用",
@@ -912,11 +968,24 @@
             16,
             14,
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时05分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[01时05分 ~ 21时04分]"
+        },
+        {
+          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
+          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 21时04分]"
         },
         {
           "title": "特朗普点名中东六国",
@@ -929,18 +998,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时40分 ~ 15时04分]"
-        },
-        {
-          "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
-          "url": "https://news.ifeng.com/c/8ukTbU27CpD",
-          "source": "凤凰网",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 19时18分]"
         },
         {
           "title": "特朗普以为中国还得买，等来却是“谢谢，我们不需要了”",
@@ -1078,6 +1135,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时42分 ~ 09时20分]"
+        },
+        {
+          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 21时04分]"
         },
         {
           "title": "美伊战火不停？特朗普已“知会”国会，但仍认为有望达成协议！",
@@ -1235,16 +1305,15 @@
           "time_info": "[06时44分 ~ 07时42分]"
         },
         {
-          "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33580758",
-          "source": "澎湃新闻",
+          "title": "如何看特朗普在霍尔木兹收费",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%94%B6%E8%B4%B9",
+          "source": "bilibili 热搜",
           "ranks": [
-            15,
-            14
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美军三夜连炸伊朗，特朗普放话要端掉地下核设施“镐山”",
@@ -1352,7 +1421,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1608,12 +1677,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时44分"
+        },
+        {
+          "title": "曝特朗普支持沙特对胡塞采取军事行动",
+          "url": "https://www.toutiao.com/trending/7662172518904365062/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 40,
+      "match_count": 46,
       "titles": [
         {
           "title": "尽管遭遇热浪 英国6月零售额仍实现增长",
@@ -1644,9 +1724,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "沃什：美联储对持续高通胀“零容忍”。 商业投资是当前经济最显著的特征。 美国经济具有韧性，增长步伐稳健。 消费增长温和，住房市场持续滞后。 AI机遇对决策者构成挑战。 正在监测AI对通胀和劳动力市场的影响。 劳动力市场总体稳定，名义工资增长稳健。 （沃什未就利率前景发表评论）",
+          "url": "https://wallstreetcn.com/livenews/3133664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "五粮液：预计上半年净利润同比增长88.80%-98.97%",
@@ -1655,9 +1746,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "十五五持续激活内需增长动力",
+          "url": "https://www.douyin.com/hot/2571446",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "长电科技：预计2026年上半年净利润7.7亿-9.5亿元，同比增长63.48%-101.70%",
@@ -1666,7 +1768,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1679,8 +1781,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时18分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 21时04分]"
         },
         {
           "title": "中原证券：预计上半年净利润同比增长45.98%到65.19%",
@@ -1744,7 +1846,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1755,7 +1857,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1766,9 +1868,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "高盛股票交易业务收入再创华尔街纪录 投行、资管等领域均表现亮眼",
+          "url": "https://wallstreetcn.com/livenews/3133652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "广西能源：预计上半年净利润同比增长50%以上",
@@ -1810,7 +1923,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1824,6 +1937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
+        },
+        {
+          "title": "美联储主席沃什：消费增长温和，住房市场持续滞后。",
+          "url": "https://flash.jin10.com/detail/20260714204109479800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "中国人寿：预计上半年净利润约人民币1,289.33亿元到人民币1,371.19亿元，同比增长约215%到235%。",
@@ -1854,7 +1978,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1865,7 +1989,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1898,7 +2022,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1934,6 +2058,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
+        },
+        {
+          "title": "华泰证券：预计上半年净利润为人民币113.24亿元到人民币117.02亿元，同比增长50%到55%。",
+          "url": "https://wallstreetcn.com/livenews/3133633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "光迅科技：预计上半年净利润同比增长50%-65.15% 得益于数通光模块需求快速增长",
@@ -1986,9 +2121,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "电投能源：预计上半年净利润同比增长45.76%—51.59%",
+          "url": "https://wallstreetcn.com/livenews/3133629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "【赣锋锂业：预计上半年净利润为36.5亿元–46亿元，同比扭亏为盈】赣锋锂业公告，预计2026年上半年净利润为36.5亿元–46亿元，上年同期亏损5.31亿元。报告期内，受益于全球新能源产业快速发展，下游客户对锂盐的需求增长，公司锂盐产品的销售价格较上年同期显著上涨；同时，随着锂资源项目的产能逐步释放，公司成本结构有效优化。叠加储能市场需求持续增长，锂电池板块产销量明显提升，共同推动公司经营业绩同比增长。",
@@ -2019,7 +2165,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -2030,7 +2176,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -2052,7 +2198,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
@@ -2060,7 +2206,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 28,
+      "match_count": 40,
       "titles": [
         {
           "title": "美联储理事沃勒：近期就业报告持续好于预期，且表现强劲。",
@@ -2085,6 +2231,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "交易员减少对美联储本月加息（预期）的押注。",
+          "url": "https://wallstreetcn.com/livenews/3133665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美联储理事沃勒：FOMC可能需要考虑近期加息，可能需要通过加息来抑制核心通胀",
           "url": "https://wallstreetcn.com/livenews/3133011",
           "source": "华尔街见闻-快讯",
@@ -2094,6 +2251,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美联储主席沃什：美联储不会容忍通胀过高",
+          "url": "https://flash.jin10.com/detail/20260714204716195800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "美联储主席沃什：通胀框架工作组将研究通胀的驱动因素，并权衡实现价格稳定的各种思路。",
+          "url": "https://flash.jin10.com/detail/20260714204617601800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "美联储主席沃什：我们的生产率和就业工作组将调查新一代通用技术的推进速度、覆盖范围和影响。",
+          "url": "https://flash.jin10.com/detail/20260714204607589800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
+          "url": "https://wallstreetcn.com/articles/3776831",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时04分 ~ 21时04分]"
         },
         {
           "title": "美联储本月近五成概率加息！全球市场这回真慌了？",
@@ -2106,18 +2309,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时40分 ~ 17时45分]"
-        },
-        {
-          "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
-          "url": "https://wallstreetcn.com/articles/3776831",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时04分 ~ 19时18分]"
         },
         {
           "title": "美联储沃勒：加息仍需等待更多数据 通胀持续高企才可能采取行动",
@@ -2157,6 +2348,17 @@
           "time_info": "[12时40分 ~ 15时04分]"
         },
         {
+          "title": "美联储主席沃什：我在五大领域各任命了一个工作组，目的在于使美联储在货币政策方面能够做出更佳决策，这些领域对于货币政策的广泛执行至关重要。",
+          "url": "https://flash.jin10.com/detail/20260714204557450800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "市场预计，美联储本月加息的概率已升至50%。",
           "url": "https://flash.jin10.com/detail/20260714004123122800",
           "source": "金十数据",
@@ -2166,6 +2368,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美联储主席沃什：我们尚不清楚经济将从AI建设中获得多大益处。",
+          "url": "https://flash.jin10.com/detail/20260714204501084800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美国短期利率期货显示，美联储7月加息概率约为45%，较周一早些时候的35%有所上升。",
@@ -2179,6 +2392,28 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美联储主席沃什：当前经济最突出的特征是商业投资。其快速步伐——且似乎还在加快——在很大程度上反映了数据中心的建设以及填满这些中心的AI相关设备和软件的庞大需求。",
+          "url": "https://flash.jin10.com/detail/20260714204440954800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "美联储主席沃什：我们共同坚定致力于恢复价格稳定，这正是我们6月会议的核心议题。",
+          "url": "https://flash.jin10.com/detail/20260714204418066800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美联储理事沃勒：如果核心通胀继续走低仍属合理情形，届时我将继续支持维持利率不变。",
           "url": "https://flash.jin10.com/detail/20260714003515026800",
           "source": "金十数据",
@@ -2190,6 +2425,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美联储主席沃什：我和我的同僚们认识到，高通胀一直是美国家庭和企业的不当负担。从更长时间维度看，潜在通胀在很大程度上由货币政策决定。",
+          "url": "https://flash.jin10.com/detail/20260714204401957800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美联储理事沃勒：对核心通胀的高企速度表示担忧。",
           "url": "https://flash.jin10.com/detail/20260714003443922800",
           "source": "金十数据",
@@ -2199,6 +2445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美联储主席沃什：如果我们选对了政策，那么过去五年的通胀飙升将成为历史。",
+          "url": "https://flash.jin10.com/detail/20260714204345951800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美联储理事沃勒：预计从本周公布的通胀数据开始，整体通胀将放缓，但将重点关注核心通胀数据。",
@@ -2221,6 +2478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "美联储主席沃什：美联储的首要目标是将货币政策做对——或者说尽可能做对。",
+          "url": "https://flash.jin10.com/detail/20260714204322871800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "美联储理事沃勒：决心避免重蹈美联储2021年的覆辙，但当前劳动力市场已不像当时那样紧张，通胀预期仍保持稳定。",
@@ -2311,6 +2579,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "美联储主席沃什：AI机遇对决策者构成挑战。正在监测AI对通胀和劳动力市场的影响。",
+          "url": "https://flash.jin10.com/detail/20260714203815370800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "美联储理事沃勒：早前对高油价可能推动更广泛价格上涨的担忧已大大减弱。",
           "url": "https://flash.jin10.com/detail/20260714003019478800",
           "source": "金十数据",
@@ -2379,6 +2658,321 @@
       ]
     },
     {
+      "keyword_group": "CPI",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "美国或六年来首现环比“负CPI”？但今晚的重点不在这……",
+          "url": "https://www.cls.cn/detail/2425749",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 21时04分]"
+        },
+        {
+          "title": "美国6月核心CPI同比 2.6%，预期 2.8%，前值 2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3133663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "美国6月CPI环比 -0.4%，预期 -0.1%，前值 0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3133662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "美国6月CPI同比 3.5%，预期 3.8%，前值 4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3133661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "沃勒定调周二CPI含金量：通胀火热将支持近期加息",
+          "url": "https://flash.jin10.com/detail/20260714004216261800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "美国6月核心CPI环比 0%，预期 0.2%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3133660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "提醒：北京时间20:30，将公布美国6月CPI数据。",
+          "url": "https://wallstreetcn.com/livenews/3133658",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "今夜，全球市场的三重大考：美国CPI、沃什听证会与财报季“第一枪”",
+          "url": "https://wallstreetcn.com/articles/3776884",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "6月CPI前瞻：“纸面回落”VS“战时反弹”",
+          "url": "https://flash.jin10.com/detail/20260714143216998800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "国际黄金疲态源于多重技术性因素叠加，今夜CPI能否提振金价？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260714172625942800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "黄金强势探底，CPI数据能否挽救多头？3960支撑会失守吗？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260714204109847800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "金十整理：机构前瞻美国6月CPI及核心CPI月率",
+          "url": "https://flash.jin10.com/detail/20260714143009101800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        },
+        {
+          "title": "金价反弹全抹，CPI+沃什会不会再补一刀？",
+          "url": "https://flash.jin10.com/detail/20260714121200284800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "美国股指期货因美国CPI环比下降而飙升至盘中高点。",
+          "url": "https://flash.jin10.com/detail/20260714204034267800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "美国CPI自2020年以来首次下降，核心指标持平",
+          "url": "https://flash.jin10.com/detail/20260714203956794800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "金十速递：美国6月CPI报告全文",
+          "url": "https://flash.jin10.com/detail/20260714203822451800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2425183",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时44分 ~ 15时04分]"
+        },
+        {
+          "title": "一周三轮互袭，争夺霍尔木兹海峡，美伊“灰色对抗”失控风险增大",
+          "url": "https://wallstreetcn.com/articles/3776741",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时42分]"
+        },
+        {
+          "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
+          "url": "https://flash.jin10.com/detail/20260714041440304800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时48分 ~ 05时44分]"
+        },
+        {
+          "title": "新西兰联储首席经济学家Conway：中东冲突已经让货币政策变得错综复杂。 三季度通胀预期存在上行风险。",
+          "url": "https://wallstreetcn.com/livenews/3133112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时44分 ~ 07时42分]"
+        },
+        {
+          "title": "IMF警告：若不解决债务问题，欧洲恐面临“爆炸性”风险",
+          "url": "https://wallstreetcn.com/livenews/3133006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "加拿大银行监管部门从在4月份邮件中警告众多金融机构关于Anthropic旗下Claude Mythos的诸多风险。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3133036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：市场显然极度风险偏好。",
+          "url": "https://flash.jin10.com/detail/20260714204328671800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "市场消息：加拿大银行监管机构在四月给公司高管的邮件中警告金融机构关于Anthropic的Claude Mythos的风险。",
+          "url": "https://flash.jin10.com/detail/20260714020541003800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "高盛：尽管美联储鹰派风险犹存，盈利增长仍将驱动股市",
+          "url": "https://wallstreetcn.com/livenews/3133028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
+        {
+          "title": "美联储理事沃勒：致力于将通胀率恢复至2%的目标。同时避免过度收紧政策，以防风险引发衰退。",
+          "url": "https://flash.jin10.com/detail/20260714003119939800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "英国央行行长贝利：金融稳定风险已上升。 精炼产品价格回落幅度没有那么大。",
+          "url": "https://wallstreetcn.com/livenews/3133493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 10,
       "titles": [
@@ -2388,11 +2982,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时42分 ~ 19时18分]"
+          "appearance_count": 7,
+          "time_info": "[07时42分 ~ 21时04分]"
         },
         {
           "title": "地缘风暴叠加鹰派双杀，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金暴跌",
@@ -2500,130 +3095,21 @@
       ]
     },
     {
-      "keyword_group": "风险",
+      "keyword_group": "芯片 光模块",
       "match_count": 10,
       "titles": [
         {
-          "title": "美股收盘：美伊局势升级打压风险偏好 芯片股重挫纳指跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2425183",
+          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
+          "url": "https://www.cls.cn/detail/2425963",
           "source": "财联社热门",
           "ranks": [
-            9,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时44分 ~ 15时04分]"
-        },
-        {
-          "title": "一周三轮互袭，争夺霍尔木兹海峡，美伊“灰色对抗”失控风险增大",
-          "url": "https://wallstreetcn.com/articles/3776741",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时42分]"
-        },
-        {
-          "title": "惠誉：未来几年，人工智能带来的行业颠覆对大多数北美多元化服务公司的信用风险仍处于可控范围。",
-          "url": "https://flash.jin10.com/detail/20260714041440304800",
-          "source": "金十数据",
-          "ranks": [
             5,
-            22
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时48分 ~ 05时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 21时04分]"
         },
-        {
-          "title": "新西兰联储首席经济学家Conway：中东冲突已经让货币政策变得错综复杂。 三季度通胀预期存在上行风险。",
-          "url": "https://wallstreetcn.com/livenews/3133112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时44分 ~ 07时42分]"
-        },
-        {
-          "title": "IMF警告：若不解决债务问题，欧洲恐面临“爆炸性”风险",
-          "url": "https://wallstreetcn.com/livenews/3133006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "加拿大银行监管部门从在4月份邮件中警告众多金融机构关于Anthropic旗下Claude Mythos的诸多风险。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3133036",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "市场消息：加拿大银行监管机构在四月给公司高管的邮件中警告金融机构关于Anthropic的Claude Mythos的风险。",
-          "url": "https://flash.jin10.com/detail/20260714020541003800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "高盛：尽管美联储鹰派风险犹存，盈利增长仍将驱动股市",
-          "url": "https://wallstreetcn.com/livenews/3133028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "美联储理事沃勒：致力于将通胀率恢复至2%的目标。同时避免过度收紧政策，以防风险引发衰退。",
-          "url": "https://flash.jin10.com/detail/20260714003119939800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "英国央行行长贝利：金融稳定风险已上升。 精炼产品价格回落幅度没有那么大。",
-          "url": "https://wallstreetcn.com/livenews/3133493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 9,
-      "titles": [
         {
           "title": "全球首颗近存计算3D芯片发布",
           "url": "https://www.douyin.com/hot/2569670",
@@ -2653,27 +3139,26 @@
           "time_info": "[04时48分 ~ 12时40分]"
         },
         {
-          "title": "又一批A股公司业绩报喜，涉光模块、光纤、锂电等赛道",
-          "url": "https://www.cls.cn/detail/2425963",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时18分]"
-        },
-        {
           "title": "全球芯片LOF：将于7月15日开市起停牌，10:30起复牌",
           "url": "https://flash.jin10.com/detail/20260714190356210800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
+        },
+        {
+          "title": "静待沃什证词和CPI，美股盘前存储芯片股普涨，IBM跌17%，原油涨近5%，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
@@ -2862,13 +3347,25 @@
           "time_info": "[01时05分 ~ 06时44分]"
         },
         {
+          "title": "【每日收评】午后市场集体反攻！创业板指探底回升涨超3%， PCB等算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2425939",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 21时04分]"
+        },
+        {
           "title": "据上交所官网显示，珠海普生医疗科技股份有限公司科创板IPO审核状态变更为“已问询”。",
           "url": "https://flash.jin10.com/detail/20260714190230868800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -2879,18 +3376,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "【每日收评】午后市场集体反攻！创业板指探底回升涨超3%， PCB等算力硬件股卷土重来",
-          "url": "https://www.cls.cn/detail/2425939",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -2930,74 +3416,74 @@
       ]
     },
     {
-      "keyword_group": "CPI",
+      "keyword_group": "回购",
       "match_count": 6,
       "titles": [
         {
-          "title": "美国或六年来首现环比“负CPI”？但今晚的重点不在这……",
-          "url": "https://www.cls.cn/detail/2425749",
-          "source": "财联社热门",
+          "title": "央行将开展14000亿买断式逆回购操作",
+          "url": "https://www.toutiao.com/trending/7661521641490432036/",
+          "source": "今日头条",
           "ranks": [
-            3
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 19时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
-          "title": "沃勒定调周二CPI含金量：通胀火热将支持近期加息",
-          "url": "https://flash.jin10.com/detail/20260714004216261800",
-          "source": "金十数据",
+          "title": "上市公司分红回购增持三箭齐发协同加力",
+          "url": "https://wallstreetcn.com/livenews/3133123",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "07时42分"
         },
         {
-          "title": "6月CPI前瞻：“纸面回落”VS“战时反弹”",
-          "url": "https://flash.jin10.com/detail/20260714143216998800",
-          "source": "金十数据",
+          "title": "中国央行：将开展14000亿元买断式逆回购操作 期限为6个月（184天）",
+          "url": "https://wallstreetcn.com/livenews/3133509",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        },
-        {
-          "title": "国际黄金疲态源于多重技术性因素叠加，今夜CPI能否提振金价？| Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260714172625942800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
         {
-          "title": "金十整理：机构前瞻美国6月CPI及核心CPI月率",
-          "url": "https://flash.jin10.com/detail/20260714143009101800",
-          "source": "金十数据",
+          "title": "花旗集团第二季度营收为247.7亿美元，预期为237亿美元。 第二季度每股收益为3.15美元。 第二季度股票销售及交易收入23亿美元，预期为19亿美元。 第二季度FICC（固定收益、外汇及大宗商品）销售与交易收入为47.1亿美元，预期为45.6亿美元。 第二季度净利息收入为171.3亿美元，预期为160.1亿美元。 第二季度投资银行业务收入为15.5亿美元。 花旗集团预计2026年股票回购规模将高于2025年。 花旗美股盘前跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3133646",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时04分"
+          "time_info": "21时04分"
         },
         {
-          "title": "金价反弹全抹，CPI+沃什会不会再补一刀？",
-          "url": "https://flash.jin10.com/detail/20260714121200284800",
-          "source": "金十数据",
+          "title": "央行将开展14000亿元买断式逆回购",
+          "url": "https://www.douyin.com/hot/2571364",
+          "source": "抖音",
           "ranks": [
-            17
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时40分"
+          "time_info": "21时04分"
+        },
+        {
+          "title": "央行将开展14000亿元买断式逆回购",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%B0%86%E5%BC%80%E5%B1%9514000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
@@ -3014,11 +3500,12 @@
             13,
             8,
             22,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时20分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[09时20分 ~ 21时04分]"
         },
         {
           "title": "恐慌抛售引发3442亿韩元强制平仓潮，韩国股市陷信用盘危机",
@@ -3096,6 +3583,18 @@
           "time_info": "[01时05分 ~ 06时44分]"
         },
         {
+          "title": "9分钟回撤11个点！半导体龙头复盘次日再巨震，全市场高波动股名单一览",
+          "url": "https://www.cls.cn/detail/2426035",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 21时04分]"
+        },
+        {
           "title": "险资年内密集参设股权投资基金，布局AI、半导体等领域",
           "url": "https://wallstreetcn.com/livenews/3133128",
           "source": "华尔街见闻-快讯",
@@ -3105,17 +3604,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
-        },
-        {
-          "title": "9分钟回撤11个点！半导体龙头复盘次日再巨震，全市场高波动股名单一览",
-          "url": "https://www.cls.cn/detail/2426035",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         },
         {
           "title": "港股午评：恒生指数半日跌0.47% 科技、半导体概念股走低",
@@ -3220,6 +3708,45 @@
       ]
     },
     {
+      "keyword_group": "复盘",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【焦点复盘】时隔15个月沪指再度跌破年线，全市场超400股跌超10%，资金逆势抱团红利股",
+          "url": "https://www.cls.cn/detail/2424673",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时05分 ~ 07时42分]"
+        },
+        {
+          "title": "【焦点复盘】沪指午后深V逆转收复年线，全市场超120股涨逾10%，市场现久违“煤飞色舞”行情",
+          "url": "https://www.cls.cn/detail/2425998",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "战术复盘HLE战胜BLG",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E6%9C%AF%E5%A4%8D%E7%9B%98HLE%E6%88%98%E8%83%9CBLG",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "实体清单 制裁",
       "match_count": 3,
       "titles": [
@@ -3289,62 +3816,6 @@
       ]
     },
     {
-      "keyword_group": "复盘",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【焦点复盘】时隔15个月沪指再度跌破年线，全市场超400股跌超10%，资金逆势抱团红利股",
-          "url": "https://www.cls.cn/detail/2424673",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时05分 ~ 07时42分]"
-        },
-        {
-          "title": "战术复盘HLE战胜BLG",
-          "url": "https://search.bilibili.com/all?keyword=%E6%88%98%E6%9C%AF%E5%A4%8D%E7%9B%98HLE%E6%88%98%E8%83%9CBLG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上市公司分红回购增持三箭齐发协同加力",
-          "url": "https://wallstreetcn.com/livenews/3133123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "中国央行：将开展14000亿元买断式逆回购操作 期限为6个月（184天）",
-          "url": "https://wallstreetcn.com/livenews/3133509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时45分"
-        }
-      ]
-    },
-    {
       "keyword_group": "涨价 核心材料",
       "match_count": 1,
       "titles": [
@@ -3371,11 +3842,12 @@
           "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%9A%B4%E5%8A%9B%E6%8B%89%E5%8D%87%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 21时04分]"
         }
       ]
     }
