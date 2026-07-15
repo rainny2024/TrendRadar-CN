@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T09:17:53.150118+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-07-15T12:40:26.002311+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 75,
+      "match_count": 80,
       "titles": [
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -28,6 +28,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 06时46分]"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://wallstreetcn.com/articles/3776923",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时01分 ~ 12时40分]"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -55,18 +69,15 @@
           "time_info": "[01时02分 ~ 09时17分]"
         },
         {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://wallstreetcn.com/articles/3776923",
-          "source": "华尔街见闻",
+          "title": "伊朗打击约旦美军F18战机部署地",
+          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            8,
-            7,
-            6
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时01分 ~ 09时17分]"
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 12时40分]"
         },
         {
           "title": "时隔4个月，伊朗议会复会，现场宣读穆杰塔巴声明",
@@ -114,13 +125,24 @@
           "time_info": "03时02分"
         },
         {
+          "title": "据伊朗IRIB新闻网：美国在周三凌晨袭击了伊朗霍韦泽（Hoveyzeh）的一处小麦储存筒仓。",
+          "url": "https://flash.jin10.com/detail/20260715122610456800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "直播：美军继续袭击伊朗并恢复海上封锁",
           "url": "https://i.ifeng.com/c/8r9IfZOQO8x",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -134,17 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
-        },
-        {
-          "title": "伊朗打击约旦美军F18战机部署地",
-          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
         },
         {
           "title": "伊朗霍尔木兹甘省政府表示，当地时间约23时，美军打击命中伊朗南部锡里克附近地区。",
@@ -167,6 +178,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
+          "url": "https://www.cls.cn/detail/2426576",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 12时40分]"
         },
         {
           "title": "伊朗革命卫队：只要美国继续行动，霍尔木兹海峡的重新开放就将被推迟。",
@@ -224,6 +247,17 @@
           "time_info": "07时42分"
         },
         {
+          "title": "以色列总理对伊朗领导人发出警告",
+          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "伊朗革命卫队：在“承诺2号行动”第三轮打击中，向巴林谢赫·伊萨基地和科威特阿里·萨利姆基地发动导弹及无人机袭击，目标包括弹药设施、舰机零部件仓库及MQ-9无人机设施。",
           "url": "https://flash.jin10.com/detail/20260715024433438800",
           "source": "金十数据",
@@ -266,18 +300,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "【早报】美股存储板块反弹；美军空袭伊朗；原油、金银集体上涨；长鑫科技，发行价定了",
-          "url": "https://www.cls.cn/detail/2426576",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 09时17分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗当地和安全官员否认在恰巴哈尔发生任何爆炸。",
@@ -417,7 +439,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -510,6 +532,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "伊朗称霍尔木兹海峡将继续关闭，直至美国停止袭击。",
+          "url": "https://wallstreetcn.com/livenews/3134084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "美国财长贝森特：美国财政部外国资产控制办公室制裁了多个与伊朗央行关联的钱包，超过1.3亿美元资金被冻结。",
           "url": "https://flash.jin10.com/detail/20260715064945051800",
           "source": "金十数据",
@@ -527,7 +560,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -604,7 +637,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -725,7 +758,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -785,6 +818,17 @@
           "time_info": "06时46分"
         },
         {
+          "title": "美军七小时打击数十个伊朗目标，声明中一句话泄露了真正的目标",
+          "url": "https://flash.jin10.com/detail/20260715115431127800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "伊朗Andimeshk市传出爆炸声。（Irib新闻社）",
           "url": "https://wallstreetcn.com/livenews/3133778",
           "source": "华尔街见闻-快讯",
@@ -840,6 +884,17 @@
           "time_info": "05时46分"
         },
         {
+          "title": "高盛谈原油：如果海湾地区出口复苏持续停滞并导致产量反弹延迟，布伦特原油价格在2026年第四季度可能会突破110美元/桶。 如果产量超出预期，且在高零售燃料价格的背景下需求复苏更加缓慢，到今年年底布伦特原油价格可能潜在下跌至60多美元。",
+          "url": "https://wallstreetcn.com/livenews/3134056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "伊朗称美进入正式战争状态",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E8%BF%9B%E5%85%A5%E6%AD%A3%E5%BC%8F%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -854,8 +909,23 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
+        {
+          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
+          "url": "https://wallstreetcn.com/articles/3776932",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时01分 ~ 12时40分]"
+        },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
           "url": "https://news.ifeng.com/c/8ukTbU27CpD",
@@ -866,20 +936,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 06时46分]"
-        },
-        {
-          "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
-          "url": "https://wallstreetcn.com/articles/3776932",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时01分 ~ 09时17分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -929,33 +985,12 @@
           "ranks": [
             14,
             15,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时01分 ~ 09时17分]"
-        },
-        {
-          "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
-          "url": "https://news.ifeng.com/c/8ulRMRR0meG",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "appearance_count": 8,
+          "time_info": "[03时01分 ~ 12时40分]"
         },
         {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
@@ -969,8 +1004,33 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时13分 ~ 12时40分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[04时13分 ~ 09时17分]"
+          "time_info": "[05时46分 ~ 12时40分]"
+        },
+        {
+          "title": "遭到潮水般怒斥后，特朗普被迫24小时内改口",
+          "url": "https://news.ifeng.com/c/8ulRMRR0meG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
         },
         {
           "title": "24小时反转！特朗普放弃海峡收费，重启封锁、威胁“摧毁伊朗电厂桥梁”",
@@ -995,17 +1055,27 @@
           "time_info": "06时46分"
         },
         {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
+          "title": "特朗普战情室密谋升级打击！美军考虑扩大对伊朗本土攻击",
+          "url": "https://flash.jin10.com/detail/20260715121904164800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            8,
-            5
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "不到24小时，特朗普态度大转弯",
+          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时46分 ~ 09时17分]"
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 12时40分]"
         },
         {
           "title": "美国总统特朗普：我现在不想谈判。我说了，我们不谈判了。",
@@ -1062,11 +1132,24 @@
           "ranks": [
             16,
             18,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 09时17分]"
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 12时40分]"
+        },
+        {
+          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
+          "url": "https://www.cls.cn/detail/2426616",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 12时40分]"
         },
         {
           "title": "特朗普宣称将与伊拉克达成“庞大”的石油交易",
@@ -1079,6 +1162,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时02分 ~ 04时13分]"
+        },
+        {
+          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2426568",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 12时40分]"
         },
         {
           "title": "美国总统特朗普在预先录制的采访中宣称：我们“痛打”伊朗。 我们必须维持霍尔木兹海峡的开放。 重申海峡仍然是开放的。 他们已经完成了伊朗目标。 “袭击伊朗”将持续至我喊“够了”。 他们还剩下一些战斗，但已经不多了。（福克斯新闻）",
@@ -1159,26 +1254,37 @@
           "time_info": "06时46分"
         },
         {
-          "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2426568",
-          "source": "财联社热门",
+          "title": "极限施压再上演，这次特朗普还会TACO吗？",
+          "url": "https://flash.jin10.com/detail/20260715121004025800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "特朗普召集会议讨论对伊朗大规模进攻计划",
+          "url": "https://wallstreetcn.com/livenews/3134087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然出一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时17分"
-        },
-        {
-          "title": "美伊战火没完没了？特朗普：要打到我喊停，下周或袭击桥梁发电厂！",
-          "url": "https://www.cls.cn/detail/2426616",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
+          "time_info": "12时40分"
         },
         {
           "title": "市场消息：美国众议院议员拉斯金致信派拉蒙CEO埃里森，要求其回应是否在推动CBS新闻报道迎合特朗普立场。",
@@ -1190,6 +1296,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "特朗普威胁下周袭击伊朗桥梁发电厂",
@@ -1253,7 +1370,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -1371,7 +1488,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -1394,8 +1511,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时01分 ~ 09时17分]"
+          "appearance_count": 8,
+          "time_info": "[03时01分 ~ 12时40分]"
         },
         {
           "title": "美联储主席沃什：我们应做到负责任、可问责。",
@@ -1418,6 +1535,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "一夜变天！美国通胀超预期降温 美联储本月加息概率骤降至15%",
+          "url": "https://www.cls.cn/detail/2426660",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美联储理事巴尔：迄今几乎没有证据表明，人工智能已在广泛范围内导致就业岗位流失。",
@@ -1516,7 +1644,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -1809,6 +1937,157 @@
       ]
     },
     {
+      "keyword_group": "增长 亮眼",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "十五五持续激活内需增长动力",
+          "url": "https://www.douyin.com/hot/2571446",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 09时17分]"
+        },
+        {
+          "title": "净利同比最高增长49.35倍！800亿锂矿龙头发布半年度业绩预告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2426280",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 07时42分]"
+        },
+        {
+          "title": "上半年我国GDP同比增长4.7%",
+          "url": "https://www.douyin.com/hot/2571818",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "我国货物贸易进出口连续增长",
+          "url": "https://www.douyin.com/hot/2571843",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "上半年我国GDP同比增长4.7%",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%88%91%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.7%25",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "今年以来券商境内发债规模同比增长近一倍，与业绩改善形成正反馈",
+          "url": "https://wallstreetcn.com/livenews/3133926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3776895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 12时40分]"
+        },
+        {
+          "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
+          "url": "https://flash.jin10.com/detail/20260715004912134800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "【图解中国经济半年报】GDP同比增长4.7% 规模以上工业增加值同比增长5.4%",
+          "url": "https://www.cls.cn/detail/2426802",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "英国劳力士最大零售商对利润增长前景保持乐观",
+          "url": "https://wallstreetcn.com/livenews/3133791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "国家统计局：2026上半年GDP同比增长4.7%",
+          "url": "https://www.cls.cn/detail/2426724",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "2026 年上半年 GDP 695704 亿元，同比增长 4.7%，如何解读这一数据？",
+          "url": "https://www.zhihu.com/question/2060665371351331817",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "国家统计局：上半年高技术产业投资同比增长4.6%",
+          "url": "https://wallstreetcn.com/livenews/3134069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "CPI",
       "match_count": 10,
       "titles": [
@@ -1821,8 +2100,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 09时17分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 12时40分]"
         },
         {
           "title": "美国6月CPI低于预期 纳指期货涨超1% IBM盘前暴跌逾22% | 今夜看点",
@@ -1849,8 +2128,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 09时17分]"
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 12时40分]"
         },
         {
           "title": "德国两年期国债收益率于美国CPI通胀数据发布日涨超3个基点",
@@ -1956,11 +2235,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 09时17分]"
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 12时40分]"
         },
         {
           "title": "周二（7月14日）美股尾盘，彭博电动汽车价格回报指数涨0.83%，报3394.46点，亚太时段呈现出V形走势，北京时间13:30转涨之后几乎一直维持上涨状态。 成分股中，港股蔚来集团收涨8.66%领跑、小鹏集团涨3.05%、广州汽车集团涨2.94%表现第十，L&F收跌10.37%，Lucid集团跌16.7%。",
@@ -2031,82 +2311,8 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "十五五持续激活内需增长动力",
-          "url": "https://www.douyin.com/hot/2571446",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 09时17分]"
-        },
-        {
-          "title": "净利同比最高增长49.35倍！800亿锂矿龙头发布半年度业绩预告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2426280",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 07时42分]"
-        },
-        {
-          "title": "今年以来券商境内发债规模同比增长近一倍，与业绩改善形成正反馈",
-          "url": "https://wallstreetcn.com/livenews/3133926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
-        },
-        {
-          "title": "算力需求爆发驱动，长飞光纤预计上半年净利润同比增长711%-914% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3776895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 09时17分]"
-        },
-        {
-          "title": "美联储理事巴尔：若大多数企业及其员工无法充分获取持续发展的AI资源，其生产率增长将放慢。",
-          "url": "https://flash.jin10.com/detail/20260715004912134800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "英国劳力士最大零售商对利润增长前景保持乐观",
-          "url": "https://wallstreetcn.com/livenews/3133791",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 光模块",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
@@ -2154,13 +2360,24 @@
           "time_info": "07时42分"
         },
         {
+          "title": "券商晨会精华：英伟达Rubin VR200芯片催化高阶电容电感需求",
+          "url": "https://www.cls.cn/detail/2426604",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "据媒体报道，人工智能云计算公司 CoreWeave正在探索使用金融衍生品，作为防范未来内存和存储芯片价格下跌的潜在对冲手段。",
           "url": "https://wallstreetcn.com/livenews/3133955",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         }
@@ -2168,7 +2385,7 @@
     },
     {
       "keyword_group": "日经 韩国股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "日本金融厅（FSA）将围绕利率风险对诸多地区银行展开（问卷）调查。（日经新闻）",
@@ -2189,9 +2406,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "李在明：韩国股市急涨后需时间企稳 敦促监管部门应对杠杆ETF争议",
+          "url": "https://flash.jin10.com/detail/20260715115820810800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "韩国股市高开逾3%",
@@ -2200,7 +2428,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
         },
@@ -2214,6 +2442,151 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "邹市明妻子自曝，7年创业亏损超2亿",
+          "url": "https://news.ifeng.com/c/8ul5upzGkJb",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时46分]"
+        },
+        {
+          "title": "行业景气度与下游需求共振，十余家科创板公司上半年业绩预喜",
+          "url": "https://wallstreetcn.com/livenews/3133921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时42分"
+        },
+        {
+          "title": "7月15日午间收评：科创50指数半日跌3.67%，医药、消费股逆势大涨",
+          "url": "https://wallstreetcn.com/livenews/3134078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "科创50指数跌超4%，半导体芯片股领跌，沐曦股份、佰维存储、清溢光电、华峰测控、龙图光罩、聚辰股份、有研硅等跌超10%。",
+          "url": "https://wallstreetcn.com/livenews/3134065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "9分钟回撤11个点！半导体龙头复盘次日再巨震，全市场高波动股名单一览",
+          "url": "https://www.cls.cn/detail/2426035",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 06时46分]"
+        },
+        {
+          "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
+          "url": "https://www.zhihu.com/question/2058449781597459395",
+          "source": "知乎",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 12时40分]"
+        },
+        {
+          "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
+          "url": "https://www.zhihu.com/question/2058449781597459395",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18,
+            17,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时01分 ~ 07时42分]"
+        },
+        {
+          "title": "受创纪录销售额及AI需求激增推动，韩美半导体股价飙升",
+          "url": "https://flash.jin10.com/detail/20260715115650219800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "暴涨",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "SK海力士美股暴涨超27%",
+          "url": "https://www.baidu.com/s?wd=SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%BE%8E%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%B6%8527%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时42分 ~ 09时17分]"
+        },
+        {
+          "title": "韩国KOSPI指数日内暴涨8.00%，现报7407.70点。韩美半导体涨28%、SK海力士涨12.9%、三星电子涨7.6%。",
+          "url": "https://flash.jin10.com/detail/20260715114943461800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
+          "title": "SK海力士暴涨超27%",
+          "url": "https://s.weibo.com/weibo?q=%23SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%9A%B4%E6%B6%A8%E8%B6%8527%25%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         }
       ]
     },
@@ -2252,81 +2625,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "9分钟回撤11个点！半导体龙头复盘次日再巨震，全市场高波动股名单一览",
-          "url": "https://www.cls.cn/detail/2426035",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时46分]"
-        },
-        {
-          "title": "长鑫科技 7 月 16 日开启新股申购，最高估值超 4 万亿，这对其自身发展和半导体产业意味着什么？",
-          "url": "https://www.zhihu.com/question/2058449781597459395",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            17,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时01分 ~ 07时42分]"
-        },
-        {
-          "title": "长鑫科技 7 月 16 日开启申购，发行价为 8.66 元 / 股，估值超 4 万亿，对其自身发展和半导体产业意味着什么？",
-          "url": "https://www.zhihu.com/question/2058449781597459395",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "邹市明妻子自曝，7年创业亏损超2亿",
-          "url": "https://news.ifeng.com/c/8ul5upzGkJb",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时02分 ~ 06时46分]"
-        },
-        {
-          "title": "行业景气度与下游需求共振，十余家科创板公司上半年业绩预喜",
-          "url": "https://wallstreetcn.com/livenews/3133921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时42分"
         }
       ]
     },
@@ -2366,6 +2667,23 @@
       ]
     },
     {
+      "keyword_group": "上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数早盘收报3963.90点，跌0.08%。 深证成指早盘收报14868.23点，跌0.38%。 创业板指早盘收报3837.23点，跌0.36%。 沪深300早盘收报4798.61点，涨0.04%。 科创50早盘收报1936.06点，跌3.67%。 中证500早盘收报8205.12点，跌0.86%。 中证1000早盘收报7870.00点，跌0.70%。",
+          "url": "https://wallstreetcn.com/livenews/3134079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        }
+      ]
+    },
+    {
       "keyword_group": "涨价 核心材料",
       "match_count": 1,
       "titles": [
@@ -2376,26 +2694,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "暴涨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SK海力士美股暴涨超27%",
-          "url": "https://www.baidu.com/s?wd=SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%BE%8E%E8%82%A1%E6%9A%B4%E6%B6%A8%E8%B6%8527%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 09时17分]"
         }
       ]
     },
@@ -2449,11 +2750,12 @@
           "source": "澎湃新闻",
           "ranks": [
             15,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 09时17分]"
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 12时40分]"
         }
       ]
     },
