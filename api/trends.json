@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T04:02:10.371968+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-07-18T05:41:38.085142+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 26,
+      "match_count": 38,
       "titles": [
         {
           "title": "卡塔尔外交部：卡塔尔以最强烈言辞谴责伊朗对其领土及若干兄弟国家领土的新一轮侵略。",
@@ -19,6 +19,28 @@
           "time_info": "00时08分"
         },
         {
+          "title": "伊朗革命卫队打击并摧毁了美军驻巴林的无人艇存放基地，大量无人艇被大火焚毁。此外，巴林的主要人工智能中心也遭到多枚弹道导弹和数十架无人机的打击，已被完全摧毁。该中心被美国用于定位敌方目标，以实施战争罪行。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3135918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "伊朗称袭击美驻巴林设施 警告美国中东AI资产或成目标",
+          "url": "https://flash.jin10.com/detail/20260718045807451800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：一艘泰国籍船只因未经伊朗革命卫队许可驶经霍尔木兹海峡，遭到袭击。",
           "url": "https://flash.jin10.com/detail/20260718013628025800",
           "source": "金十数据",
@@ -28,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "伊朗发射巡航导弹打击美军舰艇",
+          "url": "https://news.ifeng.com/c/8uqYuoIZbpV",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：知情人士称，伊朗革命卫队在霍尔木兹海峡袭击了一艘船只。",
@@ -61,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "伊朗革命卫队：如果美国继续打击伊朗目标，伊方将扩大对美国在中东地区相关工业、科技和人工智能资产的攻击。",
+          "url": "https://flash.jin10.com/detail/20260718044547376800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "伊朗称摧毁多架美军战斗机",
@@ -112,6 +156,17 @@
           "time_info": "01时57分"
         },
         {
+          "title": "伊朗革命卫队：伊军袭击了美国驻巴林的基础设施，摧毁无人艇仓库及一处人工智能中心。此次行动是对美国此前袭击伊朗桥梁等基础设施事件的回应。",
+          "url": "https://flash.jin10.com/detail/20260718044353532800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
           "title": "伊朗第一副总统：任何侵犯伊朗领土的行为都将遭到坚决、出其不意且超常规的回应。",
           "url": "https://flash.jin10.com/detail/20260718012216809800",
           "source": "金十数据",
@@ -129,9 +184,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美军称重启对伊朗海上封锁三天内拦截6艘船只",
+          "url": "https://wallstreetcn.com/livenews/3135910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "伊朗南部锡里克地区传出3次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3135909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "据伊朗国际电视台：根据所获得的伊朗最高国家安全委员会指令，媒体被要求不得发布有关民用基础设施受损细节、破坏程度以及袭击对公共服务供应影响的信息。",
@@ -156,6 +233,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡",
+          "url": "https://flash.jin10.com/detail/20260718043137914800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
           "title": "据科威特国家通讯社：科威特南部两处火灾已得到控制，此前相关设施遭伊朗袭击，目前暂无人员伤亡报告。",
           "url": "https://flash.jin10.com/detail/20260718021515550800",
           "source": "金十数据",
@@ -173,9 +261,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗南部锡里克响起三声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260718041645298800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：当地消息人士称，伊朗阿巴斯港传出爆炸声。",
@@ -187,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "伊朗发射巡航导弹打击美军舰艇",
+          "url": "https://wallstreetcn.com/livenews/3135904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "伊朗打击位于科威特和叙利亚的美军目标",
@@ -217,7 +327,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -228,7 +338,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -244,13 +354,24 @@
           "time_info": "00时08分"
         },
         {
+          "title": "美军称对伊朗发动新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3135895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶88.10美元，上涨3.87美元，涨幅4.59%。",
           "url": "https://flash.jin10.com/detail/20260718025146298800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -297,12 +418,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "美国连续第七晚打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260718035518872800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -312,8 +444,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
+        },
+        {
+          "title": "生死博弈！“特朗普美元”来了",
+          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
         },
         {
           "title": "白宫：特朗普将出席世界杯决赛",
@@ -327,35 +471,13 @@
           "time_info": "[00时08分 ~ 04时02分]"
         },
         {
-          "title": "生死博弈！“特朗普美元”来了",
-          "url": "https://news.ifeng.com/c/8uqCpNoRpyA",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
-        },
-        {
           "title": "特朗普：6月通胀传来“好消息”，美国迎来“黄金时代”",
           "url": "https://flash.jin10.com/detail/20260718034050546800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时02分"
-        },
-        {
-          "title": "美国总统特朗普再次赞赏6月通胀数据。",
-          "url": "https://wallstreetcn.com/livenews/3135890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -366,7 +488,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -377,9 +499,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "消息人士：特朗普媒体向金融机构推销“Truth API”，三年期优惠价每月6万美元。",
+          "url": "https://flash.jin10.com/detail/20260718045100973800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "加拿大山火肆虐，特朗普要求对方通过关税承担污染成本",
@@ -388,9 +521,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "美国总统特朗普再次赞赏6月通胀数据。",
+          "url": "https://wallstreetcn.com/livenews/3135890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时02分 ~ 05时41分]"
         },
         {
           "title": "特朗普媒体科技集团提议，对“Truth API”收取10万美元的月租。（英国金融时报）",
@@ -411,9 +556,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "市场消息：美国法官裁定，特朗普政府无权因新的政策优先事项而广泛取消拨款资金。",
+          "url": "https://flash.jin10.com/detail/20260718043845403800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         },
         {
           "title": "据CNN：美国总统特朗普正前往纽约参加国际足联招待会，登上新“空军一号”总统专机。",
@@ -433,7 +589,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -444,7 +600,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -455,7 +611,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -466,7 +622,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
@@ -502,6 +658,214 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "加拿大野火殃及美国空气，特朗普称将以关税追偿损失",
+          "url": "https://wallstreetcn.com/livenews/3135887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数17日微涨",
+          "url": "https://flash.jin10.com/detail/20260718050516466800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
+          "url": "https://wallstreetcn.com/livenews/3135852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 02时58分]"
+        },
+        {
+          "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
+          "url": "https://wallstreetcn.com/livenews/3135907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "周五（7月17日），美股行业ETF普遍收跌，全球航空业ETF跌2.53%，半导体ETF跌2.18%，可选消费ETF跌1.62%，区域银行ETF回撤1.58%，全球科技股指数ETF、网络股指数ETF、科技行业ETF至多跌1.31%，能源业ETF涨1.16%。",
+          "url": "https://wallstreetcn.com/livenews/3135906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "美元指数本周累跌约0.2%",
+          "url": "https://wallstreetcn.com/livenews/3135891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "美股存储板块全部转涨，纷纷收复盘初4%-7%的跌幅，当前，美光科技涨2.77%，西部数据涨0.07%，希捷科技涨1.94%，闪迪涨2.64%，SK海力士涨3.74%。费城半导体指数跌幅也收窄至1.7%，现报11655点，以前一度大跌5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3135803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "周五（7月17日）纽约尾盘，标普500股指期货最终跌1.04%，道指期货跌0.76%，纳斯达克100股指期货跌1.51%。 罗素2000股指期货跌0.48%。",
+          "url": "https://wallstreetcn.com/livenews/3135915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌1.81%，报6280.72点，本周累计上涨2.61%，7月15-16日持续走高。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。 ETF中，中国科技指数ETF（CQQQ）收跌5.07%，本周跌9.56%； XtrackersHarvest中证50（ASHS）收跌4.65%，本周跌11.31%； 德银嘉实沪深300指数ETF（ASHR）收跌2.66%，本周跌4.95%； 中概互联网指数ETF（KWEB）收跌2.44%，本周涨1.63%——延续此前两周先后反弹4.39%、5.56%的表现； MSCI新兴市场ex中国ETF（EMXC）收跌1.08%，本周累跌6.64%。",
+          "url": "https://wallstreetcn.com/livenews/3135899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "本周，标普500指数累跌1.55%，纳指累跌2.9%，道指累跌0.93%。",
+          "url": "https://flash.jin10.com/detail/20260718040459170800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "标普500指数收跌76.08点，跌幅1.01%，报7457.69点，本周累跌1.55%。 道琼斯工业平均指数收跌406.55点，跌幅0.77%，报52146.42点，本周累跌0.93%。 纳斯达克综合指数（纳指）收跌361.703点，跌幅1.40%，报25520.244点，本周累跌2.90%。 纳斯达克100指数收跌433.111点，跌幅1.49%，报28592.659点，本周累跌4.13%。",
+          "url": "https://wallstreetcn.com/livenews/3135896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "道琼斯指数7月17日（周五）收盘下跌406.55点，跌幅0.77%，报52146.42点；<br/>标普500指数7月17日（周五）收盘下跌76.11点，跌幅1.01%，报7457.66点；<br/>纳斯达克综合指数7月17日（周五）收盘下跌361.70点，跌幅1.40%，报25520.24点。",
+          "url": "https://flash.jin10.com/detail/20260718040335383800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
+          "url": "https://wallstreetcn.com/articles/3777225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 05时41分]"
+        },
+        {
+          "title": "目标价翻倍至2581元！高盛：英伟达推动3.2T光模块需求加速，中际旭创迎来估值重塑",
+          "url": "https://wallstreetcn.com/articles/3777219",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时41分]"
+        },
+        {
+          "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
+          "url": "https://wallstreetcn.com/livenews/3135868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时02分]"
+        },
+        {
+          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
+          "url": "https://wallstreetcn.com/livenews/3135819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "美股收盘：三大股指低收，芯片股涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260718040114530800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         }
       ]
     },
@@ -517,8 +881,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
         },
         {
           "title": "SK海力士大幅回调！崔泰源喊话坚守持仓：存储需求将呈指数级增长",
@@ -528,8 +892,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
         },
         {
           "title": "美国原油钻井平台连续第12周增长",
@@ -567,11 +931,12 @@
           "ranks": [
             19,
             7,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -582,8 +947,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 05时41分]"
         },
         {
           "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
@@ -610,54 +975,52 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
+      "keyword_group": "存储 半导体",
       "match_count": 4,
       "titles": [
         {
-          "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
-          "url": "https://wallstreetcn.com/articles/3777225",
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
         },
         {
-          "title": "目标价翻倍至2581元！高盛：英伟达推动3.2T光模块需求加速，中际旭创迎来估值重塑",
-          "url": "https://wallstreetcn.com/articles/3777219",
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
         },
         {
-          "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
-          "url": "https://wallstreetcn.com/livenews/3135868",
-          "source": "华尔街见闻-快讯",
+          "title": "费城半导体指数进入熊市",
+          "url": "https://flash.jin10.com/detail/20260718040718978800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            20
+            15
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 04时02分]"
-        },
-        {
-          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
-          "url": "https://wallstreetcn.com/livenews/3135819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时08分"
+          "time_info": "05时41分"
+        },
+        {
+          "title": "费城半导体指数较6月22日创下的历史收盘高点下跌20.2%。",
+          "url": "https://flash.jin10.com/detail/20260718040341986800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
         }
       ]
     },
@@ -674,8 +1037,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
         },
         {
           "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
@@ -687,8 +1050,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
         },
         {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
@@ -699,8 +1062,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
         }
       ]
     },
@@ -716,8 +1079,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 05时41分]"
         },
         {
           "title": "时隔三月再涨价：年内飞天茅台出厂价累计上调200元 这是怎样的信号？",
@@ -728,8 +1091,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时57分 ~ 04时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 05时41分]"
         },
         {
           "title": "茅台涨价",
@@ -786,63 +1149,6 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌2.05%，暂报2155.15点，上周五结束交易以来（7*24）累计下跌2.81%。 MarketVectorTM数字资产100中盘指数跌0.49%，报2568.46点，最近七天累跌1.97%。 MarketVector数字资产100指数跌1.49%，报12643.48点，最近七天累跌0.78%。 最近七天迄今，Solana累跌3.48%，狗狗币累跌2.38%，XRP累跌1.59%。 比特币累跌0.64%，暂报63552.27美元，7月14日北京时间02:00跌至61761美元，随后反弹，7月15日美股早盘达到65527.29美元；以太坊累涨2.56%，暂报1834.935美元，7月15日美股盘前曾达到1944.948美元。",
-          "url": "https://wallstreetcn.com/livenews/3135852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 02时58分]"
-        },
-        {
-          "title": "美股存储板块全部转涨，纷纷收复盘初4%-7%的跌幅，当前，美光科技涨2.77%，西部数据涨0.07%，希捷科技涨1.94%，闪迪涨2.64%，SK海力士涨3.74%。费城半导体指数跌幅也收窄至1.7%，现报11655点，以前一度大跌5.6%。",
-          "url": "https://wallstreetcn.com/livenews/3135803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "复盘",
       "match_count": 2,
       "titles": [
@@ -882,8 +1188,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时08分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
         }
       ]
     },
@@ -898,11 +1204,12 @@
           "ranks": [
             1,
             3,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时08分 ~ 02时58分]"
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 05时41分]"
         }
       ]
     }
