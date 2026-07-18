@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T09:22:38.102761+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-07-18T12:38:52.991526+08:00",
+  "total_titles_processed": 944,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 62,
+      "match_count": 73,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -13,22 +13,24 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时41分 ~ 09时22分]"
+          "appearance_count": 5,
+          "time_info": "[05时41分 ~ 12时38分]"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 12时38分]"
         },
         {
           "title": "美国：伊朗朝着美国位于沙特的军事基地发射导弹。（Axios）",
@@ -36,23 +38,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 09时22分]"
-        },
-        {
-          "title": "伊朗媒体援引当地官员的话称，在“敌方”对霍尔木兹甘省（Hormozgan）的袭击中，有3人死亡，8人受伤。",
-          "url": "https://wallstreetcn.com/livenews/3135936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 09时22分]"
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 12时38分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔以最强烈言辞谴责伊朗对其领土及若干兄弟国家领土的新一轮侵略。",
@@ -64,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "科威特军方表示，科威特目前正在拦截从伊朗发射的导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260718121106633800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "伊朗革命卫队打击并摧毁了美军驻巴林的无人艇存放基地，大量无人艇被大火焚毁。此外，巴林的主要人工智能中心也遭到多枚弹道导弹和数十架无人机的打击，已被完全摧毁。该中心被美国用于定位敌方目标，以实施战争罪行。（央视）",
@@ -90,13 +92,26 @@
           "time_info": "[06时38分 ~ 09时22分]"
         },
         {
+          "title": "伊朗媒体援引当地官员的话称，在“敌方”对霍尔木兹甘省（Hormozgan）的袭击中，有3人死亡，8人受伤。",
+          "url": "https://wallstreetcn.com/livenews/3135936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 12时38分]"
+        },
+        {
           "title": "据伊通社（IRNA）：阿拉伯媒体报道称，伊朗导弹成功突破约旦防空系统，声称“爱国者”导弹防御系统未能有效拦截。",
           "url": "https://flash.jin10.com/detail/20260718085751276800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -118,7 +133,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -140,9 +155,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "伊朗亮第二把锁，油价为何只涨了一轮？",
+          "url": "https://flash.jin10.com/detail/20260718120203545800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "美国否认叙利亚境内美军基地遭伊朗袭击",
@@ -499,7 +525,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -521,7 +547,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -535,6 +561,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "伊朗发射导弹打击美舰",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E6%89%93%E5%87%BB%E7%BE%8E%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "伊朗国家电视台援引伊朗军方的话称，伊朗在巴林针对美国军方资产和燃料罐进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718112529599800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3135958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "据伊朗国际电视台：根据所获得的伊朗最高国家安全委员会指令，媒体被要求不得发布有关民用基础设施受损细节、破坏程度以及袭击对公共服务供应影响的信息。",
@@ -570,6 +629,17 @@
           "time_info": "02时58分"
         },
         {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://flash.jin10.com/detail/20260718110048188800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "伊朗最高领袖顾问：若美军继续行动，伊朗或转入全面进攻阶段",
           "url": "https://flash.jin10.com/detail/20260718031316514800",
           "source": "金十数据",
@@ -598,9 +668,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "伊朗电力与海水淡化设施遭袭",
+          "url": "https://flash.jin10.com/detail/20260718104201601800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "伊朗打击位于科威特和叙利亚的美军目标",
@@ -636,6 +717,28 @@
           "time_info": "04时02分"
         },
         {
+          "title": "据约旦通讯社：约旦武装部队表示，拦截了十枚来自伊朗的导弹。",
+          "url": "https://flash.jin10.com/detail/20260718103528310800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "美军称结束第七晚对伊朗打击行动",
+          "url": "https://wallstreetcn.com/livenews/3135947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
           "url": "https://flash.jin10.com/detail/20260718030344657800",
           "source": "金十数据",
@@ -653,7 +756,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -667,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
+        },
+        {
+          "title": "伊朗称袭击位于科威特和约旦的美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "布伦特原油期货结算价为每桶88.10美元，上涨3.87美元，涨幅4.59%。",
@@ -689,6 +803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "中东美军基地受损情况评估：伊朗打击显著升级，哪座基地遭破坏程度最重？",
+          "url": "https://flash.jin10.com/detail/20260718095446767800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "伊朗：海峡目前仍被我们牢牢把控",
@@ -738,7 +863,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -870,6 +995,17 @@
           "time_info": "[01时57分 ~ 02时58分]"
         },
         {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
           "url": "https://flash.jin10.com/detail/20260718033109369800",
           "source": "金十数据",
@@ -879,6 +1015,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        },
+        {
+          "title": "特朗普再谈巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "据CNN：美国总统特朗普正前往纽约参加国际足联招待会，登上新“空军一号”总统专机。",
@@ -942,7 +1089,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -993,8 +1140,143 @@
       ]
     },
     {
+      "keyword_group": "芯片 光模块",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
+          "url": "https://wallstreetcn.com/articles/3777225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时57分 ~ 12时38分]"
+        },
+        {
+          "title": "目标价翻倍至2581元！高盛：英伟达推动3.2T光模块需求加速，中际旭创迎来估值重塑",
+          "url": "https://wallstreetcn.com/articles/3777219",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 12时38分]"
+        },
+        {
+          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时43分 ~ 12时38分]"
+        },
+        {
+          "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时38分"
+        },
+        {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://wallstreetcn.com/livenews/3135966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://flash.jin10.com/detail/20260718115729560800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
+          "url": "https://wallstreetcn.com/livenews/3135868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 04时02分]"
+        },
+        {
+          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
+          "url": "https://wallstreetcn.com/livenews/3135819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时08分"
+        },
+        {
+          "title": "平头哥真武芯片与阿里云磐久超节点服务器荣膺2026 WAIC“镇馆之宝”",
+          "url": "https://wallstreetcn.com/livenews/3135952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "美芯片股跌入熊市",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%8A%AF%E7%89%87%E8%82%A1%E8%B7%8C%E5%85%A5%E7%86%8A%E5%B8%82%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "美股收盘：三大股指低收，芯片股涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260718040114530800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
@@ -1006,8 +1288,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 09时22分]"
+          "appearance_count": 4,
+          "time_info": "[06时38分 ~ 12时38分]"
         },
         {
           "title": "美元指数17日微涨",
@@ -1061,13 +1343,24 @@
           "time_info": "[01时57分 ~ 02时58分]"
         },
         {
+          "title": "美股三大指数全线下挫",
+          "url": "https://www.douyin.com/hot/2575548",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "美股半导体指数跌入熊市",
           "url": "https://www.toutiao.com/trending/7663631586239188521/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -1096,92 +1389,232 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
-      "match_count": 7,
+      "keyword_group": "增长 亮眼",
+      "match_count": 6,
       "titles": [
         {
-          "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
-          "url": "https://wallstreetcn.com/articles/3777225",
-          "source": "华尔街见闻",
+          "title": "我国服务出口快速增长",
+          "url": "https://www.toutiao.com/trending/7663414861813612563/",
+          "source": "今日头条",
           "ranks": [
-            10,
-            9,
-            8,
-            4,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时57分 ~ 09时22分]"
-        },
-        {
-          "title": "目标价翻倍至2581元！高盛：英伟达推动3.2T光模块需求加速，中际旭创迎来估值重塑",
-          "url": "https://wallstreetcn.com/articles/3777219",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
+          "appearance_count": 9,
           "time_info": "[00时08分 ~ 09时22分]"
         },
         {
-          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
+          "title": "SK海力士大幅回调！崔泰源喊话坚守持仓：存储需求将呈指数级增长",
+          "url": "https://www.cls.cn/detail/2429565",
+          "source": "财联社热门",
           "ranks": [
-            1
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 09时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时08分 ~ 09时22分]"
         },
         {
-          "title": "Kimi冲击美科技股，纳指再跌1%，芯片股跌入熊市，美伊冲突升级油价大涨",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
+          "title": "美国原油钻井平台连续第12周增长",
+          "url": "https://flash.jin10.com/detail/20260718024203921800",
+          "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时38分"
-        },
-        {
-          "title": "丰业银行策略师Shaun Osborne：今天跨资产类别的整体走势“反映了一次典型的‘避险’交易转向。 由于对科技/芯片周期的新一轮担忧以及美伊冲突的升级，股市盘面一片惨绿（a sea of red）。",
-          "url": "https://wallstreetcn.com/livenews/3135868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
+            1,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 04时02分]"
         },
         {
-          "title": "蔚来芯片子公司神玑亮相WAIC并发布具身智能开发平台",
-          "url": "https://wallstreetcn.com/livenews/3135819",
+          "title": "澳门上半年入境旅客超2094万人次 同比增长9%",
+          "url": "https://wallstreetcn.com/livenews/3135938",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时38分]"
+        },
+        {
+          "title": "2026城市市值增长TOP5",
+          "url": "https://search.bilibili.com/all?keyword=2026%E5%9F%8E%E5%B8%82%E5%B8%82%E5%80%BC%E5%A2%9E%E9%95%BFTOP5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "效仿三星+SK海力士，阿斯麦拟向员工发放2万欧元一次性奖励，AI需求旺盛推动业绩增长",
+          "url": "https://wallstreetcn.com/livenews/3135833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "全球首款机器人手机亮相引老外围观",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            7,
+            6,
+            17,
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时08分 ~ 07时43分]"
+        },
+        {
+          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
+          "url": "https://www.cls.cn/detail/2429951",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时57分 ~ 06时38分]"
+        },
+        {
+          "title": "机器人在WAIC一脚踹出真本事",
+          "url": "https://www.douyin.com/hot/2574930",
+          "source": "抖音",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时38分]"
+        },
+        {
+          "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
+          "url": "https://wallstreetcn.com/livenews/3135823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
         },
         {
-          "title": "美股收盘：三大股指低收，芯片股涨跌不一",
-          "url": "https://flash.jin10.com/detail/20260718040114530800",
-          "source": "金十数据",
+          "title": "均胜电子发布灵巧手等机器人核心部件，控制器等已向头部机器人公司量产供货",
+          "url": "https://wallstreetcn.com/livenews/3135818",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时41分"
+          "time_info": "00时08分"
+        },
+        {
+          "title": "机器人格斗赛头部脱落后仍能继续战斗，为什么头掉了还能打？这算不算人形机器人的成熟标志？",
+          "url": "https://www.zhihu.com/question/2061451804827545826",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时08分 ~ 06时38分]"
+        },
+        {
+          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 05时41分]"
+        },
+        {
+          "title": "费城半导体指数进入熊市",
+          "url": "https://flash.jin10.com/detail/20260718040718978800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时41分 ~ 07时43分]"
+        },
+        {
+          "title": "费城半导体指数较6月22日创下的历史收盘高点下跌20.2%。",
+          "url": "https://flash.jin10.com/detail/20260718040341986800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时41分 ~ 06时38分]"
+        },
+        {
+          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
+          "url": "https://www.cls.cn/detail/2430098",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
+          "title": "韩国半导体杠杆爆仓",
+          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
@@ -1279,22 +1712,35 @@
             12,
             11,
             10,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时57分 ~ 09时22分]"
+          "appearance_count": 9,
+          "time_info": "[01时57分 ~ 12时38分]"
         },
         {
           "title": "【早报】茅台宣布：涨价；国内油价，今起上调",
           "url": "https://www.cls.cn/detail/2430081",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时38分]"
+        },
+        {
+          "title": "飞天茅台再涨价",
+          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E5%86%8D%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时38分]"
         },
         {
           "title": "茅台涨价",
@@ -1306,212 +1752,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时08分"
-        },
-        {
-          "title": "飞天茅台再涨价",
-          "url": "https://www.baidu.com/s?wd=%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E5%86%8D%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "我国服务出口快速增长",
-          "url": "https://www.toutiao.com/trending/7663414861813612563/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 09时22分]"
-        },
-        {
-          "title": "SK海力士大幅回调！崔泰源喊话坚守持仓：存储需求将呈指数级增长",
-          "url": "https://www.cls.cn/detail/2429565",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 09时22分]"
-        },
-        {
-          "title": "澳门上半年入境旅客超2094万人次 同比增长9%",
-          "url": "https://wallstreetcn.com/livenews/3135938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "美国原油钻井平台连续第12周增长",
-          "url": "https://flash.jin10.com/detail/20260718024203921800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时58分 ~ 04时02分]"
-        },
-        {
-          "title": "效仿三星+SK海力士，阿斯麦拟向员工发放2万欧元一次性奖励，AI需求旺盛推动业绩增长",
-          "url": "https://wallstreetcn.com/livenews/3135833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "全球首款机器人手机亮相引老外围观",
-          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8%E5%BC%95%E8%80%81%E5%A4%96%E5%9B%B4%E8%A7%82",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            7,
-            6,
-            17,
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时08分 ~ 07时43分]"
-        },
-        {
-          "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
-          "url": "https://www.cls.cn/detail/2429951",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时57分 ~ 06时38分]"
-        },
-        {
-          "title": "擎天租联合智元部署60余台机器人全面承接WAIC公共服务",
-          "url": "https://wallstreetcn.com/livenews/3135823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "均胜电子发布灵巧手等机器人核心部件，控制器等已向头部机器人公司量产供货",
-          "url": "https://wallstreetcn.com/livenews/3135818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时08分"
-        },
-        {
-          "title": "机器人在WAIC一脚踹出真本事",
-          "url": "https://www.douyin.com/hot/2574930",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时08分 ~ 06时38分]"
-        },
-        {
-          "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 05时41分]"
-        },
-        {
-          "title": "费城半导体指数进入熊市",
-          "url": "https://flash.jin10.com/detail/20260718040718978800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时41分 ~ 07时43分]"
-        },
-        {
-          "title": "费城半导体指数较6月22日创下的历史收盘高点下跌20.2%。",
-          "url": "https://flash.jin10.com/detail/20260718040341986800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时41分 ~ 06时38分]"
-        },
-        {
-          "title": "韩国半导体杠杆爆仓",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%9D%A0%E6%9D%86%E7%88%86%E4%BB%93&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
         }
       ]
     },
@@ -1574,19 +1814,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
-          "url": "https://www.cls.cn/detail/2429589",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 09时22分]"
-        },
-        {
           "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
           "url": "https://wallstreetcn.com/articles/3777165",
           "source": "华尔街见闻",
@@ -1594,7 +1821,21 @@
             9,
             8,
             6,
-            5
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 12时38分]"
+        },
+        {
+          "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
+          "url": "https://www.cls.cn/detail/2429589",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -1610,8 +1851,41 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时08分 ~ 09时22分]"
+          "appearance_count": 10,
+          "time_info": "[00时08分 ~ 12时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
+          "url": "https://www.zhihu.com/question/2061057694832620856",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            10,
+            20,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时08分 ~ 07时43分]"
+        },
+        {
+          "title": "地质灾害橙色预警：重庆东南部风险高 多地需加强防范",
+          "url": "https://wallstreetcn.com/livenews/3135945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
@@ -1657,28 +1931,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时08分 ~ 06时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日本护士将排泄物混入患者输液管致其死亡，排泄物进入血液为什么会致命？如何防范内部人员带来的医疗风险？",
-          "url": "https://www.zhihu.com/question/2061057694832620856",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3,
-            10,
-            20,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时08分 ~ 07时43分]"
         }
       ]
     }
