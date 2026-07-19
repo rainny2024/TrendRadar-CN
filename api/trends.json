@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T15:28:03.392680+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-07-19T17:44:48.548548+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 90,
+      "match_count": 92,
       "titles": [
         {
           "title": "遭伊朗袭击，在约旦美军2人死亡、1人失踪",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时58分 ~ 15时28分]"
+          "appearance_count": 14,
+          "time_info": "[03时58分 ~ 17时44分]"
         },
         {
           "title": "伊朗一海水淡化厂遭袭，万人饮用水中断",
@@ -54,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 17时44分]"
         },
         {
           "title": "伊朗已停止履行伊美谅解备忘录",
@@ -67,6 +67,29 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时43分 ~ 07时42分]"
+        },
+        {
+          "title": "一觉醒来，伊朗让美军付出重大代价",
+          "url": "https://news.ifeng.com/c/8usdq92gz1I",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 17时44分]"
+        },
+        {
+          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
+          "url": "https://wallstreetcn.com/articles/3777329",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 17时44分]"
         },
         {
           "title": "科威特消防部门表示，救援队伍已成功控制住伊朗袭击目标区域的两处火灾。 救援队伍已扑灭因弹片落入居民区而引发的另外三处火灾。",
@@ -105,29 +128,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时45分 ~ 09时28分]"
-        },
-        {
-          "title": "一觉醒来，伊朗让美军付出重大代价",
-          "url": "https://news.ifeng.com/c/8usdq92gz1I",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时28分]"
-        },
-        {
-          "title": "美军对伊朗发动新一轮空袭，约旦美军基地5天遭4袭，美军两人死亡，伊朗最高领袖强调将给美国留下“刻骨铭心的教训”",
-          "url": "https://wallstreetcn.com/articles/3777329",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时28分]"
         },
         {
           "title": "美国袭击伊朗在波斯湾周边的锡里克（Sirik）。（伊朗媒体Tasnim）",
@@ -208,6 +208,19 @@
           "time_info": "[00时44分 ~ 07时42分]"
         },
         {
+          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
+          "url": "https://www.cls.cn/detail/2430332",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 17时44分]"
+        },
+        {
           "title": "伊朗国家电视台：伊朗最高领袖哈梅内伊将于当地时间20:00针对国家问题发布声明。",
           "url": "https://wallstreetcn.com/livenews/3136072",
           "source": "华尔街见闻-快讯",
@@ -220,17 +233,16 @@
           "time_info": "[01时46分 ~ 07时42分]"
         },
         {
-          "title": "【早报】伊朗已停止履行伊美谅解备忘录；天孚通信披露上半年业绩预告",
-          "url": "https://www.cls.cn/detail/2430332",
+          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
+          "url": "https://www.cls.cn/detail/2430324",
           "source": "财联社热门",
           "ranks": [
-            8,
-            6,
-            7
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 15时28分]"
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 17时44分]"
         },
         {
           "title": "伊朗驻巴基斯坦大使：美国无意推动协议取得成功",
@@ -297,21 +309,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
-        },
-        {
-          "title": "伊朗停止履行谅解备忘录后 哈梅内伊誓言让美国“领教难忘的教训”",
-          "url": "https://www.cls.cn/detail/2430324",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时27分 ~ 15时28分]"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：至少六枚导弹击中伊朗的凯什姆岛郊区。",
@@ -331,7 +331,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -368,7 +368,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -443,6 +443,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时59分 ~ 07时42分]"
+        },
+        {
+          "title": "伊朗直接掀了桌子",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9B%B4%E6%8E%A5%E6%8E%80%E4%BA%86%E6%A1%8C%E5%AD%90%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 17时44分]"
         },
         {
           "title": "据以色列第13频道：美国正准备通过向中东地区派遣约100架加油机，扩大对伊朗的行动范围。以色列国防机构正在为该地区可能出现的重大局势升级做准备。",
@@ -520,18 +533,6 @@
           "time_info": "[13时02分 ~ 15时28分]"
         },
         {
-          "title": "伊朗直接掀了桌子",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%9B%B4%E6%8E%A5%E6%8E%80%E4%BA%86%E6%A1%8C%E5%AD%90%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时28分]"
-        },
-        {
           "title": "市场消息：初步报道显示，伊朗港口城市阿巴斯港发生爆炸。",
           "url": "https://flash.jin10.com/detail/20260719030843358800",
           "source": "金十数据",
@@ -543,6 +544,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时59分 ~ 05时40分]"
+        },
+        {
+          "title": "协议成废纸,伊朗掀桌硬刚美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时27分 ~ 17时44分]"
         },
         {
           "title": "美国中央司令部：美军继续严格执行针对伊朗正在实施的海上封锁。截至7月18日，美国中央司令部已改道5艘商船，并使1艘船舶失去行动能力。",
@@ -702,17 +715,6 @@
           "time_info": "[01时46分 ~ 02时45分]"
         },
         {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
-        },
-        {
           "title": "伊朗：将“毁灭性回击”美国野蛮行径",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E2%80%9C%E6%AF%81%E7%81%AD%E6%80%A7%E5%9B%9E%E5%87%BB%E2%80%9D%E7%BE%8E%E5%9B%BD%E9%87%8E%E8%9B%AE%E8%A1%8C%E5%BE%84",
           "source": "百度热搜",
@@ -785,7 +787,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -862,9 +864,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
+        },
+        {
+          "title": "据巴林国家电视台：巴林防空系统拦截了伊朗的袭击。",
+          "url": "https://flash.jin10.com/detail/20260719164759505800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         },
         {
           "title": "据沙特媒体哈达斯：以色列安全消息人士表示，伊朗最高领袖穆罕默德·穆杰塔巴·哈梅内伊目前不在伊朗境内。",
@@ -873,7 +886,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -895,7 +908,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -939,7 +952,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -961,7 +974,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -1043,6 +1056,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "伊朗方面发布约旦一处美国战斗机机库遭毁坏的卫星图像",
+          "url": "https://flash.jin10.com/detail/20260719161015049800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "海湾合作委员会秘书长：伊朗针对巴林、科威特和约旦基础设施的袭击行为构成战争罪。",
           "url": "https://flash.jin10.com/detail/20260718212017645800",
           "source": "金十数据",
@@ -1080,8 +1104,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[03时58分 ~ 15时28分]"
+          "appearance_count": 14,
+          "time_info": "[03时58分 ~ 17时44分]"
         },
         {
           "title": "白宫声称特朗普并非针对中国",
@@ -1166,11 +1190,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 17时44分]"
         },
         {
           "title": "美媒：特朗普政府仍未说明本轮冲突的持续时间与最终目标",
@@ -1209,6 +1234,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时38分 ~ 09时28分]"
+        },
+        {
+          "title": "谁将与特朗普同举大力神杯",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 17时44分]"
         },
         {
           "title": "特朗普政府拟向欧洲等地提供拨款 支持“MAGA”导向项目",
@@ -1261,18 +1299,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时40分 ~ 09时28分]"
-        },
-        {
-          "title": "谁将与特朗普同举大力神杯",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时28分]"
         },
         {
           "title": "据NewsNation：特朗普在得知两名美国军人在伊朗袭击中丧生的消息后首次作出回应。他表示：“这是一件非常悲伤的事情。我们不愿看到这种情况发生。他们是在为我们的国家服役。”",
@@ -1338,15 +1364,266 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         }
       ]
     },
     {
+      "keyword_group": "增长 亮眼",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "长飞光纤总裁庄丹：未来一两年保偏光纤需求增长在10倍甚至20倍级",
+          "url": "https://wallstreetcn.com/livenews/3136053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时42分]"
+        },
+        {
+          "title": "国际复材：预期上半年净利润同比增长151%—194%",
+          "url": "https://flash.jin10.com/detail/20260719171932189800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "力源信息：上半年净利润同比预期增长206.87%—217.28%",
+          "url": "https://flash.jin10.com/detail/20260719171852530800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "铜冠铜箔：上半年净利同比预期增长486%-544%",
+          "url": "https://flash.jin10.com/detail/20260719171737485800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "上半年入境外国人超 2291 万人次，同比增长 20.4%，希腊游客增长近 2 倍，老外为何扎堆来中国避暑？",
+          "url": "https://www.zhihu.com/question/2061485273788191373",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时01分 ~ 15时28分]"
+        },
+        {
+          "title": "国际复材：预计上半年净利润同比增长151%-194%",
+          "url": "https://wallstreetcn.com/livenews/3136206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "东田微：预期上半年净利润同比增长67.71%—87.44%",
+          "url": "https://flash.jin10.com/detail/20260719164640334800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "力源信息：预计2026年上半年净利润同比增长206.87%—217.28%",
+          "url": "https://wallstreetcn.com/livenews/3136205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "长飞光纤总裁庄丹：未来一两年保偏光纤需求增长在10倍甚至20倍级",
+          "url": "https://flash.jin10.com/detail/20260718222052278800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "铜冠铜箔：预计上半年净利润同比增长486.49%-543.70%",
+          "url": "https://wallstreetcn.com/livenews/3136204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "扬杰科技：预期上半年净利同比增长20%—40%",
+          "url": "https://flash.jin10.com/detail/20260719164116830800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "善水科技：预计2026年半年度归母净利7700万元—9500万元，同比增长61.17%—98.84%。",
+          "url": "https://wallstreetcn.com/livenews/3136203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "协创数据：预计上半年净利润同比增长247.18%—339.76%",
+          "url": "https://flash.jin10.com/detail/20260719164021638800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "新易盛：预计今年上半年度净利润同比增长77.56%—102.93%",
+          "url": "https://flash.jin10.com/detail/20260719163559315800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "天孚通信：预计2026年上半年净利润同比增长25%~45%",
+          "url": "https://flash.jin10.com/detail/20260718214501246800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "星宸科技：预计2026年半年度净利润同比增长584%-650%",
+          "url": "https://flash.jin10.com/detail/20260719130405791800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "四方达：预计公司上半年净利润同比增长36.24%-77.11%",
+          "url": "https://flash.jin10.com/detail/20260719161812754800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "东田微：预计上半年净利润同比增长67.71%～87.44%",
+          "url": "https://wallstreetcn.com/livenews/3136194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "协创数据：预计上半年净利润同比增长247.18%-339.76%",
+          "url": "https://wallstreetcn.com/livenews/3136191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "【新易盛：预计2026年上半年净利润同比增长77.56%～102.93%】新易盛公告，预计2026年1月1日—2026年6月30日归属于上市公司股东的净利润为70亿元～80亿元，同比增长77.56%～102.93%；扣除非经常性损益后的净利润为69.81亿元～79.81亿元，同比增长77.46%～102.88%。报告期内公司受益于人工智能相关算力投资持续增长，产品结构优化，公司预计销售收入和净利润较上年同期大幅增加。",
+          "url": "https://wallstreetcn.com/livenews/3136190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "天孚通信：预计2026年上半年净利润同比增长25.00%-45.00%",
+          "url": "https://wallstreetcn.com/livenews/3136043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
+        },
+        {
+          "title": "中国神华：前6月煤炭销售量同比增长1.80%",
+          "url": "https://wallstreetcn.com/livenews/3136181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 机器人",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "上海标志性太空算力星座工程发布 剑指千星部署 商业航天再迎催化",
@@ -1357,8 +1634,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 17时44分]"
         },
         {
           "title": "2026WAIC开幕：AI百花齐放，数百项首发首秀、逾300台人形机器人同台竞技",
@@ -1448,7 +1725,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -1459,7 +1736,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -1481,7 +1758,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -1497,6 +1774,17 @@
           "time_info": "00时44分"
         },
         {
+          "title": "解读机器人格斗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
           "title": "地瓜机器人携手芯视界，推出行业首个专为具身机器人打造的1:1面阵固态激光雷达方案",
           "url": "https://wallstreetcn.com/livenews/3136114",
           "source": "华尔街见闻-快讯",
@@ -1510,83 +1798,91 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 6,
+      "keyword_group": "回购",
+      "match_count": 7,
       "titles": [
         {
-          "title": "长飞光纤总裁庄丹：未来一两年保偏光纤需求增长在10倍甚至20倍级",
-          "url": "https://wallstreetcn.com/livenews/3136053",
+          "title": "产业资本密集出手！7月以来深市新增回购增持54单，上限超76亿元",
+          "url": "https://wallstreetcn.com/livenews/3136214",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时42分]"
-        },
-        {
-          "title": "上半年入境外国人超 2291 万人次，同比增长 20.4%，希腊游客增长近 2 倍，老外为何扎堆来中国避暑？",
-          "url": "https://www.zhihu.com/question/2061485273788191373",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时28分]"
-        },
-        {
-          "title": "长飞光纤总裁庄丹：未来一两年保偏光纤需求增长在10倍甚至20倍级",
-          "url": "https://flash.jin10.com/detail/20260718222052278800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "天孚通信：预计2026年上半年净利润同比增长25%~45%",
-          "url": "https://flash.jin10.com/detail/20260718214501246800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        },
-        {
-          "title": "星宸科技：预计2026年半年度净利润同比增长584%-650%",
-          "url": "https://flash.jin10.com/detail/20260719130405791800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时28分"
+          "time_info": "17时44分"
         },
         {
-          "title": "天孚通信：预计2026年上半年净利润同比增长25.00%-45.00%",
-          "url": "https://wallstreetcn.com/livenews/3136043",
+          "title": "荣昌生物：公司拟以2500万元—5000万元回购公司股份，用于员工持股计划或股权激励，回购价格不超过149元/股。",
+          "url": "https://flash.jin10.com/detail/20260719165947177800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "江淮汽车：截至7月17日已累计回购股份154.67万股",
+          "url": "https://flash.jin10.com/detail/20260719165119013800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "荣昌生物：拟以2500万元-5000万元回购公司股份，回购价格不超过149元/股。",
+          "url": "https://wallstreetcn.com/livenews/3136200",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时44分"
+          "time_info": "17时44分"
+        },
+        {
+          "title": "据世运电路公告，拟以2亿元-3亿元以集中竞价交易方式回购公司股份，回购价格不超过55元/股，回购股份期限为自公司董事会审议通过本次回购股份方案之日起不超过6 个月。",
+          "url": "https://flash.jin10.com/detail/20260719161517328800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "世运电路：拟以2亿元-3亿元回购公司股份，回购价格不超过55元/股。",
+          "url": "https://wallstreetcn.com/livenews/3136184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "据建龙微纳公告，公司董事长李建波于2026年7月14日提议以2000万元-4000万元回购公司股份，回购价格不超过40元/股，回购股份将用于员工持股计划或股权激励。",
+          "url": "https://flash.jin10.com/detail/20260719155605926800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "存储的“新鬼故事”：美国要抢钱了？",
@@ -1609,8 +1905,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 17时44分]"
         },
         {
           "title": "韩国存储赚疯了 美国又要抢钱了吗",
@@ -1631,11 +1927,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 15时28分]"
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 17时44分]"
         },
         {
           "title": "Kimi K3把美股半导体干崩了",
@@ -1647,6 +1944,78 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时27分 ~ 15时28分]"
+        },
+        {
+          "title": "SK崔泰源：明年半导体需求至少增五成",
+          "url": "https://flash.jin10.com/detail/20260719162216319800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "国投白银LOF提示二级市场溢价风险",
+          "url": "https://flash.jin10.com/detail/20260719170711762800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "美伊“高风险赌博”压缩降温空间",
+          "url": "https://wallstreetcn.com/livenews/3136213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "原油LOF易方达发布溢价风险提示",
+          "url": "https://wallstreetcn.com/livenews/3136211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "国投白银LOF提示二级市场溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3136209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
+        },
+        {
+          "title": "图灵奖得主、量子密码学之父：警惕量子计算机回溯解密风险",
+          "url": "https://wallstreetcn.com/livenews/3136048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时44分"
         }
       ]
     },
@@ -1660,11 +2029,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 17时44分]"
         },
         {
           "title": "锂电池开征消费税 新能源车要涨价吗",
@@ -1768,8 +2138,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 17时44分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -1796,7 +2166,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
         },
@@ -1825,11 +2195,12 @@
             2,
             4,
             8,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时43分 ~ 15时28分]"
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 17时44分]"
         },
         {
           "title": "暴涨许久的内存条悄然降价",
@@ -1849,25 +2220,8 @@
       ]
     },
     {
-      "keyword_group": "风险",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "图灵奖得主、量子密码学之父：警惕量子计算机回溯解密风险",
-          "url": "https://wallstreetcn.com/livenews/3136048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "复盘",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "从小颗落石到万方垮塌，彭水山崩预警者口述复盘",
@@ -1877,11 +2231,23 @@
             13,
             8,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时38分 ~ 15时28分]"
+          "appearance_count": 8,
+          "time_info": "[06时38分 ~ 17时44分]"
+        },
+        {
+          "title": "世界杯季军赛赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%AD%A3%E5%86%9B%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时44分"
         }
       ]
     },
