@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T13:31:59.282384+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-07-20T16:37:54.375928+08:00",
+  "total_titles_processed": 1199,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 66,
+      "match_count": 77,
       "titles": [
         {
           "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
@@ -65,8 +65,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 16时37分]"
         },
         {
           "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
@@ -76,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 16时37分]"
         },
         {
           "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
@@ -91,6 +91,19 @@
           "time_info": "[11时22分 ~ 13时31分]"
         },
         {
+          "title": "伊朗发布公告：摧毁约旦20个美军藏身处，打死数十人",
+          "url": "https://news.ifeng.com/c/8uuPkftr2M2",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 16时37分]"
+        },
+        {
           "title": "伊朗让美军付出重大代价",
           "url": "https://news.ifeng.com/c/8usdq92gz1I",
           "source": "凤凰网",
@@ -100,6 +113,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时43分 ~ 00时44分]"
+        },
+        {
+          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
+          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 16时37分]"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：伊朗西南部的马赫沙赫尔港（Bandar Mahshahr）和伊玛目霍梅尼港（Bandar Imam Khomeini）传出了数声爆炸巨响。",
@@ -146,18 +171,6 @@
           "time_info": "07时46分"
         },
         {
-          "title": "伊朗发布公告：摧毁约旦20个美军藏身处，打死数十人",
-          "url": "https://news.ifeng.com/c/8uuPkftr2M2",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时31分]"
-        },
-        {
           "title": "美国中央司令部开始对伊朗进行新一轮打击，已于美国东部时间晚上7点开始对伊朗进行空袭。",
           "url": "https://wallstreetcn.com/livenews/3136384",
           "source": "华尔街见闻-快讯",
@@ -167,17 +180,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
-        },
-        {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
         },
         {
           "title": "美军连续第九晚打击伊朗",
@@ -598,6 +600,39 @@
           "time_info": "[06时41分 ~ 07时46分]"
         },
         {
+          "title": "伊朗外交部发言人：如果美国采取任何夺取哈尔克岛的“冒险行动”，都将面临相应的后果。伊朗领导层中有人正“倒计时”等待美军发动地面入侵，并准备“迎接”美军。",
+          "url": "https://flash.jin10.com/detail/20260720162807053800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊拉克代表团将于周四抵达德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260720162645720800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "伊朗外交部发言人宣布：伊朗内政部长将于本周一出访巴基斯坦。",
+          "url": "https://wallstreetcn.com/livenews/3136715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "伊朗媒体：霍尔木兹海峡通航量已降至零",
           "url": "https://flash.jin10.com/detail/20260719233148771800",
           "source": "金十数据",
@@ -607,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "阿联酋国防部：防空系统成功拦截并摧毁了多起伊朗的空袭。",
+          "url": "https://flash.jin10.com/detail/20260720162440521800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "伊朗副外长：美方针对在建的达尔赫温（Darkhwin）发电厂发起的袭击，是对伊朗和平基础设施的危险攻击；美方须对局势升级、不安全与不稳定加剧所引发的后果承担全部责任。伊朗在强烈谴责这一侵略行径的同时，将采取适当行动捍卫国家利益与安全。",
@@ -626,9 +672,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "伊朗外交部确认收到调解方提议 但未透露详情",
+          "url": "https://wallstreetcn.com/livenews/3136711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "以色列国防军：以色列国防军发现，伊朗向毗邻以色列的约旦亚喀巴市（Aqaba）方向发射了导弹。为防止导弹残骸落入以色列境内，以军发射了多枚拦截弹，对导弹残骸进行拦截。目前暂无人员伤亡或财产损失报告。根据既定程序，未启动防空警报。此次事件已结束。",
@@ -648,7 +705,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -659,9 +716,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "伊朗总统：祝贺西班牙人民和政府在世界杯上取得的成功和应得的冠军头衔。西班牙友好人民和政府的喜悦就是伊朗人民和政府的喜悦。",
+          "url": "https://flash.jin10.com/detail/20260720161630679800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国务卿：美国仍愿意通过外交途径解决伊朗问题",
@@ -675,6 +743,17 @@
           "time_info": "11时23分"
         },
         {
+          "title": "伊朗：针对霍尔木兹海峡的主权权利没有谈判余地。",
+          "url": "https://wallstreetcn.com/livenews/3136706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "伊朗称击落一架美国LUCAS无人机",
           "url": "https://flash.jin10.com/detail/20260719230939240800",
           "source": "金十数据",
@@ -686,13 +765,24 @@
           "time_info": "00时44分"
         },
         {
+          "title": "巴林国防军总司令部：伊朗继续采取系统性的敌对行径，针对巴林王国的平民发动罪恶袭击。",
+          "url": "https://flash.jin10.com/detail/20260720161535746800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：在第一次地震发生5分钟后，位于克尔曼沙赫省库兹兰附近的地区发生了规模为5.7级的余震。",
           "url": "https://flash.jin10.com/detail/20260720122542115800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -730,6 +820,17 @@
           "time_info": "05时41分"
         },
         {
+          "title": "伊拉克民兵武装：若美扩大“对伊朗侵略”将直接参战",
+          "url": "https://flash.jin10.com/detail/20260720161009549800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "伊朗称袭击约旦境内美军藏身地并打死数十名美军人员",
           "url": "https://wallstreetcn.com/livenews/3136484",
           "source": "华尔街见闻-快讯",
@@ -741,13 +842,24 @@
           "time_info": "11时23分"
         },
         {
+          "title": "伊朗：只有各方都致力于履行，谅解备忘录才有价值。",
+          "url": "https://wallstreetcn.com/livenews/3136695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "当地时间今天（7月20日）早晨，伊朗西部发生5.5级地震。（CCTV国际时讯）",
           "url": "https://wallstreetcn.com/livenews/3136559",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -758,7 +870,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -772,6 +884,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "伊朗外交部发言人：已收到调解人提出之解决与美国战争的方案。",
+          "url": "https://wallstreetcn.com/livenews/3136690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -804,6 +927,19 @@
           "time_info": "[00时43分 ~ 07时46分]"
         },
         {
+          "title": "特朗普：痛击伊朗，为身亡美军报仇",
+          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 16时37分]"
+        },
+        {
           "title": "大罗把大力神杯递给特朗普",
           "url": "https://www.toutiao.com/trending/7663818959565602859/",
           "source": "今日头条",
@@ -814,18 +950,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时41分 ~ 06时41分]"
-        },
-        {
-          "title": "特朗普：痛击伊朗，为身亡美军报仇",
-          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时31分]"
         },
         {
           "title": "据福克斯新闻：白宫确认特朗普将向今天阿根廷与西班牙的世界杯决赛获胜者颁发冠军奖杯。",
@@ -951,6 +1075,18 @@
           "time_info": "[02时48分 ~ 04时02分]"
         },
         {
+          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 16时37分]"
+        },
+        {
           "title": "谁将与特朗普同举大力神杯",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%81%E5%B0%86%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E4%B8%BE%E5%A4%A7%E5%8A%9B%E7%A5%9E%E6%9D%AF",
           "source": "bilibili 热搜",
@@ -985,17 +1121,6 @@
           "time_info": "07时46分"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
           "title": "特朗普为西班牙颁奖",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%81%E5%A5%96%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1021,8 +1146,19 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "纳睿雷达：预计2026年上半年净利润6193.06万元左右，同比增长8.75%",
+          "url": "https://flash.jin10.com/detail/20260720163207612800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
         {
           "title": "特斯拉在德国工厂提升产量，来应对需求增长",
           "url": "https://wallstreetcn.com/livenews/3136285",
@@ -1070,6 +1206,17 @@
           "time_info": "[05时41分 ~ 06时41分]"
         },
         {
+          "title": "Alphabet财报前瞻：强劲增长光芒背后 市场五大疑问亟待解答",
+          "url": "https://www.cls.cn/detail/2431106",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "据上海市统计局，上半年，全市工业增加值同比增长5.6%；全市实现社会消费品零售总额8319.73亿元，同比增长0.7%。",
           "url": "https://wallstreetcn.com/livenews/3136374",
           "source": "华尔街见闻-快讯",
@@ -1101,6 +1248,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时23分"
+        },
+        {
+          "title": "海通发展：2026年上半年净利润5.23亿元，同比增长502.60%",
+          "url": "https://wallstreetcn.com/livenews/3136710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "今年上半年霍尔果斯口岸汽车出口同比增长25.7%",
+          "url": "https://wallstreetcn.com/livenews/3136709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "高盛：韩国居民资产增长对消费的提振可能有限",
@@ -1147,6 +1316,17 @@
           "time_info": "07时46分"
         },
         {
+          "title": "震裕科技：预计2026年上半年净利润同比增长98.72%～117.65%",
+          "url": "https://wallstreetcn.com/livenews/3136697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "上半年我国集成电路出口额同比增长88.7%",
           "url": "https://wallstreetcn.com/livenews/3136487",
           "source": "华尔街见闻-快讯",
@@ -1172,7 +1352,7 @@
     },
     {
       "keyword_group": "回购",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中国国新：已使用股票回购增持专项再贷款及配套资金超500亿元",
@@ -1205,7 +1385,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1222,13 +1402,24 @@
           "time_info": "[05时41分 ~ 06时41分]"
         },
         {
+          "title": "一图看懂 | 一批上市公司出手，A股新一轮“增持回购潮”拉开大幕",
+          "url": "https://www.cls.cn/detail/2431271",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "恒力石化：拟使用2亿元-3亿元回购公司股份",
           "url": "https://wallstreetcn.com/livenews/3136580",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1239,7 +1430,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1250,7 +1441,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1272,7 +1463,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1283,7 +1474,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1294,7 +1485,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
@@ -1302,7 +1493,7 @@
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "解读机器人格斗",
@@ -1334,6 +1525,18 @@
           "time_info": "[00时43分 ~ 07时46分]"
         },
         {
+          "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
+          "url": "https://www.cls.cn/detail/2430865",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 16时37分]"
+        },
+        {
           "title": "中国机器人现在有多疯狂",
           "url": "https://www.toutiao.com/trending/7664204045283757611/",
           "source": "今日头条",
@@ -1356,17 +1559,6 @@
           "time_info": "11时23分"
         },
         {
-          "title": "工信部：人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点",
-          "url": "https://www.cls.cn/detail/2430865",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
           "title": "工信部：基于5G的智能终端类型不断丰富，人工智能手机和电脑、智能机器人、AI眼镜、AI玩具等产品成为信息消费新热点。",
           "url": "https://wallstreetcn.com/livenews/3136510",
           "source": "华尔街见闻-快讯",
@@ -1387,6 +1579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时41分"
+        },
+        {
+          "title": "机器人断头反杀看乐马斯克",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356339&amp;topic_name=%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%AD%E5%A4%B4%E5%8F%8D%E6%9D%80%E7%9C%8B%E4%B9%90%E9%A9%AC%E6%96%AF%E5%85%8B",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -1453,7 +1656,7 @@
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "华为首次线下展出昇腾950超节点产品，可搭载1024颗AI芯片",
@@ -1477,6 +1680,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "存储芯片人气股，连续四个交易日跌停",
+          "url": "https://www.cls.cn/detail/2430856",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "台积电(TSM.N)首席财务官：AI芯片需求“强劲且将持续多年”。",
@@ -1504,7 +1718,7 @@
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【图解牛熊股】医药板块涨幅居前，CPO、半导体概念股回调明显",
@@ -1535,9 +1749,98 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "长鑫存储上市的意义到底是什么",
+          "url": "https://www.toutiao.com/trending/7664271637440630315/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美指的涨跌风险高度不对称，空头“反扑”可能比预期中更猛烈",
+          "url": "https://flash.jin10.com/detail/20260720111256205800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "AI溢价降温，油价风险推高宏观波动| 每日市场观察07.20",
+          "url": "https://flash.jin10.com/detail/20260720162941204800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "中信建投夏凡捷：A股“换锚”进行时，外部风险扰动将逐步被剥离",
+          "url": "https://flash.jin10.com/detail/20260720161500060800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国软件国际港股午后直线拉升，一度涨超25%，公司与月之暗面签署Token分成及联合创新合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3136588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "沪指午后翻绿，“煤电酒油”爆发，科技股再度下跌，恒科指涨超2%，科网股集体拉升",
+          "url": "https://wallstreetcn.com/articles/3777388",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
+          "title": "A股CRO概念短线拉升，益诺思涨超10%，亨迪药业、诚达药业、百奥赛图、圣诺生物、海特生物等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260720110622034800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时23分"
         }
       ]
     },
@@ -1583,7 +1886,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1601,34 +1904,6 @@
       ]
     },
     {
-      "keyword_group": "跌破 拉升",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国软件国际港股午后直线拉升，一度涨超25%，公司与月之暗面签署Token分成及联合创新合作协议。",
-          "url": "https://wallstreetcn.com/livenews/3136588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "A股CRO概念短线拉升，益诺思涨超10%，亨迪药业、诚达药业、百奥赛图、圣诺生物、海特生物等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260720110622034800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
@@ -1638,11 +1913,29 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时22分 ~ 13时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时22分 ~ 16时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国股市一个月跌30%",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%B8%80%E4%B8%AA%E6%9C%88%E8%B7%8C30%25",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
@@ -1684,19 +1977,19 @@
       ]
     },
     {
-      "keyword_group": "风险",
+      "keyword_group": "复盘",
       "match_count": 1,
       "titles": [
         {
-          "title": "美指的涨跌风险高度不对称，空头“反扑”可能比预期中更猛烈",
-          "url": "https://flash.jin10.com/detail/20260720111256205800",
-          "source": "金十数据",
+          "title": "世界杯总决赛赛后复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时23分"
+          "time_info": "16时37分"
         }
       ]
     },
