@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T15:32:15.187166+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-07-22T18:16:01.503571+08:00",
+  "total_titles_processed": 1329,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 63,
+      "match_count": 67,
       "titles": [
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时54分 ~ 12时58分]"
+        },
+        {
+          "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
+          "url": "https://news.ifeng.com/c/8uy1V150ZKO",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "特朗普：可能很快打击伊朗“镐山”核设施",
@@ -101,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "这条40余年的禁令，被特朗普解除了",
+          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时16分]"
         },
         {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
@@ -263,17 +285,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "这条40余年的禁令，被特朗普解除了",
-          "url": "https://news.ifeng.com/c/8uxiWY6YntB",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时32分]"
         },
         {
           "title": "特朗普宣布两年后对仿制药征收100%关税",
@@ -445,6 +456,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "据Politico民调：美国总统特朗普的MAGA支持者对他的伊朗战争感到失望 。",
+          "url": "https://flash.jin10.com/detail/20260722175828950800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "特朗普：仿制药0关税政策将实行两年 随后收100%、200%",
@@ -623,6 +645,17 @@
           "time_info": "07时47分"
         },
         {
+          "title": "TACO时刻临近？模型预计特朗普将在7月底“认怂”",
+          "url": "https://flash.jin10.com/detail/20260722174950113800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "美国总统特朗普：（在谈及加拿大关税时表示）这是因为他们对我们的农民等问题上采取了强硬措施。",
           "url": "https://flash.jin10.com/detail/20260721233610193800",
           "source": "金十数据",
@@ -665,6 +698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：我们愿与伊朗达成协议，确保其不会获得核武器。伊朗是支持恐怖主义的国家，我们不信任它。如果伊朗不合作，美国总统特朗普有很多选择。",
+          "url": "https://flash.jin10.com/detail/20260722174552841800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "特朗普或打击伊朗核设施",
@@ -725,7 +769,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗还有两大杀手锏",
@@ -779,7 +823,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -804,6 +848,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "世界银行首席经济学家吉尔：美国、印度等国在伊朗战争的影响下基本受到保护，但高债务水平的发展中国家面临更大风险。",
+          "url": "https://flash.jin10.com/detail/20260722180052126800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "伊朗总统强调团结对当前局势至关重要",
@@ -894,7 +949,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -919,6 +974,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "布伦特原油突破95美元/桶，日内涨幅达4.5%，为6月11日以来首次。",
+          "url": "https://wallstreetcn.com/livenews/3138132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "伊朗打击科威特境内Ali Al Salem基地和Bubiyan岛。（IRIB）",
@@ -954,6 +1020,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "美国国务卿鲁比奥：我们正监测红海航行安全面临的任何威胁。胡塞武装的威胁并不新鲜。该组织威胁实施海上封锁是一个问题，而伊朗才是制造这些问题的根源。伊朗在该地区资助恐怖组织。伊朗向也门发送了载有设备和武器的飞机。",
+          "url": "https://flash.jin10.com/detail/20260722175440363800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
           "title": "据大西洋月刊：美国官员表示，伊朗加大了对美国海军舰艇的打击力度。",
           "url": "https://flash.jin10.com/detail/20260722065427355800",
           "source": "金十数据",
@@ -974,6 +1051,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "“每天都被伊朗打”经济遭不住，科威特计划发行美元债券",
+          "url": "https://flash.jin10.com/detail/20260722175007210800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "据塔斯尼姆通讯社：伊朗军方称，在伊朗西北部击落一架单向攻击无人机。",
@@ -1007,6 +1095,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "约旦军方称伊朗向该国发射了6枚导弹",
+          "url": "https://wallstreetcn.com/livenews/3138112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "新任英国首相伯纳姆批准美国使用英国基地对伊朗进行部分打击。",
@@ -1059,9 +1158,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "市场消息：伊朗外交部副部长将出席在菲律宾举行的东盟外长会议。",
+          "url": "https://flash.jin10.com/detail/20260722174434222800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "伊朗说打就打",
@@ -1081,9 +1191,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：愿意与伊朗达成外交解决方案。",
+          "url": "https://flash.jin10.com/detail/20260722174320653800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "美军连续第11晚对伊朗发动袭击",
@@ -1166,8 +1287,19 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "上海：到2030年海洋生产总值年均增长率不低于全市经济增长目标，海洋产业增加值不低于3500亿元",
+          "url": "https://wallstreetcn.com/livenews/3138137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
         {
           "title": "淡水河谷二季度铁矿石产量8426万吨，分析师预期8384万吨。 二季度铁矿石销售6995万吨，分析师预期6954万吨。 二季度镍产量4.2万吨，同比增长4.2%。 6月份后期，Oman Pellet多个工厂的生产活动局部恢复。",
           "url": "https://wallstreetcn.com/livenews/3137773",
@@ -1179,6 +1311,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时47分]"
+        },
+        {
+          "title": "财政部：上半年证券交易印花税1549亿元 同比增长97.3%",
+          "url": "https://www.cls.cn/detail/2433821",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "世界银行首席经济学家吉尔：全球距离最坏情况仅有“几个月”，届时全球增长将放缓至1.3%，通胀上升至4.5%。。",
+          "url": "https://flash.jin10.com/detail/20260722180033740800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "多地加紧推进重大项目建设，助力三季度经济稳增长",
@@ -1209,7 +1363,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1220,7 +1374,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1242,7 +1396,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1256,6 +1410,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "益生股份：上半年归母净利润3.08亿元，同比增长4897.29%",
+          "url": "https://wallstreetcn.com/livenews/3138107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
         },
         {
           "title": "机构：2026年全球折叠屏市场预计同比增长21%",
@@ -1327,7 +1492,7 @@
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -1339,6 +1504,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时15分 ~ 07时47分]"
+        },
+        {
+          "title": "AI交易热情回落，美股盘前存储芯片股普跌，SK海力士跌约5%，日韩股市几乎抹去涨幅，金银走强",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
           "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
@@ -1467,6 +1643,138 @@
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
+          "url": "https://wallstreetcn.com/articles/3777521",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 15时32分]"
+        },
+        {
+          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
+          "url": "https://www.cls.cn/detail/2432754",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时47分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时55分]"
+        },
+        {
+          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
+          "url": "https://www.zhihu.com/question/2062858490343953648",
+          "source": "知乎",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 18时16分]"
+        },
+        {
+          "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/2062838747457131203",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走低跌超3%，有色、电力板块逆势走强，算力硬件股再陷调整",
+          "url": "https://www.cls.cn/detail/2433946",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "【午报】科创50涨超1.5%，有色板块集体爆发，超节点概念持续走强",
+          "url": "https://www.cls.cn/detail/2433559",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "A股收盘：创业板指低开低走跌超3%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C%E8%B6%853%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
+          "title": "解读邹市明冉莹颖创业经历",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%82%B9%E5%B8%82%E6%98%8E%E5%86%89%E8%8E%B9%E9%A2%96%E5%88%9B%E4%B8%9A%E7%BB%8F%E5%8E%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        },
+        {
+          "title": "A股收盘：创业板指低开低走跌超3%，贵金属、电力股逆势大涨",
+          "url": "https://wallstreetcn.com/livenews/3138040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "7月22日午间收评：科创50指数半日涨1.54%，黄金、半导体板块走强",
+          "url": "https://wallstreetcn.com/livenews/3137940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 9,
       "titles": [
@@ -1478,8 +1786,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时47分 ~ 18时16分]"
         },
         {
           "title": "全球科技股反弹！纳指涨2%，美股存储芯片指数涨超10%，布油重回90美元上方",
@@ -1684,112 +1992,98 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 9,
+      "keyword_group": "回购",
+      "match_count": 8,
       "titles": [
         {
-          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
-          "url": "https://wallstreetcn.com/articles/3777521",
-          "source": "华尔街见闻",
+          "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
+          "url": "https://www.cls.cn/detail/2432887",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4,
+            2,
+            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 15时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时26分]"
         },
         {
-          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
-          "url": "https://www.cls.cn/detail/2432754",
-          "source": "财联社热门",
+          "title": "空中客车董事会批准，未来三年回购50亿欧元股票。 该公司计划2029年实现120亿-130亿欧元调整后EBIT。 空客ADR涨3.4%，刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/3137678",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "空客：董事会批准在三年内回购50亿欧元股份。",
+          "url": "https://flash.jin10.com/detail/20260721234341221800",
+          "source": "金十数据",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时47分]"
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
+          "title": "分析人士：ETF资金大举加仓叠加上市公司积极回购，A股上行行情支撑坚实",
+          "url": "https://wallstreetcn.com/livenews/3137786",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时55分]"
-        },
-        {
-          "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
-          "url": "https://www.zhihu.com/question/2062838747457131203",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
-          "url": "https://www.zhihu.com/question/2062858490343953648",
-          "source": "知乎",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 15时32分]"
-        },
-        {
-          "title": "A股收盘：创业板指低开低走跌超3%",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "解读邹市明冉莹颖创业经历",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E9%82%B9%E5%B8%82%E6%98%8E%E5%86%89%E8%8E%B9%E9%A2%96%E5%88%9B%E4%B8%9A%E7%BB%8F%E5%8E%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "07时47分"
         },
         {
-          "title": "A股收盘：创业板指低开低走跌超3%，贵金属、电力股逆势大涨",
-          "url": "https://wallstreetcn.com/livenews/3138040",
+          "title": "又有11家沪市公司新增回购计划，回购金额上限为13.06亿元",
+          "url": "https://wallstreetcn.com/livenews/3138125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "18时16分"
         },
         {
-          "title": "7月22日午间收评：科创50指数半日涨1.54%，黄金、半导体板块走强",
-          "url": "https://wallstreetcn.com/livenews/3137940",
+          "title": "东星医疗：拟以2000万元-4000万元回购股份，回购股份的价格不超过人民币41.70元/股。",
+          "url": "https://wallstreetcn.com/livenews/3138117",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "安孚科技：拟以1亿元-1.5亿元回购股份，本次拟回购股份的价格为不超过76.64元/股。",
+          "url": "https://wallstreetcn.com/livenews/3138115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时16分"
+        },
+        {
+          "title": "Prosus于7月13-17日期间按均价39.7892欧元回购股票206.5240万股，合计将近0.822亿欧元（折合超0.939亿美元）。 同期，Naspers按均价866.1325南非兰特回购68.6210万股，合计超5.943亿兰特（折合超0.362亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3137662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时58分"
+          "time_info": "00时15分"
         }
       ]
     },
@@ -1819,11 +2113,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时16分]"
         },
         {
           "title": "美伊冲突叠加红海风险，国际油价升至五周高点",
@@ -1831,11 +2126,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 18时16分]"
         },
         {
           "title": "上海：维护航运指数期货市场平稳运行，扎实做好标的指数风险防控",
@@ -1844,7 +2140,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1866,7 +2162,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1880,6 +2176,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "董事长带头，华工科技高管组团增持！两高管跌停价“抄底”买入近5万股",
+          "url": "https://www.cls.cn/detail/2432986",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时26分]"
+        },
+        {
+          "title": "两高管跌停价“抄底”！1100亿CPO龙头发布增持公告|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2432995",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时10分 ~ 07时47分]"
+        },
+        {
+          "title": "德明利跌停爆仓传闻",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E6%98%8E%E5%88%A9%E8%B7%8C%E5%81%9C%E7%88%86%E4%BB%93%E4%BC%A0%E9%97%BB&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 07时47分]"
+        },
+        {
+          "title": "今日涨跌停股分析：48只涨停股",
+          "url": "https://www.toutiao.com/trending/7664860892303818761/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
+        },
+        {
+          "title": "20cm股成香饽饽！涨停数创半年新高，双创指数久违长阳，ETF资金动向追踪",
+          "url": "https://www.cls.cn/detail/2432683",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "中兴通讯A股涨停，成交额130亿元；中兴通讯H股涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3137935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时58分"
         }
       ]
     },
@@ -1938,140 +2313,72 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
       ]
     },
     {
-      "keyword_group": "涨停 跌停",
+      "keyword_group": "存储 半导体",
       "match_count": 5,
       "titles": [
         {
-          "title": "董事长带头，华工科技高管组团增持！两高管跌停价“抄底”买入近5万股",
-          "url": "https://www.cls.cn/detail/2432986",
+          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
+          "url": "https://www.cls.cn/detail/2433303",
           "source": "财联社热门",
           "ranks": [
-            8,
-            6,
-            5,
-            3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 09时26分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 15时32分]"
         },
         {
-          "title": "两高管跌停价“抄底”！1100亿CPO龙头发布增持公告|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2432995",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时10分 ~ 07时47分]"
-        },
-        {
-          "title": "德明利跌停爆仓传闻",
-          "url": "https://s.weibo.com/weibo?q=%E5%BE%B7%E6%98%8E%E5%88%A9%E8%B7%8C%E5%81%9C%E7%88%86%E4%BB%93%E4%BC%A0%E9%97%BB&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 07时47分]"
-        },
-        {
-          "title": "20cm股成香饽饽！涨停数创半年新高，双创指数久违长阳，ETF资金动向追踪",
-          "url": "https://www.cls.cn/detail/2432683",
+          "title": "韩股反弹之路开启？连续第二日涨至熔断，“存储双雄”爆发",
+          "url": "https://www.cls.cn/detail/2433410",
           "source": "财联社热门",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
-          "title": "中兴通讯A股涨停，成交额130亿元；中兴通讯H股涨超9%。",
-          "url": "https://wallstreetcn.com/livenews/3137935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "A股又一波增持回购来了！近20家公司今日公布最新计划",
-          "url": "https://www.cls.cn/detail/2432887",
+          "title": "【焦点复盘】双创指数全天缩量调整，存储产业链再度承压，避险资金逆势抱团资源股",
+          "url": "https://www.cls.cn/detail/2434004",
           "source": "财联社热门",
           "ranks": [
-            2,
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时15分 ~ 09时26分]"
-        },
-        {
-          "title": "空中客车董事会批准，未来三年回购50亿欧元股票。 该公司计划2029年实现120亿-130亿欧元调整后EBIT。 空客ADR涨3.4%，刷新日高。",
-          "url": "https://wallstreetcn.com/livenews/3137678",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "空客：董事会批准在三年内回购50亿欧元股份。",
-          "url": "https://flash.jin10.com/detail/20260721234341221800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "分析人士：ETF资金大举加仓叠加上市公司积极回购，A股上行行情支撑坚实",
-          "url": "https://wallstreetcn.com/livenews/3137786",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
+          "appearance_count": 2,
+          "time_info": "[18时15分 ~ 18时16分]"
         },
         {
-          "title": "Prosus于7月13-17日期间按均价39.7892欧元回购股票206.5240万股，合计将近0.822亿欧元（折合超0.939亿美元）。 同期，Naspers按均价866.1325南非兰特回购68.6210万股，合计超5.943亿兰特（折合超0.362亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3137662",
+          "title": "券商晨会精华：半导体设备全球景气周期持续确认",
+          "url": "https://www.cls.cn/detail/2433288",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
+          "title": "中韩半导体ETF华泰柏瑞连续2日放量成交",
+          "url": "https://wallstreetcn.com/livenews/3138045",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "15时32分"
         }
       ]
     },
@@ -2089,8 +2396,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时47分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时47分 ~ 18时16分]"
         },
         {
           "title": "AI算力需求驱动+产品涨价，半导体产业链上半年业绩大面积预增",
@@ -2125,57 +2432,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股存储概念全线爆发！华尔街喊话坚守AI硬件股：Kimi K3将催生新需求",
-          "url": "https://www.cls.cn/detail/2433303",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 15时32分]"
-        },
-        {
-          "title": "韩股反弹之路开启？连续第二日涨至熔断，“存储双雄”爆发",
-          "url": "https://www.cls.cn/detail/2433410",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "券商晨会精华：半导体设备全球景气周期持续确认",
-          "url": "https://www.cls.cn/detail/2433288",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "中韩半导体ETF华泰柏瑞连续2日放量成交",
-          "url": "https://wallstreetcn.com/livenews/3138045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
         }
       ]
     },
@@ -2278,7 +2534,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -2379,8 +2635,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 15时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时26分 ~ 18时16分]"
         }
       ]
     },
