@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-22T07:47:50.824353+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-07-22T09:26:47.781629+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 55,
       "titles": [
         {
           "title": "因人事任命非特朗普属意，美国考虑退出联合国难民署",
@@ -19,6 +19,18 @@
           "time_info": "[00时15分 ~ 07时47分]"
         },
         {
+          "title": "特朗普：可能很快打击伊朗“镐山”核设施",
+          "url": "https://news.ifeng.com/c/8ux7TemK3px",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时26分]"
+        },
+        {
           "title": "特朗普放话将轰炸伊朗“镐山” 认为可能存放离心机",
           "url": "https://flash.jin10.com/detail/20260722015056462800",
           "source": "金十数据",
@@ -28,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        },
+        {
+          "title": "美媒：特朗普批准与沙特达成30年核协议",
+          "url": "https://flash.jin10.com/detail/20260722091801768800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "如何看待世界杯决赛之后，西班牙队在官方的庆祝照片上把特朗普给裁剪掉了？",
@@ -43,6 +66,18 @@
           "time_info": "[00时15分 ~ 06时45分]"
         },
         {
+          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
+          "url": "https://www.cls.cn/detail/2433190",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时54分 ~ 09时26分]"
+        },
+        {
           "title": "特朗普承认伊朗在约旦“钻了空子”",
           "url": "https://flash.jin10.com/detail/20260721234954823800",
           "source": "金十数据",
@@ -52,17 +87,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "特朗普：可能很快打击伊朗“镐山”核设施",
-          "url": "https://news.ifeng.com/c/8ux7TemK3px",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
         },
         {
           "title": "金十提示：美国总统特朗普与黎巴嫩总统白宫会晤的媒体公开部分结束。",
@@ -82,7 +106,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -93,9 +117,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "伊朗武装部队回应特朗普袭击核设施言论",
+          "url": "https://wallstreetcn.com/livenews/3137835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "因特朗普威胁征收关税，加美大桥通车庆祝仪式取消",
@@ -104,7 +139,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -118,18 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
-        },
-        {
-          "title": "特朗普点名伊朗镐山地下核设施：将很快发动猛烈打击",
-          "url": "https://www.cls.cn/detail/2433190",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时54分 ~ 07时47分]"
         },
         {
           "title": "美国联邦通信委员会：特朗普政府考虑禁止进口军用级无人机。",
@@ -218,6 +241,18 @@
           "time_info": "[06时45分 ~ 07时47分]"
         },
         {
+          "title": "特朗普称将打击伊朗核设施",
+          "url": "https://www.toutiao.com/trending/7665119295965236786/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时26分]"
+        },
+        {
           "title": "美国总统特朗普敦促众议院共和党支持预算决议，要求推动落实《拯救美国法案》。",
           "url": "https://flash.jin10.com/detail/20260722045229730800",
           "source": "金十数据",
@@ -254,6 +289,17 @@
           "time_info": "[05时55分 ~ 06时45分]"
         },
         {
+          "title": "胡塞武装封锁红海？特朗普回应",
+          "url": "https://news.ifeng.com/c/8ux6FAGKMcr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "特朗普警告胡塞武装：若封锁红海 美国将“采取行动”",
           "url": "https://flash.jin10.com/detail/20260722013554217800",
           "source": "金十数据",
@@ -282,9 +328,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普宣布两年后对仿制药征收100%关税",
+          "url": "https://news.ifeng.com/c/8uxX85JoJZj",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普批准与沙特达成的具有里程碑意义的核协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3137830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "美国总统特朗普：将非常猛烈地打击镐山地区。",
@@ -304,7 +372,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -318,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "特朗普称将打击伊朗地下核设施 美官员暗示将很快出台新关税 | 环球市场",
+          "url": "https://www.cls.cn/detail/2433256",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "美国总统特朗普：我们将很快打击镐山地区。",
@@ -337,7 +416,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -359,9 +438,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "消息人士透露，特朗普政府将在未来几天向国会提交一份与沙特阿拉伯达成的核能协议，该协议缺乏相关保障措施。",
+          "url": "https://flash.jin10.com/detail/20260722091018987800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "美国总统特朗普：允许美国所有的航空公司直飞黎巴嫩。",
@@ -381,9 +471,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普宣布2年后对仿制药征100%关税",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%832%E5%B9%B4%E5%90%8E%E5%AF%B9%E4%BB%BF%E5%88%B6%E8%8D%AF%E5%BE%81100%25%E5%85%B3%E7%A8%8E",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "美国总统特朗普：已指示政府允许所有美国航空公司开通飞往黎巴嫩的直飞航班。",
@@ -430,17 +531,6 @@
           "time_info": "02时10分"
         },
         {
-          "title": "特朗普称将打击伊朗核设施",
-          "url": "https://www.toutiao.com/trending/7665119295965236786/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
           "title": "美国总统特朗普：伊朗可能试图通过霍尔木兹海影响选举。",
           "url": "https://flash.jin10.com/detail/20260721233634804800",
           "source": "金十数据",
@@ -458,7 +548,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -491,7 +581,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -516,12 +606,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "特朗普试图阻止BBC在百亿美元诉讼中发出的传票被驳回",
+          "url": "https://wallstreetcn.com/livenews/3137829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普想让FIFA主席当联合国秘书长",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%AE%A9FIFA%E4%B8%BB%E5%B8%AD%E5%BD%93%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗还有两大杀手锏",
@@ -531,8 +643,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时26分]"
         },
         {
           "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
@@ -695,6 +807,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "美国：完成对伊朗的第11晚打击。 霍尔木兹海峡仍对商船开放通行。",
+          "url": "https://wallstreetcn.com/livenews/3137826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "美国众议院议长约翰逊：必须结束伊朗战争。",
           "url": "https://flash.jin10.com/detail/20260722011628598800",
           "source": "金十数据",
@@ -712,7 +835,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -805,6 +928,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "美军连续第11晚对伊朗发动袭击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%BB%AD%E7%AC%AC11%E6%99%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "科威特借油轮遇袭事件召见伊朗大使。",
           "url": "https://wallstreetcn.com/livenews/3137653",
           "source": "华尔街见闻-快讯",
@@ -851,6 +985,125 @@
       ]
     },
     {
+      "keyword_group": "芯片 光模块",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
+          "url": "https://wallstreetcn.com/articles/3777383",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时47分]"
+        },
+        {
+          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "英特尔与SK海力士未就俄亥俄州芯片园区事宜展开谈判。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3137792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
+          "url": "https://www.cls.cn/detail/2433245",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时26分]"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "据行业官员们透露，SK海力士洽谈收购英特尔位于美国俄亥俄州的芯片园区。 该公司计划五年内在美国生产芯片。（韩国中央日报JoongAng Ilbo）",
+          "url": "https://wallstreetcn.com/livenews/3137777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时47分]"
+        },
+        {
+          "title": "华尔街集体喊多芯片股！大摩：存储股抛售潮带来绝佳上车机会",
+          "url": "https://www.cls.cn/detail/2432678",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 02时10分]"
+        },
+        {
+          "title": "纬创集团：还将在得克萨斯工厂生产英伟达(NVDA.O)的Vera Rubin芯片。",
+          "url": "https://flash.jin10.com/detail/20260722091321837800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "SK海力士：没有收购英特尔俄亥俄州芯片园区的计划",
+          "url": "https://wallstreetcn.com/livenews/3137810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "传SK海力士正洽购英特尔俄亥俄州园区，拟在美生产存储芯片",
+          "url": "https://flash.jin10.com/detail/20260722062701635800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 9,
       "titles": [
@@ -884,9 +1137,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时26分]"
+        },
+        {
+          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
+          "url": "https://www.cls.cn/detail/2433220",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时44分 ~ 09时26分]"
         },
         {
           "title": "美股存储芯片指数初步收涨11.2%，半导体指数涨5.2%。 标普500指数初步收涨0.9%，科技板块涨2.4%，能源板块涨1.1%，电信板块跌0.7%，日用消费品板块跌0.9%。 纳斯达克100指数初步收涨1.9%，成分股中，Nebius集团初步收涨19%，闪迪涨14%，西部数据涨12.5%，希捷科技涨11.2%，英特尔涨8.8%，Adobe跌3.1%，CrowdStrike跌3.7%，Workday跌3.9%，汤森路透跌5%。",
@@ -898,18 +1164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "美股收盘：明星存储股集体飙涨两位数 芯片股反弹费城指数升逾5%",
-          "url": "https://www.cls.cn/detail/2433220",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时44分 ~ 07时47分]"
         },
         {
           "title": "周二（7月21日），美股存储芯片与硬件供应链指数涨11.12%，报213.46点。 成分股闪迪收涨14.27%，西部数据、美光科技、泰瑞达、希捷科技涨12.51%-11.14%紧随其后，应用材料、拉姆研究、Rambus也至少涨4.90%。 美国科技股七巨头（Magnificent 7）指数涨0.12%，报217.46点。 “超大”市值科技股指数涨1.24%，报436.57点。 美股超大规模云服务商（Hyperscalers）跌0.45%，报92.19点。 信息科技指数涨5.98%，报400.79点。 人工智能（AI）赢家指数涨5.99%，报401.39点。 AI软件先驱指数跌1.08%，报108.27点。 北美科技软件股指数ETF跌1.25%，报91.82美元；Global X网络安全ETF跌2.82%，纳斯达克网络安全ETF跌1.32%，ETFMG网络安全ETF跌1.98%",
@@ -960,7 +1214,7 @@
     },
     {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收跌0.7%。 热门中概股里，腾讯跌3.5%，网易跌3.4%，阿里跌2%，拼多多跌1.3%，日月光半导体涨8.7%。",
@@ -1009,6 +1263,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "标普500指数横盘，近半数成分股却已轮流创出新高",
+          "url": "https://flash.jin10.com/detail/20260722090546716800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "美国股市扩大涨幅，道指和标普500指数现涨超1%，纳指现涨1.4%。",
           "url": "https://flash.jin10.com/detail/20260722005619337800",
           "source": "金十数据",
@@ -1055,104 +1320,8 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时47分]"
-        },
-        {
-          "title": "全球科技股反弹！美股盘初走高，存储芯片股普涨，闪迪涨9%，布油重回90美元上方，现货白银涨4%",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "英特尔与SK海力士未就俄亥俄州芯片园区事宜展开谈判。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3137792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
-          "url": "https://wallstreetcn.com/articles/3777467",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时13分]"
-        },
-        {
-          "title": "据行业官员们透露，SK海力士洽谈收购英特尔位于美国俄亥俄州的芯片园区。 该公司计划五年内在美国生产芯片。（韩国中央日报JoongAng Ilbo）",
-          "url": "https://wallstreetcn.com/livenews/3137777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时47分]"
-        },
-        {
-          "title": "华尔街集体喊多芯片股！大摩：存储股抛售潮带来绝佳上车机会",
-          "url": "https://www.cls.cn/detail/2432678",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 02时10分]"
-        },
-        {
-          "title": "【早报】美股存储芯片强势反攻，多股大涨超10%；油价、黄金同步走强；A股又一批增持回购潮来了",
-          "url": "https://www.cls.cn/detail/2433245",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "传SK海力士正洽购英特尔俄亥俄州园区，拟在美生产存储芯片",
-          "url": "https://flash.jin10.com/detail/20260722062701635800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "增长 亮眼",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "淡水河谷二季度铁矿石产量8426万吨，分析师预期8384万吨。 二季度铁矿石销售6995万吨，分析师预期6954万吨。 二季度镍产量4.2万吨，同比增长4.2%。 6月份后期，Oman Pellet多个工厂的生产活动局部恢复。",
@@ -1173,9 +1342,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "上半年广州新签约招商项目预计投资总额超6700亿元 同比增长超50%",
+          "url": "https://wallstreetcn.com/livenews/3137831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
           "title": "空客CEO：预计资本开支将温和增长。",
@@ -1211,6 +1391,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "日本6月份对中国出口同比增长17.6%，对美国出口增长13%，对欧盟出口增长20.3%。",
+          "url": "https://wallstreetcn.com/livenews/3137804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
           "title": "空客设定盈利增长目标，计划通过股票回购提振股价",
           "url": "https://wallstreetcn.com/livenews/3137678",
           "source": "华尔街见闻-快讯",
@@ -1224,6 +1415,70 @@
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
+          "url": "https://wallstreetcn.com/articles/3777521",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时26分]"
+        },
+        {
+          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
+          "url": "https://www.cls.cn/detail/2432754",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时15分 ~ 07时47分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
+          "url": "https://www.cls.cn/detail/2432689",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时15分 ~ 05时55分]"
+        },
+        {
+          "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
+          "url": "https://www.zhihu.com/question/2062838747457131203",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 04时13分]"
+        },
+        {
+          "title": "Kimi 创始人杨植麟回国创业引热议，怎样看待他的选择？",
+          "url": "https://www.zhihu.com/question/2062858490343953648",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "回购",
       "match_count": 5,
       "titles": [
@@ -1233,11 +1488,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时26分]"
         },
         {
           "title": "空中客车董事会批准，未来三年回购50亿欧元股票。 该公司计划2029年实现120亿-130亿欧元调整后EBIT。 空客ADR涨3.4%，刷新日高。",
@@ -1268,7 +1524,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -1286,54 +1542,52 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
+      "keyword_group": "日经 韩国股市",
       "match_count": 4,
       "titles": [
         {
-          "title": "【焦点复盘】科创50涨超10%创历史第三单日涨幅，大批科技人气股日内上演“地天板”",
-          "url": "https://www.cls.cn/detail/2432754",
-          "source": "财联社热门",
+          "title": "日经225指数日内涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3137827",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            5
+            10
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
-          "title": "绝地大反转！科创50狂涨超10%，芯片半导体集体爆发、存储“一哥”涨停，恒科指涨超1%，智谱飙涨超35%",
-          "url": "https://wallstreetcn.com/articles/3777521",
-          "source": "华尔街见闻",
+          "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
+          "url": "https://flash.jin10.com/detail/20260722064209185800",
+          "source": "金十数据",
           "ranks": [
-            5
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时47分]"
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
-          "title": "【每日收评】创业板指探底回升涨超7%，半导体芯片、算力硬件等科技赛道卷土重来",
-          "url": "https://www.cls.cn/detail/2432689",
-          "source": "财联社热门",
+          "title": "日经225指数日内涨幅扩大至1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3137812",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8
+            20
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时15分 ~ 05时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         },
         {
-          "title": "7 月 21 日科创 50 指数大涨 10.73%，创业板指涨超 7%，如何看待当下 A 股市场行情？",
-          "url": "https://www.zhihu.com/question/2062838747457131203",
-          "source": "知乎",
+          "title": "韩国首尔综指盘初上涨5%，日经225指数涨0.3%。 三星电子涨5%，SK海力士涨7%。",
+          "url": "https://wallstreetcn.com/livenews/3137808",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            24
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 04时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -1349,11 +1603,12 @@
             8,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时26分]"
         },
         {
           "title": "两高管跌停价“抄底”！1100亿CPO龙头发布增持公告|盘后公告集锦",
@@ -1442,17 +1697,6 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "阿根廷3次夺冠争议复盘",
-          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%AC%A1%E5%A4%BA%E5%86%A0%E4%BA%89%E8%AE%AE%E5%A4%8D%E7%9B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时47分]"
-        },
-        {
           "title": "世界杯总决赛赛后复盘",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E6%80%BB%E5%86%B3%E8%B5%9B%E8%B5%9B%E5%90%8E%E5%A4%8D%E7%9B%98",
           "source": "bilibili 热搜",
@@ -1462,7 +1706,19 @@
             14,
             29,
             19,
-            24
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时26分]"
+        },
+        {
+          "title": "阿根廷3次夺冠争议复盘",
+          "url": "https://search.bilibili.com/all?keyword=%E9%98%BF%E6%A0%B9%E5%BB%B73%E6%AC%A1%E5%A4%BA%E5%86%A0%E4%BA%89%E8%AE%AE%E5%A4%8D%E7%9B%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -1545,11 +1801,12 @@
           "url": "https://www.zhihu.com/question/2062885893309047731",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时26分]"
         }
       ]
     },
@@ -1578,24 +1835,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据日经新闻：英伟达与纬创（Wistron）将在美国得克萨斯州生产Blackwell AI服务器。",
-          "url": "https://flash.jin10.com/detail/20260722064209185800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
@@ -1603,8 +1843,19 @@
     },
     {
       "keyword_group": "实体清单 制裁",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "荷兰宣布制裁布，直指以色列非法定居点",
+          "url": "https://news.ifeng.com/c/8uxAfXdqQK8",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
         {
           "title": "荷兰宣布对以色列非法定居点实施贸易制裁",
           "url": "https://wallstreetcn.com/livenews/3137711",
@@ -1620,7 +1871,7 @@
     },
     {
       "keyword_group": "跌破 拉升",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "昨日融资余额跌破2.7万亿，当下杠杆水平如何了？",
@@ -1631,14 +1882,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时26分]"
+        },
+        {
+          "title": "日元跌破 1 美元兑 163 日元关口，创下近 40 年来新低，日本央行已加息至 1%，政府最新政策有何意义？",
+          "url": "https://www.zhihu.com/question/2063034932763669204",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
     {
       "keyword_group": "利好 利空",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "3亿上班族迎利好",
@@ -1647,11 +1909,40 @@
           "ranks": [
             6,
             7,
-            12
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时15分 ~ 07时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时15分 ~ 09时26分]"
+        },
+        {
+          "title": "A股再次迎来批量利好",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E5%86%8D%E6%AC%A1%E8%BF%8E%E6%9D%A5%E6%89%B9%E9%87%8F%E5%88%A9%E5%A5%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三星电子加码机器人业务，韩国机器人概念股集体大涨",
+          "url": "https://flash.jin10.com/detail/20260722090124335800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     }
