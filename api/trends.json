@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-07-23T02:02:10.795291+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2026-07-23T04:06:57.604343+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 12,
+      "match_count": 24,
       "titles": [
         {
-          "title": "伊朗议会议长：如果伊朗的安全得不到保障，任何基础设施都不会安全。",
-          "url": "https://wallstreetcn.com/livenews/3138346",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗媒体Fars News：当地消息人士称，伊朗袭击了驻扎在约旦东部的美军阵地。",
+          "url": "https://flash.jin10.com/detail/20260723034639807800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "04时06分"
         },
         {
           "title": "美媒：以色列摩萨德新局长访美协调伊朗核谈判",
@@ -25,9 +25,21 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗议会议长：如果伊朗的安全得不到保障，任何基础设施都不会安全。",
+          "url": "https://wallstreetcn.com/livenews/3138346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时06分]"
         },
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -35,11 +47,12 @@
           "source": "百度热搜",
           "ranks": [
             24,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "伊朗前外长：伊朗有夺取美基地能力，警告乌克兰勿要提供无人机",
@@ -54,15 +67,37 @@
           "time_info": "[00时14分 ~ 02时02分]"
         },
         {
+          "title": "英国政府正在撤回驻伊朗外交人员。（CNN）",
+          "url": "https://wallstreetcn.com/livenews/3138374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
           "title": "以媒：美国拟动用重型轰炸机打击伊朗",
           "url": "https://flash.jin10.com/detail/20260723013624498800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：部分消息人士称，约旦境内也传出数声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260723033237765800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "据AXIOS：知情消息人士称，以色列新摩萨德局长两周前在华盛顿与中央情报局局长就伊朗问题进行了会晤。",
@@ -71,9 +106,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊拉克埃尔比勒传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260723032858790800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们已多次表明，霍尔木兹海峡的局势不会恢复到战前状态。",
@@ -82,7 +128,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -93,9 +139,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "英国撤回驻伊朗外交人员",
+          "url": "https://flash.jin10.com/detail/20260723032500538800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "美军称对伊朗海上封锁已迫使9艘商船改道",
+          "url": "https://wallstreetcn.com/livenews/3138369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：如果我们的安全得不到保障，就不会有任何基础设施是安全的。霍尔木兹海峡的安全取决于美国军队不在该地区存在。",
@@ -104,9 +172,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "据CNN：英国政府正在撤回驻伊朗外交人员。",
+          "url": "https://flash.jin10.com/detail/20260723032349225800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：如果我们所在地区无法出售石油，那么任何人都别想出售石油。",
@@ -115,9 +194,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗最高联合军事指挥部表示，如果美国兑现威胁，伊朗将切断海湾地区全部石油流动，并将该地区的石油、天然气、电力及经济基础设施作为打击目标。（伊朗国家媒体）",
+          "url": "https://wallstreetcn.com/livenews/3138365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "伊朗总统： 伊朗人民不会屈服于威胁，我们始终强调外交的重要性，并主张通过政治途径解决分歧。",
@@ -126,9 +216,53 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国战争部长在国会听证会上接受质询期间，竟没有一个问题涉及这场对伊朗战争的人道影响，尽管各方都清楚，这是一场非法发动的战争。",
+          "url": "https://flash.jin10.com/detail/20260723031816286800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "伊朗革命卫队航空航天部队司令称，如果伊朗的桥梁或发电厂遭到袭击，伊朗将切断美国地区盟友的电力供应。（伊朗塔斯尼姆通讯社Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3138360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "伊朗革命卫队：船只不要使用替代航线进出霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3138359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "伊朗议会议长：如果伊朗不能卖石油，其他国家也别想卖",
+          "url": "https://wallstreetcn.com/livenews/3138348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "伊朗军方消息人士：若美袭击伊桥梁或电站 伊将对等打击",
@@ -145,7 +279,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普承认美方干预中国事务，并称“今时不同往日”",
@@ -155,8 +289,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        },
+        {
+          "title": "美国总统特朗普：美国不需要霍尔木兹海峡。委内瑞拉正与美国合作生产石油。",
+          "url": "https://flash.jin10.com/detail/20260723034521965800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
@@ -166,8 +311,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "国际油价持续拉升！特朗普盯上的伊朗“镐山”有什么奥秘？",
@@ -177,19 +322,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
           "url": "https://m.thepaper.cn/newsDetail_forward_33634011",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 04时06分]"
+        },
+        {
+          "title": "特朗普政府探索联邦水域核电项目",
+          "url": "https://flash.jin10.com/detail/20260723032253567800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "特朗普政府暂停向美国两州拨付10亿美元医疗补助资金",
@@ -206,19 +363,8 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "14 岁少年偷偷纹身纹满双腿，家长索赔 20 万，如何看待青少年纹身现象？纹身有什么危害和风险吗？",
-          "url": "https://www.zhihu.com/question/2062507625783226699",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
         {
           "title": "中东战事压制风险资产 三重瓶颈推动油价持续上行 | 今夜看点",
           "url": "https://www.cls.cn/detail/2434296",
@@ -228,8 +374,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        },
+        {
+          "title": "14 岁少年偷偷纹身纹满双腿，家长索赔 20 万，如何看待青少年纹身现象？纹身有什么危害和风险吗？",
+          "url": "https://www.zhihu.com/question/2062507625783226699",
+          "source": "知乎",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "美伊冲突叠加红海风险，国际油价升至五周高点",
@@ -240,167 +398,37 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
         },
         {
           "title": "光大银行回应“隐藏近200亿坏账”传闻：没有应该披露而没有披露的重大风险事件",
           "url": "https://m.thepaper.cn/newsDetail_forward_33636646",
           "source": "澎湃新闻",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
-          "url": "https://wallstreetcn.com/articles/3777614",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
-        },
-        {
-          "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
-          "url": "https://wallstreetcn.com/articles/3777659",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
-        },
-        {
-          "title": "东山精密光模块被盗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86%E5%85%89%E6%A8%A1%E5%9D%97%E8%A2%AB%E7%9B%97%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
-        },
-        {
-          "title": "东山精密回应光模块被盗窃",
-          "url": "https://www.douyin.com/hot/2581443",
-          "source": "抖音",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
-          "url": "https://www.cls.cn/detail/2434298",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
-        },
-        {
-          "title": "【焦点复盘】双创指数全天缩量调整，存储产业链再度承压，避险资金逆势抱团资源股",
-          "url": "https://www.cls.cn/detail/2434004",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "又一家存储龙头提议回购 股份用于注销减少注册资本",
-          "url": "https://www.cls.cn/detail/2434290",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
-        },
-        {
-          "title": "英伟达涨2.9%，刷新日高，半导体指数目前涨1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3138305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
+            19,
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
-          "url": "https://wallstreetcn.com/articles/3777518",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "time_info": "[02时01分 ~ 04时06分]"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
-          "url": "https://wallstreetcn.com/livenews/3138337",
+          "title": "裕信银行：英日债务风险或终将唤醒外汇市场",
+          "url": "https://wallstreetcn.com/livenews/3138350",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
-          "url": "https://flash.jin10.com/detail/20260722232746995800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "04时06分"
         }
       ]
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "Soitec第一财季营收1.13亿欧元，分析师预期1.035亿欧元。 一季度可比销售增长23%。 预计2027财年二季度营收同比按恒定汇率将增长30%。",
@@ -423,8 +451,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时14分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        },
+        {
+          "title": "据The Information：支付平台Stripe 2025年自由现金流增长52%，达到32亿美元。Stripe在2026年第一季度实现营收20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260723031523511800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "铜业巨头墨西哥集团高管：由于美国经济保持韧性，以及脱碳技术推动需求增长，预计2026年全球铜市场将出现小幅供应短缺。",
@@ -433,26 +472,38 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "南方铜业预计2027年产量持平，随后将恢复增长",
+          "url": "https://wallstreetcn.com/livenews/3138347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         }
       ]
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "周三（7月22日），美联储隔夜逆回购协议（RRP）使用规模为3.76亿美元（交易对手2家），上个交易日报2.75亿美元。",
           "url": "https://wallstreetcn.com/livenews/3138344",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时06分]"
         },
         {
           "title": "分析师：美元在美联储决策日之前有上涨空间",
@@ -467,21 +518,198 @@
           "time_info": "[00时14分 ~ 02时02分]"
         },
         {
+          "title": "相比交易员，经济学家对下周会议结果更有把握。 76位受访经济学家全部预计，美联储将于7月28-29日会议上维持利率在3.5%-3.75%区间不变。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的3.76亿美元。",
           "url": "https://flash.jin10.com/detail/20260723011632329800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美联储：美联储主席沃什将于7月29日美东时间02:30举行联邦公开市场委员会（FOMC）新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3138357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技股力撑美股指反弹，芯片指数大涨，美光市值重回万亿，日元跌破163，金银猛涨",
+          "url": "https://wallstreetcn.com/articles/3777518",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        },
+        {
+          "title": "周三（7月22日）纽约尾盘，ICE美元指数跌0.04%，报101.130点，日内交投区间为101.198-101.020点。 彭博美元指数跌0.01%，报1219.62点，日内交投区间为1220.20-1218.35点。",
+          "url": "https://wallstreetcn.com/livenews/3138377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.55%，暂报2174.29点。 MarketVectorTM数字资产100中盘指数跌0.72%，报2491.90点，亚太午盘持续扩大跌幅。 MarketVector数字资产100指数跌0.31%，报13130点。 目前，Solana涨0.95%，狗狗币跌0.22%，XRP持平。 比特币跌0.32%，暂报66188.99美元；以太坊涨1.31%，暂报1947.90美元。",
+          "url": "https://wallstreetcn.com/livenews/3138337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美股三大股指走势分化，纳指转涨，此前一度跌超0.8%，道指涨0.3%；标普500指数跌1.52%。",
+          "url": "https://flash.jin10.com/detail/20260722232746995800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "AI交易热情回落，美股盘初走低，存储芯片、光通信股普跌，SK海力士跌5%，布油涨近3%",
+          "url": "https://wallstreetcn.com/articles/3777614",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        },
+        {
+          "title": "Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀",
+          "url": "https://wallstreetcn.com/articles/3777659",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        },
+        {
+          "title": "东山精密光模块被盗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%B1%B1%E7%B2%BE%E5%AF%86%E5%85%89%E6%A8%A1%E5%9D%97%E8%A2%AB%E7%9B%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        },
+        {
+          "title": "东山精密回应光模块被盗窃",
+          "url": "https://www.douyin.com/hot/2581443",
+          "source": "抖音",
+          "ranks": [
+            10,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股又一波增持回购潮来了，存储龙头拟最高回购2.5亿元",
+          "url": "https://www.cls.cn/detail/2434298",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数全天缩量调整，存储产业链再度承压，避险资金逆势抱团资源股",
+          "url": "https://www.cls.cn/detail/2434004",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "又一家存储龙头提议回购 股份用于注销减少注册资本",
+          "url": "https://www.cls.cn/detail/2434290",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时14分 ~ 04时06分]"
+        },
+        {
+          "title": "英伟达涨2.9%，刷新日高，半导体指数目前涨1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3138305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     },
     {
       "keyword_group": "实体清单 制裁",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "欧盟外交官：欧盟各国大使未能就第21轮对俄制裁方案达成一致。",
@@ -490,9 +718,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "欧盟未就第21轮对俄制裁达成一致",
+          "url": "https://wallstreetcn.com/livenews/3138362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
         },
         {
           "title": "被中方制裁的菲律宾防长又急了",
@@ -543,6 +782,23 @@
       ]
     },
     {
+      "keyword_group": "跌破 拉升",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际黄金、石油、铜、美股、美元再现同步上涨，日元兑美元跌破 163，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2063182962879993810",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "利好 利空",
       "match_count": 1,
       "titles": [
@@ -553,7 +809,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         }
