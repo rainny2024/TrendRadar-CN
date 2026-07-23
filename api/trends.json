@@ -1,128 +1,34 @@
 {
-  "generated_at": "2026-07-24T01:10:00.294895+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-24T02:58:14.904909+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 15,
       "titles": [
         {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
+          "title": "WTI原油日内涨幅达7.5%，报93.38美元/桶；布伦特原油日内涨幅达5.5%，报95.16美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3139029",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
-        },
-        {
-          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
-        },
-        {
-          "title": "在致立法者的信中，特朗普政府敦促国会在交通法案中加入永久夏令时，并优先考虑汽车交通需求而非自行车道建设。",
-          "url": "https://flash.jin10.com/detail/20260724003541392800",
+          "title": "美国中央司令部：自恢复对伊朗实施海上封锁以来的9天内，已重新引导12艘商业船只改变航线，并使1艘船只失去行动能力。",
+          "url": "https://flash.jin10.com/detail/20260724023243593800",
           "source": "金十数据",
           "ranks": [
-            9
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "02时58分"
         },
-        {
-          "title": "美国参议院阻止了限制特朗普对伊战争权力的决议。",
-          "url": "https://flash.jin10.com/detail/20260724003337969800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
-          "url": "https://flash.jin10.com/detail/20260724000958452800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
-          "url": "https://wallstreetcn.com/livenews/3138980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
-          "url": "https://wallstreetcn.com/livenews/3138978",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
-          "url": "https://wallstreetcn.com/livenews/3138976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
-          "url": "https://wallstreetcn.com/livenews/3138972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 9,
-      "titles": [
         {
           "title": "伊朗称袭击美国亚马逊公司在巴林的数据基础设施，这个地方有多重要？将造成哪些影响？",
           "url": "https://www.zhihu.com/question/2063259853338972886",
@@ -131,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时58分]"
         },
         {
           "title": "伊朗最高领袖顾问雷扎伊：美国总统已从“疯子游戏”转向“绝望者游戏”，若伊朗基础设施遭攻击，伊朗将采取更强烈回应。",
@@ -141,7 +47,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         },
@@ -152,9 +58,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "【以军举行紧急局势安全评估会议，防长称已为应对伊朗局势做好“全方位准备”】当地时间23日，据以色列方面消息，以色列国防部长卡茨当天表示，鉴于当前与伊朗的紧张局势不断升级，以色列方面目前已为“所有可能发生的情况”做好了准备。 据称，卡茨当天召集以军总参谋长扎米尔及多名军方高级官员，在国防部总部举行了紧急局势安全评估会议。卡茨在会议结束时向伊朗方面发出了严厉警告。他宣称，如果伊朗选择对以色列发动任何形式的袭击，“都将承受来自以方的毁灭性打击”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3139021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "伊朗格什姆岛传出爆炸声",
@@ -163,7 +80,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         },
@@ -174,7 +91,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         },
@@ -185,9 +102,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "布伦特原油一度向上触及96美元/桶，为6月8日以来首次，日内涨5.89%。",
+          "url": "https://flash.jin10.com/detail/20260724015702404800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "据伊朗迈赫尔通讯社：科威特发生爆炸。",
@@ -196,9 +124,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "以色列防长称已为应对伊朗局势做好“全方位准备”",
+          "url": "https://flash.jin10.com/detail/20260724014356277800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "伊朗革命卫队：此前对科威特的阿迪里营地及美军驻地发动了袭击。",
+          "url": "https://flash.jin10.com/detail/20260724014247278800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗格什姆岛传出爆炸声 。",
@@ -207,7 +157,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         },
@@ -218,7 +168,134 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时58分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时58分]"
+        },
+        {
+          "title": "委内瑞拉石油多着呢！特朗普：我们才不需要霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33643805",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时58分]"
+        },
+        {
+          "title": "伊拉克与科威特边境口岸遭伊朗打击，特朗普：若再袭沙特船只，美国将施以“重大军事惩罚”",
+          "url": "https://wallstreetcn.com/articles/3777791",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时57分 ~ 02时58分]"
+        },
+        {
+          "title": "在致立法者的信中，特朗普政府敦促国会在交通法案中加入永久夏令时，并优先考虑汽车交通需求而非自行车道建设。",
+          "url": "https://flash.jin10.com/detail/20260724003541392800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "美国参议院阻止了限制特朗普对伊战争权力的决议。",
+          "url": "https://flash.jin10.com/detail/20260724003337969800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "美国总统特朗普提名的美国消费者金融保护局负责人表示，将对裁减该机构大部分员工的计划“保持开放态度”。",
+          "url": "https://flash.jin10.com/detail/20260724000958452800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "特朗普称正“认真考虑”重启对伊朗的大规模作战",
+          "url": "https://wallstreetcn.com/livenews/3138980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：沙特有望迅速加入（亚伯拉罕）协议，美国总统特朗普已经与沙特讨论这方面的问题。 将设法最终敲定美国与沙特之间的（核能）协议。 将继续与沙特对话。",
+          "url": "https://wallstreetcn.com/livenews/3138978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "报道：特朗普称接近就“大规模袭击伊朗”做决定",
+          "url": "https://wallstreetcn.com/livenews/3138976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普将于下周五在戴维营举办内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3138972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         }
@@ -229,6 +306,18 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
+          "url": "https://www.cls.cn/detail/2435567",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时58分]"
+        },
+        {
           "title": "【焦点复盘】科创50高开低走跌3.78%，两市成交额萎缩4500亿，顺周期资源股持续爆发",
           "url": "https://www.cls.cn/detail/2435218",
           "source": "财联社热门",
@@ -236,30 +325,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
-        },
-        {
-          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
-          "url": "https://wallstreetcn.com/articles/3777740",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
-        },
-        {
-          "title": "7月27日登陆科创板！长鑫科技投资价值怎么看？",
-          "url": "https://www.cls.cn/detail/2435567",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时58分]"
         },
         {
           "title": "长鑫科技：将于7月27日在科创板上市",
@@ -267,6 +334,17 @@
           "source": "百度热搜",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时58分]"
+        },
+        {
+          "title": "A股三大股指震荡收涨，锂矿、电网爆发，科创50跌近4%，半导体产业链齐跌，恒指涨超1%，科网股普涨",
+          "url": "https://wallstreetcn.com/articles/3777740",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -287,7 +365,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
@@ -297,8 +375,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时58分]"
+        },
+        {
+          "title": "花旗包括Andrew Gardiner在内的分析师在一份报告中指出：意法半导体（STMicroelectronics NV）业绩展望显示出终端市场正在建立周期性复苏，且AI/数据中心的增长持续加速。 但相应的，市场预期和股价今年也已大幅上涨。在缺乏进一步上调盈利预期的动力下，该股短期内可能面临压力。",
+          "url": "https://wallstreetcn.com/livenews/3139028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         },
         {
           "title": "家乐福上半年净销售394.3亿欧元，分析师预期398.8亿欧元。 二季度同店（LFL）销售（剔除燃料、日历因素）增长1.9%。 二季度销售（含增值税VAT）为227.1亿欧元，分析师预期230.1亿欧元。 CFO Matthieu Malige称并没有洽谈资产出售问题。",
@@ -307,16 +396,66 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         }
       ]
     },
     {
-      "keyword_group": "风险",
-      "match_count": 1,
+      "keyword_group": "芯片 光模块",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时58分]"
+        },
+        {
+          "title": "AMD的CEO苏姿丰：新款Venice CPU扩大（本公司产品）在行业的领先地位。 全新EPYC架构带来了史上最大幅度的代际性能飞跃。 新款服务器CPU遥遥领先那些基于Arm的芯片。 新款EPYC性能比英伟达CPU高出20%。 Venice全面投产，客户需求强劲。 那些基于Venice的系统将在四季度出现。",
+          "url": "https://wallstreetcn.com/livenews/3139013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
+        {
+          "title": "Cerebras股价现涨超10%，AMD与其合作开发集成芯片的人工智能推理平台。",
+          "url": "https://flash.jin10.com/detail/20260724014930306800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国际海事组织负责人：对红海报告的事件以及此前霍尔木兹海峡地区发生的事件可能造成的污染风险表示严重关切。",
+          "url": "https://flash.jin10.com/detail/20260724020825772800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        },
         {
           "title": "美国国务院提醒中东地区美国公民，因局势可能升级，相关国家空域或面临关闭风险。",
           "url": "https://flash.jin10.com/detail/20260724001200312800",
@@ -324,7 +463,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
         }
@@ -341,26 +480,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
         }
       ]
     },
@@ -376,8 +498,59 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时09分 ~ 01时10分]"
+          "appearance_count": 4,
+          "time_info": "[01时09分 ~ 02时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（7月23日），美联储隔夜逆回购协议（RRP）使用规模为9.04亿美元（交易对手6家），上个交易日报3.76亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3139015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国财政部：对古巴实施新制裁。",
+          "url": "https://flash.jin10.com/detail/20260724020656946800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Alphabet百年债首次跌破面值九成，超大规模云服务商债券信用利差走阔",
+          "url": "https://wallstreetcn.com/livenews/3139012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时58分"
         }
       ]
     }
