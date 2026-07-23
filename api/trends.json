@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T16:11:01.837696+08:00",
-  "total_titles_processed": 1165,
+  "generated_at": "2026-07-23T19:00:33.784151+08:00",
+  "total_titles_processed": 1330,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "伊朗袭击亚马逊公司设施",
@@ -39,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -61,9 +61,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
+        },
+        {
+          "title": "伊朗军方：将继续打击美军目标直至美方罢手",
+          "url": "https://wallstreetcn.com/livenews/3138823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
+          "title": "伊通社：伊朗总统与伊拉克总理举行双边会晤。 伊朗和伊拉克承诺深化战略关系。 伊朗和伊拉克讨论新的合作领域。",
+          "url": "https://wallstreetcn.com/livenews/3138822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         },
         {
           "title": "国际原油价格大幅上涨 伊朗放话或切断海湾能源流动 | 环球市场",
@@ -326,6 +348,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "伊拉克总理扎伊迪与伊朗总统佩泽希齐扬会晤。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3138813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
           "title": "伊朗最高联合军事指挥部表示，如果美国兑现威胁，伊朗将切断海湾地区全部石油流动，并将该地区的石油、天然气、电力及经济基础设施作为打击目标。（伊朗国家媒体）",
           "url": "https://wallstreetcn.com/livenews/3138365",
           "source": "华尔街见闻-快讯",
@@ -376,7 +409,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -458,13 +491,24 @@
           "time_info": "13时16分"
         },
         {
+          "title": "据伊通社（IRNA）：伊朗总统与伊拉克总理举行双边会议，双方讨论新的合作领域，并承诺深化战略关系。",
+          "url": "https://flash.jin10.com/detail/20260723183613087800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
           "title": "WTI原油日内涨幅达3.0%，报89.54美元/桶；布伦特原油日内涨幅达2.5%，报92.44美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3138695",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -549,18 +593,19 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "谷歌Q2自由现金流首次转负，上调全年资本开支至最高2050亿美元，云业务爆发82%增长｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3777718",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 16时11分]"
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 19时00分]"
         },
         {
           "title": "从“靠天发电”到可控发电：光伏告别规模扩张后 AI与光储融合构筑新增长底座",
@@ -661,7 +706,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -727,7 +772,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -765,13 +810,24 @@
           "time_info": "13时16分"
         },
         {
+          "title": "霍尼韦尔第二季度销售额97.2亿美元，第二季度调整后每股收益4.52美元。 霍尼韦尔预计2026年全年销售额198亿至200亿美元，此前预期199亿至202亿美元。 霍尼韦尔预计2026年有机销售额增长3%至4%，此前预期2%至3%。 霍尼韦尔预计2026年自由现金流约20亿美元，此前预期约20亿美元。 霍尼韦尔美股盘前涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3138796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
           "title": "杭州：上半年全市生产总值同比增长5.3%",
           "url": "https://wallstreetcn.com/livenews/3138692",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -793,7 +849,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -881,6 +937,18 @@
           "time_info": "[00时14分 ~ 07时55分]"
         },
         {
+          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
+          "url": "https://wallstreetcn.com/articles/3777724",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时46分 ~ 19时00分]"
+        },
+        {
           "title": "中国“芯片刻刀”终于出鞘",
           "url": "https://www.toutiao.com/trending/7664586420367376438/",
           "source": "今日头条",
@@ -925,18 +993,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
-        },
-        {
-          "title": "特斯拉电话会：马斯克称正进行“二战以来美国最快的工业规模扩张”，获美光存储芯片“超级配额”",
-          "url": "https://wallstreetcn.com/articles/3777724",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 16时11分]"
         },
         {
           "title": "东山精密光模块被盗",
@@ -1079,6 +1135,18 @@
           "time_info": "[00时14分 ~ 07时55分]"
         },
         {
+          "title": "特朗普：我们与伊朗只是小规模冲突",
+          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 19时00分]"
+        },
+        {
           "title": "特朗普威胁：若伊朗袭击霍尔木兹海峡船只 美方将轰炸其桥梁和发电厂",
           "url": "https://www.cls.cn/detail/2434427",
           "source": "财联社热门",
@@ -1104,18 +1172,6 @@
           "time_info": "[09时46分 ~ 16时11分]"
         },
         {
-          "title": "特朗普：我们与伊朗只是小规模冲突",
-          "url": "https://news.ifeng.com/c/8uzZogT1UTe",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 16时11分]"
-        },
-        {
           "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
           "url": "https://news.ifeng.com/c/8uyvegEdrQo",
           "source": "凤凰网",
@@ -1126,6 +1182,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时54分 ~ 09时46分]"
+        },
+        {
+          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
+          "url": "https://wallstreetcn.com/articles/3777708",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 19时00分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普关税或将“换壳”：覆盖60国，税率10%至12.5%",
@@ -1164,18 +1233,6 @@
           "time_info": "[07时54分 ~ 13时16分]"
         },
         {
-          "title": "特朗普放话美国不需要霍尔木兹、伊朗袭一船就炸一桥或电厂，伊警告报复美利益设施、“谁都别想卖油”",
-          "url": "https://wallstreetcn.com/articles/3777708",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时15分 ~ 16时11分]"
-        },
-        {
           "title": "特朗普：伊朗想会谈但美国“没兴趣”，“很快”重击镐山核设施，警告胡塞武装勿封红海",
           "url": "https://wallstreetcn.com/articles/3777603",
           "source": "华尔街见闻",
@@ -1198,6 +1255,18 @@
           "time_info": "[00时14分 ~ 04时06分]"
         },
         {
+          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
+          "url": "https://www.zhihu.com/question/2062856603762742765",
+          "source": "知乎",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 19时00分]"
+        },
+        {
           "title": "美媒：美国向中东增派兵力，为特朗普扩大对伊战事提供更多选项",
           "url": "https://flash.jin10.com/detail/20260723061154517800",
           "source": "金十数据",
@@ -1208,17 +1277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时55分]"
-        },
-        {
-          "title": "伊朗袭击已致近 100 名美军受伤，特朗普扬言强硬报复，美伊会爆发全面战争吗？中东局势将走向何方？",
-          "url": "https://www.zhihu.com/question/2062856603762742765",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
         },
         {
           "title": "特朗普政府探索联邦水域核电项目",
@@ -1369,8 +1427,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时01分 ~ 16时11分]"
+          "appearance_count": 15,
+          "time_info": "[02时01分 ~ 19时00分]"
         },
         {
           "title": "中东战事压制风险资产 三重瓶颈推动油价持续上行 | 今夜看点",
@@ -1400,6 +1458,18 @@
           "time_info": "[00时14分 ~ 07时55分]"
         },
         {
+          "title": "美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归",
+          "url": "https://wallstreetcn.com/articles/3777696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时56分 ~ 19时00分]"
+        },
+        {
           "title": "14 岁少年偷偷纹身纹满双腿，家长索赔 20 万，如何看待青少年纹身现象？纹身有什么危害和风险吗？",
           "url": "https://www.zhihu.com/question/2062507625783226699",
           "source": "知乎",
@@ -1425,18 +1495,6 @@
           "time_info": "07时55分"
         },
         {
-          "title": "美伊停火希望落空！布油重回95美元关口，地缘风险溢价全面回归",
-          "url": "https://wallstreetcn.com/articles/3777696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时56分 ~ 07时55分]"
-        },
-        {
           "title": "裕信银行：英日债务风险或终将唤醒外汇市场",
           "url": "https://wallstreetcn.com/livenews/3138350",
           "source": "华尔街见闻-快讯",
@@ -1446,6 +1504,172 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "欧盟外交官：欧盟各国大使未能就第21轮对俄制裁方案达成一致。",
+          "url": "https://flash.jin10.com/detail/20260723014832149800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "英国金融时报：根据欧盟各国即将达成的一项针对莫斯科的新制裁方案，希腊航运公司Dynagas将获准继续运输俄罗斯液化天然气（LNG）。",
+          "url": "https://flash.jin10.com/detail/20260723053833383800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "英国金融时报：随着欧盟即将达成新的制裁协议，俄罗斯天然气运输将继续获得豁免。",
+          "url": "https://flash.jin10.com/detail/20260723053825761800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "欧盟未就第21轮对俄制裁达成一致",
+          "url": "https://wallstreetcn.com/livenews/3138362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时06分"
+        },
+        {
+          "title": "欧盟成员国就第21轮对俄制裁达成一致",
+          "url": "https://wallstreetcn.com/livenews/3138802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
+          "title": "欧盟外交官：欧盟特使已同意在第21轮制裁方案中将油价上限冻结12个月。 欧盟特使同意将俄罗斯液化天然气转运至第三国的豁免期延长一年，并可自动续期。",
+          "url": "https://wallstreetcn.com/livenews/3138694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时11分"
+        },
+        {
+          "title": "被中方制裁的菲律宾防长又急了",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%AD%E6%96%B9%E5%88%B6%E8%A3%81%E7%9A%84%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%98%B2%E9%95%BF%E5%8F%88%E6%80%A5%E4%BA%86%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
+          "url": "https://www.cls.cn/detail/2434518",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时54分 ~ 13时16分]"
+        },
+        {
+          "title": "中国央行逆回购操作当日实现净回笼4220亿元",
+          "url": "https://flash.jin10.com/detail/20260723092225800800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "又一批沪市公司推出回购增持计划",
+          "url": "https://wallstreetcn.com/livenews/3138460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "华安证券：拟以1亿元-2亿元回购股份，回购股份价格不超过人民币14.90元/股。",
+          "url": "https://wallstreetcn.com/livenews/3138811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
+          "title": "中国央行：今日开展2040亿元7天逆回购操作，投标量2040亿元，中标量2040亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20260723092109961800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "江波龙：控股股东提议以4亿元-8亿元回购股份。",
+          "url": "https://wallstreetcn.com/livenews/3138805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
+          "title": "惠威科技：拟以4000万元-8000万元回购股份，回购股份的价格不超过人民币18.50元/股。",
+          "url": "https://wallstreetcn.com/livenews/3138801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         }
       ]
     },
@@ -1524,6 +1748,78 @@
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围",
+          "url": "https://www.cls.cn/detail/2434784",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 19时00分]"
+        },
+        {
+          "title": "创业板指涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3138527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "【焦点复盘】科创50高开低走跌3.78%，两市成交额萎缩4500亿，顺周期资源股持续爆发",
+          "url": "https://www.cls.cn/detail/2435218",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "没想到在西藏创业离不开的是拼多多",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E5%9C%A8%E8%A5%BF%E8%97%8F%E5%88%9B%E4%B8%9A%E7%A6%BB%E4%B8%8D%E5%BC%80%E7%9A%84%E6%98%AF%E6%8B%BC%E5%A4%9A%E5%A4%9A%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围",
+          "url": "https://wallstreetcn.com/livenews/3138596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        },
+        {
+          "title": "7月23日午间收评：科创50半日跌超4%，电网设备板块逆势爆发",
+          "url": "https://wallstreetcn.com/livenews/3138589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 机器人",
       "match_count": 6,
       "titles": [
@@ -1534,7 +1830,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1592,78 +1888,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "欧盟外交官：欧盟各国大使未能就第21轮对俄制裁方案达成一致。",
-          "url": "https://flash.jin10.com/detail/20260723014832149800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "英国金融时报：根据欧盟各国即将达成的一项针对莫斯科的新制裁方案，希腊航运公司Dynagas将获准继续运输俄罗斯液化天然气（LNG）。",
-          "url": "https://flash.jin10.com/detail/20260723053833383800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "英国金融时报：随着欧盟即将达成新的制裁协议，俄罗斯天然气运输将继续获得豁免。",
-          "url": "https://flash.jin10.com/detail/20260723053825761800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "欧盟未就第21轮对俄制裁达成一致",
-          "url": "https://wallstreetcn.com/livenews/3138362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时06分"
-        },
-        {
-          "title": "欧盟外交官：欧盟特使已同意在第21轮制裁方案中将油价上限冻结12个月。 欧盟特使同意将俄罗斯液化天然气转运至第三国的豁免期延长一年，并可自动续期。",
-          "url": "https://wallstreetcn.com/livenews/3138694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时11分"
-        },
-        {
-          "title": "被中方制裁的菲律宾防长又急了",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E4%B8%AD%E6%96%B9%E5%88%B6%E8%A3%81%E7%9A%84%E8%8F%B2%E5%BE%8B%E5%AE%BE%E9%98%B2%E9%95%BF%E5%8F%88%E6%80%A5%E4%BA%86%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
         }
       ]
     },
@@ -1726,7 +1950,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
@@ -1763,11 +1987,12 @@
           "url": "https://www.cls.cn/detail/2434908",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 19时00分]"
         },
         {
           "title": "杰瑞股份竞价涨停，公司子公司签署约99.5亿元燃气轮机发电机组供应合同。",
@@ -1844,108 +2069,8 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围",
-          "url": "https://www.cls.cn/detail/2434784",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
-        },
-        {
-          "title": "创业板指涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3138527",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围",
-          "url": "https://wallstreetcn.com/livenews/3138596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        },
-        {
-          "title": "7月23日午间收评：科创50半日跌超4%，电网设备板块逆势爆发",
-          "url": "https://wallstreetcn.com/livenews/3138589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【早报】美股AI服务器整机龙头，大涨近20%；特斯拉、谷歌披露财报；油价、黄金齐升；A股又一波公司启动增持回购",
-          "url": "https://www.cls.cn/detail/2434518",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时54分 ~ 13时16分]"
-        },
-        {
-          "title": "中国央行逆回购操作当日实现净回笼4220亿元",
-          "url": "https://flash.jin10.com/detail/20260723092225800800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "又一批沪市公司推出回购增持计划",
-          "url": "https://wallstreetcn.com/livenews/3138460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "中国央行：今日开展2040亿元7天逆回购操作，投标量2040亿元，中标量2040亿元，操作利率为1.40%，与此前持平。",
-          "url": "https://flash.jin10.com/detail/20260723092109961800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "涨价 核心材料",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多款高端手机涨价超1000元",
@@ -1960,6 +2085,17 @@
           "time_info": "[09时46分 ~ 13时16分]"
         },
         {
+          "title": "10年涨价3倍 共享单车越骑越贵",
+          "url": "https://www.baidu.com/s?wd=10%E5%B9%B4%E6%B6%A8%E4%BB%B73%E5%80%8D+%E5%85%B1%E4%BA%AB%E5%8D%95%E8%BD%A6%E8%B6%8A%E9%AA%91%E8%B6%8A%E8%B4%B5",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
           "title": "多款高端手机涨价超1000元",
           "url": "https://wallstreetcn.com/livenews/3138294",
           "source": "华尔街见闻-快讯",
@@ -1969,6 +2105,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "复盘",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "复盘Falcons爆冷输100T",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98Falcons%E7%88%86%E5%86%B7%E8%BE%93100T",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 19时00分]"
+        },
+        {
+          "title": "复盘邹市明冉莹颖争议事件",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E9%82%B9%E5%B8%82%E6%98%8E%E5%86%89%E8%8E%B9%E9%A2%96%E4%BA%89%E8%AE%AE%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
         }
       ]
     },
@@ -2018,25 +2183,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "复盘",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "复盘Falcons爆冷输100T",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98Falcons%E7%88%86%E5%86%B7%E8%BE%93100T",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 16时11分]"
+          "appearance_count": 4,
+          "time_info": "[16时10分 ~ 19时00分]"
         }
       ]
     },
