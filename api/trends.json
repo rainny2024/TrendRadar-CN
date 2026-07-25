@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T07:55:16.054464+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-07-25T09:31:31.089825+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "油价破百！胡塞武装开辟“红海战场”，特朗普权衡“更大规模战争”，乌克兰也来“火上浇油”",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
         },
         {
           "title": "美国总统特朗普：委内瑞拉还没有准备好大选，还需要一段时间。",
@@ -93,11 +94,12 @@
           "ranks": [
             3,
             8,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 07时55分]"
+          "appearance_count": 4,
+          "time_info": "[05时55分 ~ 09时31分]"
         },
         {
           "title": "美国总统特朗普：参议院必须在8月夏季休假开始之前批准预算解决方案。",
@@ -110,6 +112,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 04时10分]"
+        },
+        {
+          "title": "特朗普暂停“废除H-1B签证费用命令”的上诉请求被驳回",
+          "url": "https://wallstreetcn.com/livenews/3139683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美国总统特朗普：已做好在伊朗采取更高级别军事行动的准备。",
@@ -165,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "报道：特朗普的电力“智囊”在力推电网重大改革后即将离任",
+          "url": "https://wallstreetcn.com/livenews/3139677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "特朗普就伊朗问题发表讲话 称有很多种退出策略",
@@ -302,29 +326,42 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
           "url": "https://news.ifeng.com/c/8v0y8EzOzBv",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
         },
         {
           "title": "伊朗公布美军近期袭击伤亡数据",
           "url": "https://news.ifeng.com/c/8v0yEqjepG6",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
+        },
+        {
+          "title": "伊朗外长：无需更多调解者，美应改变态度",
+          "url": "https://news.ifeng.com/c/8v2WgNsUn9F",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
@@ -332,11 +369,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            6
+            6,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 07时55分]"
+          "appearance_count": 4,
+          "time_info": "[05时55分 ~ 09时31分]"
         },
         {
           "title": "市场消息：巴基斯坦方面警告伊朗，关闭“曼德海峡”将使局势进一步复杂化。",
@@ -355,11 +393,26 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            7
+            7,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 09时31分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3139664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时55分 ~ 09时31分]"
         },
         {
           "title": "伊朗称袭击美国亚马逊公司一数据中心",
@@ -374,17 +427,16 @@
           "time_info": "[02时11分 ~ 05时55分]"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：美国第五舰队驻巴林基地遭到导弹和无人机袭击。",
-          "url": "https://wallstreetcn.com/livenews/3139664",
-          "source": "华尔街见闻-快讯",
+          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            12,
-            15
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时55分 ~ 07时55分]"
+          "time_info": "[07时54分 ~ 09时31分]"
         },
         {
           "title": "伊朗和阿曼就霍尔木兹海峡问题举行会谈",
@@ -410,17 +462,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时55分 ~ 07时55分]"
-        },
-        {
-          "title": "中东全面战争风险快速积累，美国或陷入对伊朗、胡塞两线作战困局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652648",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
         },
         {
           "title": "据悉巴林和科威特对伊朗境内目标进行了空袭",
@@ -517,18 +558,6 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "美元指数24日上涨",
-          "url": "https://flash.jin10.com/detail/20260725053410066800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 07时55分]"
-        },
-        {
           "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
@@ -536,8 +565,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 09时31分]"
+        },
+        {
+          "title": "美元指数24日上涨",
+          "url": "https://flash.jin10.com/detail/20260725053410066800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时55分 ~ 09时31分]"
         },
         {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
@@ -569,8 +611,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 09时31分]"
         },
         {
           "title": "美股存储芯片指数收跌约7.3%，使得本周累计涨幅收窄至不足6%",
@@ -578,11 +620,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            12
+            12,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时55分]"
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 09时31分]"
         },
         {
           "title": "周五（7月24日），美股行业ETF多数收涨，全球航空业ETF涨2.66%，网络股指数ETF涨0.44%，能源业ETF涨0.4%，科技行业ETF跌1.44%，全球科技股指数ETF跌1.69%，半导体ETF跌3.27%。 2026年迄今，半导体ETF累计涨幅收窄至55.83%，能源业ETF涨35.19%，全球科技股指数ETF、科技行业ETF至多涨26.76%，网络股指数ETF跌3.73%，可选消费ETF跌8.01%。",
@@ -667,11 +710,12 @@
           "ranks": [
             8,
             13,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时55分 ~ 07时55分]"
+          "appearance_count": 4,
+          "time_info": "[05时55分 ~ 09时31分]"
         },
         {
           "title": "道琼斯指数7月24日（周五）收盘上涨235.60点，涨幅0.46%，报51947.25点；<br/>标普500指数7月24日（周五）收盘上涨3.72点，涨幅0.05%，报7412.02点；<br/>纳斯达克综合指数7月24日（周五）收盘下跌161.87点，跌幅0.64%，报24975.82点。",
@@ -722,7 +766,7 @@
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -734,8 +778,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
         },
         {
           "title": "英特尔电话会：产品需求前所未见，存储、逻辑芯片等短缺将持续存在，大幅上调今明两年资本开支",
@@ -751,17 +795,30 @@
           "time_info": "[02时11分 ~ 07时55分]"
         },
         {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时54分 ~ 09时31分]"
+        },
+        {
           "title": "被SK海力士踢出局！“韩国芯片唱空专业户”大摩在韩快混不下去了",
           "url": "https://wallstreetcn.com/articles/3777851",
           "source": "华尔街见闻",
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时55分 ~ 07时55分]"
+          "appearance_count": 5,
+          "time_info": "[05时55分 ~ 09时31分]"
         },
         {
           "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市，可帮助患者恢复视力",
@@ -777,34 +834,44 @@
           "time_info": "[05时55分 ~ 07时55分]"
         },
         {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
+          "title": "SK集团会长崔泰源：下次与英伟达黄仁勋见面时，他可能会要求提供更多内存芯片。 我们宣布的超大型项目现实且可实现。 Anthropic已决定自行打造“算力”。",
+          "url": "https://wallstreetcn.com/livenews/3139676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+          "url": "https://www.cls.cn/detail/2436840",
           "source": "财联社热门",
           "ranks": [
-            8
+            11
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时54分 ~ 07时55分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "SK集团董事长崔泰源：下次见面时，英伟达CEO黄仁勋很可能会要求提供更多存储芯片。",
+          "url": "https://flash.jin10.com/detail/20260725081450030800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "就在下周！存储三雄最新财报即将揭晓 产业再迎“压力测试”？",
-          "url": "https://www.cls.cn/detail/2436364",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
-        },
         {
           "title": "大摩警告：AI存储狂欢接近拐点，内存价格或于四季度见顶",
           "url": "https://wallstreetcn.com/articles/3777849",
@@ -812,11 +879,25 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
+        },
+        {
+          "title": "就在下周！存储三雄最新财报即将揭晓 产业再迎“压力测试”？",
+          "url": "https://www.cls.cn/detail/2436364",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
         },
         {
           "title": "费城半导体指数跌5%，美光科技跌超8%，英特尔跌超7%，高通跌超3%。",
@@ -828,6 +909,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "沪指跌超1%逼近3800点，全市场成交不足2万亿，半导体设备逆势爆发，恒指、恒科指均跌超1%，科网股低迷",
+          "url": "https://wallstreetcn.com/articles/3777840",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美股存储、光通信重挫 闪迪跌超10%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E9%87%8D%E6%8C%AB+%E9%97%AA%E8%BF%AA%E8%B7%8C%E8%B6%8510%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "英特尔与蓝思科技将合作开发基于玻璃的半导体封装技术",
@@ -855,7 +958,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美联储：美国上周银行存款19.466万亿美元，之前一周19.362万亿美元。",
@@ -891,13 +994,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
+        },
+        {
+          "title": "美联储7月维持利率不变的概率62.1%",
+          "url": "https://flash.jin10.com/detail/20260725060223572800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "涨价 核心材料",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "如何看待内存的涨价终于波及到了显卡，50 系显卡逐渐大面积缺货开始暴涨？",
+          "url": "https://www.zhihu.com/question/2063926827077445448",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
+        },
         {
           "title": "OPPO 、 Vivo 拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
           "url": "https://www.zhihu.com/question/2063583824378848408",
@@ -912,18 +1041,43 @@
           "time_info": "[02时11分 ~ 07时55分]"
         },
         {
-          "title": "如何看待内存的涨价终于波及到了显卡，50 系显卡逐渐大面积缺货开始暴涨？",
-          "url": "https://www.zhihu.com/question/2063926827077445448",
-          "source": "知乎",
+          "title": "50系显卡涨价幅度扩大",
+          "url": "https://search.bilibili.com/all?keyword=50%E7%B3%BB%E6%98%BE%E5%8D%A1%E6%B6%A8%E4%BB%B7%E5%B9%85%E5%BA%A6%E6%89%A9%E5%A4%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            14,
-            11,
-            6,
-            5
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "暴涨",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "显卡再次暴涨,等等党气哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356469&amp;topic_name=%E6%98%BE%E5%8D%A1%E5%86%8D%E6%AC%A1%E6%9A%B4%E6%B6%A8%2C%E7%AD%89%E7%AD%89%E5%85%9A%E6%B0%94%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
+        },
+        {
+          "title": "佛得角门将找到新工作，身价暴涨10倍",
+          "url": "https://news.ifeng.com/c/8v2c7641WeC",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
@@ -938,11 +1092,12 @@
           "ranks": [
             3,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
         },
         {
           "title": "Claude：Opus5在网络安全任务上比Opus 4.8更强。但在开发漏洞方面，仍然远远落后于Mythos 5。它的安全措施旨在帮助开发者识别和修复软件漏洞，同时阻止高风险使用。",
@@ -969,8 +1124,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
         },
         {
           "title": "3天3箭15星！多颗“算力卫星”入轨，商业航天迈入规模化商用新周期",
@@ -1027,8 +1182,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
         },
         {
           "title": "A股史上最大股票回购方案",
@@ -1067,23 +1222,6 @@
       ]
     },
     {
-      "keyword_group": "暴涨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "显卡再次暴涨,等等党气哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356469&amp;topic_name=%E6%98%BE%E5%8D%A1%E5%86%8D%E6%AC%A1%E6%9A%B4%E6%B6%A8%2C%E7%AD%89%E7%AD%89%E5%85%9A%E6%B0%94%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "增长 亮眼",
       "match_count": 1,
       "titles": [
@@ -1111,11 +1249,12 @@
           "ranks": [
             9,
             8,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
         }
       ]
     },
@@ -1151,8 +1290,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时11分 ~ 07时55分]"
+          "appearance_count": 8,
+          "time_info": "[02时11分 ~ 09时31分]"
         }
       ]
     }
