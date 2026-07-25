@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-26T00:45:15.144582+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-26T01:50:13.374450+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美媒爆猛料，“两国首次直接袭击伊朗”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "被曝向胡塞武装空运军官和武器，伊朗怎么说？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
@@ -36,9 +36,42 @@
           "ranks": [
             5
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时50分]"
+        },
+        {
+          "title": "伊朗革命卫队发言人：在15天的战斗中，我们摧毁了11架美国战斗机和直升机。",
+          "url": "https://flash.jin10.com/detail/20260726010608879800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "01时50分"
+        },
+        {
+          "title": "伊朗石油部：尽管面临战争和制裁，年度石油收入预算目标已完成逾六成。",
+          "url": "https://flash.jin10.com/detail/20260726005417008800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "伊朗石油部：在战争期间出售了115亿美元的石油，在停火期间出售了65亿美元的石油。",
+          "url": "https://flash.jin10.com/detail/20260726005108655800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
         },
         {
           "title": "伊朗打击亚马逊数据中心，卫星图像公布",
@@ -48,41 +81,44 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "分析｜美国本轮已连续袭击伊朗13晚，以色列为何“隐身”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33650717",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "美国对伊朗实施“冷热交替”策略，当前首要目标可能是......",
           "url": "https://flash.jin10.com/detail/20260725223644816800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时50分]"
         },
         {
           "title": "伊朗官员：镐山设施“目前是空的”",
           "url": "https://flash.jin10.com/detail/20260725214500074800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时50分]"
         },
         {
           "title": "伊朗官员：镐山设施“目前是空的”，袭击一个空置的仓库只有利于制造虚假信息",
@@ -91,16 +127,27 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时50分]"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "据悉阿曼与伊朗谈判取得进展 特朗普周五叫停对伊打击",
+          "url": "https://flash.jin10.com/detail/20260726010043722800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
         {
           "title": "特朗普称准备第四次竞选总统",
           "url": "https://news.ifeng.com/c/8v378W8XMdI",
@@ -109,19 +156,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "特朗普突然宣布：将第四次竞选总统！他头戴印有“特朗普2028”字样的小红帽称：我已经很有经验了，将再次出马",
           "url": "https://wallstreetcn.com/articles/3777927",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
@@ -130,20 +178,21 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时50分]"
         },
         {
           "title": "两位巴西消息人士：巴西拒绝向两名试图质询巴西选举制度的特朗普政府特使签发签证。",
           "url": "https://flash.jin10.com/detail/20260725222304302800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时50分]"
         }
       ]
     },
@@ -159,19 +208,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
           "url": "https://wallstreetcn.com/articles/3777926",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
@@ -181,8 +231,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
@@ -192,8 +242,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         }
       ]
     },
@@ -209,8 +259,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "佛得角门将找到新工作，身价暴涨10倍",
@@ -220,8 +270,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "显卡再次暴涨,等等党气哭",
@@ -231,8 +281,47 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "冉莹颖拳馆项目被疑利益输送，大额项目被指定向内定给亲属体系，这是真的吗？家族式管理模式有哪些风险？",
+          "url": "https://www.zhihu.com/question/2063560590417728116",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
+        },
+        {
+          "title": "搞清楚市场担心什么AI风险：蛋糕大小，还是分配？",
+          "url": "https://wallstreetcn.com/articles/3777925",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "time_info": "[01时49分 ~ 01时50分]"
+        },
+        {
+          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
+          "url": "https://wallstreetcn.com/livenews/3139752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时50分]"
         }
       ]
     },
@@ -248,8 +337,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
@@ -259,36 +348,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "冉莹颖拳馆项目被疑利益输送，大额项目被指定向内定给亲属体系，这是真的吗？家族式管理模式有哪些风险？",
-          "url": "https://www.zhihu.com/question/2063560590417728116",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
-        },
-        {
-          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
-          "url": "https://wallstreetcn.com/livenews/3139752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         }
       ]
     },
@@ -304,19 +365,48 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "《APEC数据促进增长高级别圆桌会主席声明》发布",
           "url": "https://flash.jin10.com/detail/20260726000736034800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
+          "url": "https://wallstreetcn.com/livenews/3139781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时45分 ~ 01时50分]"
+        },
+        {
+          "title": "CEO被自家机器人踹飞",
+          "url": "https://www.baidu.com/s?wd=CEO%E8%A2%AB%E8%87%AA%E5%AE%B6%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B8%B9%E9%A3%9E",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时49分 ~ 01时50分]"
         }
       ]
     },
@@ -332,8 +422,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         },
         {
           "title": "央行将7月末前后开展4次隔夜逆回购 对冲月底资金波动",
@@ -343,25 +433,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日方拆解宇树机器人后坦言：我们短期内赶不上中国",
-          "url": "https://wallstreetcn.com/livenews/3139781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时45分"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         }
       ]
     },
@@ -377,8 +450,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         }
       ]
     },
@@ -391,11 +464,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33658645",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 00时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时44分 ~ 01时50分]"
         }
       ]
     }
