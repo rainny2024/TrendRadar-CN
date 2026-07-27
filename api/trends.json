@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T09:51:49.854185+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-07-27T13:39:37.408248+08:00",
+  "total_titles_processed": 878,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗革命卫队披露美军死亡人数",
@@ -85,6 +85,17 @@
           "time_info": "[00时46分 ~ 06时49分]"
         },
         {
+          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
+          "url": "https://www.cls.cn/detail/2437313",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时39分]"
+        },
+        {
           "title": "伊朗高级消息人士表示，只要美国维持目前的停火状态，伊朗将停止攻击。（路透）",
           "url": "https://wallstreetcn.com/livenews/3139853",
           "source": "华尔街见闻-快讯",
@@ -96,17 +107,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时46分 ~ 06时49分]"
-        },
-        {
-          "title": "【早报】长鑫科技，今日上市；美暂停打击伊朗；油价大跌、黄金反弹；宁德时代启动A股史上最大规模回购",
-          "url": "https://www.cls.cn/detail/2437313",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
         },
         {
           "title": "欧洲天然气价格一度跌8% 受美国暂停对伊朗空袭影响",
@@ -126,7 +126,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -522,13 +522,46 @@
           "time_info": "[00时45分 ~ 00时46分]"
         },
         {
+          "title": "美伊暂停互袭的背后：伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展，美军弹药吃紧",
+          "url": "https://wallstreetcn.com/articles/3777973",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "乌克兰此时打击伊朗商船，图啥？",
+          "url": "https://news.ifeng.com/c/8v5Ckfob4r6",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "伊朗拦截6艘企图通过霍尔木兹海峡的船只",
+          "url": "https://wallstreetcn.com/livenews/3140023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "伊朗警告乌克兰",
           "url": "https://www.cls.cn/detail/2437089",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -544,13 +577,24 @@
           "time_info": "07时52分"
         },
         {
+          "title": "内塔尼亚胡：伊朗政权倒台，战争才会结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33664858",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
           "title": "伊朗暂停对美国报复性行动",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9A%82%E5%81%9C%E5%AF%B9%E7%BE%8E%E5%9B%BD%E6%8A%A5%E5%A4%8D%E6%80%A7%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -558,7 +602,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普下令暂停空袭伊朗",
@@ -632,6 +676,17 @@
           "time_info": "[00时45分 ~ 01时54分]"
         },
         {
+          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
+          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时39分]"
+        },
+        {
           "title": "英国新任首相：若有必要将公开批评特朗普",
           "url": "https://wallstreetcn.com/livenews/3139848",
           "source": "华尔街见闻-快讯",
@@ -645,15 +700,15 @@
           "time_info": "[00时46分 ~ 06时49分]"
         },
         {
-          "title": "特朗普下令不打了，美国的“余粮”确实不多了",
-          "url": "https://news.ifeng.com/c/8v5rhX6ngKt",
-          "source": "凤凰网",
+          "title": "美共和党参议员称特朗普短期内结束伊朗战争可能性低",
+          "url": "https://flash.jin10.com/detail/20260727131016363800",
+          "source": "金十数据",
           "ranks": [
-            1
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "13时39分"
         },
         {
           "title": "美国驻联合国大使Waltz声称：美国总统特朗普在伊朗战争问题对所有选项保持开放态度。 特朗普向“伊朗谈判”提供空间，（双边、相关）对话“正在进行”。 （关于纽约时报称特朗普因弹药供应不足而暂停袭击伊朗）美军在伊朗战争方面拥有所有的（军事）装备。（NBC News）",
@@ -792,7 +847,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "红树林保护获亮眼成绩",
@@ -825,7 +880,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -836,7 +891,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -847,9 +902,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "SK海力士下周放榜：Q2营业利润或突破64万亿韩元创新高，同比增长近600%",
+          "url": "https://wallstreetcn.com/articles/3777948",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 13时39分]"
         },
         {
           "title": "国家统计局：上半年规模以上原材料制造业利润同比增长71.7%",
@@ -858,7 +925,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -869,7 +936,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -880,18 +947,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "SK海力士下周放榜：Q2营业利润或突破64万亿韩元创新高，同比增长近600%",
-          "url": "https://wallstreetcn.com/articles/3777948",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -902,7 +958,123 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665126",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "A股旅游酒店板块盘初活跃，华天酒店封板涨停，君亭酒店、锦江酒店、首旅酒店、金陵饭店、众信旅游跟涨。",
+          "url": "https://flash.jin10.com/detail/20260727093449221800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股固态电池板块盘初拉升，紫建电子20cm涨停，泰和科技涨超10%，圣阳股份封板涨停，武汉蓝电、欣旺达、通鼎互联等均涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260727093353958800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "电池产业链开盘走强，圣阳股份、紫建电子涨停，天宏锂电涨超10%，时代万恒、欣旺达、海科新源涨超6%，百川盈孚数据显示，7月24日VC均价为20万元/吨，近一个多月涨幅超40%；其中7月23日单日跳涨2万元/吨，时隔4年多再破20万元/吨关口。",
+          "url": "https://wallstreetcn.com/livenews/3139942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股旅游及酒店板块午后走高，华天酒店、同庆楼涨停，君亭酒店、锦江酒店、首旅酒店、金陵饭店跟涨。",
+          "url": "https://flash.jin10.com/detail/20260727131315369800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "A股旅游板块再度拉升，同庆楼午后涨停，华天酒店回封涨停，君亭酒店、锦江酒店、首旅酒店、金陵饭店跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3140031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "A股算力租赁概念午后拉升，宁波建工直线涨停，行云科技、亚康股份涨超10%，农尚环境、天亿马、思特奇涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3140029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "A股玻璃纤维板块午后拉升，国际复材涨超15%，宏和科技触及涨停，中国巨石、山东玻纤、中材科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260727130738276800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "A股算力租赁概念午后拉升，宁波建工直线涨停，行云科技、亚康股份涨超10%，农尚环境、天亿马、思特奇涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20260727130548523800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "A股油气板块竞价调整，中曼石油、山东墨龙双双跌停，通源石油、科力股份跌超15%，潜能恒信、泰山石油、中国海油、海油工程、蓝焰控股等低开。",
+          "url": "https://flash.jin10.com/detail/20260727092928042800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -937,8 +1109,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 09时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 13时39分]"
         },
         {
           "title": "日本技术员拆完宇树机器人，当场破防",
@@ -971,7 +1143,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -982,7 +1154,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1000,70 +1172,8 @@
       ]
     },
     {
-      "keyword_group": "上证 深证",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "上证报：“六张网”铺开、资金就位，下半年投资企稳向好可期",
-          "url": "https://wallstreetcn.com/livenews/3139874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时49分 ~ 07时52分]"
-        },
-        {
-          "title": "上证报：8月市场有望轮动修复，行情重心加速向业绩验证集中",
-          "url": "https://wallstreetcn.com/livenews/3139884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时52分"
-        },
-        {
-          "title": "上证指数开盘报3808.90点，跌0.14%。 深证成指开盘报13768.60点，跌0.04%。 创业板指开盘报3482.04点，涨0.03%。 沪深300开盘报4656.03点，涨0.15%。 科创50开盘报1780.72点，跌0.36%。 中证500开盘报7512.40点，跌0.27%。 中证1000开盘报6981.16点，跌0.21%。",
-          "url": "https://wallstreetcn.com/livenews/3139927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "中国上证综指7月27日（周一）开盘下跌5.29点，跌幅：0.14%，报3808.9点；<br/>中国深证成指7月27日（周一）开盘下跌6.07点，跌幅：0.04%，报13768.6点；<br/>中国沪深300指数7月27日（周一）开盘上涨6.84点，涨幅：0.15%，报4656.03点；<br/>中国创业板指数7月27日（周一）开盘上涨1.18点，涨幅：0.03%，报3482.04点；<br/>中国科创50指数7月27日（周一）开盘下跌6.48点，跌幅：0.36%，报1780.72点。",
-          "url": "https://flash.jin10.com/detail/20260727092813648800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "A股开盘，上证指数跌0.14%，深证成指跌0.04%，创业板指涨0.03%；N长鑫上市首日开涨471.59%，报49.5元/股。",
-          "url": "https://flash.jin10.com/detail/20260727092527746800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "回购",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "宁德时代上半年日赚 2.39 亿元，拟 200-400 亿元回购股份注销，创下 A 股历史纪录，如何解读？",
@@ -1097,9 +1207,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "路透调查：72位经济学家中有68位预计印度央行将在8月5日维持回购利率在5.25%不变。",
+          "url": "https://flash.jin10.com/detail/20260727130358527800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "增持回购再加码 沪市公司产业资本持续“跑步入场”",
+          "url": "https://www.cls.cn/detail/2437174",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "本周中国央行公开市场七天期逆回购到期规模10205亿元",
@@ -1108,7 +1240,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1119,15 +1251,88 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
       ]
     },
     {
+      "keyword_group": "上证 深证",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "上证报：“六张网”铺开、资金就位，下半年投资企稳向好可期",
+          "url": "https://wallstreetcn.com/livenews/3139874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时49分 ~ 07时52分]"
+        },
+        {
+          "title": "上证报：8月市场有望轮动修复，行情重心加速向业绩验证集中",
+          "url": "https://wallstreetcn.com/livenews/3139884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时52分"
+        },
+        {
+          "title": "上证指数开盘报3808.90点，跌0.14%。 深证成指开盘报13768.60点，跌0.04%。 创业板指开盘报3482.04点，涨0.03%。 沪深300开盘报4656.03点，涨0.15%。 科创50开盘报1780.72点，跌0.36%。 中证500开盘报7512.40点，跌0.27%。 中证1000开盘报6981.16点，跌0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3139927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "中国上证综指7月27日（周一）开盘下跌5.29点，跌幅：0.14%，报3808.9点；<br/>中国深证成指7月27日（周一）开盘下跌6.07点，跌幅：0.04%，报13768.6点；<br/>中国沪深300指数7月27日（周一）开盘上涨6.84点，涨幅：0.15%，报4656.03点；<br/>中国创业板指数7月27日（周一）开盘上涨1.18点，涨幅：0.03%，报3482.04点；<br/>中国科创50指数7月27日（周一）开盘下跌6.48点，跌幅：0.36%，报1780.72点。",
+          "url": "https://flash.jin10.com/detail/20260727092813648800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "A股开盘，上证指数跌0.14%，深证成指跌0.04%，创业板指涨0.03%；N长鑫上市首日开涨471.59%，报49.5元/股。",
+          "url": "https://flash.jin10.com/detail/20260727092527746800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "上证指数早盘收报3829.39点，涨0.40%。 深证成指早盘收报13969.37点，涨1.41%。 创业板指早盘收报3534.83点，涨1.55%。 沪深300早盘收报4661.02点，涨0.25%。 科创50早盘收报1778.79点，跌0.47%。 中证500早盘收报7622.63点，涨1.19%。 中证1000早盘收报7144.62点，涨2.13%。",
+          "url": "https://wallstreetcn.com/livenews/3140007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
@@ -1161,7 +1366,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
@@ -1171,67 +1376,79 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时51分]"
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时39分]"
+        },
+        {
+          "title": "长鑫存储是如何诞生的",
+          "url": "https://www.douyin.com/hot/2586712",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     },
     {
-      "keyword_group": "涨停 跌停",
+      "keyword_group": "科创 创业 创业板 科创板",
       "match_count": 4,
       "titles": [
         {
-          "title": "A股旅游酒店板块盘初活跃，华天酒店封板涨停，君亭酒店、锦江酒店、首旅酒店、金陵饭店、众信旅游跟涨。",
-          "url": "https://flash.jin10.com/detail/20260727093449221800",
-          "source": "金十数据",
+          "title": "科创50指数跌超3%，半导体产业链下挫，兆易创新触及跌停，华虹宏力、全志科技跌超10%，澜起科技、通富微电、佰维存储等跌幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3139950",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         },
         {
-          "title": "A股固态电池板块盘初拉升，紫建电子20cm涨停，泰和科技涨超10%，圣阳股份封板涨停，武汉蓝电、欣旺达、通鼎互联等均涨超6%。",
-          "url": "https://flash.jin10.com/detail/20260727093353958800",
-          "source": "金十数据",
+          "title": "长鑫科技上市首日暴涨530%登顶A股市值榜首，创业板涨超1%，动力电池爆发，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "13时39分"
         },
         {
-          "title": "电池产业链开盘走强，圣阳股份、紫建电子涨停，天宏锂电涨超10%，时代万恒、欣旺达、海科新源涨超6%，百川盈孚数据显示，7月24日VC均价为20万元/吨，近一个多月涨幅超40%；其中7月23日单日跳涨2万元/吨，时隔4年多再破20万元/吨关口。",
-          "url": "https://wallstreetcn.com/livenews/3139942",
+          "title": "长鑫科技正式登陆科创板！首日市值登顶A股 背后中国科技产业天团陪跑",
+          "url": "https://www.cls.cn/detail/2437447",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "7月27日午间收评：创业板指半日涨1.55%，长鑫科技登顶A股总市值新“一哥”",
+          "url": "https://wallstreetcn.com/livenews/3140006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "A股油气板块竞价调整，中曼石油、山东墨龙双双跌停，通源石油、科力股份跌超15%，潜能恒信、泰山石油、中国海油、海油工程、蓝焰控股等低开。",
-          "url": "https://flash.jin10.com/detail/20260727092928042800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "13时39分"
         }
       ]
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -1251,9 +1468,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "中国造出全球首颗人脑速度芯片",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%87%BA%E5%85%A8%E7%90%83%E9%A6%96%E9%A2%97%E4%BA%BA%E8%84%91%E9%80%9F%E5%BA%A6%E8%8A%AF%E7%89%87%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
           "title": "专家：存储芯片和光模块走势将明朗",
@@ -1262,9 +1490,101 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "欧盟宣布 4 年来最大规模对俄制裁，170 家实体被列为制裁对象，哪些信息值得关注？可能会有哪些影响？",
+          "url": "https://www.zhihu.com/question/2064374902241453287",
+          "source": "知乎",
+          "ranks": [
+            8,
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时52分 ~ 13时39分]"
+        },
+        {
+          "title": "欧盟对俄制裁留缺口说明什么",
+          "url": "https://www.toutiao.com/trending/7666832346905054739/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时53分 ~ 04时04分]"
+        },
+        {
+          "title": "美财政部威胁制裁中国模型，硅谷 200 家企业联名反对，硅谷的态度反弹说明了什么？",
+          "url": "https://www.zhihu.com/question/2064030510549054193",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "联合国秘书长呼吁解除对叙利亚所有制裁",
+          "url": "https://flash.jin10.com/detail/20260727092802559800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "暴涨",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“订单暴涨3000%”！两大赛道，全球爆单",
+          "url": "https://www.cls.cn/detail/2436975",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 07时52分]"
+        },
+        {
+          "title": "暴涨5倍后 拼豆迎来国家级安全警示",
+          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E6%B6%A85%E5%80%8D%E5%90%8E+%E6%8B%BC%E8%B1%86%E8%BF%8E%E6%9D%A5%E5%9B%BD%E5%AE%B6%E7%BA%A7%E5%AE%89%E5%85%A8%E8%AD%A6%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 06时49分]"
+        },
+        {
+          "title": "A股一哥!长鑫科技开盘暴涨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356531&amp;topic_name=A%E8%82%A1%E4%B8%80%E5%93%A5%21%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%BC%80%E7%9B%98%E6%9A%B4%E6%B6%A8",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     },
@@ -1310,47 +1630,6 @@
       ]
     },
     {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "欧盟对俄制裁留缺口说明什么",
-          "url": "https://www.toutiao.com/trending/7666832346905054739/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时53分 ~ 04时04分]"
-        },
-        {
-          "title": "欧盟宣布 4 年来最大规模对俄制裁，170 家实体被列为制裁对象，哪些信息值得关注？可能会有哪些影响？",
-          "url": "https://www.zhihu.com/question/2064374902241453287",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时52分 ~ 09时51分]"
-        },
-        {
-          "title": "联合国秘书长呼吁解除对叙利亚所有制裁",
-          "url": "https://flash.jin10.com/detail/20260727092802559800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日经 韩国股市",
       "match_count": 2,
       "titles": [
@@ -1374,7 +1653,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
@@ -1410,30 +1689,59 @@
       ]
     },
     {
-      "keyword_group": "暴涨",
+      "keyword_group": "风险",
       "match_count": 2,
       "titles": [
         {
-          "title": "“订单暴涨3000%”！两大赛道，全球爆单",
-          "url": "https://www.cls.cn/detail/2436975",
+          "title": "美联储决议本周来袭！大概率将按兵不动 但意外加息风险不容忽视？",
+          "url": "https://www.cls.cn/detail/2437346",
           "source": "财联社热门",
           "ranks": [
-            1
+            11
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         },
         {
-          "title": "暴涨5倍后 拼豆迎来国家级安全警示",
-          "url": "https://www.baidu.com/s?wd=%E6%9A%B4%E6%B6%A85%E5%80%8D%E5%90%8E+%E6%8B%BC%E8%B1%86%E8%BF%8E%E6%9D%A5%E5%9B%BD%E5%AE%B6%E7%BA%A7%E5%AE%89%E5%85%A8%E8%AD%A6%E7%A4%BA",
-          "source": "百度热搜",
+          "title": "7月27日投资避雷针：这家上市公司上半年净亏损1.01亿 将被实施其他风险警示",
+          "url": "https://www.cls.cn/detail/2437348",
+          "source": "财联社热门",
           "ranks": [
-            5
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "复盘",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "复盘一周穿搭思路",
+          "url": "https://www.douyin.com/hot/2584523",
+          "source": "抖音",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时45分 ~ 06时49分]"
+        },
+        {
+          "title": "复盘BLG战胜AL",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98BLG%E6%88%98%E8%83%9CAL",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时39分"
         }
       ]
     },
@@ -1498,41 +1806,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "科创50指数跌超3%，半导体产业链下挫，兆易创新触及跌停，华虹宏力、全志科技跌超10%，澜起科技、通富微电、佰维存储等跌幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3139950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "复盘",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "复盘一周穿搭思路",
-          "url": "https://www.douyin.com/hot/2584523",
-          "source": "抖音",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 06时49分]"
         }
       ]
     }
