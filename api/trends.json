@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T15:32:26.928201+08:00",
-  "total_titles_processed": 1096,
+  "generated_at": "2026-07-28T18:23:29.934142+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
         {
           "title": "内塔尼亚胡访美，会与特朗普聊啥？",
@@ -30,6 +30,30 @@
           "time_info": "[01时29分 ~ 06时51分]"
         },
         {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 18时23分]"
+        },
+        {
+          "title": "600名以色列前高官联名致信特朗普，发出警告",
+          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时54分 ~ 18时23分]"
+        },
+        {
           "title": "美时政评论员：特朗普不希望赖清德搞“抗中保台”",
           "url": "https://news.ifeng.com/c/8v6kAaPHBHd",
           "source": "凤凰网",
@@ -40,29 +64,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时29分 ~ 07时55分]"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时32分]"
-        },
-        {
-          "title": "600名以色列前高官联名致信特朗普，发出警告",
-          "url": "https://news.ifeng.com/c/8v7UlJm7wWT",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时54分 ~ 15时32分]"
         },
         {
           "title": "美国总统特朗普：有理由善待通用汽车。",
@@ -120,6 +121,19 @@
           "time_info": "03时10分"
         },
         {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 18时23分]"
+        },
+        {
           "title": "市场消息：以色列总理内塔尼亚胡已抵达美国马里兰州安德鲁斯联合基地，准备于当地时间周二与特朗普会晤。",
           "url": "https://flash.jin10.com/detail/20260728061247016800",
           "source": "金十数据",
@@ -130,18 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时51分 ~ 07时55分]"
-        },
-        {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 15时32分]"
         },
         {
           "title": "美媒：特朗普政府接近敲定AI自愿审查框架",
@@ -214,6 +216,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时51分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-28）",
+          "url": "https://flash.jin10.com/detail/20260728180440714800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "美国总统特朗普：关税对通用汽车(GM.N)的影响真是惊人。",
@@ -552,7 +565,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -634,6 +647,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "以色列国防部长：特朗普明白我们不会放弃黎巴嫩、加沙和叙利亚的缓冲区。",
+          "url": "https://flash.jin10.com/detail/20260728174743392800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "美国总统特朗普告知通用汽车CEO：你们做得不错。 我想要祝贺通用汽车，对该公司非常骄傲。",
           "url": "https://wallstreetcn.com/livenews/3140482",
           "source": "华尔街见闻-快讯",
@@ -643,6 +667,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "内塔尼亚胡强推“加沙扩张”，特朗普版和平协议名存实亡？",
+          "url": "https://flash.jin10.com/detail/20260728174732789800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "美国总统特朗普：让我们处理掉夏令时/冬令时问题。",
@@ -659,7 +694,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -802,6 +837,40 @@
           "time_info": "[05时01分 ~ 06时51分]"
         },
         {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 18时23分]"
+        },
+        {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 18时23分]"
+        },
+        {
+          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
+          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 18时23分]"
+        },
+        {
           "title": "泽连斯基：与伊朗已处于战争中",
           "url": "https://news.ifeng.com/c/8v7aKFz8e8a",
           "source": "凤凰网",
@@ -811,17 +880,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
-          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
         },
         {
           "title": "加拿大外长：与卡塔尔首相兼外交大臣通话。加拿大支持卡塔尔的主权和安全，我们呼吁伊朗停止袭击，重新开放霍尔木兹海峡至关重要。",
@@ -835,15 +893,15 @@
           "time_info": "01时29分"
         },
         {
-          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
-          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
-          "source": "凤凰网",
+          "title": "伊朗导弹甩开美军多枚拦截弹画面",
+          "url": "https://www.toutiao.com/trending/7666729375357865515/",
+          "source": "今日头条",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "18时23分"
         },
         {
           "title": "德国10年期国债收益率跌约4个基点，美国暂停袭击伊朗使得油价回撤",
@@ -868,15 +926,15 @@
           "time_info": "03时10分"
         },
         {
-          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
           "source": "澎湃新闻",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "18时23分"
         },
         {
           "title": "路透社/益普索调查显示，仅有33%的美国人支持美国与伊朗的战争，为冲突初期以来的最低水平。",
@@ -896,7 +954,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -945,6 +1003,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "克里姆林宫：乌克兰对伊朗船只的攻击就是对伊朗的攻击。",
+          "url": "https://flash.jin10.com/detail/20260728174837909800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "泽连斯基：与伊朗已处于战争中",
           "url": "https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%EF%BC%9A%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%B7%B2%E5%A4%84%E4%BA%8E%E6%88%98%E4%BA%89%E4%B8%AD",
           "source": "百度热搜",
@@ -954,12 +1023,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "克里姆林宫：乌克兰炸毁了德国的北溪天然气管道，攻击中亚管道基础设施对哈萨克斯坦造成了伤害，并且现在又袭击了一艘伊朗船只。",
+          "url": "https://flash.jin10.com/detail/20260728174822967800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         }
       ]
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
@@ -996,19 +1076,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时26分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[09时26分 ~ 18时23分]"
         },
         {
           "title": "一文读懂：美股“芯片风暴”究竟是如何发生的？",
           "url": "https://www.cls.cn/detail/2438605",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 18时23分]"
         },
         {
           "title": "硕贝德：公司已建成多条液冷产线，光模块液冷已完成部分客户审核验证，Busbar液冷产品已通过某北美客户的供应商审核。",
@@ -1020,6 +1101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "芯片抛售蔓延全球，韩股大近11%、三星跌超13%，美光盘前跌近5%，美油跌破80关口",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "美股芯片股“血流成河”",
@@ -1039,7 +1131,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1050,7 +1142,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1100,6 +1192,17 @@
           "time_info": "[12时53分 ~ 12时54分]"
         },
         {
+          "title": "黑色星期二！全球芯片股遭血洗，SK海力士重挫13%，AI回报成市场最大担心",
+          "url": "https://wallstreetcn.com/articles/3778106",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "芯片股抛售加剧，日韩股市重挫",
           "url": "https://flash.jin10.com/detail/20260728091059635800",
           "source": "金十数据",
@@ -1122,13 +1225,35 @@
           "time_info": "12时54分"
         },
         {
+          "title": "光芯片概念股被扎堆调研超百次，震荡市下公募为何调研猛增？",
+          "url": "https://www.cls.cn/detail/2438762",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "机构：投资者持仓仍过于拥挤 芯片股还没跌到“抄底”时刻",
+          "url": "https://wallstreetcn.com/livenews/3140927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "全球芯片股暴跌原因找到了",
           "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1139,7 +1264,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1150,141 +1275,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
-          "url": "https://wallstreetcn.com/articles/3777980",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4,
-            2
-          ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时29分 ~ 15时32分]"
-        },
-        {
-          "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
-          "url": "https://www.cls.cn/detail/2437874",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 07时55分]"
-        },
-        {
-          "title": "【焦点复盘】科创50深V回升收复1800点，全市场超180股涨逾10%，长鑫科技上市首日登顶总市值“一哥”",
-          "url": "https://www.cls.cn/detail/2437935",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 07时55分]"
-        },
-        {
-          "title": "创业板指低开低走跌超7%，算力硬件、半导体板块集体下挫",
-          "url": "https://wallstreetcn.com/livenews/3140816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "创业板指跌超7% 算力硬件股全线下挫",
-          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%857%25+%E7%AE%97%E5%8A%9B%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%85%A8%E7%BA%BF%E4%B8%8B%E6%8C%AB",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "沪指失守3800、创业板跌超7%，光刻机逆势活跃，芯片大跌，恒科指翻绿，科网股多反弹，老铺黄金大跌超20%",
-          "url": "https://wallstreetcn.com/articles/3778088",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "7月28日午间收评：创业板指半日跌超5%，大消费板块逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3140717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "科创50指数跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3140794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "创业板指跌超6%，沪指跌1.44%，深成指跌3.93%，算力硬件、半导体芯片、煤炭、贵金属等板块跌幅居前，沪深京三市下跌个股超2900只。",
-          "url": "https://wallstreetcn.com/livenews/3140706",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "A股午评：创业板指大幅回调跌5.37% AI硬件板块重挫",
-          "url": "https://flash.jin10.com/detail/20260728115102973800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时54分"
-        },
-        {
-          "title": "创业板指跌7%，沪指跌1.4%，深成指跌超4%，科创50指数跌超6%。算力硬件、煤炭、贵金属、半导体芯片等方向跌幅居前，沪深京三市下跌个股近3000只。",
-          "url": "https://wallstreetcn.com/livenews/3140779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -1292,7 +1283,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
@@ -1305,6 +1296,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时29分 ~ 09时26分]"
+        },
+        {
+          "title": "海博思创：预计2026年上半年净利润同比增长96.30%-121.63%",
+          "url": "https://wallstreetcn.com/livenews/3140948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "海博思创：预计2026年上半年净利润同比增长96.30%-121.63%",
+          "url": "https://flash.jin10.com/detail/20260728181137795800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "LVMH首席财务官：路易威登和迪奥在第二季度均处于正增长区间，迪奥在美洲和日本的增长在第二季度加速。",
@@ -1329,6 +1342,17 @@
           "time_info": "01时29分"
         },
         {
+          "title": "财政部：6月份，全国共销售彩票759.78亿元，同比增长39.5%。 1-6月累计，全国共销售彩票3268.74亿元，同比增加90.20亿元，增长2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3140942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
           "title": "瑞银：微软财报或遇“高支出低增长”困境，下调目标价至480美元",
           "url": "https://flash.jin10.com/detail/20260728041638856800",
           "source": "金十数据",
@@ -1350,6 +1374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "联合包裹第二季度营收228亿美元，同比增长7.5%，市场预估218.4亿美元。 预计全年营收约912亿美元，此前预期约897亿美元，市场预估903.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3140938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
         },
         {
           "title": "飞利浦二季度销售43.6亿欧元，分析师预期43.1亿欧元。 二季度可比销售增长4.1%，分析师预期增长3.96%。 二季度调整后EBITDA为7.17亿欧元，分析师预期5.174亿欧元。 二季度调整后EBITDA利润率为16.4%，分析师预期11.9%。",
@@ -1405,6 +1440,290 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        },
+        {
+          "title": "力量钻石：上半年净利润9008万元，同比增长247.61%。",
+          "url": "https://wallstreetcn.com/livenews/3140904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3777980",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时29分 ~ 15时32分]"
+        },
+        {
+          "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
+          "url": "https://www.cls.cn/detail/2437874",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 07时55分]"
+        },
+        {
+          "title": "【焦点复盘】科创50深V回升收复1800点，全市场超180股涨逾10%，长鑫科技上市首日登顶总市值“一哥”",
+          "url": "https://www.cls.cn/detail/2437935",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时29分 ~ 07时55分]"
+        },
+        {
+          "title": "创业板指低开低走跌超7%，算力硬件、半导体板块集体下挫",
+          "url": "https://wallstreetcn.com/livenews/3140816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "创业板跌超7%，光刻机、大消费逆势活跃，芯片、算力硬件齐跌，港股AI大模型双雄下挫、智谱跌近20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "【每日收评】创业板指跌超7%创阶段新低，算力硬件股集体重挫，大消费、脑机接口概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2439030",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "创业板指跌超7% 算力硬件股全线下挫",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E8%B7%8C%E8%B6%857%25+%E7%AE%97%E5%8A%9B%E7%A1%AC%E4%BB%B6%E8%82%A1%E5%85%A8%E7%BA%BF%E4%B8%8B%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "沪指失守3800、创业板跌超7%，光刻机逆势活跃，芯片大跌，恒科指翻绿，科网股多反弹，老铺黄金大跌超20%",
+          "url": "https://wallstreetcn.com/articles/3778088",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "7月28日午间收评：创业板指半日跌超5%，大消费板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3140717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "科创50指数跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3140794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "四大股指集体收跌创业板指跌超7%",
+          "url": "https://www.toutiao.com/trending/7667473467062652459/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "创业板指跌超6%，沪指跌1.44%，深成指跌3.93%，算力硬件、半导体芯片、煤炭、贵金属等板块跌幅居前，沪深京三市下跌个股超2900只。",
+          "url": "https://wallstreetcn.com/livenews/3140706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "A股午评：创业板指大幅回调跌5.37% AI硬件板块重挫",
+          "url": "https://flash.jin10.com/detail/20260728115102973800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        },
+        {
+          "title": "创业板指跌7%，沪指跌1.4%，深成指跌超4%，科创50指数跌超6%。算力硬件、煤炭、贵金属、半导体芯片等方向跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3140779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "韩国股市跌到熔断",
+          "url": "https://www.douyin.com/hot/2587771",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时53分 ~ 15时32分]"
+        },
+        {
+          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2065354296774989670",
+          "source": "知乎",
+          "ranks": [
+            20,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 18时23分]"
+        },
+        {
+          "title": "专家谈韩国股市“失控”",
+          "url": "https://www.toutiao.com/trending/7667412256216337947/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 12时54分]"
+        },
+        {
+          "title": "据日经新闻：丰田汽车在地震发生后暂停福冈工厂生产。",
+          "url": "https://flash.jin10.com/detail/20260728180028180800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "日经225指数日内跌幅扩大至近4%，铠侠股价大跌18%。",
+          "url": "https://wallstreetcn.com/livenews/3140590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日经225指数跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3140578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日经225指数收盘下跌4%，创5月以来新低。 日本东证指数收跌2.5%，报3,963.59点。 韩国首尔综指收跌近11%，报6023.63点。",
+          "url": "https://wallstreetcn.com/livenews/3140788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "日经225指数日内跌幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3140576",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日经225指数低开0.6%，韩国首尔综指低开5.3%。 SK海力士跌超8%，三星电子跌近6%。 MSCI亚太指数下跌1%至263.27点。",
+          "url": "https://wallstreetcn.com/livenews/3140571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -1420,8 +1739,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时54分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时54分 ~ 18时23分]"
         },
         {
           "title": "【早报】美存储股全线重挫，SK海力士破发；原油暴跌、黄金微涨；“东方证券+上海证券”合并重组草案出炉",
@@ -1453,11 +1772,24 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 18时23分]"
+        },
+        {
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 18时23分]"
         },
         {
           "title": "基本半导体港交所公告：本公司与承包商就建造碳化硅模块封装产线基地项目订立工程总承包合约。 据此，承包商同意承接本公司碳化硅模块封装产线基地的工程，合约价格总价为人民币1.933亿元。",
@@ -1472,24 +1804,13 @@
           "time_info": "[06时51分 ~ 07时55分]"
         },
         {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
           "title": "金十图示：2026年07月28日（周二）富时中国A50指数成分股今日收盘行情一览：银行、保险板块收红，半导体、通信设备板块重挫",
           "url": "https://flash.jin10.com/detail/20260728150239710800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1511,103 +1832,9 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "韩国股市跌到熔断",
-          "url": "https://www.douyin.com/hot/2587771",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时32分]"
-        },
-        {
-          "title": "专家谈韩国股市“失控”",
-          "url": "https://www.toutiao.com/trending/7667412256216337947/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 12时54分]"
-        },
-        {
-          "title": "日经225指数日内跌幅扩大至近4%，铠侠股价大跌18%。",
-          "url": "https://wallstreetcn.com/livenews/3140590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/2065354296774989670",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "日经225指数跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3140578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "日经225指数收盘下跌4%，创5月以来新低。 日本东证指数收跌2.5%，报3,963.59点。 韩国首尔综指收跌近11%，报6023.63点。",
-          "url": "https://wallstreetcn.com/livenews/3140788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "日经225指数日内跌幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3140576",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "日经225指数低开0.6%，韩国首尔综指低开5.3%。 SK海力士跌超8%，三星电子跌近6%。 MSCI亚太指数下跌1%至263.27点。",
-          "url": "https://wallstreetcn.com/livenews/3140571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
         }
       ]
     },
@@ -1833,6 +2060,56 @@
       ]
     },
     {
+      "keyword_group": "跌破 拉升",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美光科技总市值跌破万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E6%80%BB%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 06时51分]"
+        },
+        {
+          "title": "合资车企跌破25%份额红线",
+          "url": "https://www.baidu.com/s?wd=%E5%90%88%E8%B5%84%E8%BD%A6%E4%BC%81%E8%B7%8C%E7%A0%B425%25%E4%BB%BD%E9%A2%9D%E7%BA%A2%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "WTI原油跌破80美元/桶，日内跌超3%，报79.99美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3140898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时23分"
+        },
+        {
+          "title": "韩国KOSPI指数盘中跌破6000点",
+          "url": "https://wallstreetcn.com/livenews/3140781",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 机器人",
       "match_count": 3,
       "titles": [
@@ -1856,11 +2133,12 @@
           "url": "https://www.cls.cn/detail/2438718",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 18时23分]"
         },
         {
           "title": "日方拆完宇树机器人后认输了",
@@ -1960,45 +2238,6 @@
       ]
     },
     {
-      "keyword_group": "跌破 拉升",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美光科技总市值跌破万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E6%80%BB%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 06时51分]"
-        },
-        {
-          "title": "合资车企跌破25%份额红线",
-          "url": "https://www.baidu.com/s?wd=%E5%90%88%E8%B5%84%E8%BD%A6%E4%BC%81%E8%B7%8C%E7%A0%B425%25%E4%BB%BD%E9%A2%9D%E7%BA%A2%E7%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "韩国KOSPI指数盘中跌破6000点",
-          "url": "https://wallstreetcn.com/livenews/3140781",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证 深证",
       "match_count": 2,
       "titles": [
@@ -2009,7 +2248,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -2039,8 +2278,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时53分 ~ 15时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时53分 ~ 18时23分]"
         },
         {
           "title": "AI挤占DRAM颗粒供应 又一模组厂预警“无货可卖”风险",
