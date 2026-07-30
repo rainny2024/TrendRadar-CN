@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T04:55:09.171372+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-07-31T05:59:22.775531+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://news.ifeng.com/c/8vBRvOidAuY",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "有报道称中方将提供400枚肩扛式导弹给伊朗，外交部：毫无根据",
@@ -26,19 +27,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
-          "title": "伊朗谴责美军袭击格什姆岛居民区致3人死亡",
-          "url": "https://wallstreetcn.com/livenews/3142649",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗称摧毁3架F-35战机，美军回应",
+          "url": "https://news.ifeng.com/c/8vBxRifaFrE",
+          "source": "凤凰网",
           "ranks": [
-            1
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "卡塔尔外交部：卡塔尔谴责伊朗再次袭击约旦和科威特领土，此举侵犯了两国的主权。",
@@ -52,17 +53,6 @@
           "time_info": "03时08分"
         },
         {
-          "title": "伊朗称摧毁3架F-35战机，美军回应",
-          "url": "https://news.ifeng.com/c/8vBxRifaFrE",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
-        },
-        {
           "title": "中国向伊朗提供400枚导弹？外交部回应",
           "url": "https://www.toutiao.com/trending/7668128346190053385/",
           "source": "今日头条",
@@ -70,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "伊朗将接收中国造肩扛式防空导弹发射装置？外交部：不符合事实",
@@ -82,8 +72,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
+        },
+        {
+          "title": "伊朗谴责美军袭击格什姆岛居民区致3人死亡",
+          "url": "https://wallstreetcn.com/livenews/3142649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时59分]"
         },
         {
           "title": "伊朗称打击约旦美军基地摧毁3架F-35",
@@ -183,7 +185,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -213,7 +215,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
@@ -238,6 +240,17 @@
           "time_info": "01时15分"
         },
         {
+          "title": "亚马逊在二季度获得6亿美元与（美国总统特朗普）关税相关的退款。 公司将向某些客户自动发放关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3142667",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
           "source": "澎湃新闻",
@@ -245,8 +258,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
@@ -256,8 +269,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
+        },
+        {
+          "title": "苹果公司第三财季营收1094.2亿美元，分析师预期1088.5亿美元。 第三财季大中华区营收188.2亿美元，分析师预期195.8亿美元。 第三财季产品营收786.8亿美元，分析师预期772.5亿美元。 第三财季iPhone营收542.5亿美元，分析师预期536亿美元；iPad营收61.9亿美元（预期68.9亿美元），Mac营收103.5亿美元（预期86.2亿美元），可穿戴设备、居家、周边营收78.8亿美元（预期78.7亿美元）。 第三财季服务营收307.4亿美元，分析师预期313.6亿美元。 第三财季每股收益（EPS）为2.02美元——含0.11美元特朗普关税退税利好效应，分析师预期1.89美元。 第三财季EPS和运营现金流均创历史新高。 派息0.27美元/股。 苹果股价盘后跌2.2%。",
+          "url": "https://wallstreetcn.com/livenews/3142643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时59分]"
         },
         {
           "title": "美国考虑对大学毕业之后留美工作的外国学生收取10万美元的费用。 此前，（美国法院）阻挠总统特朗普对H-1B签证收费10万美元的想法。（华尔街日报）",
@@ -270,17 +295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 03时08分]"
-        },
-        {
-          "title": "苹果公司第三财季营收1094.2亿美元，分析师预期1088.5亿美元。 第三财季大中华区营收188.2亿美元，分析师预期195.8亿美元。 第三财季产品营收786.8亿美元，分析师预期772.5亿美元。 第三财季iPhone营收542.5亿美元，分析师预期536亿美元；iPad营收61.9亿美元（预期68.9亿美元），Mac营收103.5亿美元（预期86.2亿美元），可穿戴设备、居家、周边营收78.8亿美元（预期78.7亿美元）。 第三财季服务营收307.4亿美元，分析师预期313.6亿美元。 第三财季每股收益（EPS）为2.02美元——含0.11美元特朗普关税退税利好效应，分析师预期1.89美元。 第三财季EPS和运营现金流均创历史新高。 派息0.27美元/股。 苹果股价盘后跌2.2%。",
-          "url": "https://wallstreetcn.com/livenews/3142643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
         },
         {
           "title": "据Axios：据四位知情人士透露，白宫和特朗普总统的和平委员会认为，哈马斯可能会在未来几天内签署一项协议，逐步解除武装并实现加沙地带的非军事化。",
@@ -300,7 +314,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -318,6 +332,81 @@
       ]
     },
     {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "据日经新闻：美国当局也进行了汇率核查。",
+          "url": "https://flash.jin10.com/detail/20260731043837359800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "据日经新闻：日本政府与日本央行在外汇市场进行干预。",
+          "url": "https://flash.jin10.com/detail/20260731043732594800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "日本政府与日本央行在外汇市场进行干预。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3142645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "李在明能否挽救韩国股市",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%83%BD%E5%90%A6%E6%8C%BD%E6%95%91%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
+        },
+        {
+          "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33671320",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 05时59分]"
+        },
+        {
+          "title": "韩国股市上演极端行情",
+          "url": "https://www.douyin.com/hot/2591025",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美联储 非农",
       "match_count": 6,
       "titles": [
@@ -331,8 +420,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "十年最强鹰派分歧？美联储继续按兵不动、强调通胀承诺，但三票委支持加息",
@@ -350,11 +439,12 @@
           "url": "https://www.douyin.com/hot/2590053",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "美联储按兵不动，遭遇3张反对票、主张加息25个基点（附声明全文）",
@@ -365,8 +455,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "华尔街点评美联储决议：沃什欢迎市场代替“加息”？",
@@ -376,8 +466,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 04时55分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 05时59分]"
         },
         {
           "title": "周四（7月30日），美联储隔夜逆回购协议（RRP）使用规模为10.76亿美元（交易对手3家），上个交易日报25.76亿美元。",
@@ -393,72 +483,8 @@
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "据日经新闻：美国当局也进行了汇率核查。",
-          "url": "https://flash.jin10.com/detail/20260731043837359800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "据日经新闻：日本政府与日本央行在外汇市场进行干预。",
-          "url": "https://flash.jin10.com/detail/20260731043732594800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "日本政府与日本央行在外汇市场进行干预。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3142645",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
-        },
-        {
-          "title": "李在明能否挽救韩国股市",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%9C%A8%E6%98%8E%E8%83%BD%E5%90%A6%E6%8C%BD%E6%95%91%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
-        },
-        {
-          "title": "半年多急涨急跌52次，韩国股市到底怎么了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33671320",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
@@ -474,15 +500,27 @@
           "time_info": "[01时15分 ~ 04时55分]"
         },
         {
+          "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
           "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
           "url": "https://wallstreetcn.com/livenews/3142641",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时59分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
@@ -502,26 +540,99 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         }
       ]
     },
     {
+      "keyword_group": "增长 亮眼",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "规模以上文化企业营收同比增长",
+          "url": "https://www.douyin.com/hot/2590325",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
+        },
+        {
+          "title": "在分析师电话会上，苹果预计第四财季营收同比将增长9%-11%，分析师预期增长12.1%。 预计第四财季总体收入将遭受两大因素的拖累：外汇和供应限制。 预计第四财季iPhone收入将受到供应限制的拖累，增速将陷入“10%-20%区间”（mid-teens）。 Mac和iPad产品也将遭受供应链的冲击。 苹果盘后跌幅扩大至7%。",
+          "url": "https://wallstreetcn.com/livenews/3142665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "苹果高管：iPhone营收增长22%，主要得益于iPhone 17系列新品。 （注：苹果高管没有提到iPhone air。）",
+          "url": "https://wallstreetcn.com/livenews/3142662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "墨西哥财政部：墨西哥石油收入实际条款同比增长2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3142627",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "苹果(AAPL.O)首席财务官：预计第四财季iPhone收入同比增长率将达到15%左右。",
+          "url": "https://flash.jin10.com/detail/20260731053022924800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "标普500指数的11个板块中，信息技术/科技板块收涨5.24%，可选消费板块涨1.57%，原材料板块涨1%，电信板块跌2.52%。",
           "url": "https://wallstreetcn.com/livenews/3142642",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时59分]"
+        },
+        {
+          "title": "周四（7月30日）纽约尾盘，标普500股指期货最终涨1.73%，道指期货涨1.30%，纳斯达克100股指期货涨3.71%。 罗素2000股指期货涨1.40%。",
+          "url": "https://wallstreetcn.com/livenews/3142664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时55分"
+          "time_info": "05时59分"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.05%，报6502.80点。 热门中概股里，世纪互联涨16.7%，日月光半导体涨12.2%，万国数据涨8%，阿特斯太阳能涨7.7%，腾讯涨2.4%，百度涨2%，网易涨1.8%，阿里涨1%。 ETF中，MSCI新兴市场ex中国ETF（EMXC）收涨4.97%，德银嘉实沪深300指数ETF（ASHR）收涨1.15%，XtrackersHarvest中证50（ASHS）收跌0.65%。 中概互联网指数ETF（KWEB）收涨0.94%，中国科技指数ETF（CQQQ）收跌0.54%。",
@@ -530,7 +641,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         },
@@ -541,7 +652,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         }
@@ -560,8 +671,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
           "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
@@ -572,36 +683,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "规模以上文化企业营收同比增长",
-          "url": "https://www.douyin.com/hot/2590325",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
-        },
-        {
-          "title": "墨西哥财政部：墨西哥石油收入实际条款同比增长2.1%。",
-          "url": "https://wallstreetcn.com/livenews/3142627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时55分"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         }
       ]
     },
@@ -634,6 +717,37 @@
       ]
     },
     {
+      "keyword_group": "芯片 光模块",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
+          "url": "https://www.zhihu.com/question/2065810199877611641",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
+        },
+        {
+          "title": "美股存储芯片概念股盘后继续走强，西部数据(WDC.O)涨超4%，希捷科技(STX.O)、美光科技(MU.O)和SK海力士(SKHY.O)涨3%，闪迪(SNDK.O)涨6%。",
+          "url": "https://flash.jin10.com/detail/20260731053830299800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "涨价 核心材料",
       "match_count": 1,
       "titles": [
@@ -645,8 +759,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         }
       ]
     },
@@ -662,8 +776,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         }
       ]
     },
@@ -680,8 +794,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         }
       ]
     },
@@ -698,8 +812,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         }
       ]
     },
@@ -721,25 +835,6 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "SK 海力士跌超 17%，创最大跌幅纪录，AI 芯片投资热潮下，芯片巨头海力士股价为啥崩了？",
-          "url": "https://www.zhihu.com/question/2065810199877611641",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储 半导体",
       "match_count": 1,
       "titles": [
@@ -752,8 +847,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         }
       ]
     },
@@ -771,8 +866,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         }
       ]
     },
@@ -787,11 +882,12 @@
           "ranks": [
             18,
             17,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         }
       ]
     },
@@ -806,7 +902,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
         }
@@ -824,8 +920,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         }
       ]
     }
