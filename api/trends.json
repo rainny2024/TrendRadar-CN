@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-07-31T20:51:53.437531+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-07-31T23:14:02.729809+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗革命卫队一天发表三份声明",
           "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 20时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 23时14分]"
         },
         {
           "title": "科威特军方：伊朗袭击该国北部致一中企雇员死亡",
@@ -81,6 +82,17 @@
           "time_info": "[01时15分 ~ 20时51分]"
         },
         {
+          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
+          "url": "https://news.ifeng.com/c/8vDSNTsXzUU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "卡塔尔外交部：卡塔尔谴责伊朗再次袭击约旦和科威特领土，此举侵犯了两国的主权。",
           "url": "https://flash.jin10.com/detail/20260731024403802800",
           "source": "金十数据",
@@ -90,6 +102,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "印度外长：印度方面了解了伊朗对当前局势和正在进行的讨论的看法。印度始终支持对话与外交。",
+          "url": "https://flash.jin10.com/detail/20260731224606343800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "印度外长：今晚与伊朗外长进行了电话交谈。强烈呼吁在任何情况下都要避免对商业航运和海员的攻击。印度谴责任何一方采取的此类攻击。",
+          "url": "https://flash.jin10.com/detail/20260731224553061800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "伊朗谴责美军袭击格什姆岛居民区致3人死亡",
@@ -140,6 +174,17 @@
           "time_info": "[12时16分 ~ 12时17分]"
         },
         {
+          "title": "伊朗宣布霍尔木兹海峡暂停通行",
+          "url": "https://www.toutiao.com/trending/7668680642107805238/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "伊朗称袭击科威特的美空军基地",
           "url": "https://www.toutiao.com/trending/7668304219085999652/",
           "source": "今日头条",
@@ -172,6 +217,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "伊朗外长和英国外交大臣通话，讨论地区局势。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3143331",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "约旦外交部：约旦外长与阿联酋外长通话，讨论地区局势及降温努力。双方谴责伊朗针对约旦的袭击，阿联酋重申支持约旦维护安全与稳定。",
@@ -207,15 +263,37 @@
           "time_info": "01时15分"
         },
         {
+          "title": "阿联酋外交部：阿联酋强烈谴责伊朗对科威特的侵略性攻击。",
+          "url": "https://flash.jin10.com/detail/20260731223602171800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
           "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
           "url": "https://www.toutiao.com/trending/7668445091514155050/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
+        },
+        {
+          "title": "美国财长贝森特：美国将积极在全球范围内追查伊朗资产，以确保为伊朗支持的恐怖主义活动的受害者获得赔偿资金。美国政府针对伊朗政权采取的军事和经济封锁措施将继续推进，绝不松懈。",
+          "url": "https://flash.jin10.com/detail/20260731223427667800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "参议院共和党人成功阻挠旨在停止对伊朗战争的决议",
@@ -249,6 +327,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗与英国外长通话讨论地区发展。",
+          "url": "https://flash.jin10.com/detail/20260731221918480800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "据以色列i24News：消息人士称，美国当地时间周三针对伊朗发动的打击，甚至还算不上未来预期行动的“冰山一角”。",
@@ -287,8 +376,45 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
+          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 23时14分]"
+        },
+        {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 23时14分]"
+        },
+        {
+          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
+          "url": "https://www.cls.cn/detail/2442363",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 23时14分]"
+        },
         {
           "title": "布油盘中涨超8%！特朗普一再警告“狠狠打击”伊朗，寻求对伊加征关税",
           "url": "https://wallstreetcn.com/articles/3778237",
@@ -312,17 +438,6 @@
           "time_info": "[12时16分 ~ 12时17分]"
         },
         {
-          "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
-          "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时51分]"
-        },
-        {
           "title": "美媒爆料：泽连斯基请特朗普说服马斯克，允许乌借助“星链”打击俄导弹发射装置",
           "url": "https://wallstreetcn.com/livenews/3142913",
           "source": "华尔街见闻-快讯",
@@ -332,18 +447,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时17分"
-        },
-        {
-          "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
-          "url": "https://www.cls.cn/detail/2442363",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 20时51分]"
         },
         {
           "title": "美国参议员科宁：特朗普可能撤回对布兰奇的提名，这或许是谈判策略，但相关磋商至少在本周末前已基本破裂。",
@@ -368,19 +471,6 @@
           "time_info": "05时59分"
         },
         {
-          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 20时51分]"
-        },
-        {
           "title": "以媒：内塔尼亚胡向特朗普阐述对伊“三种情景”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33683951",
           "source": "澎湃新闻",
@@ -392,6 +482,18 @@
           "time_info": "[01时15分 ~ 05时59分]"
         },
         {
+          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
+          "url": "https://www.cls.cn/detail/2442307",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时45分 ~ 23时14分]"
+        },
+        {
           "title": "“极不寻常”！爆料称特朗普或拒绝法国驻美大使提名",
           "url": "https://news.ifeng.com/c/8vBnavmwROe",
           "source": "凤凰网",
@@ -401,17 +503,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 05时59分]"
-        },
-        {
-          "title": "马斯克据称准备再“砸”超1亿美元，为特朗普中期选举铺路！",
-          "url": "https://www.cls.cn/detail/2442307",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时45分 ~ 20时51分]"
         },
         {
           "title": "苹果公司第三财季营收1094.2亿美元，分析师预期1088.5亿美元。 第三财季大中华区营收188.2亿美元，分析师预期195.8亿美元。 第三财季产品营收786.8亿美元，分析师预期772.5亿美元。 第三财季iPhone营收542.5亿美元，分析师预期536亿美元；iPad营收61.9亿美元（预期68.9亿美元），Mac营收103.5亿美元（预期86.2亿美元），可穿戴设备、居家、周边营收78.8亿美元（预期78.7亿美元）。 第三财季服务营收307.4亿美元，分析师预期313.6亿美元。 第三财季每股收益（EPS）为2.02美元——含0.11美元特朗普关税退税利好效应，分析师预期1.89美元。 第三财季EPS和运营现金流均创历史新高。 派息0.27美元/股。 苹果股价盘后跌2.2%。",
@@ -438,6 +529,17 @@
           "time_info": "[01时15分 ~ 03时08分]"
         },
         {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "据Axios：据四位知情人士透露，白宫和特朗普总统的和平委员会认为，哈马斯可能会在未来几天内签署一项协议，逐步解除武装并实现加沙地带的非军事化。",
           "url": "https://flash.jin10.com/detail/20260731023101313800",
           "source": "金十数据",
@@ -447,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "伊朗宣布霍尔木兹海峡暂停通行，特朗普“将继续实施强有力的打击”！",
+          "url": "https://flash.jin10.com/detail/20260731224214656800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "白宫官员：美国总统特朗普下令限制关键矿物废料的出口。",
@@ -485,7 +598,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "智驾“小蓝灯”迎来管控！灯光滥用易引发安全风险，新标准正在修订",
@@ -498,6 +611,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时15分 ~ 12时17分]"
+        },
+        {
+          "title": "“美联储传声筒”Nick Timiraos：持不同意见的人并不都在提出相同的论点。卡什卡利与洛根相比，更倾向于将政策收紧视为一种风险管理的选择。",
+          "url": "https://flash.jin10.com/detail/20260731225214205800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "7月31日投资避雷针：4连板人气股提示风险 不涉及人形机器人整机制造",
@@ -518,7 +642,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -573,7 +697,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -584,7 +708,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -606,7 +730,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -620,6 +744,148 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
+        },
+        {
+          "title": "美联储异议官员：需加息以遏制顽固通胀",
+          "url": "https://flash.jin10.com/detail/20260731202248463800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "十年最强鹰派分歧？美联储继续按兵不动、强调通胀承诺，但三票委支持加息",
+          "url": "https://wallstreetcn.com/articles/3778256",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时15分"
+        },
+        {
+          "title": "“美联储传声筒”Nick Timiraos：三位支持加息的美联储官员可以说比FOMC大多数成员在周三的声明或新闻发布会上提供了更多的理由。洛根重申了她两周前的观点，即在剔除近期冲击后，潜在通胀接近2.5%，她认为这为政策立场收紧提供了依据。",
+          "url": "https://flash.jin10.com/detail/20260731224654343800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "美联储维持利率不变",
+          "url": "https://www.douyin.com/hot/2590053",
+          "source": "抖音",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
+        },
+        {
+          "title": "美联储按兵不动，遭遇3张反对票、主张加息25个基点（附声明全文）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33683031",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
+        },
+        {
+          "title": "华尔街点评美联储决议：沃什欢迎市场代替“加息”？",
+          "url": "https://wallstreetcn.com/articles/3778274",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 05时59分]"
+        },
+        {
+          "title": "美联储洛根：需采取适度利率行动以抑制通胀",
+          "url": "https://wallstreetcn.com/livenews/3143323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "三名美联储官员支持加息，内部鹰派压力升温",
+          "url": "https://flash.jin10.com/detail/20260731222806545800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "周四（7月30日），美联储隔夜逆回购协议（RRP）使用规模为10.76亿美元（交易对手3家），上个交易日报25.76亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3142592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "白宫要求按兵不动，美联储鹰派担心通胀“固化”",
+          "url": "https://flash.jin10.com/detail/20260731201248817800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
+        {
+          "title": "沃什美联储蜜月期结束！债市发出警告：投资者要求更强硬抗通胀信号",
+          "url": "https://flash.jin10.com/detail/20260731112054418800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     },
@@ -700,7 +966,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         },
@@ -767,6 +1033,18 @@
           "time_info": "[01时15分 ~ 05时59分]"
         },
         {
+          "title": "【焦点复盘】科创50高开低走录得日线4连阴，算力硬件股批量炸板回落，机器人概念卷土重来",
+          "url": "https://www.cls.cn/detail/2442703",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 23时14分]"
+        },
+        {
           "title": "【每日收评】创业板指放量跌近4%，算力硬件权重集体重挫，大消费方向持续活跃",
           "url": "https://www.cls.cn/detail/2441445",
           "source": "财联社热门",
@@ -790,16 +1068,17 @@
           "time_info": "18时28分"
         },
         {
-          "title": "【焦点复盘】科创50高开低走录得日线4连阴，算力硬件股批量炸板回落，机器人概念卷土重来",
-          "url": "https://www.cls.cn/detail/2442703",
+          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
+          "url": "https://www.cls.cn/detail/2442641",
           "source": "财联社热门",
           "ranks": [
-            8,
-            5
+            7,
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时51分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 23时14分]"
         },
         {
           "title": "创业板站上1400家新起点，背后有哪些重要数据？",
@@ -812,18 +1091,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时45分 ~ 20时51分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
-          "url": "https://www.cls.cn/detail/2442641",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时51分]"
         },
         {
           "title": "科创50指数半日涨近6%",
@@ -861,111 +1128,101 @@
       ]
     },
     {
-      "keyword_group": "美联储 非农",
-      "match_count": 9,
+      "keyword_group": "美债 美股 美元",
+      "match_count": 8,
       "titles": [
         {
-          "title": "中东局势突变叠加美联储鹰派分歧，油价飙8%，纳指六连跌，30年美债收益率创2007年最高",
-          "url": "https://wallstreetcn.com/articles/3778176",
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 05时59分]"
-        },
-        {
-          "title": "美联储异议官员：需加息以遏制顽固通胀",
-          "url": "https://flash.jin10.com/detail/20260731202248463800",
-          "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 23时14分]"
         },
         {
-          "title": "十年最强鹰派分歧？美联储继续按兵不动、强调通胀承诺，但三票委支持加息",
-          "url": "https://wallstreetcn.com/articles/3778256",
+          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时15分 ~ 04时55分]"
+        },
+        {
+          "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
+          "url": "https://wallstreetcn.com/articles/3778287",
           "source": "华尔街见闻",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时15分"
+          "time_info": "05时59分"
         },
         {
-          "title": "美联储维持利率不变",
-          "url": "https://www.douyin.com/hot/2590053",
-          "source": "抖音",
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
           "ranks": [
-            9,
-            7
+            17,
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 05时59分]"
+          "appearance_count": 4,
+          "time_info": "[18时28分 ~ 23时14分]"
         },
         {
-          "title": "美联储按兵不动，遭遇3张反对票、主张加息25个基点（附声明全文）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33683031",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 05时59分]"
-        },
-        {
-          "title": "华尔街点评美联储决议：沃什欢迎市场代替“加息”？",
-          "url": "https://wallstreetcn.com/articles/3778274",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 05时59分]"
-        },
-        {
-          "title": "周四（7月30日），美联储隔夜逆回购协议（RRP）使用规模为10.76亿美元（交易对手3家），上个交易日报25.76亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3142592",
+          "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3142641",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时55分 ~ 05时59分]"
+        },
+        {
+          "title": "美国股市转跌，纳斯达克100指数完全回吐美股盘初1.8%的涨幅",
+          "url": "https://wallstreetcn.com/livenews/3143325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3142587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
         {
-          "title": "白宫要求按兵不动，美联储鹰派担心通胀“固化”",
-          "url": "https://flash.jin10.com/detail/20260731201248817800",
-          "source": "金十数据",
+          "title": "美元指数跌超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3142622",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
-        },
-        {
-          "title": "沃什美联储蜜月期结束！债市发出警告：投资者要求更强硬抗通胀信号",
-          "url": "https://flash.jin10.com/detail/20260731112054418800",
-          "source": "金十数据",
-          "ranks": [
-            29
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时17分"
+          "time_info": "04时55分"
         }
       ]
     },
@@ -1070,89 +1327,75 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 7,
+      "keyword_group": "存储 半导体",
+      "match_count": 6,
       "titles": [
         {
-          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
-          "url": "https://wallstreetcn.com/articles/3778287",
+          "title": "AI暴力反弹“昙花一现”，美股盘中存储股走低，闪迪转跌，亚马逊涨超13%，日元走强重回159，油价涨超2%",
+          "url": "https://wallstreetcn.com/articles/3778379",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 20时51分]"
-        },
-        {
-          "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时15分 ~ 04时55分]"
-        },
-        {
-          "title": "微软业绩提振AI信心，纳指100创年内第三大涨幅，芯片指数暴涨8%，美元跳水黄金夺回4100",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "周四（7月30日），美股行业ETF多数收涨，半导体ETF涨6.88%，全球科技股指数ETF、科技行业ETF至少涨5.5%。",
-          "url": "https://wallstreetcn.com/livenews/3142641",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时55分 ~ 05时59分]"
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
+          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
+          "url": "https://wallstreetcn.com/articles/3778379",
+          "source": "华尔街见闻",
           "ranks": [
-            17,
-            13
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时28分 ~ 20时51分]"
         },
         {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨1%，暂报2073点。 MarketVectorTM数字资产100中盘指数涨1.83%，报2381.55点，北京时间05:05刷新日低至2311.71点以来持续反弹。 MarketVector数字资产100指数涨1.68%，报12847.19点。 目前，Solana涨1.78%，狗狗币涨0.80%，XRP涨1.47%。 比特币涨1.54%，暂报64763.94美元，北京时间05:08跌至63269.29美元，随后持续上扬；以太坊涨1.18%，暂报1917.18美元。",
-          "url": "https://wallstreetcn.com/livenews/3142587",
-          "source": "华尔街见闻-快讯",
+          "title": "月内跑赢92%个股！茅台股价创3个月新高，白酒板块持续回升，均价紧追半导体",
+          "url": "https://www.cls.cn/detail/2441497",
+          "source": "财联社热门",
           "ranks": [
-            22
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时08分"
+          "appearance_count": 5,
+          "time_info": "[01时15分 ~ 05时59分]"
         },
         {
-          "title": "美元指数跌超0.9%",
-          "url": "https://wallstreetcn.com/livenews/3142622",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年07月31日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、家电等板块走低，半导体、通讯设备等板块走高",
+          "url": "https://flash.jin10.com/detail/20260731113358332800",
+          "source": "金十数据",
           "ranks": [
-            23
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时55分"
+          "time_info": "12时17分"
+        },
+        {
+          "title": "费城半导体指数几乎抹平日内5%涨幅",
+          "url": "https://flash.jin10.com/detail/20260731221046958800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "美股存储股走低，闪迪跌超2%，此前一度涨超9%；美光科技转跌，此前一度涨超6%，西部数据涨幅收窄至3%，SK海力士、希捷科技涨幅收窄至1%左右。",
+          "url": "https://wallstreetcn.com/livenews/3143307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         }
       ]
     },
@@ -1324,48 +1567,8 @@
       ]
     },
     {
-      "keyword_group": "存储 半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI暴力反弹！美股盘前存储股持续走强，亚马逊涨超12%，美元跳水，日元走强重回159",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时28分 ~ 20时51分]"
-        },
-        {
-          "title": "月内跑赢92%个股！茅台股价创3个月新高，白酒板块持续回升，均价紧追半导体",
-          "url": "https://www.cls.cn/detail/2441497",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时15分 ~ 05时59分]"
-        },
-        {
-          "title": "金十图示：2026年07月31日（周五）富时中国A50指数成分股午盘收盘行情一览：银行、保险、家电等板块走低，半导体、通讯设备等板块走高",
-          "url": "https://flash.jin10.com/detail/20260731113358332800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "回购",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股又一波增持回购潮来了！三环集团十天内“两”回购",
@@ -1377,6 +1580,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时15分 ~ 05时59分]"
+        },
+        {
+          "title": "淡水河谷：将于三季度于派息与股票回购之间做决定。",
+          "url": "https://wallstreetcn.com/livenews/3143336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
         },
         {
           "title": "乐鑫科技：拟以5000万元-1亿元回购公司股份",
@@ -1562,7 +1776,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
@@ -1612,11 +1826,29 @@
           "url": "https://wallstreetcn.com/articles/3778413",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时51分 ~ 23时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "立案调查",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "湘财股份：子公司湘财证券被证监会立案调查",
+          "url": "https://wallstreetcn.com/livenews/3143313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时51分"
+          "time_info": "23时14分"
         }
       ]
     },
