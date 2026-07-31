@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T03:06:52.104767+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-08-01T04:54:46.383137+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         },
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -71,8 +71,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         },
         {
           "title": "美国总统特朗普政府在委内瑞拉事务上的非正式顾问毛里西奥·克拉弗-卡罗内辞去了职务。",
@@ -349,11 +349,12 @@
           "url": "https://news.ifeng.com/c/8vDSNTsXzUU",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         },
         {
           "title": "伊朗革命卫队一天发表三份声明",
@@ -371,11 +372,12 @@
           "url": "https://wallstreetcn.com/livenews/3143428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时06分 ~ 04时54分]"
         },
         {
           "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
@@ -383,11 +385,12 @@
           "source": "今日头条",
           "ranks": [
             30,
-            20
+            20,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡暂停通行",
@@ -398,8 +401,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         },
         {
           "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
@@ -419,7 +422,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -430,7 +433,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -441,7 +444,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -482,7 +485,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "美联储巴尔金：利率是否足够高是个“难以断言”的问题。",
@@ -496,13 +499,35 @@
           "time_info": "01时18分"
         },
         {
+          "title": "美媒：美联储主席沃什据悉考虑减少美联储政策会议的频率",
+          "url": "https://flash.jin10.com/detail/20260801044238631800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "据纽约时报：美联储主席沃什考虑减少美联储政策会议的频率。",
+          "url": "https://flash.jin10.com/detail/20260801043504999800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
           "title": "报道：美联储要求美国各大银行关注欧元兑日元汇率",
           "url": "https://wallstreetcn.com/livenews/3143425",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -525,7 +550,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -536,7 +561,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         },
@@ -547,15 +572,26 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "原美联储副主席克拉里达敦促美联储明确通胀目标，此前沃什暗示可能做出调整",
+          "url": "https://wallstreetcn.com/livenews/3143432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
@@ -565,8 +601,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
+        },
+        {
+          "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
+          "url": "https://wallstreetcn.com/livenews/3143461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -574,11 +621,146 @@
           "source": "知乎",
           "ranks": [
             9,
-            12
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
+        },
+        {
+          "title": "7月份，美股存储芯片指数跌28.6%，半导体指数跌19.8%，美国科技股七巨头指数涨4.9%，标普大致持平，道指涨0.5%，纳指跌2.5%，银行指数涨3.4%。 周五当天，标普500指数初步收涨0.8%，可选消费板块涨6.2%，电信板块涨4.7%，科技板块跌0.2%，原材料板块跌2.7%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊初步收涨15.6%，德康医疗涨11.9%，谷歌A涨7%，新思科技涨4.5%，英伟达涨3.4%，SpaceX跌3.6%，Strategy跌4%，闪迪跌5.4%，美光科技跌5.6%，恩智浦跌6%，苹果跌7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3143446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美元指数31日上涨",
+          "url": "https://flash.jin10.com/detail/20260801041117348800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美元指数7月份跌超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3143438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "标普确认卢森堡AAA评级，前景展望稳定。",
+          "url": "https://wallstreetcn.com/livenews/3143454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收涨1.5%，7月份累涨10.8%。 热门中概股里，金山云初步收涨9.9%，阿里涨5.2%，新东方涨4.1%，百胜中国、百度涨超3%。 ETF中，KWEB初步收涨1.5%，CQQQ涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3143448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "标普、纳斯达克100指数涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3143444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "标普全球：卢森堡“AAA/A-1+”评级得到确认；展望稳定。",
+          "url": "https://flash.jin10.com/detail/20260801040558650800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "道琼斯指数7月31日（周五）收盘上涨277.45点，涨幅0.53%，报52485.51点；<br/>标普500指数7月31日（周五）收盘上涨52.13点，涨幅0.70%，报7489.76点；<br/>纳斯达克综合指数7月31日（周五）收盘上涨251.68点，涨幅1.00%，报25373.85点。",
+          "url": "https://flash.jin10.com/detail/20260801040544735800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "崔东树：上半年锂电池全口径总需求同比增长53% 行业增长转向多元支撑",
+          "url": "https://flash.jin10.com/detail/20260801025037199800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "苹果跌幅扩大至10%，创2025年4月以来最大盘中跌幅。苹果预计第四财季营收增长9%至11%，市场预期为增长12.1%。",
+          "url": "https://wallstreetcn.com/livenews/3143397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时06分]"
+        },
+        {
+          "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
@@ -595,8 +777,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -607,37 +789,36 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         }
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
+      "keyword_group": "风险",
       "match_count": 2,
       "titles": [
         {
-          "title": "崔东树：上半年锂电池全口径总需求同比增长53% 行业增长转向多元支撑",
-          "url": "https://flash.jin10.com/detail/20260801025037199800",
-          "source": "金十数据",
+          "title": "华尔街自2020年以来最大规模资金轮动，暴露AI交易拥挤风险",
+          "url": "https://wallstreetcn.com/livenews/3143459",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时06分"
+          "time_info": "04时54分"
         },
         {
-          "title": "苹果跌幅扩大至10%，创2025年4月以来最大盘中跌幅。苹果预计第四财季营收增长9%至11%，市场预期为增长12.1%。",
-          "url": "https://wallstreetcn.com/livenews/3143397",
+          "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
+          "url": "https://wallstreetcn.com/livenews/3143443",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            30
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
@@ -653,8 +834,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         },
         {
           "title": "恩智浦半导体(NXPI.O)下跌超4%，因英国金融时报报道公司正在洽谈收购驾驶辅助系统公司Ambarella。",
@@ -663,7 +844,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
         }
@@ -681,8 +862,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         },
         {
           "title": "中报“大考”倒计时！复盘近十年8月行情，哪些板块历史表现较佳？",
@@ -693,8 +874,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时18分 ~ 04时54分]"
         }
       ]
     },
@@ -726,9 +907,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元兑日元USD/JPY跌破158关口，现报157.99，日内跌0.92%，30分钟内跳水逾100点。",
+          "url": "https://flash.jin10.com/detail/20260801043329135800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     }
