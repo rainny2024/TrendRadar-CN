@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-08-01T05:57:23.812825+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-08-01T06:52:46.105022+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时52分]"
+        },
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
           "url": "https://news.ifeng.com/c/8vDDhdP8jJa",
@@ -16,19 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时57分]"
-        },
-        {
-          "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688329",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时52分]"
         },
         {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
@@ -37,20 +38,33 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
         },
         {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
           "url": "https://flash.jin10.com/detail/20260801054306728800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普已下令对伊朗发动新一轮攻击",
+          "url": "https://flash.jin10.com/detail/20260801053418447800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -64,24 +78,13 @@
           "time_info": "01时18分"
         },
         {
-          "title": "特朗普已下令对伊朗发动新一轮攻击",
-          "url": "https://flash.jin10.com/detail/20260801053418447800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
           "title": "报道：特朗普下令对伊朗发动新一轮袭击，最快本周末开始",
           "url": "https://wallstreetcn.com/livenews/3143485",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -97,15 +100,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
-          "url": "https://flash.jin10.com/detail/20260801050537920800",
-          "source": "金十数据",
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时52分]"
         },
         {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
@@ -120,26 +123,40 @@
           "time_info": "[01时18分 ~ 03时06分]"
         },
         {
-          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
-          "source": "澎湃新闻",
+          "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
+          "url": "https://flash.jin10.com/detail/20260801050537920800",
+          "source": "金十数据",
           "ranks": [
-            11
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时57分]"
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
         },
         {
           "title": "白宫：特朗普签署公告，促进美国对石英表面产品进口竞争作出积极调整。",
           "url": "https://flash.jin10.com/detail/20260801050448584800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
+        },
+        {
+          "title": "特朗普画K线！媒体称美以考虑开盘之前完成轰炸伊朗能源目标的“任务”",
+          "url": "https://wallstreetcn.com/livenews/3143471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
         },
         {
           "title": "美国总统特朗普政府在委内瑞拉事务上的非正式顾问毛里西奥·克拉弗-卡罗内辞去了职务。",
@@ -206,6 +223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
+          "url": "https://wallstreetcn.com/livenews/3143485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "美国总统特朗普：明尼苏达州正在发生涉及腐败的重大事件，影响深远。",
@@ -283,17 +311,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "特朗普画K线！媒体称美以考虑开盘之前完成轰炸伊朗能源目标的“任务”",
-          "url": "https://wallstreetcn.com/livenews/3143471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
         },
         {
           "title": "美国总统特朗普赞扬英伟达(NVDA.O)。",
@@ -420,7 +437,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -431,8 +448,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时52分]"
         },
         {
           "title": "伊朗革命卫队一天发表三份声明",
@@ -444,6 +461,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时06分]"
+        },
+        {
+          "title": "据塔斯尼姆通讯社：一位伊朗高级安全官员表示，伊朗认为美国和以色列可能袭击伊朗基础设施的计划是一种鲁莽行为。伊朗已制定一项全面的计划，包括打击以色列关键基础设施，以及该地区美国能源基础设施。",
+          "url": "https://flash.jin10.com/detail/20260801062202634800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书表示，美国政权持续实施海上封锁和煽动战火，不仅会进一步封锁霍尔木兹海峡，还会关闭其他海峡和交通要道。全球经济、能源市场和美国选民都将为此付出代价。",
+          "url": "https://flash.jin10.com/detail/20260801055438503800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "洲际交易所（ICE）：7月28日当周，投机者减持ICE布伦特原油净多头头寸6,948手合约，至185,083手合约。",
@@ -488,11 +527,35 @@
           "url": "https://flash.jin10.com/detail/20260801045602074800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
+        },
+        {
+          "title": "伊朗打击美军空中任务后勤保障枢纽",
+          "url": "https://www.douyin.com/hot/2591858",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
+          "url": "https://wallstreetcn.com/livenews/3143491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时57分"
+          "time_info": "06时52分"
         },
         {
           "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
@@ -526,17 +589,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "伊朗打击美军空中任务后勤保障枢纽",
-          "url": "https://www.douyin.com/hot/2591858",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
         },
         {
           "title": "洲际交易所（ICE）：截至7月28日当周，布伦特原油投机者将净多头头寸减少6,948手，至185,083手。柴油投机者将净多头头寸增加2,654手，至87,194手。",
@@ -586,7 +638,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美联储巴尔金：利率是否足够高是个“难以断言”的问题。",
@@ -611,6 +663,19 @@
           "time_info": "03时06分"
         },
         {
+          "title": "美媒：美联储主席沃什据悉考虑减少美联储政策会议的频率",
+          "url": "https://flash.jin10.com/detail/20260801044238631800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时52分]"
+        },
+        {
           "title": "美联储巴尔金：不知道自己是否会（像那三位异议成员一样在7月份FOMC货币政策会议上）投票支持加息。 并没有感觉到美国存在一个紧俏的劳动力市场。 价格上涨在美国经济中不均衡地传导。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3143402",
           "source": "华尔街见闻-快讯",
@@ -623,28 +688,28 @@
           "time_info": "[01时18分 ~ 03时06分]"
         },
         {
-          "title": "美媒：美联储主席沃什据悉考虑减少美联储政策会议的频率",
-          "url": "https://flash.jin10.com/detail/20260801044238631800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时57分]"
-        },
-        {
           "title": "据纽约时报：美联储主席沃什考虑减少美联储政策会议的频率。",
           "url": "https://flash.jin10.com/detail/20260801043504999800",
           "source": "金十数据",
           "ranks": [
             4,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时57分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时52分]"
+        },
+        {
+          "title": "CFTC：美联储7月决议前，交易员美元看涨押注升至2014年以来最高",
+          "url": "https://wallstreetcn.com/livenews/3143490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         },
         {
           "title": "周五（7月31日），美联储隔夜逆回购协议（RRP）使用规模为21.51亿美元（交易对手4家），上个交易日报10.76亿美元。",
@@ -675,7 +740,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
         },
@@ -700,131 +765,70 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时57分]"
         },
         {
-          "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
-          "url": "https://wallstreetcn.com/livenews/3143461",
+          "title": "报道：沃什考虑减少美联储政策会议的次数",
+          "url": "https://wallstreetcn.com/livenews/3143464",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时57分]"
-        },
-        {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时57分]"
-        },
-        {
-          "title": "7月份，美股存储芯片指数跌28.6%，半导体指数跌19.8%，美国科技股七巨头指数涨4.9%，标普大致持平，道指涨0.5%，纳指跌2.5%，银行指数涨3.4%。 周五当天，标普500指数初步收涨0.8%，可选消费板块涨6.2%，电信板块涨4.7%，科技板块跌0.2%，原材料板块跌2.7%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊初步收涨15.6%，德康医疗涨11.9%，谷歌A涨7%，新思科技涨4.5%，英伟达涨3.4%，SpaceX跌3.6%，Strategy跌4%，闪迪跌5.4%，美光科技跌5.6%，恩智浦跌6%，苹果跌7.1%。",
-          "url": "https://wallstreetcn.com/livenews/3143446",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "美元指数31日上涨",
-          "url": "https://flash.jin10.com/detail/20260801041117348800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "周五（7月31日），美股行业ETF涨跌各异，可选消费ETF收涨3.29%，网络股指数ETF涨2.59%，能源业ETF涨1%，半导体ETF涨0.3%，科技行业ETF跌0.22%，医疗业ETF跌0.59%，生物科技指数ETF跌1.87%。 2026年1-7月，半导体ETF累计上涨50.09%，能源业ETF涨35.03%，全球科技股指数ETF、科技行业ETF至少涨22.09%，可选消费ETF则累跌2.39%。",
-          "url": "https://wallstreetcn.com/livenews/3143468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "美元指数7月份跌超1.2%",
-          "url": "https://wallstreetcn.com/livenews/3143438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "美股三大指数集体高开 苹果跌超8%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B9%E6%9E%9C%E8%B7%8C%E8%B6%858%25",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "time_info": "06时52分"
         }
       ]
     },
     {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "标普成分股公司盈利超预期频率高于去年",
+          "url": "https://wallstreetcn.com/livenews/3143497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
         {
           "title": "标普道琼斯指数公司：将Ferguson Enterprises纳入标普500指数，取代Electronic Arts（艺电，EA）。",
           "url": "https://wallstreetcn.com/livenews/3143486",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
         },
         {
           "title": "周五（7月31日）纽约尾盘，标普500股指期货最终涨0.50%，道指期货涨0.31%，纳斯达克100股指期货涨0.26%。 罗素2000股指期货跌0.85%。",
           "url": "https://wallstreetcn.com/livenews/3143482",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，可选消费板块收涨6.07%，电信板块涨4.6%，工业板块涨0.79%表现第三，信息技术/科技板块跌0.54%，房地产板块跌0.68%，公用事业板块跌0.74%，原材料板块跌2.71%。",
+          "url": "https://wallstreetcn.com/livenews/3143467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
         },
         {
           "title": "标普确认卢森堡AAA评级，前景展望稳定。",
@@ -860,17 +864,6 @@
           "time_info": "04时54分"
         },
         {
-          "title": "标普500指数的11个板块中，可选消费板块收涨6.07%，电信板块涨4.6%，工业板块涨0.79%表现第三，信息技术/科技板块跌0.54%，房地产板块跌0.68%，公用事业板块跌0.74%，原材料板块跌2.71%。",
-          "url": "https://wallstreetcn.com/livenews/3143467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
           "title": "标普全球：卢森堡“AAA/A-1+”评级得到确认；展望稳定。",
           "url": "https://flash.jin10.com/detail/20260801040558650800",
           "source": "金十数据",
@@ -887,6 +880,106 @@
           "source": "金十数据",
           "ranks": [
             29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 05时57分]"
+        },
+        {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            9,
+            12,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时52分]"
+        },
+        {
+          "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
+          "url": "https://wallstreetcn.com/livenews/3143461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时57分]"
+        },
+        {
+          "title": "周五（7月31日），美股行业ETF涨跌各异，可选消费ETF收涨3.29%，网络股指数ETF涨2.59%，能源业ETF涨1%，半导体ETF涨0.3%，科技行业ETF跌0.22%，医疗业ETF跌0.59%，生物科技指数ETF跌1.87%。 2026年1-7月，半导体ETF累计上涨50.09%，能源业ETF涨35.03%，全球科技股指数ETF、科技行业ETF至少涨22.09%，可选消费ETF则累跌2.39%。",
+          "url": "https://wallstreetcn.com/livenews/3143468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
+        },
+        {
+          "title": "美股三大指数集体高开 苹果跌超8%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E8%8B%B9%E6%9E%9C%E8%B7%8C%E8%B6%858%25",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
+        },
+        {
+          "title": "7月份，美股存储芯片指数跌28.6%，半导体指数跌19.8%，美国科技股七巨头指数涨4.9%，标普大致持平，道指涨0.5%，纳指跌2.5%，银行指数涨3.4%。 周五当天，标普500指数初步收涨0.8%，可选消费板块涨6.2%，电信板块涨4.7%，科技板块跌0.2%，原材料板块跌2.7%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊初步收涨15.6%，德康医疗涨11.9%，谷歌A涨7%，新思科技涨4.5%，英伟达涨3.4%，SpaceX跌3.6%，Strategy跌4%，闪迪跌5.4%，美光科技跌5.6%，恩智浦跌6%，苹果跌7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3143446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美元指数31日上涨",
+          "url": "https://flash.jin10.com/detail/20260801041117348800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美元指数7月份跌超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3143438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -947,8 +1040,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时52分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -959,8 +1052,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时52分]"
         }
       ]
     },
@@ -1030,11 +1123,12 @@
           "url": "https://wallstreetcn.com/articles/3778413",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时52分]"
         },
         {
           "title": "中报“大考”倒计时！复盘近十年8月行情，哪些板块历史表现较佳？",
@@ -1045,8 +1139,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 05时57分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时52分]"
         }
       ]
     },
@@ -1060,22 +1154,41 @@
           "source": "金十数据",
           "ranks": [
             6,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时54分 ~ 05时57分]"
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 06时52分]"
         },
         {
           "title": "美元兑日元跌破158关口，现报157.99，日内跌0.92%，30内跳水逾100点。",
           "url": "https://wallstreetcn.com/livenews/3143466",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "暴涨",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球AI概念股集体反弹：欧股创历史新高 韩股暴涨近18%",
+          "url": "https://www.cls.cn/detail/2442691",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时57分"
+          "time_info": "06时52分"
         }
       ]
     },
