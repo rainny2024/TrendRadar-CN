@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T09:48:02.957509+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-08-01T13:17:21.797816+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普对伊朗战事失去耐心，傅立民：他对谈判的理解本质上就错了",
@@ -32,6 +32,19 @@
           "time_info": "[01时18分 ~ 06时52分]"
         },
         {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 13时17分]"
+        },
+        {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
           "url": "https://news.ifeng.com/c/8vDwIljTGY5",
           "source": "凤凰网",
@@ -41,18 +54,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时53分]"
-        },
-        {
-          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时48分]"
         },
         {
           "title": "五角大楼发言人：美国国防部随时准备执行特朗普总统的指示。",
@@ -127,6 +128,18 @@
           "time_info": "01时18分"
         },
         {
+          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
+          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时17分]"
+        },
+        {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
           "url": "https://wallstreetcn.com/livenews/3143400",
           "source": "华尔街见闻-快讯",
@@ -149,17 +162,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时53分]"
-        },
-        {
-          "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
-          "url": "https://news.ifeng.com/c/8vEF0vvkrzw",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
@@ -208,6 +210,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "特朗普对伊朗失去信心，称对方撒谎",
           "url": "https://wallstreetcn.com/livenews/3143394",
           "source": "华尔街见闻-快讯",
@@ -217,6 +230,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "特朗普：与伊朗可以达成协议 但对他们越来越不信任",
@@ -340,6 +364,17 @@
           "time_info": "01时18分"
         },
         {
+          "title": "你和特朗普谁是老大？内塔尼亚胡：他是大股东，但我也有底线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33690982",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）可以达成协议。",
           "url": "https://flash.jin10.com/detail/20260801002327661800",
           "source": "金十数据",
@@ -453,7 +488,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -468,28 +503,6 @@
           "time_info": "[01时18分 ~ 09时48分]"
         },
         {
-          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
-          "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "伊朗警告打击美以能源基础设施",
-          "url": "https://news.ifeng.com/c/8vE5HdfLPru",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
           "title": "伊朗革命卫队一天发表三份声明",
           "url": "https://v.ifeng.com/c/8vBu9vCGaU5",
           "source": "凤凰网",
@@ -499,6 +512,44 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时06分]"
+        },
+        {
+          "title": "伊朗打击美军空中任务后勤保障枢纽",
+          "url": "https://www.douyin.com/hot/2591858",
+          "source": "抖音",
+          "ranks": [
+            17,
+            18,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时57分 ~ 13时17分]"
+        },
+        {
+          "title": "美以计划对伊朗能源设施发动迄今最猛烈轰炸",
+          "url": "https://news.ifeng.com/c/8vE4QnKuvOF",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时17分]"
+        },
+        {
+          "title": "伊朗警告打击美以能源基础设施",
+          "url": "https://news.ifeng.com/c/8vE5HdfLPru",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时17分]"
         },
         {
           "title": "据塔斯尼姆通讯社：一位伊朗高级安全官员表示，伊朗认为美国和以色列可能袭击伊朗基础设施的计划是一种鲁莽行为。伊朗已制定一项全面的计划，包括打击以色列关键基础设施，以及该地区美国能源基础设施。",
@@ -531,22 +582,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
-        },
-        {
-          "title": "伊朗打击美军空中任务后勤保障枢纽",
-          "url": "https://www.douyin.com/hot/2591858",
-          "source": "抖音",
-          "ranks": [
-            17,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时57分 ~ 09时48分]"
         },
         {
           "title": "洲际交易所（ICE）：7月28日当周，投机者减持ICE布伦特原油净多头头寸6,948手合约，至185,083手合约。",
@@ -599,6 +637,18 @@
           "time_info": "[01时18分 ~ 05时57分]"
         },
         {
+          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
+          "url": "https://wallstreetcn.com/articles/3778449",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时17分]"
+        },
+        {
           "title": "据CBS：美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标。",
           "url": "https://flash.jin10.com/detail/20260801045602074800",
           "source": "金十数据",
@@ -609,17 +659,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时53分]"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
-          "url": "https://wallstreetcn.com/articles/3778449",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
@@ -643,6 +682,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时53分"
+        },
+        {
+          "title": "伊朗：已制定计划应对潜在美以袭击",
+          "url": "https://www.toutiao.com/trending/7668829809023402026/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
@@ -792,11 +842,12 @@
           "url": "https://wallstreetcn.com/articles/3778467",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时17分]"
         },
         {
           "title": "CFTC：美联储7月决议前，交易员美元看涨押注升至2014年以来最高",
@@ -817,7 +868,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -828,7 +879,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -839,7 +890,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -912,9 +963,182 @@
       ]
     },
     {
+      "keyword_group": "增长 亮眼",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "崔东树：上半年锂电池全口径总需求同比增长53% 行业增长转向多元支撑",
+          "url": "https://flash.jin10.com/detail/20260801025037199800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "澳门7月幸运博彩毛收入202.6亿亿澳门元，同比下降8.4%，预估为下降6.2%。 澳门1-7月份幸运博彩毛收入1,471.6亿澳门元，同比增长4.4%。",
+          "url": "https://wallstreetcn.com/livenews/3143559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "蔚来公司7月交付35,934台，同比增长71%",
+          "url": "https://wallstreetcn.com/livenews/3143558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "苹果跌幅扩大至10%，创2025年4月以来最大盘中跌幅。苹果预计第四财季营收增长9%至11%，市场预期为增长12.1%。",
+          "url": "https://wallstreetcn.com/livenews/3143397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时06分]"
+        },
+        {
+          "title": "昊铂埃安BU七月销量34987辆 同比增长31.74%",
+          "url": "https://flash.jin10.com/detail/20260801123004003800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "蔚来7月交付新车35934台，同比增长71%",
+          "url": "https://flash.jin10.com/detail/20260801121549512800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "诺里尔斯克镍业上半年EBITDA达39.4亿美元，同比增长50%",
+          "url": "https://wallstreetcn.com/livenews/3143526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "岚图汽车：2026年7月交付13189辆，1-7月累计交付89453辆，同比增长31%。",
+          "url": "https://flash.jin10.com/detail/20260801120714181800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "鸿蒙智行：7月交付45,046台，1-7月累计交付28.6万台，同比增长13.7%。",
+          "url": "https://wallstreetcn.com/livenews/3143550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "韩国7月出口延续强劲势头，芯片热潮驱动经济增长",
+          "url": "https://wallstreetcn.com/livenews/3143522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "极狐汽车：7月交付23,517台，同比增长150.45%，1-7月累计交付超10万台。",
+          "url": "https://flash.jin10.com/detail/20260801115508370800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "深蓝汽车：7月全球销量29213辆，同比增长7.52%",
+          "url": "https://wallstreetcn.com/livenews/3143543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "鸿蒙智行：7月交付45,046台，1-7月累计交付28.6万台，同比增长13.7%。",
+          "url": "https://flash.jin10.com/detail/20260801110746987800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时53分 ~ 13时17分]"
+        },
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
           "url": "https://wallstreetcn.com/articles/3778287",
@@ -925,18 +1149,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 05时57分]"
-        },
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时53分 ~ 09时48分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -1136,130 +1348,8 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "崔东树：上半年锂电池全口径总需求同比增长53% 行业增长转向多元支撑",
-          "url": "https://flash.jin10.com/detail/20260801025037199800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "苹果跌幅扩大至10%，创2025年4月以来最大盘中跌幅。苹果预计第四财季营收增长9%至11%，市场预期为增长12.1%。",
-          "url": "https://wallstreetcn.com/livenews/3143397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时06分]"
-        },
-        {
-          "title": "诺里尔斯克镍业上半年EBITDA达39.4亿美元，同比增长50%",
-          "url": "https://wallstreetcn.com/livenews/3143526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3143449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "韩国7月出口延续强劲势头，芯片热潮驱动经济增长",
-          "url": "https://wallstreetcn.com/livenews/3143522",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【焦点复盘】科创50高开低走录得日线4连阴，算力硬件股批量炸板回落，机器人概念卷土重来",
-          "url": "https://www.cls.cn/detail/2442703",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时48分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
-          "url": "https://www.cls.cn/detail/2442641",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "暴涨",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "南方两倍做多海力士创纪录暴涨68%，下周切换灵活杠杆将如何变化？",
-          "url": "https://www.cls.cn/detail/2443184",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "全球AI概念股集体反弹：欧股创历史新高 韩股暴涨近18%",
-          "url": "https://www.cls.cn/detail/2442691",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "风险",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "华尔街自2020年以来最大规模资金轮动，暴露AI交易拥挤风险",
@@ -1274,6 +1364,17 @@
           "time_info": "[04时54分 ~ 05时57分]"
         },
         {
+          "title": "吉林省发布山洪灾害气象风险橙色预警",
+          "url": "https://wallstreetcn.com/livenews/3143552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
           "title": "专家：Anthropic与OpenAI入侵事件预示美国安全风险",
           "url": "https://wallstreetcn.com/livenews/3143443",
           "source": "华尔街见闻-快讯",
@@ -1283,12 +1384,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "甘肃省发布地质灾害气象风险红色预警",
+          "url": "https://wallstreetcn.com/livenews/3143544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国对40余家中国企业实施单边制裁，商务部回应",
+          "url": "https://news.ifeng.com/c/8vEIU657hn0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692619",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "据塞尔维亚国家电视台：塞尔维亚再次获得美国针对其俄资石油公司NIS的制裁豁免。",
+          "url": "https://flash.jin10.com/detail/20260801014443446800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
+          "url": "https://wallstreetcn.com/livenews/3143536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -1300,6 +1462,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 05时57分]"
+        },
+        {
+          "title": "受强震影响 日本“硅岛”多家半导体工厂持续停产",
+          "url": "https://flash.jin10.com/detail/20260801115705195800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         },
         {
           "title": "恩智浦半导体(NXPI.O)下跌超4%，因英国金融时报报道公司正在洽谈收购驾驶辅助系统公司Ambarella。",
@@ -1316,7 +1489,7 @@
     },
     {
       "keyword_group": "复盘",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“AI股神”是如何崩盘的？华尔街一线复盘爆仓全过程",
@@ -1329,8 +1502,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时48分]"
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 13时17分]"
         },
         {
           "title": "中报“大考”倒计时！复盘近十年8月行情，哪些板块历史表现较佳？",
@@ -1343,6 +1516,108 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 07时53分]"
+        },
+        {
+          "title": "复盘T1零封GEN",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98T1%E9%9B%B6%E5%B0%81GEN",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "韩国股市今年以来第九次触发熔断机制，120 万人爆仓为什么没有对韩国人的生活产生任何影响？",
+          "url": "https://www.zhihu.com/question/2064266887324775991",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "韩国股市今年以来第九次触发熔断机制，120 万人爆仓，但为什么对韩国人日常生活的冲击看起来好像并不明显？",
+          "url": "https://www.zhihu.com/question/2064266887324775991",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】科创50高开低走录得日线4连阴，算力硬件股批量炸板回落，机器人概念卷土重来",
+          "url": "https://www.cls.cn/detail/2442703",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 13时17分]"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
+          "url": "https://www.cls.cn/detail/2442641",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时18分 ~ 13时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "暴涨",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "南方两倍做多海力士创纪录暴涨68%，下周切换灵活杠杆将如何变化？",
+          "url": "https://www.cls.cn/detail/2443184",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时17分]"
+        },
+        {
+          "title": "全球AI概念股集体反弹：欧股创历史新高 韩股暴涨近18%",
+          "url": "https://www.cls.cn/detail/2442691",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         }
       ]
     },
@@ -1378,19 +1653,19 @@
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
+      "keyword_group": "涨价 核心材料",
       "match_count": 1,
       "titles": [
         {
-          "title": "韩国股市今年以来第九次触发熔断机制，120 万人爆仓为什么没有对韩国人的生活产生任何影响？",
-          "url": "https://www.zhihu.com/question/2064266887324775991",
-          "source": "知乎",
+          "title": "曝AMD显卡将涨价",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DAMD%E6%98%BE%E5%8D%A1%E5%B0%86%E6%B6%A8%E4%BB%B7",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            21
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -1408,23 +1683,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "据塞尔维亚国家电视台：塞尔维亚再次获得美国针对其俄资石油公司NIS的制裁豁免。",
-          "url": "https://flash.jin10.com/detail/20260801014443446800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
         }
       ]
     }
