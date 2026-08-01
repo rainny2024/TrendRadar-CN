@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T20:54:36.431505+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-08-01T22:22:11.108554+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
@@ -18,6 +18,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 07时53分]"
+        },
+        {
+          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
+          "url": "https://wallstreetcn.com/articles/3778460",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时17分 ~ 22时22分]"
         },
         {
           "title": "特朗普称与哈马斯及加沙其他武装团体达成解除武装协议",
@@ -45,6 +58,19 @@
           "time_info": "[01时18分 ~ 13时17分]"
         },
         {
+          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
+          "url": "https://www.cls.cn/detail/2443172",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时17分 ~ 22时22分]"
+        },
+        {
           "title": "美官员：特朗普已下令对伊朗发动新一轮袭击",
           "url": "https://news.ifeng.com/c/8vDwIljTGY5",
           "source": "凤凰网",
@@ -54,19 +80,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时53分]"
-        },
-        {
-          "title": "特朗普称对伊朗协议“失去信心”、据称下令新袭击，美以被曝酝酿周末轰炸伊能源设施",
-          "url": "https://wallstreetcn.com/articles/3778460",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 20时54分]"
         },
         {
           "title": "多国应对西班牙飞地移民危机，特朗普：这是入侵",
@@ -107,17 +120,18 @@
           "time_info": "[05时57分 ~ 09时48分]"
         },
         {
-          "title": "新一轮袭击箭在弦上？美官员称特朗普已下令 伊朗厉声警告",
-          "url": "https://www.cls.cn/detail/2443172",
-          "source": "财联社热门",
+          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            8,
-            9
+            16,
+            14,
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 20时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时02分 ~ 22时22分]"
         },
         {
           "title": "特朗普：以色列在哈马斯解除武装计划方面“表现出色”",
@@ -166,18 +180,15 @@
           "time_info": "01时18分"
         },
         {
-          "title": "美官员称特朗普已下令对伊朗发动新袭击：可能本周末启动",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692652",
-          "source": "澎湃新闻",
+          "title": "特朗普：伊朗确实挺硬气",
+          "url": "https://news.ifeng.com/c/8vErXsygJc0",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            14,
-            12,
             10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时02分 ~ 20时54分]"
+          "time_info": "[19时55分 ~ 22时22分]"
         },
         {
           "title": "特朗普否认允许乌生产爱国者拦截弹",
@@ -216,27 +227,41 @@
           "time_info": "[05时57分 ~ 07时53分]"
         },
         {
-          "title": "特朗普：伊朗确实挺硬气",
-          "url": "https://news.ifeng.com/c/8vErXsygJc0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 20时54分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-01）",
           "url": "https://flash.jin10.com/detail/20260801184158588800",
           "source": "金十数据",
           "ranks": [
             9,
-            15
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时22分]"
+        },
+        {
+          "title": "特朗普威胁参议员通过其司法部长人选",
+          "url": "https://flash.jin10.com/detail/20260801195052778800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时56分 ~ 20时54分]"
+          "time_info": "[20时54分 ~ 22时22分]"
+        },
+        {
+          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3143604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时22分]"
         },
         {
           "title": "美官员称特朗普已下令对伊朗发动新一轮袭击，最早可能周末开始行动",
@@ -275,17 +300,6 @@
           "time_info": "[05时57分 ~ 06时52分]"
         },
         {
-          "title": "特朗普威胁参议员通过其司法部长人选",
-          "url": "https://flash.jin10.com/detail/20260801195052778800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "美国总统特朗普政府在委内瑞拉事务上的非正式顾问毛里西奥·克拉弗-卡罗内辞去了职务。",
           "url": "https://flash.jin10.com/detail/20260801003644824800",
           "source": "金十数据",
@@ -317,17 +331,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "特朗普敦促参议员批准Blanche担任美国司法部长。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3143604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
         },
         {
           "title": "特朗普：与伊朗可以达成协议 但对他们越来越不信任",
@@ -564,7 +567,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行",
@@ -629,17 +632,6 @@
           "time_info": "[01时18分 ~ 03时06分]"
         },
         {
-          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
-          "url": "https://flash.jin10.com/detail/20260801202347340800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "伊朗打击美军空中任务后勤保障枢纽",
           "url": "https://www.douyin.com/hot/2591858",
           "source": "抖音",
@@ -700,6 +692,18 @@
           "time_info": "16时02分"
         },
         {
+          "title": "据卡塔尔通讯社：海湾合作委员会秘书长谴责伊朗对科威特平民设施的攻击。",
+          "url": "https://flash.jin10.com/detail/20260801202347340800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时22分]"
+        },
+        {
           "title": "伊朗警告称美国海军封锁可能导致更多海峡关闭",
           "url": "https://wallstreetcn.com/livenews/3143573",
           "source": "华尔街见闻-快讯",
@@ -750,6 +754,19 @@
           "time_info": "[07时53分 ~ 09时48分]"
         },
         {
+          "title": "伊朗军方称近期使用新型无人机",
+          "url": "https://flash.jin10.com/detail/20260801163642334800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 22时22分]"
+        },
+        {
           "title": "伊朗在霍尔木兹击中并扣留2艘油轮",
           "url": "https://www.toutiao.com/trending/7668445091514155050/",
           "source": "今日头条",
@@ -776,16 +793,30 @@
           "time_info": "[01时18分 ~ 05时57分]"
         },
         {
-          "title": "伊朗军方称近期使用新型无人机",
-          "url": "https://flash.jin10.com/detail/20260801163642334800",
-          "source": "金十数据",
+          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
+          "url": "https://wallstreetcn.com/livenews/3143596",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            7
+            7,
+            17,
+            29
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时26分 ~ 20时54分]"
+          "time_info": "[19时56分 ~ 22时22分]"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社援引一位州长的话称，伊朗西部伊斯拉马巴德·哈布附近发生的爆炸是由于一枚旧炮弹引发的。",
+          "url": "https://flash.jin10.com/detail/20260801184828572800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时22分]"
         },
         {
           "title": "据CBS：美国和以色列正准备最早于本周末轰炸伊朗的能源相关目标。",
@@ -798,6 +829,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时53分]"
+        },
+        {
+          "title": "伊朗霍尔木兹甘省省长政治、安全与社会事务副手：关于撤离霍尔木兹甘省部分地区的传言完全是无稽之谈。",
+          "url": "https://flash.jin10.com/detail/20260801183717159800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时22分]"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗克尔曼沙阿省西伊斯兰堡发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20260801183237897800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时22分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
@@ -824,18 +881,6 @@
           "time_info": "[18时26分 ~ 19时56分]"
         },
         {
-          "title": "伊朗称，伊斯兰阿巴德西吉尔的爆炸是由旧炮弹引起的。",
-          "url": "https://wallstreetcn.com/livenews/3143596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 20时54分]"
-        },
-        {
           "title": "伊朗称中东地区国家应重新考虑与美国的“合作与结盟”",
           "url": "https://flash.jin10.com/detail/20260801164731787800",
           "source": "金十数据",
@@ -848,30 +893,6 @@
           "time_info": "[18时26分 ~ 19时56分]"
         },
         {
-          "title": "伊朗塔斯尼姆通讯社援引一位州长的话称，伊朗西部伊斯拉马巴德·哈布附近发生的爆炸是由于一枚旧炮弹引发的。",
-          "url": "https://flash.jin10.com/detail/20260801184828572800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 20时54分]"
-        },
-        {
-          "title": "伊朗霍尔木兹甘省省长政治、安全与社会事务副手：关于撤离霍尔木兹甘省部分地区的传言完全是无稽之谈。",
-          "url": "https://flash.jin10.com/detail/20260801183717159800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 20时54分]"
-        },
-        {
           "title": "科威特称，伊朗无人机袭击科威特北部政府设施，袭击其北部政府设施。",
           "url": "https://wallstreetcn.com/livenews/3143576",
           "source": "华尔街见闻-快讯",
@@ -882,18 +903,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时26分 ~ 19时56分]"
-        },
-        {
-          "title": "据沙特媒体哈达斯：伊朗克尔曼沙阿省西伊斯兰堡发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20260801183237897800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 20时54分]"
         },
         {
           "title": "伊朗西部伊斯兰阿巴德西吉尔附近听到爆炸声。",
@@ -930,6 +939,17 @@
           "time_info": "13时17分"
         },
         {
+          "title": "美财长称正在全球范围内追查伊朗资产",
+          "url": "https://wallstreetcn.com/livenews/3143618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "伊朗称已关闭霍尔木兹海峡，美中央司令部否认",
           "url": "https://wallstreetcn.com/livenews/3143392",
           "source": "华尔街见闻-快讯",
@@ -939,6 +959,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
+        },
+        {
+          "title": "美国媒体披露美军向伊朗居民区投重磅炸弹",
+          "url": "https://wallstreetcn.com/livenews/3143616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "伊朗政府：伊朗外长阿拉格奇与印度外长苏杰生通电话，讨论了双边关系及地区最新局势。",
@@ -1304,8 +1335,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 20时54分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 22时22分]"
         },
         {
           "title": "美联储巴尔金：利率是否足够高是个“难以断言”的问题。",
@@ -1493,8 +1524,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时53分 ~ 20时54分]"
+          "appearance_count": 11,
+          "time_info": "[07时53分 ~ 22时22分]"
         },
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
@@ -1705,85 +1736,8 @@
       ]
     },
     {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美国对40余家中国企业实施单边制裁，商务部回应",
-          "url": "https://news.ifeng.com/c/8vEIU657hn0",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时17分 ~ 18时26分]"
-        },
-        {
-          "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33692619",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时17分 ~ 20时54分]"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：乌克兰军方袭击了一艘名为YANINA、载重超过10万吨的受制裁俄罗斯集装箱船。",
-          "url": "https://flash.jin10.com/detail/20260801190720839800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 20时54分]"
-        },
-        {
-          "title": "据塞尔维亚国家电视台：塞尔维亚再次获得美国针对其俄资石油公司NIS的制裁豁免。",
-          "url": "https://flash.jin10.com/detail/20260801014443446800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "匈牙利总理毛焦尔：新政府法令将寻求大型用户自愿削减电力需求，若未达成将施加制裁。",
-          "url": "https://flash.jin10.com/detail/20260801162227591800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时26分"
-        },
-        {
-          "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
-          "url": "https://wallstreetcn.com/livenews/3143536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "存储 半导体",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI暴力反弹“昙花一现”，美股指转跌，存储股走低，亚马逊逆市涨超14%，日元走强重回159，油价涨超2%",
@@ -1807,6 +1761,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时55分 ~ 20时54分]"
+        },
+        {
+          "title": "铠侠拉开“巨额回购”大幕，存储巨头“回购牛市”即将到来？",
+          "url": "https://wallstreetcn.com/articles/3778486",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "中微尹志尧：未来五年内至少覆盖六成半导体高端设备",
@@ -1840,6 +1805,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33692619",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时17分 ~ 22时22分]"
+        },
+        {
+          "title": "美国对40余家中国企业实施单边制裁，商务部回应",
+          "url": "https://news.ifeng.com/c/8vEIU657hn0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时17分 ~ 18时26分]"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：乌克兰军方袭击了一艘名为YANINA、载重超过10万吨的受制裁俄罗斯集装箱船。",
+          "url": "https://flash.jin10.com/detail/20260801190720839800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 22时22分]"
+        },
+        {
+          "title": "据塞尔维亚国家电视台：塞尔维亚再次获得美国针对其俄资石油公司NIS的制裁豁免。",
+          "url": "https://flash.jin10.com/detail/20260801014443446800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "匈牙利总理毛焦尔：新政府法令将寻求大型用户自愿削减电力需求，若未达成将施加制裁。",
+          "url": "https://flash.jin10.com/detail/20260801162227591800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
+          "title": "商务部就美国将中国企业列入所谓涉疆法案实体清单答问",
+          "url": "https://wallstreetcn.com/livenews/3143536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -1901,26 +1944,28 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "高至2万美元 美签证保证金将涨价并长期化",
-          "url": "https://wallstreetcn.com/livenews/3143606",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "最近内存、存储甚至显卡涨价，一个个都说自己要当等等党，等到 2040 年能成功吗？",
           "url": "https://www.zhihu.com/question/2065533036477915827",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时54分 ~ 22时22分]"
+        },
+        {
+          "title": "高至2万美元 美签证保证金将涨价并长期化",
+          "url": "https://wallstreetcn.com/livenews/3143606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 22时22分]"
         },
         {
           "title": "曝AMD显卡将涨价",
@@ -1940,6 +1985,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33689079",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时26分 ~ 22时22分]"
+        },
+        {
           "title": "据英国金融时报：恩智浦半导体(NXPI.O)正洽谈收购一家价值33亿美元的自动驾驶汽车摄像头芯片设计公司。",
           "url": "https://flash.jin10.com/detail/20260801004438051800",
           "source": "金十数据",
@@ -1949,18 +2006,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        },
-        {
-          "title": "国产人工心脏公司被举报未经申报更换控制芯片，江苏省药监局：违法行为轻微并及时改正，不予行政处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33689079",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时54分]"
         },
         {
           "title": "中国芯片行业不能只靠“卷老头”",
@@ -2097,8 +2142,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时47分 ~ 20时54分]"
+          "appearance_count": 10,
+          "time_info": "[09时47分 ~ 22时22分]"
         },
         {
           "title": "全球AI概念股集体反弹：欧股创历史新高 韩股暴涨近18%",
@@ -2155,11 +2200,12 @@
           "ranks": [
             6,
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时02分 ~ 20时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时02分 ~ 22时22分]"
         }
       ]
     },
