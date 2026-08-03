@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T13:31:38.932469+08:00",
-  "total_titles_processed": 945,
+  "generated_at": "2026-08-03T17:02:04.582630+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[09时46分 ~ 17时02分]"
         },
         {
           "title": "伊朗革命卫队：将针对哈尼亚、阿亚图拉·哈梅内伊遇袭事件实施猛烈、毁灭性报复。",
@@ -393,7 +393,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -475,6 +475,17 @@
           "time_info": "01时53分"
         },
         {
+          "title": "伊外交部：乌克兰袭击伊朗商船可能是蓄意行为",
+          "url": "https://wallstreetcn.com/livenews/3144011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗与阿曼的会谈是双边的，不涉及其他任何方。我们重申，霍尔木兹海峡的局势不会回到战争前的状态。",
           "url": "https://flash.jin10.com/detail/20260803003809252800",
           "source": "金十数据",
@@ -484,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "伊朗外交部：近日无接待或派遣代表团的计划",
+          "url": "https://wallstreetcn.com/livenews/3144010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
         },
         {
           "title": "伊朗外交部长：与阿曼就霍尔木兹海峡的谈判进入最后阶段。",
@@ -544,7 +566,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -654,13 +676,47 @@
           "time_info": "[01时53分 ~ 06时45分]"
         },
         {
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时02分]"
+        },
+        {
           "title": "特朗普：已决定惩罚加拿大",
           "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
           "source": "凤凰网",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -851,6 +907,17 @@
           "time_info": "[02时54分 ~ 04时05分]"
         },
         {
+          "title": "特朗普盟友威胁杀死普京，俄媒怒怼",
+          "url": "https://news.ifeng.com/c/8vHyypr7Wj0",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
           "title": "特朗普再提珍珠港事件",
           "url": "https://www.toutiao.com/trending/7668570014715346971/",
           "source": "今日头条",
@@ -871,17 +938,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时44分"
-        },
-        {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
         },
         {
           "title": "特朗普叫停对伊新打击，称协议“即将达成”，美油开盘暴跌超8%！",
@@ -956,7 +1012,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1000,7 +1056,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
@@ -1008,7 +1064,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "下周重磅日程：美国非农与中国CPI、SpaceX首份财报+解禁、AMD闪迪财报",
@@ -1027,11 +1083,23 @@
           "url": "https://wallstreetcn.com/articles/3778513",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时45分 ~ 13时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 17时02分]"
+        },
+        {
+          "title": "高盛旗帜鲜明：这是人类历史上最大规模的资本需求周期，美联储只是看客",
+          "url": "https://wallstreetcn.com/articles/3778540",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "本周重要事件与数据预告：美国非农，中国7月外储、CPI及贸易帐，SpaceX财报",
@@ -1043,6 +1111,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        },
+        {
+          "title": "沃什怎么想？9月会加息吗？在8月美联储“杰克逊霍尔年会”前，市场都将纠结",
+          "url": "https://wallstreetcn.com/articles/3778508",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时02分]"
         },
         {
           "title": "美联储9月加息25个基点的概率为73.6%",
@@ -1082,24 +1162,13 @@
           "time_info": "07时50分"
         },
         {
-          "title": "沃什怎么想？9月会加息吗？在8月美联储“杰克逊霍尔年会”前，市场都将纠结",
-          "url": "https://wallstreetcn.com/articles/3778508",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
           "title": "救日元也要护美债，贝森特推动美联储流动性工具扩容",
           "url": "https://flash.jin10.com/detail/20260803122507266800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1118,8 +1187,21 @@
     },
     {
       "keyword_group": "涨价 核心材料",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "康师傅冰红茶为何一次涨价就大幅丢失市场？",
+          "url": "https://www.zhihu.com/question/2063895390546563948",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 17时02分]"
+        },
         {
           "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
           "url": "https://www.zhihu.com/question/2067173581734286185",
@@ -1152,19 +1234,6 @@
           "time_info": "[00时45分 ~ 07时50分]"
         },
         {
-          "title": "康师傅冰红茶为何一次涨价就大幅丢失市场？",
-          "url": "https://www.zhihu.com/question/2063895390546563948",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时50分 ~ 13时31分]"
-        },
-        {
           "title": "康师傅冰红茶为何一次涨价就大幅丢失市场？ ？",
           "url": "https://www.zhihu.com/question/2063895390546563948",
           "source": "知乎",
@@ -1176,6 +1245,28 @@
           "time_info": "[05时44分 ~ 06时45分]"
         },
         {
+          "title": "iPhone要涨价了 最高或涨1350元",
+          "url": "https://www.baidu.com/s?wd=iPhone%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86+%E6%9C%80%E9%AB%98%E6%88%96%E6%B6%A81350%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "手机涨价潮蔓延：小米年内三调价",
+          "url": "https://wallstreetcn.com/livenews/3144001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
           "title": "你的下一张电话卡会涨价吗",
           "url": "https://www.toutiao.com/trending/7668710585702432794/",
           "source": "今日头条",
@@ -1185,6 +1276,145 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
+          "url": "https://www.toutiao.com/trending/7668995465958051347/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA+%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "玩脱了,解说内涵Shy哥遭制裁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356731&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E8%A7%A3%E8%AF%B4%E5%86%85%E6%B6%B5Shy%E5%93%A5%E9%81%AD%E5%88%B6%E8%A3%81",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时02分]"
+        },
+        {
+          "title": "以色列外交部长：以色列正与美国一道持续对抗国际刑事法院。近期已有多个国家退出国际刑事法院，相关进程应当持续推进，并配合美国实施的制裁举措。",
+          "url": "https://flash.jin10.com/detail/20260803022811797800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时54分 ~ 05时44分]"
+        },
+        {
+          "title": "中国棉花协会：反对美方制裁打压中国棉纺织企业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33697594",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时46分 ~ 13时31分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子思念水饺",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "今年上半年分红险保费同比增长94.4%",
+          "url": "https://wallstreetcn.com/livenews/3143745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 07时50分]"
+        },
+        {
+          "title": "世行下调菲律宾2027年经济增长预期",
+          "url": "https://www.toutiao.com/trending/7668878799287566382/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "机构：第二季度全球智能手机营收增长7%，创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3143899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "迅策(03317.HK)开盘大幅走高，现涨14.98%，报119港元。日前公司预期上半年收入同比大幅增长约388.76%，经调整净利润约6700万元，同比扭亏为盈。",
+          "url": "https://flash.jin10.com/detail/20260803092227576800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "上半年我国海船新承接订单量同比增长105.2%",
+          "url": "https://flash.jin10.com/detail/20260803091754126800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
@@ -1260,6 +1490,67 @@
       ]
     },
     {
+      "keyword_group": "涨停 跌停",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "A股商业物业经营板块直线拉升，锦和商管涨停，深赛格、香江控股、华联股份、轻纺城、海宁皮城等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260803093234323800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "A股券商、金融科技股早盘下挫，湘财股份、国盛证券逼近跌停，广发证券、指南针、同花顺、中银证券跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3143820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "A股煤炭开采加工拉升，新大洲A涨停，华电能源、安泰集团、恒源煤电、开滦股份、美锦能源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3143907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "核电板块掀涨停潮：千亿投资“落袋”，产业链迎确定性时刻",
+          "url": "https://www.cls.cn/detail/2443935",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "A股核电板块开盘活跃，利柏特接近涨停，江苏神通、常辅股份、哈焊华通、合锻智能涨超5%，消息上，国常会决定核准辽宁庄河一期工程等四个核电项目，总投资将超过1700亿元。",
+          "url": "https://wallstreetcn.com/livenews/3143808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "日经 韩国股市",
       "match_count": 4,
       "titles": [
@@ -1293,11 +1584,12 @@
           "url": "https://s.weibo.com/weibo?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E9%80%BE%E7%99%BE%E4%B8%87%E8%B4%A6%E6%88%B7%E7%88%86%E4%BB%93&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时02分]"
         },
         {
           "title": "日经225指数日内跌幅扩大至2%。",
@@ -1356,60 +1648,59 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
+      "keyword_group": "科创 创业 创业板 科创板",
       "match_count": 4,
       "titles": [
         {
-          "title": "今年上半年分红险保费同比增长94.4%",
-          "url": "https://wallstreetcn.com/livenews/3143745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 07时50分]"
-        },
-        {
-          "title": "机构：第二季度全球智能手机营收增长7%，创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3143899",
-          "source": "华尔街见闻-快讯",
+          "title": "科创50跌超5%，半导体再跌、兆易创新跌停，核电掀涨停潮，恒科指涨1%，阿里大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3778543",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "【每日收评】科创50跌超5%，两市成交额单日缩量超5000亿，核电概念股集体走强",
+          "url": "https://www.cls.cn/detail/2444185",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
+        },
+        {
+          "title": "韩国交易所启动韩国创业板指（KOSDAQ） 的侧车机制，程序化交易暂停。",
+          "url": "https://flash.jin10.com/detail/20260803092906108800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "8月3日午间收评：科创50指数半日跌3.73%，核电板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3143882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        },
-        {
-          "title": "迅策(03317.HK)开盘大幅走高，现涨14.98%，报119港元。日前公司预期上半年收入同比大幅增长约388.76%，经调整净利润约6700万元，同比扭亏为盈。",
-          "url": "https://flash.jin10.com/detail/20260803092227576800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "上半年我国海船新承接订单量同比增长105.2%",
-          "url": "https://flash.jin10.com/detail/20260803091754126800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
         }
       ]
     },
@@ -1470,48 +1761,48 @@
       ]
     },
     {
-      "keyword_group": "涨停 跌停",
+      "keyword_group": "回购",
       "match_count": 4,
       "titles": [
         {
-          "title": "A股商业物业经营板块直线拉升，锦和商管涨停，深赛格、香江控股、华联股份、轻纺城、海宁皮城等纷纷走高。",
-          "url": "https://flash.jin10.com/detail/20260803093234323800",
+          "title": "7月沪市新增回购增持计划数创下年内月度第一",
+          "url": "https://flash.jin10.com/detail/20260803165912583800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "A股券商、金融科技股早盘下挫，湘财股份、国盛证券逼近跌停，广发证券、指南针、同花顺、中银证券跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3143820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "A股煤炭开采加工拉升，新大洲A涨停，华电能源、安泰集团、恒源煤电、开滦股份、美锦能源跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3143907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时31分"
+          "time_info": "17时02分"
         },
         {
-          "title": "A股核电板块开盘活跃，利柏特接近涨停，江苏神通、常辅股份、哈焊华通、合锻智能涨超5%，消息上，国常会决定核准辽宁庄河一期工程等四个核电项目，总投资将超过1700亿元。",
-          "url": "https://wallstreetcn.com/livenews/3143808",
+          "title": "日本财务省发布财务大臣片山皋月的声明：7月31日，日本财务省与美国共同协调购买了日元。 与美方同行保持密切沟通。 对日元的过度波动和无序走势进行了应对。 如有必要，我们将毫不犹豫地实施进一步联合干预。 日本计划未来利用FIMA回购工具（FIMA Repo Facility）。",
+          "url": "https://wallstreetcn.com/livenews/3143757",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "中国央行开展3000亿元隔夜逆回购操作。",
+          "url": "https://flash.jin10.com/detail/20260803092221693800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "中国央行：今日开展630亿元7天逆回购操作，投标量630亿元，中标量630亿元，操作利率为1.40%",
+          "url": "https://flash.jin10.com/detail/20260803092103074800",
+          "source": "金十数据",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1541,7 +1832,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1552,7 +1843,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
@@ -1562,6 +1853,18 @@
       "keyword_group": "风险",
       "match_count": 3,
       "titles": [
+        {
+          "title": "8月3日投资避雷针：9连板人气股提示风险 自8月3日起停牌核查",
+          "url": "https://www.cls.cn/detail/2443703",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时02分]"
+        },
         {
           "title": "近视600度是眼球风险临界值",
           "url": "https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86600%E5%BA%A6%E6%98%AF%E7%9C%BC%E7%90%83%E9%A3%8E%E9%99%A9%E4%B8%B4%E7%95%8C%E5%80%BC%23&t=31&band_rank=30&Refer=top",
@@ -1574,17 +1877,6 @@
           "time_info": "[00时45分 ~ 02时54分]"
         },
         {
-          "title": "8月3日投资避雷针：9连板人气股提示风险 自8月3日起停牌核查",
-          "url": "https://www.cls.cn/detail/2443703",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
           "title": "分析师：美伊双方立场仍未松动 发生更广泛冲突的风险仍存",
           "url": "https://flash.jin10.com/detail/20260802212014565800",
           "source": "金十数据",
@@ -1594,48 +1886,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "玩脱了,解说内涵Shy哥遭制裁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356731&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E8%A7%A3%E8%AF%B4%E5%86%85%E6%B6%B5Shy%E5%93%A5%E9%81%AD%E5%88%B6%E8%A3%81",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "以色列外交部长：以色列正与美国一道持续对抗国际刑事法院。近期已有多个国家退出国际刑事法院，相关进程应当持续推进，并配合美国实施的制裁举措。",
-          "url": "https://flash.jin10.com/detail/20260803022811797800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时54分 ~ 05时44分]"
-        },
-        {
-          "title": "中国棉花协会：反对美方制裁打压中国棉纺织企业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33697594",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时46分 ~ 13时31分]"
         }
       ]
     },
@@ -1679,73 +1929,6 @@
       ]
     },
     {
-      "keyword_group": "回购",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日本财务省发布财务大臣片山皋月的声明：7月31日，日本财务省与美国共同协调购买了日元。 与美方同行保持密切沟通。 对日元的过度波动和无序走势进行了应对。 如有必要，我们将毫不犹豫地实施进一步联合干预。 日本计划未来利用FIMA回购工具（FIMA Repo Facility）。",
-          "url": "https://wallstreetcn.com/livenews/3143757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "中国央行开展3000亿元隔夜逆回购操作。",
-          "url": "https://flash.jin10.com/detail/20260803092221693800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "中国央行：今日开展630亿元7天逆回购操作，投标量630亿元，中标量630亿元，操作利率为1.40%",
-          "url": "https://flash.jin10.com/detail/20260803092103074800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国交易所启动韩国创业板指（KOSDAQ） 的侧车机制，程序化交易暂停。",
-          "url": "https://flash.jin10.com/detail/20260803092906108800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "8月3日午间收评：科创50指数半日跌3.73%，核电板块逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3143882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "暴涨",
       "match_count": 2,
       "titles": [
@@ -1776,7 +1959,7 @@
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "略惊悚!美企开发半人马机器人",
@@ -1789,6 +1972,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时45分 ~ 09时47分]"
+        },
+        {
+          "title": "全球首款可DIY个人机器人亮相",
+          "url": "https://www.douyin.com/hot/2595733",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时01分 ~ 17时02分]"
         }
       ]
     },
@@ -1803,7 +1997,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
