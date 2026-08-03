@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T17:02:04.582630+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-08-03T20:23:45.643206+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -23,11 +23,12 @@
           "url": "https://news.ifeng.com/c/8vHU3Votl6y",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时46分 ~ 17时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时46分 ~ 20时23分]"
         },
         {
           "title": "伊朗革命卫队：将针对哈尼亚、阿亚图拉·哈梅内伊遇袭事件实施猛烈、毁灭性报复。",
@@ -481,7 +482,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -503,7 +504,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -552,6 +553,17 @@
           "time_info": "00时45分"
         },
         {
+          "title": "伊朗称在霍尔木兹上空击落一架无人机",
+          "url": "https://www.toutiao.com/trending/7669730325030768182/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "伊朗称重开霍尔木兹海峡计划纯属谣言",
           "url": "https://wallstreetcn.com/livenews/3143678",
           "source": "华尔街见闻-快讯",
@@ -566,7 +578,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -639,6 +651,18 @@
           "time_info": "[09时46分 ~ 13时31分]"
         },
         {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 20时23分]"
+        },
+        {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
           "url": "https://www.zhihu.com/question/2067198062456463879",
           "source": "知乎",
@@ -681,17 +705,6 @@
           "source": "凤凰网",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "特朗普：日本向我们求助",
-          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1028,6 +1041,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "特朗普为何叫停乌克兰自产爱国者",
+          "url": "https://www.toutiao.com/trending/7669363177183776265/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）随时准备行动。",
           "url": "https://flash.jin10.com/detail/20260803054323048800",
           "source": "金十数据",
@@ -1048,6 +1072,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "美媒：因凡蒂诺求助特朗普保其职位",
+          "url": "https://www.toutiao.com/trending/7669763103931764251/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
           "title": "特朗普再次“TACO”，金价4000美元暗战升级！",
@@ -1098,8 +1133,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 20时23分]"
         },
         {
           "title": "本周重要事件与数据预告：美国非农，中国7月外储、CPI及贸易帐，SpaceX财报",
@@ -1187,7 +1222,7 @@
     },
     {
       "keyword_group": "涨价 核心材料",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "康师傅冰红茶为何一次涨价就大幅丢失市场？",
@@ -1196,11 +1231,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 17时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 20时23分]"
         },
         {
           "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
@@ -1256,13 +1292,24 @@
           "time_info": "[17时01分 ~ 17时02分]"
         },
         {
+          "title": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称昨晚接到调价通知，购机该趁早入手还是继续观望？",
+          "url": "https://www.zhihu.com/question/2067266099025011702",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "手机涨价潮蔓延：小米年内三调价",
           "url": "https://wallstreetcn.com/livenews/3144001",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
         },
@@ -1281,29 +1328,19 @@
     },
     {
       "keyword_group": "实体清单 制裁",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
           "url": "https://www.toutiao.com/trending/7668995465958051347/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA+%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 20时23分]"
         },
         {
           "title": "玩脱了,解说内涵Shy哥遭制裁",
@@ -1314,8 +1351,31 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 20时23分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子、思念水饺、七匹狼男装",
+          "url": "https://news.ifeng.com/c/8vI8Cwf64ex",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA+%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时02分]"
+          "time_info": "[17时01分 ~ 20时23分]"
         },
         {
           "title": "以色列外交部长：以色列正与美国一道持续对抗国际刑事法院。近期已有多个国家退出国际刑事法院，相关进程应当持续推进，并配合美国实施的制裁举措。",
@@ -1331,6 +1391,19 @@
           "time_info": "[02时54分 ~ 05时44分]"
         },
         {
+          "title": "美国制裁洽洽瓜子思念水饺",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            19,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 20时23分]"
+        },
+        {
           "title": "中国棉花协会：反对美方制裁打压中国棉纺织企业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33697594",
           "source": "澎湃新闻",
@@ -1343,22 +1416,21 @@
           "time_info": "[09时46分 ~ 13时31分]"
         },
         {
-          "title": "美国制裁洽洽瓜子思念水饺",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "七匹狼回应被美国制裁：没影响",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%8C%B9%E7%8B%BC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%EF%BC%9A%E6%B2%A1%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            19
+            26
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "今年上半年分红险保费同比增长94.4%",
@@ -1406,6 +1478,17 @@
           "time_info": "09时47分"
         },
         {
+          "title": "瑞幸咖啡第二季度净营收158.9亿元人民币，同比增长29%，预估154.3亿元人民币。 第二季度净利润14.9亿元人民币，同比增长19%。 第二季度经调整每股ADS净收益5.44元人民币，同比增长24%。",
+          "url": "https://wallstreetcn.com/livenews/3144121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "上半年我国海船新承接订单量同比增长105.2%",
           "url": "https://flash.jin10.com/detail/20260803091754126800",
           "source": "金十数据",
@@ -1415,12 +1498,106 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "中科金财：2026年上半年营业收入3.09亿元，同比增长15.73%。归属于上市公司股东的净利润亏损1.43亿元，上年同期亏损8494.58万元。",
+          "url": "https://wallstreetcn.com/livenews/3144114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "7月沪市新增回购增持计划数创下年内月度第一",
+          "url": "https://flash.jin10.com/detail/20260803165912583800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时02分"
+        },
+        {
+          "title": "日本财务省发布财务大臣片山皋月的声明：7月31日，日本财务省与美国共同协调购买了日元。 与美方同行保持密切沟通。 对日元的过度波动和无序走势进行了应对。 如有必要，我们将毫不犹豫地实施进一步联合干预。 日本计划未来利用FIMA回购工具（FIMA Repo Facility）。",
+          "url": "https://wallstreetcn.com/livenews/3143757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "阳光电源：拟以5亿元-10亿元回购股份，回购股份价格不超过人民币188元/股。",
+          "url": "https://wallstreetcn.com/livenews/3144140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "中国央行开展3000亿元隔夜逆回购操作。",
+          "url": "https://flash.jin10.com/detail/20260803092221693800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "中国央行：今日开展630亿元7天逆回购操作，投标量630亿元，中标量630亿元，操作利率为1.40%",
+          "url": "https://flash.jin10.com/detail/20260803092103074800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "阳光电源：拟以5亿元-10亿元回购公司股份",
+          "url": "https://flash.jin10.com/detail/20260803195941092800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "澜起科技：截至2026年7月31日，公司已通过集中竞价交易方式累计回购公司A股股份70.5万股，占公司总股本的比例为0.06%，支付的金额总额约为人民币1.44亿元。",
+          "url": "https://wallstreetcn.com/livenews/3144117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "韩国存储调研：三星长协“限制跌幅、不限涨幅”，现货价格在四季度旺季前持续反弹",
@@ -1477,6 +1654,17 @@
           "time_info": "[04时05分 ~ 07时50分]"
         },
         {
+          "title": "存储赛道回调：A股概念股全线走弱 韩国存储龙头再遭重挫",
+          "url": "https://www.cls.cn/detail/2443973",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
           "title": "半导体产业全线爆发：利润最高涨700倍",
           "url": "https://www.toutiao.com/trending/7668166509122355243/",
           "source": "今日头条",
@@ -1486,6 +1674,131 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "科创50跌超5%，半导体再跌、兆易创新跌停，核电掀涨停潮，恒科指涨1%，阿里大涨超7%",
+          "url": "https://wallstreetcn.com/articles/3778543",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 20时23分]"
+        },
+        {
+          "title": "【每日收评】科创50跌超5%，两市成交额单日缩量超5000亿，核电概念股集体走强",
+          "url": "https://www.cls.cn/detail/2444185",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 20时23分]"
+        },
+        {
+          "title": "韩国交易所启动韩国创业板指（KOSDAQ） 的侧车机制，程序化交易暂停。",
+          "url": "https://flash.jin10.com/detail/20260803092906108800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "【焦点复盘】创业板指弱势震荡再失年线，AI软硬件持续分化，电网产业链卷土重来",
+          "url": "https://www.cls.cn/detail/2444244",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "8月3日午间收评：科创50指数半日跌3.73%，核电板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3143882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "8月3日投资避雷针：9连板人气股提示风险 自8月3日起停牌核查",
+          "url": "https://www.cls.cn/detail/2443703",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 17时02分]"
+        },
+        {
+          "title": "近视600度是眼球风险临界值",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86600%E5%BA%A6%E6%98%AF%E7%9C%BC%E7%90%83%E9%A3%8E%E9%99%A9%E4%B8%B4%E7%95%8C%E5%80%BC%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时45分 ~ 02时54分]"
+        },
+        {
+          "title": "ST任子行：公司股票将于2026年8月4日（星期二）停牌1天，2026年8月5日（星期三）开市起复牌并撤销其他风险警示，公司证券简称由“ST任子行”变更为“任子行”。",
+          "url": "https://wallstreetcn.com/livenews/3144139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "分析师：美伊双方立场仍未松动 发生更广泛冲突的风险仍存",
+          "url": "https://flash.jin10.com/detail/20260802212014565800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时45分"
+        },
+        {
+          "title": "广期所发布市场风险提示公告",
+          "url": "https://wallstreetcn.com/livenews/3144106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
@@ -1531,11 +1844,12 @@
           "url": "https://www.cls.cn/detail/2443935",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 20时23分]"
         },
         {
           "title": "A股核电板块开盘活跃，利柏特接近涨停，江苏神通、常辅股份、哈焊华通、合锻智能涨超5%，消息上，国常会决定核准辽宁庄河一期工程等四个核电项目，总投资将超过1700亿元。",
@@ -1547,6 +1861,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "纳斯达克100指数期货回吐日内全部涨幅，存储芯片概念股盘前走低，美光科技跌5%，SK海力士、闪迪跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3144136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "澳大利亚7月标普全球制造业PMI终值 52，预期51.7，前值51.7。",
+          "url": "https://flash.jin10.com/detail/20260803070002266800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "纳斯达克100指数期货涨幅扩大至1%，受美伊谈判乐观情绪推动。",
+          "url": "https://wallstreetcn.com/livenews/3143891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "纳指期货涨幅扩大至1.0%，标普500期货上涨0.6%。",
+          "url": "https://flash.jin10.com/detail/20260803115538192800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
@@ -1655,56 +2019,6 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "科创50跌超5%，半导体再跌、兆易创新跌停，核电掀涨停潮，恒科指涨1%，阿里大涨超7%",
-          "url": "https://wallstreetcn.com/articles/3778543",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "【每日收评】科创50跌超5%，两市成交额单日缩量超5000亿，核电概念股集体走强",
-          "url": "https://www.cls.cn/detail/2444185",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "韩国交易所启动韩国创业板指（KOSDAQ） 的侧车机制，程序化交易暂停。",
-          "url": "https://flash.jin10.com/detail/20260803092906108800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "8月3日午间收评：科创50指数半日跌3.73%，核电板块逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3143882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 光模块",
       "match_count": 4,
       "titles": [
@@ -1757,135 +2071,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "7月沪市新增回购增持计划数创下年内月度第一",
-          "url": "https://flash.jin10.com/detail/20260803165912583800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "日本财务省发布财务大臣片山皋月的声明：7月31日，日本财务省与美国共同协调购买了日元。 与美方同行保持密切沟通。 对日元的过度波动和无序走势进行了应对。 如有必要，我们将毫不犹豫地实施进一步联合干预。 日本计划未来利用FIMA回购工具（FIMA Repo Facility）。",
-          "url": "https://wallstreetcn.com/livenews/3143757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "中国央行开展3000亿元隔夜逆回购操作。",
-          "url": "https://flash.jin10.com/detail/20260803092221693800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        },
-        {
-          "title": "中国央行：今日开展630亿元7天逆回购操作，投标量630亿元，中标量630亿元，操作利率为1.40%",
-          "url": "https://flash.jin10.com/detail/20260803092103074800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "澳大利亚7月标普全球制造业PMI终值 52，预期51.7，前值51.7。",
-          "url": "https://flash.jin10.com/detail/20260803070002266800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时50分"
-        },
-        {
-          "title": "纳斯达克100指数期货涨幅扩大至1%，受美伊谈判乐观情绪推动。",
-          "url": "https://wallstreetcn.com/livenews/3143891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "纳指期货涨幅扩大至1.0%，标普500期货上涨0.6%。",
-          "url": "https://flash.jin10.com/detail/20260803115538192800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "8月3日投资避雷针：9连板人气股提示风险 自8月3日起停牌核查",
-          "url": "https://www.cls.cn/detail/2443703",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 17时02分]"
-        },
-        {
-          "title": "近视600度是眼球风险临界值",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86600%E5%BA%A6%E6%98%AF%E7%9C%BC%E7%90%83%E9%A3%8E%E9%99%A9%E4%B8%B4%E7%95%8C%E5%80%BC%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时45分 ~ 02时54分]"
-        },
-        {
-          "title": "分析师：美伊双方立场仍未松动 发生更广泛冲突的风险仍存",
-          "url": "https://flash.jin10.com/detail/20260802212014565800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时45分"
         }
       ]
     },
@@ -1978,11 +2163,46 @@
           "url": "https://www.douyin.com/hot/2595733",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 20时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "空单",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "挂单报告：国际金留意空单密集区 镑美关注上行押注",
+          "url": "https://flash.jin10.com/detail/20260803201357905800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "降息",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "三菱日联预计美联储或于2027年降息",
+          "url": "https://wallstreetcn.com/livenews/3144126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时23分"
         }
       ]
     },
