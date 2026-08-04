@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T13:39:14.783578+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-08-04T16:17:22.171651+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时46分 ~ 13时39分]"
+          "appearance_count": 13,
+          "time_info": "[01时46分 ~ 16时17分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -29,8 +29,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 16时17分]"
+        },
+        {
+          "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
+          "url": "https://www.cls.cn/detail/2444694",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 16时17分]"
         },
         {
           "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
@@ -41,19 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时39分]"
-        },
-        {
-          "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
-          "url": "https://www.cls.cn/detail/2444694",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时39分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 16时17分]"
         },
         {
           "title": "美25州联手，特朗普关税再遭阻击",
@@ -150,22 +151,36 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时17分]"
+        },
+        {
+          "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
+          "url": "https://www.cls.cn/detail/2444718",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时17分]"
         },
         {
           "title": "美媒：因凡蒂诺向特朗普求助",
           "url": "https://www.douyin.com/hot/2596620",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时17分]"
         },
         {
           "title": "美国参议院投票，有望围绕临时性融资草案通过程序性投票，该权宜性融资方案将帮助特朗普的联邦政府有资金持续运作至12月11日。",
@@ -178,17 +193,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 08时01分]"
-        },
-        {
-          "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
-          "url": "https://www.cls.cn/detail/2444718",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
         },
         {
           "title": "伊朗认为特朗普倾向谈判而非局势升级",
@@ -277,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "特朗普威胁对伊朗采取“斩首”行动",
+          "url": "https://www.douyin.com/hot/2596526",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "美国总统特朗普重申石油公司应更好地降低零售价格。",
@@ -384,7 +399,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -428,7 +443,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -576,6 +591,17 @@
           "time_info": "03时17分"
         },
         {
+          "title": "美议员痛批特朗普行事反复无常",
+          "url": "https://www.toutiao.com/trending/7669578491814576137/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "美国民主党参议员Mark Warner：特朗普无法停止反复摇摆立场。他威胁要对伊朗发动空袭，随后以“协议即将达成”为由取消行动，而如今谈判再次破裂。这场他选择发动的战争已经持续五个月，但目前仍看不到结束的迹象。",
           "url": "https://flash.jin10.com/detail/20260804032523156800",
           "source": "金十数据",
@@ -623,7 +649,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -641,11 +667,12 @@
           "url": "https://www.toutiao.com/trending/7668954284482134058/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时17分]"
         },
         {
           "title": "乌袭击伊朗船只 战争扩大化风险增加",
@@ -815,6 +842,17 @@
           "time_info": "10时23分"
         },
         {
+          "title": "黎巴嫩真主党领导人纳伊姆·卡西姆：伊朗已从与美国和以色列的对抗中取得胜利。",
+          "url": "https://flash.jin10.com/detail/20260804155925131800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "伊朗最高领袖穆杰塔巴计划任命其首席军事助手穆赫辛·雷扎伊，替换国家最高安全委员会主席穆罕默德-巴盖尔·佐勒格达尔。",
           "url": "https://wallstreetcn.com/livenews/3144281",
           "source": "华尔街见闻-快讯",
@@ -928,7 +966,7 @@
     },
     {
       "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "科创50跌超5%，半导体再跌、兆易创新跌停，核电掀涨停潮，恒科指涨1%，阿里大涨超7%",
@@ -940,8 +978,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时46分 ~ 13时39分]"
+          "appearance_count": 13,
+          "time_info": "[01时46分 ~ 16时17分]"
         },
         {
           "title": "【每日收评】科创50跌超5%，两市成交额单日缩量超5000亿，核电概念股集体走强",
@@ -1001,6 +1039,17 @@
           "time_info": "10时23分"
         },
         {
+          "title": "创业板指放量大涨5.64%",
+          "url": "https://www.toutiao.com/trending/7670069077377011246/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "创业板指涨逾3%",
           "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A8%E9%80%BE3%25",
           "source": "百度热搜",
@@ -1051,7 +1100,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1062,9 +1111,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "A股收盘 创业板指放量大涨5.64%",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98+%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%94%BE%E9%87%8F%E5%A4%A7%E6%B6%A85.64%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "创业板指涨超3%，深成指涨1.7%。全市场上涨个股超3600只。算力租赁、半导体、医药生物等方向涨幅居前。",
@@ -1078,13 +1138,24 @@
           "time_info": "10时23分"
         },
         {
+          "title": "A股收盘：创业板指放量大涨5.64%，算力硬件股集体反弹",
+          "url": "https://wallstreetcn.com/livenews/3144587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
           "title": "8月4日午间收评：创业板指半日涨4.83%，算力、芯片板块集体反弹",
           "url": "https://wallstreetcn.com/livenews/3144507",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1135,7 +1206,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1146,7 +1217,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1157,7 +1228,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1179,7 +1250,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1259,13 +1330,25 @@
           "time_info": "[01时46分 ~ 10时23分]"
         },
         {
+          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
+          "url": "https://www.cls.cn/detail/2444881",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时17分]"
+        },
+        {
           "title": "中韩半导体ETF华泰柏瑞涨超5%，成交额超110亿元。",
           "url": "https://flash.jin10.com/detail/20260804133301645800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         },
@@ -1306,17 +1389,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时55分 ~ 06时56分]"
-        },
-        {
-          "title": "三巨头蓄力AI存储新赛道：首套HBF标准规范发布 产业联盟初步成型",
-          "url": "https://www.cls.cn/detail/2444881",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
         },
         {
           "title": "中概指数收涨超0.7%，KWEB涨约0.9%，金山云涨约7%，日月光半导体、阿里涨超4%",
@@ -1361,6 +1433,125 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美国制裁洽洽瓜子、思念水饺、七匹狼男装",
+          "url": "https://news.ifeng.com/c/8vI8Cwf64ex",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时46分 ~ 10时23分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子等中国品牌",
+          "url": "https://www.douyin.com/hot/2595693",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时46分 ~ 10时23分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
+          "url": "https://www.toutiao.com/trending/7668995465958051347/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            4,
+            2,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时46分 ~ 08时01分]"
+        },
+        {
+          "title": "玩脱了,解说内涵Shy哥遭制裁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356731&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E8%A7%A3%E8%AF%B4%E5%86%85%E6%B6%B5Shy%E5%93%A5%E9%81%AD%E5%88%B6%E8%A3%81",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            15,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时46分 ~ 16时17分]"
+        },
+        {
+          "title": "如何评价美国制裁洽洽瓜子",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA+%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            20,
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 06时56分]"
+        },
+        {
+          "title": "七匹狼回应被美国制裁",
+          "url": "https://www.douyin.com/hot/2596175",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
+        },
+        {
+          "title": "七匹狼回应被美国制裁：没影响",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%8C%B9%E7%8B%BC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%EF%BC%9A%E6%B2%A1%E5%BD%B1%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 03时17分]"
+        },
+        {
+          "title": "为破局欧盟制裁，俄罗斯暗中集结液化天然气“影子舰队”",
+          "url": "https://flash.jin10.com/detail/20260804160300619800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
@@ -1595,6 +1786,18 @@
           "time_info": "03时17分"
         },
         {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时17分]"
+        },
+        {
           "title": "美联储9月加息25个基点的概率为67.2%",
           "url": "https://flash.jin10.com/detail/20260804060152075800",
           "source": "金十数据",
@@ -1605,17 +1808,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时56分 ~ 08时01分]"
-        },
-        {
-          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
-          "url": "https://wallstreetcn.com/articles/3778620",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
         },
         {
           "title": "投行：日本使用美联储工具或将考验日元决心",
@@ -1666,109 +1858,87 @@
       ]
     },
     {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 8,
+      "keyword_group": "涨停 跌停",
+      "match_count": 7,
       "titles": [
         {
-          "title": "美国制裁洽洽瓜子、思念水饺、七匹狼男装",
-          "url": "https://news.ifeng.com/c/8vI8Cwf64ex",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时46分 ~ 10时23分]"
-        },
-        {
-          "title": "美国制裁洽洽瓜子等中国品牌",
-          "url": "https://www.douyin.com/hot/2595693",
-          "source": "抖音",
-          "ranks": [
-            6,
-            7,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时46分 ~ 10时23分]"
-        },
-        {
-          "title": "美国制裁洽洽瓜子思念水饺七匹狼男装",
-          "url": "https://www.toutiao.com/trending/7668995465958051347/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            4,
-            2,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时46分 ~ 08时01分]"
-        },
-        {
-          "title": "玩脱了,解说内涵Shy哥遭制裁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356731&amp;topic_name=%E7%8E%A9%E8%84%B1%E4%BA%86%2C%E8%A7%A3%E8%AF%B4%E5%86%85%E6%B6%B5Shy%E5%93%A5%E9%81%AD%E5%88%B6%E8%A3%81",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时46分 ~ 13时39分]"
-        },
-        {
-          "title": "如何评价美国制裁洽洽瓜子",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
-        },
-        {
-          "title": "美国制裁洽洽瓜子思念水饺 网友调侃",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA+%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83",
+          "title": "A股“股王”涨停",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E2%80%9C%E8%82%A1%E7%8E%8B%E2%80%9D%E6%B6%A8%E5%81%9C",
           "source": "百度热搜",
           "ranks": [
-            14,
-            20,
-            13,
-            19
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时46分 ~ 06时56分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
-          "title": "七匹狼回应被美国制裁",
-          "url": "https://www.douyin.com/hot/2596175",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
-        },
-        {
-          "title": "七匹狼回应被美国制裁：没影响",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E5%8C%B9%E7%8B%BC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%EF%BC%9A%E6%B2%A1%E5%BD%B1%E5%93%8D",
+          "title": "一鸣食品涨停走出5连板",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E9%B8%A3%E9%A3%9F%E5%93%81%E6%B6%A8%E5%81%9C%E8%B5%B0%E5%87%BA5%E8%BF%9E%E6%9D%BF",
           "source": "百度热搜",
           "ranks": [
-            26,
+            28,
+            30,
             24
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时46分 ~ 06时56分]"
+        },
+        {
+          "title": "药明康德A股盘中涨停",
+          "url": "https://www.baidu.com/s?wd=%E8%8D%AF%E6%98%8E%E5%BA%B7%E5%BE%B7A%E8%82%A1%E7%9B%98%E4%B8%AD%E6%B6%A8%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时46分 ~ 03时17分]"
+          "time_info": "[13时38分 ~ 13时39分]"
+        },
+        {
+          "title": "A股CPO概念持续拉升，光迅科技涨停，此前剑桥科技、光库科技、世嘉科技、永鼎股份等多股涨停。",
+          "url": "https://flash.jin10.com/detail/20260804133106853800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "A股算力硬件股持续走高，光库科技20cm涨停，东山精密、深南电路、生益科技、永鼎股份等多股此前封板，联讯仪器、蘅东光、天孚通信、源杰科技、新易盛、中际旭创均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3144535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        },
+        {
+          "title": "A股CRO概念股持续拉升，药明康德、凯莱英涨停。",
+          "url": "https://wallstreetcn.com/livenews/3144441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "A股CPO板块持续走高，A股“股王”联讯仪器涨停，协创数据、天孚通信、仕佳光子等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3144566",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
@@ -1804,6 +1974,30 @@
           "time_info": "[10时22分 ~ 13时39分]"
         },
         {
+          "title": "韩国存储又涨价了！传统DRAM、NAND双双创多年新高",
+          "url": "https://wallstreetcn.com/articles/3778580",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时22分 ~ 16时17分]"
+        },
+        {
+          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
+          "url": "https://www.zhihu.com/question/2067576901791638083",
+          "source": "知乎",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 16时17分]"
+        },
+        {
           "title": "小米多款手机涨价，有旗舰机型上涨 500 元，店员称已经接到调价通知，购机该趁早入手还是继续观望？",
           "url": "https://www.zhihu.com/question/2067266099025011702",
           "source": "知乎",
@@ -1813,91 +2007,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时00分 ~ 08时01分]"
-        },
-        {
-          "title": "韩国存储又涨价了！传统DRAM、NAND双双创多年新高",
-          "url": "https://wallstreetcn.com/articles/3778580",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时22分 ~ 10时23分]"
-        },
-        {
-          "title": "电脑手机小电驴全线涨价，「打工人三件套」同步抬价，如何看待普通人被迫缴纳 AI 税？",
-          "url": "https://www.zhihu.com/question/2067576901791638083",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "涨停 跌停",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "一鸣食品涨停走出5连板",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E9%B8%A3%E9%A3%9F%E5%93%81%E6%B6%A8%E5%81%9C%E8%B5%B0%E5%87%BA5%E8%BF%9E%E6%9D%BF",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时46分 ~ 06时56分]"
-        },
-        {
-          "title": "药明康德A股盘中涨停",
-          "url": "https://www.baidu.com/s?wd=%E8%8D%AF%E6%98%8E%E5%BA%B7%E5%BE%B7A%E8%82%A1%E7%9B%98%E4%B8%AD%E6%B6%A8%E5%81%9C",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
-        },
-        {
-          "title": "A股CPO概念持续拉升，光迅科技涨停，此前剑桥科技、光库科技、世嘉科技、永鼎股份等多股涨停。",
-          "url": "https://flash.jin10.com/detail/20260804133106853800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "A股算力硬件股持续走高，光库科技20cm涨停，东山精密、深南电路、生益科技、永鼎股份等多股此前封板，联讯仪器、蘅东光、天孚通信、源杰科技、新易盛、中际旭创均涨超10%。",
-          "url": "https://wallstreetcn.com/livenews/3144535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
-        },
-        {
-          "title": "A股CRO概念股持续拉升，药明康德、凯莱英涨停。",
-          "url": "https://wallstreetcn.com/livenews/3144441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
         }
       ]
     },
@@ -1956,7 +2065,7 @@
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球首款可DIY个人机器人亮相",
@@ -1978,9 +2087,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        },
+        {
+          "title": "人形机器人产业迈向订单兑现阶段 核心零部件厂商有望成为关注焦点",
+          "url": "https://www.cls.cn/detail/2444697",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "IDC：2025年中国外骨骼机器人市场规模超16亿元 出货量约2.6万台",
@@ -1989,9 +2109,128 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据日经新闻：日本执政党接近将食品税率从8%下调至1%。",
+          "url": "https://flash.jin10.com/detail/20260804045902946800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时58分 ~ 08时01分]"
+        },
+        {
+          "title": "日经225指数下跌1%。",
+          "url": "https://wallstreetcn.com/livenews/3144411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "日经225指数收涨0.3%，报63,957.53点。 日本东证指数收涨0.04%，报3,961.78点。 韩国首尔综指收涨1.62%，报6358.95点。",
+          "url": "https://wallstreetcn.com/livenews/3144571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "上证指数开盘报3816.37点，涨0.18%。 深证成指开盘报13572.95点，涨0.93%。 创业板指开盘报3353.51点，涨1.54%。 沪深300开盘报4566.94点，涨0.52%。 科创50开盘报1569.62点，涨1.08%。 中证500开盘报7467.08点，涨0.71%。 中证1000开盘报7128.49点，涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3144430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "上证指数收报3822.28点，涨0.33%。 深证成指收报13885.71点，涨3.25%。 创业板指收报3488.97点，涨5.64%。 沪深300收报4600.93点，涨1.27%。 科创50收报1616.36点，涨4.09%。 中证500收报7607.49点，涨2.60%。 中证1000收报7279.19点，涨2.82%。",
+          "url": "https://wallstreetcn.com/livenews/3144586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "上证指数早盘收报3815.59点，涨0.16%。 深证成指早盘收报13817.39点，涨2.74%。 创业板指早盘收报3462.05点，涨4.83%。 沪深300早盘收报4585.65点，涨0.93%。 科创50早盘收报1598.13点，涨2.91%。 中证500早盘收报7583.50点，涨2.28%。 中证1000早盘收报7261.93点，涨2.57%。",
+          "url": "https://wallstreetcn.com/livenews/3144508",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股盘前，存储芯片概念股走高，SK海力士、美光科技均涨超2%。Palantir延续此前涨势，现涨超15%，公司Q2盈利碾压预期，上调全年营收指引。",
+          "url": "https://wallstreetcn.com/livenews/3144608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走高，沃格光电、盛视科技、中京电子等涨停，伟测科技、生益科技涨超7%。",
+          "url": "https://flash.jin10.com/detail/20260804100935172800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时23分"
+        },
+        {
+          "title": "美股芯片股盘前走高，美光科技(MU.O)、闪迪(SNDK.O)、英特尔(INTC.O)均涨超3%，SK海力士(SKHY.O)、西部数据(WDC.O)涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260804160334928800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
@@ -2031,64 +2270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据日经新闻：日本执政党接近将食品税率从8%下调至1%。",
-          "url": "https://flash.jin10.com/detail/20260804045902946800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 08时01分]"
-        },
-        {
-          "title": "日经225指数下跌1%。",
-          "url": "https://wallstreetcn.com/livenews/3144411",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 深证",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "上证指数开盘报3816.37点，涨0.18%。 深证成指开盘报13572.95点，涨0.93%。 创业板指开盘报3353.51点，涨1.54%。 沪深300开盘报4566.94点，涨0.52%。 科创50开盘报1569.62点，涨1.08%。 中证500开盘报7467.08点，涨0.71%。 中证1000开盘报7128.49点，涨0.69%。",
-          "url": "https://wallstreetcn.com/livenews/3144430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        },
-        {
-          "title": "上证指数早盘收报3815.59点，涨0.16%。 深证成指早盘收报13817.39点，涨2.74%。 创业板指早盘收报3462.05点，涨4.83%。 沪深300早盘收报4585.65点，涨0.93%。 科创50早盘收报1598.13点，涨2.91%。 中证500早盘收报7583.50点，涨2.28%。 中证1000早盘收报7261.93点，涨2.57%。",
-          "url": "https://wallstreetcn.com/livenews/3144508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时39分"
         }
       ]
     },
@@ -2141,23 +2322,6 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股存储芯片板块震荡走高，沃格光电、盛视科技、中京电子等涨停，伟测科技、生益科技涨超7%。",
-          "url": "https://flash.jin10.com/detail/20260804100935172800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时23分"
-        }
-      ]
-    },
-    {
       "keyword_group": "复盘",
       "match_count": 1,
       "titles": [
@@ -2205,7 +2369,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时39分"
         }
