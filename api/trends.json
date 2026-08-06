@@ -1,11 +1,390 @@
 {
-  "generated_at": "2026-08-06T15:32:40.692488+08:00",
-  "total_titles_processed": 1090,
+  "generated_at": "2026-08-06T18:28:01.913319+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 33,
+      "titles": [
+        {
+          "title": "伊朗的最后一张牌",
+          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 06时06分]"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时28分]"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 18时28分]"
+        },
+        {
+          "title": "伊朗副外长：与阿曼达成协议并不意味着实施伊斯兰堡谅解备忘录第5条。",
+          "url": "https://flash.jin10.com/detail/20260806004654725800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬在国家电视台发表讲话：联系最高领袖“非常困难”。",
+          "url": "https://wallstreetcn.com/livenews/3145551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.toutiao.com/trending/7670008339098750483/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时28分]"
+        },
+        {
+          "title": "霍尔木兹迎关键突破：伊朗称与阿曼接近达成航运协议，但全面开放仍有变数",
+          "url": "https://flash.jin10.com/detail/20260806070213899800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "伊朗副外长：霍尔木兹海峡新安排将关闭临时航道",
+          "url": "https://wallstreetcn.com/livenews/3145550",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
+          "url": "https://flash.jin10.com/detail/20260806025420387800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
+          "url": "https://wallstreetcn.com/livenews/3145607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时06分]"
+        },
+        {
+          "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
+          "url": "https://flash.jin10.com/detail/20260806042849231800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时06分]"
+        },
+        {
+          "title": "也门正在为与沙特展开全面对抗做准备。 袭击沙特船只巩固了“封锁换封锁”的局面。 根据也门武装部队在地面局势发展方面的情况，过去被认为安全的航线已不再安全。（伊朗塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3145525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时13分]"
+        },
+        {
+          "title": "伊朗与阿曼会谈最新细节曝光",
+          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 12时55分]"
+        },
+        {
+          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2446838",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 15时32分]"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
+          "title": "伊朗副外长Gharibabadi：伊朗不会接受外国势力干涉霍尔木兹海峡。 伊朗与阿曼达成协议，并不代表执行《伊斯兰堡谅解备忘录》第5条。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3145521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 03时13分]"
+        },
+        {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
+          "title": "菲利普斯66(PSX.N)：预计伊朗冲突后，炼油基本面将进一步增强。",
+          "url": "https://flash.jin10.com/detail/20260806004350697800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "伊朗总统：敌人对任何象征我们能力的事物都感到不安。",
+          "url": "https://flash.jin10.com/detail/20260806024943969800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗总统：目前与伊朗最高领袖的沟通“非常困难”。",
+          "url": "https://flash.jin10.com/detail/20260806024752219800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：一名知情人士强调，如果伊朗与阿曼之间的协议最终敲定，重新开放霍尔木兹海峡将需要另行达成安排，其中也包括美国履行相关承诺。",
+          "url": "https://flash.jin10.com/detail/20260806004013908800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "路透社/益普索民调显示，认为伊朗战争将导致中东动荡的美国人是预期局势会更加稳定的人的三倍。",
+          "url": "https://flash.jin10.com/detail/20260806180138932800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "伊朗副外长：伊朗与阿曼就霍尔木兹海峡安排达成的协议已接近完成，双方已取得重大进展。",
+          "url": "https://flash.jin10.com/detail/20260806003816434800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时18分"
+        },
+        {
+          "title": "伊朗总统：敌人试图通过战争和制裁，让伊朗重演叙利亚的命运。伊朗人民的韧性和决心挫败了敌人的阴谋。",
+          "url": "https://flash.jin10.com/detail/20260806024045255800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "美国化肥供应商CF二季度净销售22.2亿美元，分析师预期24.4亿美元。 二季度每股收益（EPS）为4.73美元，上年同期2.37美元。 二季度现金与现金等价物24.8亿美元，分析师预期27亿美元。 伊朗冲突造成中东地区的尿素供应缩减400万-450万吨。",
+          "url": "https://wallstreetcn.com/livenews/3145616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "伊朗：美国说准备恢复履行承诺",
+          "url": "https://wallstreetcn.com/livenews/3145532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗副外长：霍尔木兹海峡新安排将关闭临时航道",
+          "url": "https://flash.jin10.com/detail/20260806023054312800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗：美国仅仅履行《伊斯兰堡谅解备忘录》中的承诺是远远不够的",
+          "url": "https://wallstreetcn.com/livenews/3145531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3145528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
+          "url": "https://flash.jin10.com/detail/20260806021357579800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
+          "url": "https://flash.jin10.com/detail/20260806035340632800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社援引叙利亚当地消息源：以色列间谍直升机及飞机飞越德拉省与库奈特拉省上空。",
+          "url": "https://wallstreetcn.com/livenews/3145575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "伊朗国家广播电视台（IRIB）： 埃及、土耳其、巴基斯坦、沙特阿拉伯四国外长于约旦首都安曼会晤，商讨缓和地区紧张局势的途径，重点围绕霍尔木兹海峡的安全问题展开。",
+          "url": "https://wallstreetcn.com/livenews/3145573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -16,8 +395,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时46分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[07时46分 ~ 18时28分]"
         },
         {
           "title": "特朗普称即将达成霍尔木兹海峡协议，伊朗获更大控制权？",
@@ -29,6 +408,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时46分 ~ 12时55分]"
+        },
+        {
+          "title": "涉台问题，特朗普的教训还没吃够",
+          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 18时28分]"
         },
         {
           "title": "特朗普污蔑：中国背后捣鬼",
@@ -53,18 +444,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时18分 ~ 07时47分]"
-        },
-        {
-          "title": "涉台问题，特朗普的教训还没吃够",
-          "url": "https://news.ifeng.com/c/8vMhTGcR9DP",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时32分]"
         },
         {
           "title": "特朗普：美国有大量军火，大量军火正运往美国。",
@@ -205,6 +584,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "路透社/益普索民调显示，在特朗普任期内，注册选民首次在应对战争和恐怖主义问题上更青睐民主党人而非共和党人。",
+          "url": "https://flash.jin10.com/detail/20260806180146115800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         },
         {
           "title": "美国总统特朗普在拉斯维加斯宣称：加拿大领导层很糟糕。",
@@ -352,352 +742,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "伊朗的最后一张牌",
-          "url": "https://news.ifeng.com/c/8vLNKMOtVmN",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 06时06分]"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "伊朗副外长：与阿曼达成协议并不意味着实施伊斯兰堡谅解备忘录第5条。",
-          "url": "https://flash.jin10.com/detail/20260806004654725800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬在国家电视台发表讲话：联系最高领袖“非常困难”。",
-          "url": "https://wallstreetcn.com/livenews/3145551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "霍尔木兹迎关键突破：伊朗称与阿曼接近达成航运协议，但全面开放仍有变数",
-          "url": "https://flash.jin10.com/detail/20260806070213899800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "伊朗副外长：霍尔木兹海峡新安排将关闭临时航道",
-          "url": "https://wallstreetcn.com/livenews/3145550",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗总统回应此前伊朗最高领袖关于停火谅解备忘录消息引发的争议。伊朗总统称：“他们发布了一条消息，称‘原则上，我并不赞成’，但最终，他们允许这一进程继续进行。一些试图制造分裂、利用现有分歧并实现自身派系目标的人夸大了这一问题。”",
-          "url": "https://flash.jin10.com/detail/20260806025420387800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭",
-          "url": "https://wallstreetcn.com/livenews/3145607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 06时06分]"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议 海峡现有两条航道将关闭",
-          "url": "https://flash.jin10.com/detail/20260806042849231800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 06时06分]"
-        },
-        {
-          "title": "也门正在为与沙特展开全面对抗做准备。 袭击沙特船只巩固了“封锁换封锁”的局面。 根据也门武装部队在地面局势发展方面的情况，过去被认为安全的航线已不再安全。（伊朗塔斯尼姆通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3145525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时13分]"
-        },
-        {
-          "title": "伊朗与阿曼会谈最新细节曝光",
-          "url": "https://news.ifeng.com/c/8vM5VvMgc8P",
-          "source": "凤凰网",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 12时55分]"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 15时32分]"
-        },
-        {
-          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2446838",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 15时32分]"
-        },
-        {
-          "title": "伊朗副外长Gharibabadi：伊朗不会接受外国势力干涉霍尔木兹海峡。 伊朗与阿曼达成协议，并不代表执行《伊斯兰堡谅解备忘录》第5条。（伊朗媒体IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3145521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 03时13分]"
-        },
-        {
-          "title": "菲利普斯66(PSX.N)：预计伊朗冲突后，炼油基本面将进一步增强。",
-          "url": "https://flash.jin10.com/detail/20260806004350697800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "伊朗总统：敌人对任何象征我们能力的事物都感到不安。",
-          "url": "https://flash.jin10.com/detail/20260806024943969800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.toutiao.com/trending/7670008339098750483/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "伊朗总统：目前与伊朗最高领袖的沟通“非常困难”。",
-          "url": "https://flash.jin10.com/detail/20260806024752219800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：一名知情人士强调，如果伊朗与阿曼之间的协议最终敲定，重新开放霍尔木兹海峡将需要另行达成安排，其中也包括美国履行相关承诺。",
-          "url": "https://flash.jin10.com/detail/20260806004013908800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "伊朗副外长：伊朗与阿曼就霍尔木兹海峡安排达成的协议已接近完成，双方已取得重大进展。",
-          "url": "https://flash.jin10.com/detail/20260806003816434800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "伊朗总统：敌人试图通过战争和制裁，让伊朗重演叙利亚的命运。伊朗人民的韧性和决心挫败了敌人的阴谋。",
-          "url": "https://flash.jin10.com/detail/20260806024045255800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "美国化肥供应商CF二季度净销售22.2亿美元，分析师预期24.4亿美元。 二季度每股收益（EPS）为4.73美元，上年同期2.37美元。 二季度现金与现金等价物24.8亿美元，分析师预期27亿美元。 伊朗冲突造成中东地区的尿素供应缩减400万-450万吨。",
-          "url": "https://wallstreetcn.com/livenews/3145616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "伊朗：美国说准备恢复履行承诺",
-          "url": "https://wallstreetcn.com/livenews/3145532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗副外长：霍尔木兹海峡新安排将关闭临时航道",
-          "url": "https://flash.jin10.com/detail/20260806023054312800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗：美国仅仅履行《伊斯兰堡谅解备忘录》中的承诺是远远不够的",
-          "url": "https://wallstreetcn.com/livenews/3145531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3145528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
-          "url": "https://flash.jin10.com/detail/20260806021357579800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时13分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
-          "url": "https://flash.jin10.com/detail/20260806035340632800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "伊朗塔斯尼姆通讯社援引叙利亚当地消息源：以色列间谍直升机及飞机飞越德拉省与库奈特拉省上空。",
-          "url": "https://wallstreetcn.com/livenews/3145575",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "伊朗国家广播电视台（IRIB）： 埃及、土耳其、巴基斯坦、沙特阿拉伯四国外长于约旦首都安曼会晤，商讨缓和地区紧张局势的途径，重点围绕霍尔木兹海峡的安全问题展开。",
-          "url": "https://wallstreetcn.com/livenews/3145573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美联储 非农",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "“小非农”不及预期！美国7月ADP就业仅增4.4万人，创年内最低，周五非农数据成关键",
@@ -711,8 +757,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 15时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 18时28分]"
         },
         {
           "title": "美联储鹰派阵营扩容！理事库克称已准备支持加息",
@@ -750,6 +796,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时56分 ~ 06时06分]"
+        },
+        {
+          "title": "美联储今年票委呼吁现在加息：别等通胀失控再“猛踩刹车”，今年三次加息并非不可能",
+          "url": "https://wallstreetcn.com/articles/3778763",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "美联储理事库克：美联储最终或许仍无需加息。",
@@ -956,161 +1013,20 @@
       ]
     },
     {
-      "keyword_group": "涨价 核心材料",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
-          "url": "https://www.cls.cn/detail/2446615",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时25分]"
-        },
-        {
-          "title": "余承东：手机可能都要大规模涨价",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%A6%81%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            12,
-            7,
-            9,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时25分]"
-        },
-        {
-          "title": "余承东称手机将大规模涨价",
-          "url": "https://www.toutiao.com/trending/7670470899877068836/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            18,
-            7,
-            21,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 09时25分]"
-        },
-        {
-          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
-          "url": "https://www.zhihu.com/question/2068628771687625392",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时32分]"
-        },
-        {
-          "title": "涨价1元的冰红茶 两年少赚了15亿",
-          "url": "https://www.baidu.com/s?wd=%E6%B6%A8%E4%BB%B71%E5%85%83%E7%9A%84%E5%86%B0%E7%BA%A2%E8%8C%B6+%E4%B8%A4%E5%B9%B4%E5%B0%91%E8%B5%9A%E4%BA%8615%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "DeepSeek API即将大幅涨价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "苹果要求长鑫降价反遭涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%95%BF%E9%91%AB%E9%99%8D%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            29,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 07时47分]"
-        },
-        {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时55分 ~ 15时32分]"
-        },
-        {
-          "title": "DeepSeek计划大幅涨价",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
-          "url": "https://www.cls.cn/detail/2447135",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "余承东曾称扛不住了也可能涨价",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E6%9B%BE%E7%A7%B0%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "增长 亮眼",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "6图看我国海洋经济稳步增长",
+          "url": "https://s.weibo.com/weibo?q=%236%E5%9B%BE%E7%9C%8B%E6%88%91%E5%9B%BD%E6%B5%B7%E6%B4%8B%E7%BB%8F%E6%B5%8E%E7%A8%B3%E6%AD%A5%E5%A2%9E%E9%95%BF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
         {
           "title": "国家能源局：2025年我国核电发电量4852亿千瓦时 同比增长7.6%",
           "url": "https://flash.jin10.com/detail/20260806123805692800",
@@ -1187,7 +1103,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1214,6 +1130,17 @@
           "time_info": "07时47分"
         },
         {
+          "title": "中汽协：6月汽车商品进出口总额318.2亿美元，同比增长35.5%",
+          "url": "https://wallstreetcn.com/livenews/3145946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
           "title": "韩国财长：经济增长率5年来首次升至3%水平的可能性大幅增加。",
           "url": "https://wallstreetcn.com/livenews/3145669",
           "source": "华尔街见闻-快讯",
@@ -1234,6 +1161,163 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "存储涨价“众生相”：余承东预告“所有手机或大涨价” 苹果压价长鑫遭拒",
+          "url": "https://www.cls.cn/detail/2446615",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 09时25分]"
+        },
+        {
+          "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
+          "url": "https://www.zhihu.com/question/2068628771687625392",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 18时28分]"
+        },
+        {
+          "title": "余承东：手机可能都要大规模涨价",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%99%E6%89%BF%E4%B8%9C%EF%BC%9A%E6%89%8B%E6%9C%BA%E5%8F%AF%E8%83%BD%E9%83%BD%E8%A6%81%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            12,
+            7,
+            9,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 09时25分]"
+        },
+        {
+          "title": "余承东称手机将大规模涨价",
+          "url": "https://www.toutiao.com/trending/7670470899877068836/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18,
+            7,
+            21,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 09时25分]"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时28分]"
+        },
+        {
+          "title": "DeepSeek API即将大幅涨价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+API%E5%8D%B3%E5%B0%86%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "涨价1元的冰红茶 两年少赚了15亿",
+          "url": "https://www.baidu.com/s?wd=%E6%B6%A8%E4%BB%B71%E5%85%83%E7%9A%84%E5%86%B0%E7%BA%A2%E8%8C%B6+%E4%B8%A4%E5%B9%B4%E5%B0%91%E8%B5%9A%E4%BA%8615%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时28分]"
+        },
+        {
+          "title": "苹果要求长鑫降价反遭涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%95%BF%E9%91%AB%E9%99%8D%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            29,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时47分]"
+        },
+        {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时55分 ~ 18时28分]"
+        },
+        {
+          "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 18时28分]"
+        },
+        {
+          "title": "DeepSeek计划大幅涨价",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AE%A1%E5%88%92%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "余承东曾称扛不住了也可能涨价",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BD%99%E6%89%BF%E4%B8%9C%E6%9B%BE%E7%A7%B0%E6%89%9B%E4%B8%8D%E4%BD%8F%E4%BA%86%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
@@ -1297,7 +1381,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1367,11 +1451,12 @@
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时06分 ~ 15时32分]"
+          "appearance_count": 8,
+          "time_info": "[06时06分 ~ 18时28分]"
         },
         {
           "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
@@ -1465,6 +1550,100 @@
       ]
     },
     {
+      "keyword_group": "风险",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：需要考虑通胀可能持续更长时间的情形。 美联储在制定利率政策时面临诸多不同类型的风险。 完全支持7月维持利率不变。 美联储仍需收集数据以制定未来政策举措，9月会议前有很多信息需要收集。 美联储应做好通胀形势失控时采取行动的准备。",
+          "url": "https://wallstreetcn.com/livenews/3145694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "巴西央行降息25个基点，至14%。 央行称，劳动力市场条件紧俏。 主要CPI和基本CPI失速。 密切留意CPI预期的进一步脱锚问题。 通胀风险仍然高于平时。 预计2028年一季度通胀同比升幅为3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3145622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "冒着霍尔木兹海峡的高风险 阿联酋持续运出大量原油",
+          "url": "https://wallstreetcn.com/livenews/3145801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "无视霍尔木兹风险！阿联酋过去两月硬核售出1.3亿桶原油",
+          "url": "https://flash.jin10.com/detail/20260806150549853800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "美联储理事库克：通胀过高风险正不断上升，可能在经济中变得根深蒂固。",
+          "url": "https://flash.jin10.com/detail/20260806040749747800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "郑商所发布风险提示函",
+          "url": "https://wallstreetcn.com/livenews/3145960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "美联储理事库克警告通胀固化风险，称必要时将支持加息",
+          "url": "https://wallstreetcn.com/livenews/3145588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "美联储戴利：美联储在制定利率政策时面临不同类型的风险。",
+          "url": "https://flash.jin10.com/detail/20260806090341557800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片 光模块",
       "match_count": 8,
       "titles": [
@@ -1543,7 +1722,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1554,99 +1733,29 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：需要考虑通胀可能持续更长时间的情形。 美联储在制定利率政策时面临诸多不同类型的风险。 完全支持7月维持利率不变。 美联储仍需收集数据以制定未来政策举措，9月会议前有很多信息需要收集。 美联储应做好通胀形势失控时采取行动的准备。",
-          "url": "https://wallstreetcn.com/livenews/3145694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "巴西央行降息25个基点，至14%。 央行称，劳动力市场条件紧俏。 主要CPI和基本CPI失速。 密切留意CPI预期的进一步脱锚问题。 通胀风险仍然高于平时。 预计2028年一季度通胀同比升幅为3.2%。",
-          "url": "https://wallstreetcn.com/livenews/3145622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "冒着霍尔木兹海峡的高风险 阿联酋持续运出大量原油",
-          "url": "https://wallstreetcn.com/livenews/3145801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "无视霍尔木兹风险！阿联酋过去两月硬核售出1.3亿桶原油",
-          "url": "https://flash.jin10.com/detail/20260806150549853800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "美联储理事库克：通胀过高风险正不断上升，可能在经济中变得根深蒂固。",
-          "url": "https://flash.jin10.com/detail/20260806040749747800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "美联储理事库克警告通胀固化风险，称必要时将支持加息",
-          "url": "https://wallstreetcn.com/livenews/3145588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "美联储戴利：美联储在制定利率政策时面临不同类型的风险。",
-          "url": "https://flash.jin10.com/detail/20260806090341557800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
         }
       ]
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "闪迪、西部数据财报今夜双双揭晓，存储巨头能否打破7月抛售阴霾？",
+          "url": "https://wallstreetcn.com/articles/3778754",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[03时12分 ~ 18时28分]"
+        },
         {
           "title": "【早报】2家存储巨头，公布业绩；SpaceX，市值蒸发1.5万亿元；黄金大涨、原油下跌；长鑫拒绝苹果压价",
           "url": "https://www.cls.cn/detail/2446843",
@@ -1658,19 +1767,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时46分 ~ 15时32分]"
-        },
-        {
-          "title": "闪迪、西部数据财报今夜双双揭晓，存储巨头能否打破7月抛售阴霾？",
-          "url": "https://wallstreetcn.com/articles/3778754",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时12分 ~ 15时32分]"
         },
         {
           "title": "日股半导体链集中放榜：PCB、MLCC、玻纤布板块捷报频传",
@@ -1715,9 +1811,96 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "锴威特：拟收购晶艺半导体100%股权",
+          "url": "https://flash.jin10.com/detail/20260806174653734800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "德意志电信将股票回购计划规模提高至多30亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3145804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "中国央行：今日开展10亿元7天逆回购操作，投标量10亿元，中标量10亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20260806092044982800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 18时28分]"
+        },
+        {
+          "title": "8份长协+140亿美元回购！闪迪交出炸裂财报 却仍未满足市场超高期待？",
+          "url": "https://www.cls.cn/detail/2446874",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 15时32分]"
+        },
+        {
+          "title": "永和股份：已回购304.4万股，使用资金总额9920.01万元",
+          "url": "https://flash.jin10.com/detail/20260806174659457800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "兆易创新：披露回购股份事项前十大股东持股情况",
+          "url": "https://wallstreetcn.com/livenews/3145944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
@@ -1818,7 +2001,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1857,11 +2040,12 @@
           "ranks": [
             9,
             18,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 15时32分]"
+          "appearance_count": 12,
+          "time_info": "[01时18分 ~ 18时28分]"
         },
         {
           "title": "美国为何要制裁洽洽瓜子",
@@ -1935,7 +2119,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1946,7 +2130,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -1960,59 +2144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "德意志电信将股票回购计划规模提高至多30亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3145804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "中国央行：今日开展10亿元7天逆回购操作，投标量10亿元，中标量10亿元，操作利率为1.40%，与此前持平。",
-          "url": "https://flash.jin10.com/detail/20260806092044982800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "8份长协+140亿美元回购！闪迪交出炸裂财报 却仍未满足市场超高期待？",
-          "url": "https://www.cls.cn/detail/2446874",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 15时32分]"
-        },
-        {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 15时32分]"
         }
       ]
     },
@@ -2051,7 +2182,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -2059,7 +2190,7 @@
     },
     {
       "keyword_group": "涨停 跌停",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【每日收评】三大指数低开高走均涨超1%，沪深两市单日放量超4400亿，逾百股涨停",
@@ -2075,15 +2206,82 @@
           "time_info": "[01时18分 ~ 07时47分]"
         },
         {
+          "title": "实控人拟变更，欣天科技连续四日20CM涨停",
+          "url": "https://www.cls.cn/detail/2447091",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
           "title": "A股白酒股探底回升，金种子酒冲击涨停，金徽酒、舍得酒业、酒鬼酒、古井贡酒等跟涨。",
           "url": "https://wallstreetcn.com/livenews/3145852",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中证2000 指数",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，电子特气概念领涨，煤炭板块午后爆发",
+          "url": "https://www.cls.cn/detail/2447405",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
+          "title": "金十图示：2026年08月06日（周四）富时中国A50指数成分股午盘收盘行情一览：银行股涨跌不一",
+          "url": "https://flash.jin10.com/detail/20260806113246043800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "复盘",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【焦点复盘】沪指日线3连阳收复3900点，英伟达入局引爆6G概念，时隔半年多再现10连板大牛股",
+          "url": "https://www.cls.cn/detail/2447475",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
+        },
+        {
+          "title": "复盘柯洁逆转党毅飞",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC%E5%85%9A%E6%AF%85%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         }
       ]
     },
@@ -2116,19 +2314,19 @@
       ]
     },
     {
-      "keyword_group": "中证2000 指数",
+      "keyword_group": "暴涨",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年08月06日（周四）富时中国A50指数成分股午盘收盘行情一览：银行股涨跌不一",
-          "url": "https://flash.jin10.com/detail/20260806113246043800",
-          "source": "金十数据",
+          "title": "黄金单日暴涨188美元：宏观只是导火索，逼空才是主角",
+          "url": "https://wallstreetcn.com/articles/3778800",
+          "source": "华尔街见闻",
           "ranks": [
-            29
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
+          "appearance_count": 2,
+          "time_info": "[18时27分 ~ 18时28分]"
         }
       ]
     },
@@ -2143,7 +2341,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -2178,7 +2376,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
