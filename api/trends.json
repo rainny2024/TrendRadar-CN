@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T18:28:01.913319+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-08-06T20:50:51.724712+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "伊朗的最后一张牌",
@@ -19,17 +19,6 @@
           "time_info": "[01时18分 ~ 06时06分]"
         },
         {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时28分]"
-        },
-        {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
           "url": "https://wallstreetcn.com/articles/3778783",
           "source": "华尔街见闻",
@@ -39,8 +28,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 18时28分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 20时50分]"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时50分]"
         },
         {
           "title": "伊朗副外长：与阿曼达成协议并不意味着实施伊斯兰堡谅解备忘录第5条。",
@@ -70,11 +71,12 @@
           "source": "今日头条",
           "ranks": [
             7,
-            2
+            2,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时50分]"
         },
         {
           "title": "霍尔木兹迎关键突破：伊朗称与阿曼接近达成航运协议，但全面开放仍有变数",
@@ -158,6 +160,18 @@
           "time_info": "[07时46分 ~ 12时55分]"
         },
         {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时50分]"
+        },
+        {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
           "url": "https://www.cls.cn/detail/2446838",
           "source": "财联社热门",
@@ -192,17 +206,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时18分 ~ 03时13分]"
-        },
-        {
-          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
-          "url": "https://www.cls.cn/detail/2447200",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
         },
         {
           "title": "菲利普斯66(PSX.N)：预计伊朗冲突后，炼油基本面将进一步增强。",
@@ -255,7 +258,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -326,6 +329,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "专家：伊朗否认与美直接谈判霍尔木兹海峡问题 意在彰显坚定立场",
+          "url": "https://wallstreetcn.com/livenews/3146038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "伊朗：将在未来2-4个月内激活新版霍尔木兹海峡航线。（IRNA）",
           "url": "https://wallstreetcn.com/livenews/3145528",
           "source": "华尔街见闻-快讯",
@@ -337,6 +351,17 @@
           "time_info": "03时13分"
         },
         {
+          "title": "伊朗官员称将与阿曼敲定霍尔木兹海峡航运安排新协议",
+          "url": "https://wallstreetcn.com/livenews/3146032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "伊朗称即使与阿曼达成协议 也不会在美国解除封锁前开放海峡",
           "url": "https://flash.jin10.com/detail/20260806021357579800",
           "source": "金十数据",
@@ -346,6 +371,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时13分"
+        },
+        {
+          "title": "国际金年内很难再创新高？伊朗高风险豪赌仍有翻车风险 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260806201116065800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "据伊朗法尔斯通讯社：伊朗谈判团队消息人士表示，与一些猜测和媒体宣传相反，美国财政部取消少数伊朗制裁措施一事，是与伊拉克政府和华盛顿之间的互动有关，与伊朗和美国之间的谅解备忘录无关。（注：美国财政部此前解除对巴格达航空相关制裁，巴格达航空因被指与伊朗伊斯兰革命卫队“圣城旅”有关联而受到制裁。）",
@@ -384,7 +420,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普所乘飞机遭遇安全事件，美方启动调查",
@@ -592,7 +628,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -617,6 +653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "美退还1000亿美元关税特朗普输了吗",
+          "url": "https://www.toutiao.com/trending/7670860336727068203/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "特朗普被曝频繁致电沃什 “美联储传声筒”：没错，打好几次",
@@ -743,7 +790,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "“小非农”不及预期！美国7月ADP就业仅增4.4万人，创年内最低，周五非农数据成关键",
@@ -757,8 +804,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时18分 ~ 18时28分]"
+          "appearance_count": 13,
+          "time_info": "[01时18分 ~ 20时50分]"
         },
         {
           "title": "美联储鹰派阵营扩容！理事库克称已准备支持加息",
@@ -774,24 +821,34 @@
           "time_info": "[09时25分 ~ 15时32分]"
         },
         {
+          "title": "美国二季度非农单位劳动力成本初值 1.3%，预期 2.1%，前值 1.8%。",
+          "url": "https://wallstreetcn.com/livenews/3146056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "美国二季度非农生产力初值 1.4%，预期 0.6%，前值 0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3146055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "美联储理事库克：若通胀不放缓 我将准备支持加息",
           "url": "https://flash.jin10.com/detail/20260806041548995800",
           "source": "金十数据",
           "ranks": [
             4,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时56分 ~ 06时06分]"
-        },
-        {
-          "title": "美联储理事库克：消费者信心低迷与多种因素有关，包括高通胀。",
-          "url": "https://flash.jin10.com/detail/20260806040814464800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -805,8 +862,20 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时50分]"
+        },
+        {
+          "title": "美联储理事库克：消费者信心低迷与多种因素有关，包括高通胀。",
+          "url": "https://flash.jin10.com/detail/20260806040814464800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "time_info": "[04时56分 ~ 06时06分]"
         },
         {
           "title": "美联储理事库克：美联储最终或许仍无需加息。",
@@ -857,6 +926,17 @@
           "time_info": "[04时56分 ~ 06时06分]"
         },
         {
+          "title": "美国第二季度非农生产力初值 1.4%，预期0.6%，前值由0.30%修正为0.8%。",
+          "url": "https://flash.jin10.com/detail/20260806203004900800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：通胀预期依然保持显著稳定。 美联储不应将通胀预期稳定视为理所当然。 认为就业市场不会造成太大的通胀压力。 许多人认为供应冲击将导致通胀暂时飙升。 “有充分理由”认为供应冲击不会对通胀产生持续性影响。",
           "url": "https://wallstreetcn.com/livenews/3145686",
           "source": "华尔街见闻-快讯",
@@ -866,6 +946,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "美国第二季度非农单位劳动力成本初值 1.3%，预期2.1%，前值由1.80%修正为1.3%。",
+          "url": "https://flash.jin10.com/detail/20260806203004902800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "美联储戴利：若通胀压力再度加剧，将需要采取激进的利率应对措施。",
@@ -1014,7 +1105,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "6图看我国海洋经济稳步增长",
@@ -1024,8 +1115,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时50分]"
         },
         {
           "title": "国家能源局：2025年我国核电发电量4852亿千瓦时 同比增长7.6%",
@@ -1130,13 +1221,24 @@
           "time_info": "07时47分"
         },
         {
+          "title": "再鼎医药2026 Q2产品环比收入增长11%，DLL3 ADC最快明年提交美国上市申请",
+          "url": "https://wallstreetcn.com/livenews/3146030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "中汽协：6月汽车商品进出口总额318.2亿美元，同比增长35.5%",
           "url": "https://wallstreetcn.com/livenews/3145946",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1161,6 +1263,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
+        },
+        {
+          "title": "同比增长8.1% 粤港澳大湾区内地九市上半年用电量创新高",
+          "url": "https://wallstreetcn.com/livenews/3146025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
@@ -1186,11 +1299,12 @@
           "source": "知乎",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 18时28分]"
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 20时50分]"
         },
         {
           "title": "余承东：手机可能都要大规模涨价",
@@ -1230,11 +1344,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时50分]"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -1260,6 +1375,20 @@
           "time_info": "[15时32分 ~ 18时28分]"
         },
         {
+          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时55分 ~ 20时50分]"
+        },
+        {
           "title": "苹果要求长鑫降价反遭涨价",
           "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E8%A6%81%E6%B1%82%E9%95%BF%E9%91%AB%E9%99%8D%E4%BB%B7%E5%8F%8D%E9%81%AD%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
@@ -1273,29 +1402,17 @@
           "time_info": "[01时18分 ~ 07时47分]"
         },
         {
-          "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时55分 ~ 18时28分]"
-        },
-        {
           "title": "存储芯片成本压力开始释放！余承东称所有手机都要大规模涨价，否则就是亏损销售",
           "url": "https://m.thepaper.cn/newsDetail_forward_33728067",
           "source": "澎湃新闻",
           "ranks": [
             15,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时32分 ~ 18时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时32分 ~ 20时50分]"
         },
         {
           "title": "DeepSeek计划大幅涨价",
@@ -1443,6 +1560,122 @@
       ]
     },
     {
+      "keyword_group": "风险",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：需要考虑通胀可能持续更长时间的情形。 美联储在制定利率政策时面临诸多不同类型的风险。 完全支持7月维持利率不变。 美联储仍需收集数据以制定未来政策举措，9月会议前有很多信息需要收集。 美联储应做好通胀形势失控时采取行动的准备。",
+          "url": "https://wallstreetcn.com/livenews/3145694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "*ST萃华：公司股票存在可能因市值被终止上市风险",
+          "url": "https://flash.jin10.com/detail/20260806203350645800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "巴西央行降息25个基点，至14%。 央行称，劳动力市场条件紧俏。 主要CPI和基本CPI失速。 密切留意CPI预期的进一步脱锚问题。 通胀风险仍然高于平时。 预计2028年一季度通胀同比升幅为3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3145622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时06分"
+        },
+        {
+          "title": "冒着霍尔木兹海峡的高风险 阿联酋持续运出大量原油",
+          "url": "https://wallstreetcn.com/livenews/3145801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "Millennium与Anthropic合作开发人工智能风险分析工具。",
+          "url": "https://flash.jin10.com/detail/20260806203052578800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "无视霍尔木兹风险！阿联酋过去两月硬核售出1.3亿桶原油",
+          "url": "https://flash.jin10.com/detail/20260806150549853800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "美联储理事库克：通胀过高风险正不断上升，可能在经济中变得根深蒂固。",
+          "url": "https://flash.jin10.com/detail/20260806040749747800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "郑商所发布风险提示函",
+          "url": "https://wallstreetcn.com/livenews/3145960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "美联储理事库克警告通胀固化风险，称必要时将支持加息",
+          "url": "https://wallstreetcn.com/livenews/3145588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "美联储戴利：美联储在制定利率政策时面临不同类型的风险。",
+          "url": "https://flash.jin10.com/detail/20260806090341557800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "纳斯达克 标普 道琼斯",
       "match_count": 9,
       "titles": [
@@ -1455,8 +1688,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时06分 ~ 18时28分]"
+          "appearance_count": 9,
+          "time_info": "[06时06分 ~ 20时50分]"
         },
         {
           "title": "美伊缓和叠加财报季提振，标普、道指齐创新高，芯片指数大涨6%，油价重挫",
@@ -1546,100 +1779,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：需要考虑通胀可能持续更长时间的情形。 美联储在制定利率政策时面临诸多不同类型的风险。 完全支持7月维持利率不变。 美联储仍需收集数据以制定未来政策举措，9月会议前有很多信息需要收集。 美联储应做好通胀形势失控时采取行动的准备。",
-          "url": "https://wallstreetcn.com/livenews/3145694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "巴西央行降息25个基点，至14%。 央行称，劳动力市场条件紧俏。 主要CPI和基本CPI失速。 密切留意CPI预期的进一步脱锚问题。 通胀风险仍然高于平时。 预计2028年一季度通胀同比升幅为3.2%。",
-          "url": "https://wallstreetcn.com/livenews/3145622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时06分"
-        },
-        {
-          "title": "冒着霍尔木兹海峡的高风险 阿联酋持续运出大量原油",
-          "url": "https://wallstreetcn.com/livenews/3145801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        },
-        {
-          "title": "无视霍尔木兹风险！阿联酋过去两月硬核售出1.3亿桶原油",
-          "url": "https://flash.jin10.com/detail/20260806150549853800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "美联储理事库克：通胀过高风险正不断上升，可能在经济中变得根深蒂固。",
-          "url": "https://flash.jin10.com/detail/20260806040749747800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "郑商所发布风险提示函",
-          "url": "https://wallstreetcn.com/livenews/3145960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时28分"
-        },
-        {
-          "title": "美联储理事库克警告通胀固化风险，称必要时将支持加息",
-          "url": "https://wallstreetcn.com/livenews/3145588",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "美联储戴利：美联储在制定利率政策时面临不同类型的风险。",
-          "url": "https://flash.jin10.com/detail/20260806090341557800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
         }
       ]
     },
@@ -1741,7 +1880,7 @@
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "闪迪、西部数据财报今夜双双揭晓，存储巨头能否打破7月抛售阴霾？",
@@ -1822,9 +1961,100 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
+        },
+        {
+          "title": "宏昌科技：拟以现金方式收购昆吾半导体科技（江西）有限公司45%的股权及安徽尤品新材料有限公司45%的股权，交易对价预计不高于4.05亿元及不高于3.15亿元。",
+          "url": "https://wallstreetcn.com/livenews/3146028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "士兵怕嗑牙,美国制裁洽洽瓜子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356797&amp;topic_name=%E5%A3%AB%E5%85%B5%E6%80%95%E5%97%91%E7%89%99%2C%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            18,
+            22,
+            27,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时18分 ~ 20时50分]"
+        },
+        {
+          "title": "中国三蹦子为何在美被制裁",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E4%B8%89%E8%B9%A6%E5%AD%90%E4%B8%BA%E4%BD%95%E5%9C%A8%E7%BE%8E%E8%A2%AB%E5%88%B6%E8%A3%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "美国为何要制裁洽洽瓜子",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            29,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时18分 ~ 07时47分]"
+        },
+        {
+          "title": "美国制裁中国的帮凶，挨了一记重拳",
+          "url": "https://news.ifeng.com/c/8vMT6dukGXH",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 15时32分]"
+        },
+        {
+          "title": "一包瓜子 怎么就上美国制裁清单了",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%8C%85%E7%93%9C%E5%AD%90+%E6%80%8E%E4%B9%88%E5%B0%B1%E4%B8%8A%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B8%85%E5%8D%95%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "媒体：对美制裁中国的帮凶不必客气",
+          "url": "https://www.toutiao.com/trending/7670286011645591593/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         }
       ]
     },
@@ -1832,6 +2062,19 @@
       "keyword_group": "回购",
       "match_count": 6,
       "titles": [
+        {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 20时50分]"
+        },
         {
           "title": "德意志电信将股票回购计划规模提高至多30亿欧元。",
           "url": "https://wallstreetcn.com/livenews/3145804",
@@ -1855,19 +2098,6 @@
           "time_info": "09时25分"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 18时28分]"
-        },
-        {
           "title": "8份长协+140亿美元回购！闪迪交出炸裂财报 却仍未满足市场超高期待？",
           "url": "https://www.cls.cn/detail/2446874",
           "source": "财联社热门",
@@ -1887,7 +2117,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -1898,7 +2128,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         }
@@ -2030,74 +2260,6 @@
       ]
     },
     {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "士兵怕嗑牙,美国制裁洽洽瓜子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356797&amp;topic_name=%E5%A3%AB%E5%85%B5%E6%80%95%E5%97%91%E7%89%99%2C%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            18,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时18分 ~ 18时28分]"
-        },
-        {
-          "title": "美国为何要制裁洽洽瓜子",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E8%A6%81%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            29,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 07时47分]"
-        },
-        {
-          "title": "美国制裁中国的帮凶，挨了一记重拳",
-          "url": "https://news.ifeng.com/c/8vMT6dukGXH",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 15时32分]"
-        },
-        {
-          "title": "一包瓜子 怎么就上美国制裁清单了",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E5%8C%85%E7%93%9C%E5%AD%90+%E6%80%8E%E4%B9%88%E5%B0%B1%E4%B8%8A%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B8%85%E5%8D%95%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "媒体：对美制裁中国的帮凶不必客气",
-          "url": "https://www.toutiao.com/trending/7670286011645591593/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证 深证",
       "match_count": 4,
       "titles": [
@@ -2189,6 +2351,47 @@
       ]
     },
     {
+      "keyword_group": "复盘",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "复盘韩股40天崩盘始末",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E9%9F%A9%E8%82%A140%E5%A4%A9%E5%B4%A9%E7%9B%98%E5%A7%8B%E6%9C%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "【焦点复盘】沪指日线3连阳收复3900点，英伟达入局引爆6G概念，时隔半年多再现10连板大牛股",
+          "url": "https://www.cls.cn/detail/2447475",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时50分]"
+        },
+        {
+          "title": "复盘柯洁逆转党毅飞",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC%E5%85%9A%E6%AF%85%E9%A3%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时50分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "涨停 跌停",
       "match_count": 3,
       "titles": [
@@ -2238,11 +2441,12 @@
           "url": "https://www.cls.cn/detail/2447405",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时50分]"
         },
         {
           "title": "金十图示：2026年08月06日（周四）富时中国A50指数成分股午盘收盘行情一览：银行股涨跌不一",
@@ -2254,34 +2458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "复盘",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【焦点复盘】沪指日线3连阳收复3900点，英伟达入局引爆6G概念，时隔半年多再现10连板大牛股",
-          "url": "https://www.cls.cn/detail/2447475",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
-        },
-        {
-          "title": "复盘柯洁逆转党毅飞",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E6%9F%AF%E6%B4%81%E9%80%86%E8%BD%AC%E5%85%9A%E6%AF%85%E9%A3%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
         }
       ]
     },
@@ -2325,8 +2501,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时27分 ~ 18时28分]"
+          "appearance_count": 3,
+          "time_info": "[18时27分 ~ 20时50分]"
         }
       ]
     },
