@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T06:25:30.879091+08:00",
-  "total_titles_processed": 591,
+  "generated_at": "2026-08-08T07:25:02.087857+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗最高领袖给总统下了“最后警告”？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         },
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         },
         {
           "title": "美官员：预计伊朗与阿曼将很快就霍尔木兹海峡问题达成协议",
@@ -38,8 +38,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 06时25分]"
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 07时25分]"
         },
         {
           "title": "美国国务院：美国财政部今天采取措施，瓦解了一个由货币兑换机构和空壳公司组成的网络。该网络曾帮助伊朗通过国际金融体系秘密转移数亿美元资金。通过这些网络，德黑兰获取石油收入，并利用幌子公司洗钱，规避旨在遏制其破坏稳定活动的制裁。",
@@ -62,6 +62,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "伊朗官员称防务协议无法保障沙特安全",
+          "url": "https://wallstreetcn.com/livenews/3146940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "伊朗总统：伊方未在涉谅解备忘录的谈判中作任何让步",
@@ -124,6 +135,17 @@
           "time_info": "[01时40分 ~ 02时41分]"
         },
         {
+          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
+          "url": "https://flash.jin10.com/detail/20260808033854319800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时25分]"
+        },
+        {
           "title": "伊朗发视频隐喻美国国运衰落原因",
           "url": "https://www.toutiao.com/trending/7671188288800899082/",
           "source": "今日头条",
@@ -148,17 +170,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 05时28分]"
-        },
-        {
-          "title": "伊朗官员称已与阿曼就霍尔木兹海峡通行问题明确总体框架",
-          "url": "https://flash.jin10.com/detail/20260808033854319800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时25分]"
         },
         {
           "title": "伊朗副外长：波斯湾地区安全应由本地区国家共同维护",
@@ -414,6 +425,18 @@
           "time_info": "[00时41分 ~ 06时25分]"
         },
         {
+          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时44分 ~ 07时25分]"
+        },
+        {
           "title": "特朗普称将就上诉法院涉白宫宴会厅项目裁决提起上诉",
           "url": "https://flash.jin10.com/detail/20260808011808390800",
           "source": "金十数据",
@@ -464,11 +487,12 @@
           "ranks": [
             1,
             11,
-            22
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时25分]"
         },
         {
           "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
@@ -495,15 +519,15 @@
           "time_info": "[00时41分 ~ 01时40分]"
         },
         {
-          "title": "释新闻｜槽点密集的造舰计划：特朗普的“黄金舰队”梦能实现吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33739173",
-          "source": "澎湃新闻",
+          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
+          "url": "https://flash.jin10.com/detail/20260808035911250800",
+          "source": "金十数据",
           "ranks": [
-            20
+            13
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时44分 ~ 06时25分]"
+          "time_info": "[04时29分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：到场的人太多了，不然我得在这儿待上一整天。 希望大家提问尽量简短，我不胜感激，毕竟我们还有战事要推进，明白吗？ 这就是我要提前离场的理由。",
@@ -530,17 +554,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 05时28分]"
-        },
-        {
-          "title": "据CNN：美国总统特朗普将于下周一为达琳·格雷厄姆（已故参议员林赛·格雷厄姆的妹妹）举行电话集会。",
-          "url": "https://flash.jin10.com/detail/20260808035911250800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时25分]"
         },
         {
           "title": "特朗普政府拟向电池及材料企业拨付20亿美元。 特朗普盛赞 MP 材料公司获得政府注资。（华尔街日报）",
@@ -748,7 +761,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
@@ -758,8 +771,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -770,8 +783,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         },
         {
           "title": "今晚美国非农大考，“弱7月”魔咒会重演吗？此前三年均不及预期",
@@ -781,19 +794,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
-        },
-        {
-          "title": "三菱日联：建议做多澳元/日元 ，美联储加息押注降温提振套息交易",
-          "url": "https://wallstreetcn.com/livenews/3146933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的14.5亿美元。",
@@ -807,16 +809,40 @@
           "time_info": "01时40分"
         },
         {
+          "title": "南非兰特非农日涨超1.3%，本周累涨超2.3%",
+          "url": "https://wallstreetcn.com/livenews/3146937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "国际金价在非农日涨约2.4%，本周累涨约7.3%",
           "url": "https://wallstreetcn.com/livenews/3146923",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时25分]"
+        },
+        {
+          "title": "三菱日联：建议做多澳元/日元 ，美联储加息押注降温提振套息交易",
+          "url": "https://wallstreetcn.com/livenews/3146933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时25分]"
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "美联储9月还敢加息吗",
@@ -845,6 +871,31 @@
           "time_info": "[03时44分 ~ 05时28分]"
         },
         {
+          "title": "美联储：美国上周银行存款19.363万亿美元，之前一周19.400万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3146916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时25分]"
+        },
+        {
+          "title": "大摩：预计美联储资产负债表将缩减1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3146930",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
           "title": "周五（8月7日），美联储隔夜逆回购协议（RRP）使用规模为14.50亿美元（交易对手2家），上个交易日报14.29亿美元。",
           "url": "https://wallstreetcn.com/livenews/3146853",
           "source": "华尔街见闻-快讯",
@@ -857,16 +908,28 @@
           "time_info": "[01时40分 ~ 02时41分]"
         },
         {
-          "title": "美联储：美国上周银行存款19.363万亿美元，之前一周19.400万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3146916",
+          "title": "美国两年期国债收益率在非农日跌5个基点，本周累跌约9.6个基点",
+          "url": "https://wallstreetcn.com/livenews/3146928",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            19
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时25分]"
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7429元，较周四纽约尾盘涨47点，日内整体交投于6.75-6.7401元区间，美国非农就业报告发布时显著拉升，本周累涨大约0.13%。 日线图上，离岸人民币逼近2023年2月2日最终报价6.7377元、当年2月1日最终报价6.7195元、当年1月16日顶部6.6975元、以及2022年6月3日顶部6.6170元。 按季度看，离岸人民币正在测试50季度线（该技术指标目前报6.7740元）。",
+          "url": "https://wallstreetcn.com/livenews/3146924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "比特币在非农日冲高回落，最近七天已涨3%",
@@ -881,17 +944,6 @@
           "time_info": "[01时40分 ~ 02时41分]"
         },
         {
-          "title": "大摩：预计美联储资产负债表将缩减1.5万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3146930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "美联储理事库克的律师：我们将对最新的借口提出挑战，并维护库克在美联储的职位和职责。",
           "url": "https://flash.jin10.com/detail/20260808011006249800",
           "source": "金十数据",
@@ -903,17 +955,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "美国两年期国债收益率在非农日跌5个基点，本周累跌约9.6个基点",
-          "url": "https://wallstreetcn.com/livenews/3146928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
-        },
-        {
           "title": "美联储理事库克的律师：没有任何有效理由可以罢免库克理事。",
           "url": "https://flash.jin10.com/detail/20260808010952922800",
           "source": "金十数据",
@@ -923,17 +964,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "周五（8月7日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7429元，较周四纽约尾盘涨47点，日内整体交投于6.75-6.7401元区间，美国非农就业报告发布时显著拉升，本周累涨大约0.13%。 日线图上，离岸人民币逼近2023年2月2日最终报价6.7377元、当年2月1日最终报价6.7195元、当年1月16日顶部6.6975元、以及2022年6月3日顶部6.6170元。 按季度看，离岸人民币正在测试50季度线（该技术指标目前报6.7740元）。",
-          "url": "https://wallstreetcn.com/livenews/3146924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         },
         {
           "title": "欧元区蓝筹股指在非农日创历史新高，本周涨超2%",
@@ -1003,9 +1033,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "道琼斯指数8月7日（周五）收盘上涨151.42点，涨幅0.28%，报54036.52点；<br/>标普500指数8月7日（周五）收盘上涨47.63点，涨幅0.62%，报7757.59点；<br/>纳斯达克综合指数8月7日（周五）收盘上涨342.26点，涨幅1.30%，报26690.62点。",
@@ -1015,8 +1045,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时25分]"
         },
         {
           "title": "标普500指数的11个板块中，原材料、可选消费、信息技术/科技板块至少涨1.25%，电信板块跌0.35%，能源板块跌1.16%。",
@@ -1024,11 +1054,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            21
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时25分]"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘，标普500股指期货最终涨0.56%，道指期货涨0.24%，纳斯达克100股指期货涨1.16%。 罗素2000股指期货涨1.07%。",
+          "url": "https://wallstreetcn.com/livenews/3146925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时25分]"
+          "time_info": "[06时25分 ~ 07时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨0.77%，报6620.75点，本周累计上涨0.34%，持续测试100日均线（该技术指标下移至6569.75点）。 热门中概股里，再鼎医药初步收涨12.2%，大全新能源涨8.8%，晶科能源涨6%，世纪互联涨5%，腾讯涨1.8%，拼多多、阿里巴巴涨超1%，日月光半导体大致持平。 XtrackersHarvest中证50（ASHS）收涨2.76%，本周累涨7.28%，此前两周先后反弹0.27%、0.05%； 中国科技指数ETF（CQQQ）收涨1.72%，本周累涨5.53%，延续上周反弹0.84%的表现； 德银嘉实沪深300指数ETF（ASHR）收涨1.18%，本周反弹2.69%； 中概互联网指数ETF（KWEB）收涨0.99%，本周涨0.60%，延续上周涨8.37%的表现，周线图上7月初以来持续反弹； MSCI新兴市场ex中国ETF（EMXC）收涨0.83%，本周累涨2.82%。",
@@ -1087,23 +1130,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
-        },
-        {
-          "title": "周五（8月7日）纽约尾盘，标普500股指期货最终涨0.56%，道指期货涨0.24%，纳斯达克100股指期货涨1.16%。 罗素2000股指期货涨1.07%。",
-          "url": "https://wallstreetcn.com/livenews/3146925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
         }
       ]
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -1115,8 +1147,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         },
         {
           "title": "我国外贸延续良好增长态势",
@@ -1126,8 +1158,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
+        },
+        {
+          "title": "6组数据看我国外贸延续良好增长态势",
+          "url": "https://s.weibo.com/weibo?q=%236%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E6%88%91%E5%9B%BD%E5%A4%96%E8%B4%B8%E5%BB%B6%E7%BB%AD%E8%89%AF%E5%A5%BD%E5%A2%9E%E9%95%BF%E6%80%81%E5%8A%BF%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
         },
         {
           "title": "秘鲁新任经济部长：预计秘鲁经济将在2026年增长3.5%",
@@ -1146,11 +1189,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时25分]"
         },
         {
           "title": "美国财长贝森特：经济有望加速增长。",
@@ -1167,7 +1211,7 @@
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -1177,8 +1221,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         },
         {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
@@ -1192,6 +1236,17 @@
           "time_info": "[00时41分 ~ 05时28分]"
         },
         {
+          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
+          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
+        },
+        {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
           "url": "https://www.cls.cn/detail/2448354",
           "source": "财联社热门",
@@ -1203,15 +1258,129 @@
           "time_info": "[00时41分 ~ 03时44分]"
         },
         {
-          "title": "印度要搞自主AI：模型靠中国，芯片靠美国",
-          "url": "https://news.ifeng.com/c/8vOieX1f4iR",
-          "source": "凤凰网",
+          "title": "美国光模块龙头AAOI电话会：预计产能两年扩张10倍，1.6T最快两周获大客户认证 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778954",
+          "source": "华尔街见闻",
           "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 07时25分]"
+        },
+        {
+          "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
+          "url": "https://wallstreetcn.com/livenews/3146912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时25分]"
+        },
+        {
+          "title": "美元指数在非农日跌0.4%",
+          "url": "https://wallstreetcn.com/livenews/3146894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 05时28分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E6%8C%87%E6%95%B0%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
+          "url": "https://wallstreetcn.com/articles/3778914",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
+        },
+        {
+          "title": "高盛韩国交易员谈“存储多空之辩”：市场对基本面预期“过于悲观”",
+          "url": "https://wallstreetcn.com/articles/3778905",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
+        },
+        {
+          "title": "美股存储板块集体大跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            20,
+            17,
+            15,
+            10,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
+        },
+        {
+          "title": "美光管理层传递强势信号：存储的系统价值超过50%，CPU端AI代理需求处于“季前热身”",
+          "url": "https://wallstreetcn.com/articles/3778904",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 07时25分]"
         }
       ]
     },
@@ -1260,51 +1429,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周五（8月7日），美股行业ETF多数收涨，生物科技指数ETF涨2.46%，网络股指数ETF涨2.09%，半导体ETF涨1.96%，科技行业ETF、全球科技股指数ETF至多涨1.42%，银行业ETF、全球航空业ETF、区域银行ETF至多跌0.37%，能源业ETF跌1.17%。",
-          "url": "https://wallstreetcn.com/livenews/3146912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时29分 ~ 06时25分]"
-        },
-        {
-          "title": "美元指数在非农日跌0.4%",
-          "url": "https://wallstreetcn.com/livenews/3146894",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 05时28分]"
-        },
-        {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时25分]"
         }
       ]
     },
@@ -1321,8 +1447,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         },
         {
           "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
@@ -1332,64 +1458,20 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
           "url": "https://m.thepaper.cn/newsDetail_forward_33739067",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时44分 ~ 06时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国7月出口同比增23.9%，半导体出口按价值计算同比近乎翻番，进口同比增27.5%",
-          "url": "https://wallstreetcn.com/articles/3778914",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
-        },
-        {
-          "title": "美股存储板块集体大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E9%9B%86%E4%BD%93%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            20,
-            17,
-            15,
-            10,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
-        },
-        {
-          "title": "高盛韩国交易员谈“存储多空之辩”：市场对基本面预期“过于悲观”",
-          "url": "https://wallstreetcn.com/articles/3778905",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 6,
+          "time_info": "[03时44分 ~ 07时25分]"
         }
       ]
     },
@@ -1403,11 +1485,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时25分]"
         },
         {
           "title": "太平洋能源公司总裁：中东买家正在考虑加拿大液化天然气（LNG），将其作为替代供应来源，并作为应对地缘政治动荡的风险对冲手段。",
@@ -1435,8 +1518,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         },
         {
           "title": "复盘柯洁逆转党毅飞",
@@ -1444,11 +1527,42 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 06时25分]"
+          "appearance_count": 4,
+          "time_info": "[04时29分 ~ 07时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美铜暗盘跌破6.7美元，日内跌幅1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3146939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "长城H10改名能否拉升销量",
+          "url": "https://www.toutiao.com/trending/7670772501646999595/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时44分 ~ 07时25分]"
         }
       ]
     },
@@ -1465,8 +1579,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时41分 ~ 06时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时25分]"
         }
       ]
     },
@@ -1485,24 +1599,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "长城H10改名能否拉升销量",
-          "url": "https://www.toutiao.com/trending/7670772501646999595/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 05时28分]"
         }
       ]
     }
