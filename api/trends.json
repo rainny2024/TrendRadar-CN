@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T05:19:53.867748+08:00",
-  "total_titles_processed": 437,
+  "generated_at": "2026-08-09T06:17:52.606070+08:00",
+  "total_titles_processed": 457,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "伊朗媒体发布“被击落美以战机残骸”画面",
@@ -48,8 +48,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "伊总统：伊朗要学中国做好自己的事",
@@ -59,8 +59,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -70,8 +70,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -83,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
@@ -92,11 +92,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -104,11 +105,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -116,11 +118,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
@@ -128,11 +131,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -145,6 +149,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 05时19分]"
+        },
+        {
+          "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
+          "url": "https://flash.jin10.com/detail/20260809051320025800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
@@ -209,6 +224,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时21分]"
+        },
+        {
+          "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
+          "url": "https://flash.jin10.com/detail/20260809040308516800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时17分]"
         },
         {
           "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
@@ -318,15 +345,15 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
-          "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
-          "url": "https://flash.jin10.com/detail/20260809040308516800",
+          "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
+          "url": "https://flash.jin10.com/detail/20260809045339955800",
           "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时19分"
+          "time_info": "06时17分"
         },
         {
           "title": "据沙特媒体哈达斯：伊朗总统表示，停止或继续战争的决定掌握在伊朗军事领导人手中。",
@@ -353,8 +380,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -364,8 +391,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -373,11 +400,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -387,8 +415,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -396,11 +424,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -430,11 +459,12 @@
           "url": "https://www.toutiao.com/trending/7671480510048452651/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 06时17分]"
         },
         {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
@@ -461,8 +491,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "今年前 7 月我国货物贸易进出口总值 30.13 万亿元，同比增长 17.3% ，如何看待这一数据？",
@@ -475,8 +505,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
@@ -484,11 +514,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
@@ -496,11 +527,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         },
         {
           "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
@@ -508,11 +540,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         }
       ]
     },
@@ -529,19 +562,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "贝莱德大佬解读非农转负 放言“如今加息已经没有太大意义”",
           "url": "https://www.cls.cn/detail/2448946",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "7月非农没给美联储清晰答案！“新美联储通讯社”：9月是否加息还得看通胀",
@@ -582,8 +616,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "外设想赚钱,键盘鼠标排队涨价",
@@ -594,8 +628,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         }
       ]
     },
@@ -609,11 +643,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         },
         {
           "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
@@ -621,11 +656,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         }
       ]
     },
@@ -641,8 +677,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         }
       ]
     },
@@ -658,8 +694,25 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "暴涨",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX解禁后两日暴涨23%，期权成交创纪录，空头回补或进一步推升股价",
+          "url": "https://wallstreetcn.com/articles/3778979",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时17分"
         }
       ]
     },
@@ -673,11 +726,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时20分 ~ 05时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时20分 ~ 06时17分]"
         }
       ]
     },
@@ -693,8 +747,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时19分 ~ 05时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时19分 ~ 06时17分]"
         }
       ]
     },
@@ -707,11 +761,12 @@
           "url": "https://flash.jin10.com/detail/20260809043806090800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时19分 ~ 06时17分]"
         }
       ]
     },
