@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T15:45:33.154889+08:00",
-  "total_titles_processed": 939,
+  "generated_at": "2026-08-09T16:30:45.318948+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
@@ -53,6 +53,17 @@
           "time_info": "[00时19分 ~ 07时18分]"
         },
         {
+          "title": "伊朗开出6项条件，美国该如何应对？",
+          "url": "https://news.ifeng.com/c/8vRTyrZzuDS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 16时30分]"
+        },
+        {
           "title": "伊媒发布伊朗最高领袖视频",
           "url": "https://www.toutiao.com/trending/7671613890689502783/",
           "source": "今日头条",
@@ -66,17 +77,6 @@
           "time_info": "[00时19分 ~ 10时57分]"
         },
         {
-          "title": "伊朗开出6项条件，美国该如何应对？",
-          "url": "https://news.ifeng.com/c/8vRTyrZzuDS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时45分]"
-        },
-        {
           "title": "万斯：过去几天在伊朗谈判方面取得了一些进展，对方不会征收海峡过境费",
           "url": "https://wallstreetcn.com/livenews/3147022",
           "source": "华尔街见闻-快讯",
@@ -87,11 +87,12 @@
             17,
             19,
             22,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 15时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 16时30分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -118,8 +119,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 15时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 16时30分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -174,28 +175,41 @@
           "time_info": "[00时20分 ~ 08时51分]"
         },
         {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 16时30分]"
+        },
+        {
           "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
           "url": "https://wallstreetcn.com/livenews/3147045",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
             4,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 16时30分]"
         },
         {
-          "title": "伊朗总统说必须摆脱非战非和局面",
-          "url": "https://wallstreetcn.com/livenews/3147050",
-          "source": "华尔街见闻-快讯",
+          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
+          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
+          "source": "凤凰网",
           "ranks": [
-            1
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时45分]"
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 16时30分]"
         },
         {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
@@ -208,29 +222,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时18分 ~ 08时51分]"
-        },
-        {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时45分]"
-        },
-        {
-          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
-          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时45分]"
         },
         {
           "title": "伊朗接近与阿曼达成管理海峡协议",
@@ -254,6 +245,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时20分 ~ 05时19分]"
+        },
+        {
+          "title": "伊朗总统说必须摆脱非战非和局面",
+          "url": "https://wallstreetcn.com/livenews/3147050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 16时30分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
@@ -396,6 +399,18 @@
           "time_info": "[03时21分 ~ 04时17分]"
         },
         {
+          "title": "伊朗外长称将继续坚持抵抗立场",
+          "url": "https://flash.jin10.com/detail/20260809145146414800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时45分 ~ 16时30分]"
+        },
+        {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
           "url": "https://flash.jin10.com/detail/20260808223941497800",
           "source": "金十数据",
@@ -467,17 +482,6 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
-          "title": "伊朗外长称将继续坚持抵抗立场",
-          "url": "https://flash.jin10.com/detail/20260809145146414800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        },
-        {
           "title": "深度探访伊朗遇袭女子学校",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%BF%E4%BC%8A%E6%9C%97%E9%81%87%E8%A2%AD%E5%A5%B3%E5%AD%90%E5%AD%A6%E6%A0%A1",
           "source": "bilibili 热搜",
@@ -513,8 +517,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 15时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 16时30分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -528,6 +532,19 @@
           "time_info": "[00时19分 ~ 10时57分]"
         },
         {
+          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时51分 ~ 16时30分]"
+        },
+        {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3147026",
           "source": "华尔街见闻-快讯",
@@ -538,24 +555,12 @@
             13,
             15,
             18,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 15时45分]"
-        },
-        {
-          "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33744455",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时51分 ~ 15时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 16时30分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -580,11 +585,23 @@
             18,
             20,
             23,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 15时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 16时30分]"
+        },
+        {
+          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
+          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 16时30分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -596,17 +613,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时19分 ~ 04时17分]"
-        },
-        {
-          "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
-          "url": "https://news.ifeng.com/c/8vRRpAQcjqv",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时45分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -628,11 +634,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时45分]"
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 16时30分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -685,8 +692,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时57分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[10时57分 ~ 16时30分]"
         },
         {
           "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
@@ -696,11 +703,12 @@
             1,
             3,
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 16时30分]"
         },
         {
           "title": "国家统计局：生猪产能综合调控政策效应显现，叠加部分地区高温、强降雨等极端天气频发推高运输成本等因素，猪肉价格由上月环比下降0.8%转为上涨4.1%，影响CPI环比上涨约0.07个百分点。",
@@ -710,11 +718,25 @@
             2,
             4,
             7,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 15时45分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 16时30分]"
+        },
+        {
+          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
+          "url": "https://www.cls.cn/detail/2449215",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时40分 ~ 16时30分]"
         },
         {
           "title": "机构：美国7月CPI数据或显示通胀压力有所缓和",
@@ -737,11 +759,12 @@
           "ranks": [
             5,
             8,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 16时30分]"
         },
         {
           "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
@@ -772,19 +795,6 @@
           "time_info": "[10时57分 ~ 14时37分]"
         },
         {
-          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
-          "url": "https://www.cls.cn/detail/2449215",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时40分 ~ 15时45分]"
-        },
-        {
           "title": "国家统计局：7月份，核心CPI环比上涨0.3%，同比上涨0.9%",
           "url": "https://flash.jin10.com/detail/20260809093547261800",
           "source": "金十数据",
@@ -797,6 +807,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时57分 ~ 14时37分]"
+        },
+        {
+          "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33747633",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时30分]"
         },
         {
           "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
@@ -833,113 +854,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时57分 ~ 12时12分]"
-        },
-        {
-          "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33747633",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美联储 非农",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "贝莱德大佬解读非农转负 放言“如今加息已经没有太大意义”",
-          "url": "https://www.cls.cn/detail/2448946",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时19分 ~ 14时37分]"
-        },
-        {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时19分 ~ 07时18分]"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时57分 ~ 15时45分]"
-        },
-        {
-          "title": "贝莱德大佬解读非农转负 称“如今加息已经没有太大意义”",
-          "url": "https://flash.jin10.com/detail/20260809080300996800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "7月非农没给美联储清晰答案！“新美联储通讯社”：9月是否加息还得看通胀",
-          "url": "https://wallstreetcn.com/articles/3778971",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 02时22分]"
-        },
-        {
-          "title": "美联储理事鲍曼将于十分钟后参加一场炉边谈话。",
-          "url": "https://flash.jin10.com/detail/20260809003500000800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时21分 ~ 02时22分]"
-        },
-        {
-          "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
-          "url": "https://wallstreetcn.com/articles/3778981",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
         }
       ]
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -1018,6 +938,118 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时20分 ~ 08时51分]"
+        },
+        {
+          "title": "力源信息：上半年净利润2.98亿元 同比增长209.5%",
+          "url": "https://flash.jin10.com/detail/20260809155757290800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        },
+        {
+          "title": "摩尔线程上半年营收大幅增长147.42%，S5000智算集群实现规模化销售",
+          "url": "https://flash.jin10.com/detail/20260809154347647800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "贝莱德大佬解读非农转负 放言“如今加息已经没有太大意义”",
+          "url": "https://www.cls.cn/detail/2448946",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时19分 ~ 14时37分]"
+        },
+        {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时18分]"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时57分 ~ 16时30分]"
+        },
+        {
+          "title": "贝莱德大佬解读非农转负 称“如今加息已经没有太大意义”",
+          "url": "https://flash.jin10.com/detail/20260809080300996800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "7月非农没给美联储清晰答案！“新美联储通讯社”：9月是否加息还得看通胀",
+          "url": "https://wallstreetcn.com/articles/3778971",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时22分]"
+        },
+        {
+          "title": "美联储理事鲍曼将于十分钟后参加一场炉边谈话。",
+          "url": "https://flash.jin10.com/detail/20260809003500000800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时21分 ~ 02时22分]"
+        },
+        {
+          "title": "非农转负的另一种读法：贝莱德固收CIO称AI正让就业数据失效，加息“已无意义”",
+          "url": "https://wallstreetcn.com/articles/3778981",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
         }
       ]
     },
@@ -1036,8 +1068,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 15时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 16时30分]"
         },
         {
           "title": "外设想赚钱,键盘鼠标排队涨价",
@@ -1083,11 +1115,85 @@
           "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
-            21
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时45分 ~ 16时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 16时30分]"
+        },
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时11分 ~ 16时30分]"
+        },
+        {
+          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
+          "url": "https://www.cls.cn/detail/2449170",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时51分 ~ 16时30分]"
+        },
+        {
+          "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时20分 ~ 08时51分]"
+        },
+        {
+          "title": "宁夏建材：拟1亿元至2亿元回购公司股份",
+          "url": "https://flash.jin10.com/detail/20260809155032445800",
+          "source": "金十数据",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时45分"
+          "time_info": "16时30分"
         }
       ]
     },
@@ -1106,11 +1212,12 @@
             14,
             16,
             19,
-            20
+            20,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时20分 ~ 15时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时20分 ~ 16时30分]"
         },
         {
           "title": "“到此一拿”都藏着哪些风险",
@@ -1120,8 +1227,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时57分 ~ 15时45分]"
+          "appearance_count": 9,
+          "time_info": "[10时57分 ~ 16时30分]"
         },
         {
           "title": "澳洲联储下周料按兵不动 关注通胀风险",
@@ -1130,11 +1237,12 @@
           "ranks": [
             1,
             4,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时41分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 16时30分]"
         },
         {
           "title": "据印尼气象、气候和地球物理局发布的报告，当地时间8月9日10时02分，印尼亚齐特区沙璜市西北205公里处发生5.7级地震，震源深度10公里，没有海啸风险。",
@@ -1153,70 +1261,8 @@
       ]
     },
     {
-      "keyword_group": "回购",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778993",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 15时45分]"
-        },
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时11分 ~ 15时45分]"
-        },
-        {
-          "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 08时51分]"
-        },
-        {
-          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
-          "url": "https://www.cls.cn/detail/2449170",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时51分 ~ 15时45分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "暴涨",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "开学三件套全线暴涨",
@@ -1225,11 +1271,23 @@
           "ranks": [
             10,
             16,
-            22
+            22,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 13时41分]"
+          "appearance_count": 7,
+          "time_info": "[10时57分 ~ 16时30分]"
+        },
+        {
+          "title": "佛得角门将身价暴涨1000%",
+          "url": "https://www.douyin.com/hot/2603013",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
         },
         {
           "title": "SpaceX解禁后两日暴涨23%，期权成交创纪录，空头回补或进一步推升股价",
@@ -1257,8 +1315,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 15时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 16时30分]"
         },
         {
           "title": "周末热议：“空存储、多光”？",
@@ -1269,8 +1327,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 15时45分]"
+          "appearance_count": 4,
+          "time_info": "[14时37分 ~ 16时30分]"
         }
       ]
     },
@@ -1313,11 +1371,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时19分 ~ 15时45分]"
+          "appearance_count": 19,
+          "time_info": "[00时19分 ~ 16时30分]"
         }
       ]
     },
@@ -1351,8 +1410,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时57分 ~ 15时45分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 16时30分]"
         }
       ]
     },
