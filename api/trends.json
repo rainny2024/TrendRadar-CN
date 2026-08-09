@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T19:21:08.218337+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-08-09T20:26:46.825352+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 59,
+      "match_count": 64,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -73,8 +73,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时11分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 20时26分]"
         },
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -88,6 +88,24 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时19分 ~ 10时57分]"
+        },
+        {
+          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
+          "url": "https://wallstreetcn.com/livenews/3147045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            5,
+            10,
+            11,
+            14,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时12分 ~ 20时26分]"
         },
         {
           "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
@@ -163,23 +181,6 @@
           "time_info": "[00时20分 ~ 12时12分]"
         },
         {
-          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
-          "url": "https://wallstreetcn.com/livenews/3147045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            5,
-            10,
-            11,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时12分 ~ 19时21分]"
-        },
-        {
           "title": "伊朗：美国不改，海峡不开",
           "url": "https://news.ifeng.com/c/8vRHg8IEQV7",
           "source": "凤凰网",
@@ -217,6 +218,17 @@
           "time_info": "[00时20分 ~ 08时51分]"
         },
         {
+          "title": "伊朗婉转回应最高领袖病危传闻",
+          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时26分]"
+        },
+        {
           "title": "伊朗总统说必须摆脱非战非和局面",
           "url": "https://wallstreetcn.com/livenews/3147050",
           "source": "华尔街见闻-快讯",
@@ -225,22 +237,12 @@
             6,
             7,
             10,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时37分 ~ 19时21分]"
-        },
-        {
-          "title": "伊朗婉转回应最高领袖病危传闻",
-          "url": "https://news.ifeng.com/c/8vSBIqKsEnV",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 20时26分]"
         },
         {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
@@ -261,11 +263,12 @@
           "ranks": [
             1,
             4,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 19时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 20时26分]"
         },
         {
           "title": "伊朗接近与阿曼达成管理海峡协议",
@@ -277,17 +280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
-        },
-        {
-          "title": "据伊朗司法系统媒体米赞通讯社：伊朗巴斯基组织副司令表示，未来将发布伊朗最高领袖穆杰塔巴在公众场合和与指挥官会晤的视频。",
-          "url": "https://flash.jin10.com/detail/20260809190537023800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -302,37 +294,50 @@
           "time_info": "[00时20分 ~ 05时19分]"
         },
         {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://wallstreetcn.com/livenews/3147075",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "20时26分"
         },
         {
-          "title": "伊朗陆军司令：将对任何敌对行动作出坚决回应",
-          "url": "https://wallstreetcn.com/livenews/3147074",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.toutiao.com/trending/7670941843498287158/",
+          "source": "今日头条",
           "ranks": [
-            3
+            8,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时26分]"
         },
         {
-          "title": "以色列总理内塔尼亚胡：伊朗不攻击以色列，因为它意识到如果这样做，我们将给予它强有力的打击。",
-          "url": "https://flash.jin10.com/detail/20260809185800231800",
-          "source": "金十数据",
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时26分]"
+        },
+        {
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://wallstreetcn.com/livenews/3147079",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "20时26分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
@@ -346,6 +351,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时20分 ~ 02时22分]"
+        },
+        {
+          "title": "伊朗称在阿巴斯港附近海域扣押12艘违规船只",
+          "url": "https://wallstreetcn.com/livenews/3147066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时26分]"
         },
         {
           "title": "美国副总统万斯：伊朗已通知美国将允许最大流量的石油通过海峡，但我们不信任他们。",
@@ -386,8 +404,20 @@
           "time_info": "[18时23分 ~ 19时21分]"
         },
         {
-          "title": "伊朗称在阿巴斯港附近海域扣押12艘违规船只",
-          "url": "https://wallstreetcn.com/livenews/3147066",
+          "title": "据伊朗司法系统媒体米赞通讯社：伊朗巴斯基组织副司令表示，未来将发布伊朗最高领袖穆杰塔巴在公众场合和与指挥官会晤的视频。",
+          "url": "https://flash.jin10.com/detail/20260809190537023800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时26分]"
+        },
+        {
+          "title": "伊朗最高领袖与总统会谈",
+          "url": "https://wallstreetcn.com/livenews/3147075",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
@@ -395,7 +425,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时21分]"
+          "time_info": "[19时21分 ~ 20时26分]"
         },
         {
           "title": "土耳其外交部长：伊朗不是防御协议的目标，只要不攻击成员国，任何国家都不会成为目标。",
@@ -424,6 +454,18 @@
           "time_info": "[06时17分 ~ 08时51分]"
         },
         {
+          "title": "伊朗陆军司令：将对任何敌对行动作出坚决回应",
+          "url": "https://wallstreetcn.com/livenews/3147074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时26分]"
+        },
+        {
           "title": "海湾国家担忧伊朗“以钱换通航”，但应对空间极为有限",
           "url": "https://flash.jin10.com/detail/20260809040308516800",
           "source": "金十数据",
@@ -448,6 +490,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时20分 ~ 01时21分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗不攻击以色列，因为它意识到如果这样做，我们将给予它强有力的打击。",
+          "url": "https://flash.jin10.com/detail/20260809185800231800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时26分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：保加利亚方面声称，今天上午一架乌克兰无人机向跨巴尔干天然气管道发动袭击，该管道经由土耳其将俄罗斯天然气输送至欧洲。",
@@ -477,14 +531,25 @@
         },
         {
           "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8E%E6%80%BB%E7%BB%9F%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
+          "url": "https://www.douyin.com/hot/2603545",
+          "source": "抖音",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时26分]"
+        },
+        {
+          "title": "伊朗要求美国赔偿",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E8%B5%94%E5%81%BF%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时26分]"
         },
         {
           "title": "伊朗外长强调霍尔木兹海峡未重新开放",
@@ -497,17 +562,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时29分 ~ 18时23分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.toutiao.com/trending/7670941843498287158/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "据福克斯新闻：美国副总统万斯表示，伊朗已通知美国，尽管政权内部人士发表了将对霍尔木兹海峡征收过境费的声明，但伊朗不会征收此类费用。",
@@ -532,6 +586,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时29分 ~ 18时23分]"
+        },
+        {
+          "title": "伊朗革命卫队：将保持对海峡控制至敌方接受全部条件",
+          "url": "https://wallstreetcn.com/livenews/3147068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时26分]"
         },
         {
           "title": "据伊朗媒体：伊朗总统佩泽希齐扬表示，现在达成协议的最佳时机，因为伊朗是“强大而团结的，在战争中被视为胜利者”。",
@@ -570,6 +636,18 @@
           "time_info": "[17时29分 ~ 18时23分]"
         },
         {
+          "title": "伊朗央行禁止银行超额提款",
+          "url": "https://flash.jin10.com/detail/20260809183958442800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时26分]"
+        },
+        {
           "title": "分析师：美国在伊朗战争中付出的代价之一是自身信誉的流失，或导致......",
           "url": "https://flash.jin10.com/detail/20260808223941497800",
           "source": "金十数据",
@@ -604,17 +682,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时29分 ~ 18时23分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈",
-          "url": "https://www.douyin.com/hot/2603545",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
         },
         {
           "title": "美国中央司令部：美国海军在“亚伯拉罕·林肯”号航空母舰（CVN 72）飞行甲板上对F/A-18E“超级大黄蜂”战斗机进行维护，以确保航母打击群资产保持战备状态，执行美国对伊朗的海上封锁任务。",
@@ -664,37 +731,37 @@
           "time_info": "[00时19分 ~ 00时20分]"
         },
         {
-          "title": "伊朗要求美国赔偿",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E8%B5%94%E5%81%BF%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "伊朗陆军司令：将回应任何敌对行动",
+          "url": "https://www.toutiao.com/trending/7671949132243763263/",
+          "source": "今日头条",
           "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
-        },
-        {
-          "title": "伊朗革命卫队：将保持对海峡控制至敌方接受全部条件",
-          "url": "https://wallstreetcn.com/livenews/3147068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "20时26分"
         },
         {
-          "title": "伊朗央行禁止银行超额提款",
-          "url": "https://flash.jin10.com/detail/20260809183958442800",
+          "title": "雷扎伊出任伊朗最高领袖驻最高国家安全委员会代表",
+          "url": "https://flash.jin10.com/detail/20260809192733431800",
           "source": "金十数据",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时21分"
+          "time_info": "20时26分"
+        },
+        {
+          "title": "伊朗最高领袖与总统举行会谈",
+          "url": "https://flash.jin10.com/detail/20260809191842613800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
         },
         {
           "title": "伊朗革命卫队：将保持对海峡控制至敌方接受全部条件",
@@ -703,7 +770,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         },
@@ -743,8 +810,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 20时26分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -829,19 +896,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时11分 ~ 19时21分]"
-        },
-        {
-          "title": "特朗普新飞机掉链子了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E9%A3%9E%E6%9C%BA%E6%8E%89%E9%93%BE%E5%AD%90%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 20时26分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -855,15 +911,16 @@
           "time_info": "[00时19分 ~ 04时17分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
-          "url": "https://flash.jin10.com/detail/20260809185901644800",
-          "source": "金十数据",
+          "title": "特朗普新飞机掉链子了吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%B0%E9%A3%9E%E6%9C%BA%E6%8E%89%E9%93%BE%E5%AD%90%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 20时26分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -880,16 +937,29 @@
           "time_info": "[12时12分 ~ 15时45分]"
         },
         {
+          "title": "特朗普：“很多人称我是最伟大总统之一”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 20时26分]"
+        },
+        {
           "title": "白宫官员证实特朗普与美联储主席定期通话 强调尊重央行独立性",
           "url": "https://wallstreetcn.com/livenews/3147067",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时21分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时26分]"
         },
         {
           "title": "泰勒·斯威夫特下架特朗普团队音频",
@@ -905,15 +975,16 @@
           "time_info": "[14时37分 ~ 16时30分]"
         },
         {
-          "title": "特朗普：“很多人称我是最伟大总统之一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33746686",
-          "source": "澎湃新闻",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-09）",
+          "url": "https://flash.jin10.com/detail/20260809185901644800",
+          "source": "金十数据",
           "ranks": [
-            11
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 19时21分]"
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时26分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -967,8 +1038,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时57分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[10时57分 ~ 20时26分]"
         },
         {
           "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
@@ -982,11 +1053,12 @@
             12,
             13,
             16,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时57分 ~ 19时21分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 20时26分]"
         },
         {
           "title": "国家统计局：生猪产能综合调控政策效应显现，叠加部分地区高温、强降雨等极端天气频发推高运输成本等因素，猪肉价格由上月环比下降0.8%转为上涨4.1%，影响CPI环比上涨约0.07个百分点。",
@@ -1016,8 +1088,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时40分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[13时40分 ~ 20时26分]"
         },
         {
           "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
@@ -1026,11 +1098,12 @@
           "ranks": [
             19,
             17,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时45分 ~ 19时21分]"
+          "appearance_count": 9,
+          "time_info": "[15时45分 ~ 20时26分]"
         },
         {
           "title": "机构：美国7月CPI数据或显示通胀压力有所缓和",
@@ -1278,8 +1351,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时57分 ~ 19时21分]"
+          "appearance_count": 15,
+          "time_info": "[10时57分 ~ 20时26分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -1345,7 +1418,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时21分"
         }
@@ -1422,19 +1495,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时22分 ~ 19时21分]"
+          "appearance_count": 5,
+          "time_info": "[18时22分 ~ 20时26分]"
         },
         {
           "title": "中信证券：美日联合干预外汇市场旨在防范日元持续贬值引发风险外溢",
           "url": "https://flash.jin10.com/detail/20260809181856153800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时26分]"
         }
       ]
     },
@@ -1453,8 +1527,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 20时26分]"
         },
         {
           "title": "外设想赚钱,键盘鼠标排队涨价",
@@ -1524,8 +1598,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时11分 ~ 19时21分]"
+          "appearance_count": 14,
+          "time_info": "[12时11分 ~ 20时26分]"
         },
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
@@ -1541,8 +1615,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 20时26分]"
         },
         {
           "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
@@ -1555,8 +1629,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时51分 ~ 19时21分]"
+          "appearance_count": 16,
+          "time_info": "[08时51分 ~ 20时26分]"
         },
         {
           "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
@@ -1600,11 +1674,12 @@
             22,
             11,
             27,
-            26
+            26,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时57分 ~ 19时21分]"
+          "appearance_count": 12,
+          "time_info": "[10时57分 ~ 20时26分]"
         },
         {
           "title": "佛得角门将身价暴涨1000%",
@@ -1613,11 +1688,12 @@
           "ranks": [
             18,
             8,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 19时21分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 20时26分]"
         },
         {
           "title": "SpaceX解禁后两日暴涨23%，期权成交创纪录，空头回补或进一步推升股价",
@@ -1646,8 +1722,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 20时26分]"
         },
         {
           "title": "周末热议：“空存储、多光”？",
@@ -1659,8 +1735,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时37分 ~ 19时21分]"
+          "appearance_count": 10,
+          "time_info": "[14时37分 ~ 20时26分]"
         }
       ]
     },
@@ -1693,6 +1769,34 @@
       ]
     },
     {
+      "keyword_group": "利好 利空",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中信证券：利空出尽或支撑港股行情延续",
+          "url": "https://flash.jin10.com/detail/20260809195949389800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时26分"
+        },
+        {
+          "title": "Pro Farmer一周展望：天气窗口转向利好，CBOT大豆的“8月压力”有多大？",
+          "url": "https://flash.jin10.com/detail/20260808205615809800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 1,
       "titles": [
@@ -1708,8 +1812,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 19时21分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 20时26分]"
         }
       ]
     },
@@ -1739,11 +1843,12 @@
           "url": "https://wallstreetcn.com/livenews/3147076",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 20时26分]"
         }
       ]
     },
@@ -1757,11 +1862,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时57分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[10时57分 ~ 20时26分]"
         }
       ]
     },
@@ -1780,23 +1886,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "利好 利空",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Pro Farmer一周展望：天气窗口转向利好，CBOT大豆的“8月压力”有多大？",
-          "url": "https://flash.jin10.com/detail/20260808205615809800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时20分"
         }
       ]
     }
