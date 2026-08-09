@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T06:19:11.941591+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-08-10T07:20:44.551361+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -46,11 +46,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -60,30 +61,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
-        },
-        {
-          "title": "WTI原油站上78美元/桶，日内涨2.16%，布伦特原油涨2.4%，报83.5美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260810060209367800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
-          "url": "https://wallstreetcn.com/livenews/3147123",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -92,11 +71,34 @@
           "ranks": [
             9,
             10,
-            11
+            11,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时20分]"
+        },
+        {
+          "title": "伊朗在谈判关键时刻撤换最高安全官员",
+          "url": "https://flash.jin10.com/detail/20260810064649628800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "伊朗公布美军基地遭袭前后最新卫星对比图",
+          "url": "https://flash.jin10.com/detail/20260810063550783800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
@@ -125,6 +127,19 @@
           "time_info": "[02时24分 ~ 05时22分]"
         },
         {
+          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
+          "url": "https://flash.jin10.com/detail/20260810045918536800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时20分]"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：当今世界已经意识到伊朗是不可屈服的。",
           "url": "https://flash.jin10.com/detail/20260810035338138800",
           "source": "金十数据",
@@ -151,16 +166,28 @@
           "time_info": "[04时20分 ~ 06时19分]"
         },
         {
-          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
-          "url": "https://flash.jin10.com/detail/20260810045918536800",
+          "title": "WTI原油站上78美元/桶，日内涨2.16%，布伦特原油涨2.4%，报83.5美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260810060209367800",
           "source": "金十数据",
           "ranks": [
             1,
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时19分]"
+          "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
+          "title": "伊朗最高领袖任命佐勒加德尔为其政治顾问",
+          "url": "https://wallstreetcn.com/livenews/3147123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         },
         {
           "title": "伊朗总统：愿保持沟通，但绝不会坐等任何外部势力",
@@ -181,11 +208,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时20分]"
         },
         {
           "title": "伊朗高层重要人事变动",
@@ -274,8 +302,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
@@ -286,8 +314,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 06时19分]"
+          "appearance_count": 9,
+          "time_info": "[01时21分 ~ 07时20分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -297,20 +325,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
-        },
-        {
-          "title": "特朗普称正在“低调处理”伊朗问题",
-          "url": "https://wallstreetcn.com/livenews/3147122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -325,6 +341,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 05时22分]"
+        },
+        {
+          "title": "特朗普称正在“低调处理”伊朗问题",
+          "url": "https://wallstreetcn.com/livenews/3147122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时22分 ~ 07时20分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -351,6 +380,18 @@
           "time_info": "[04时20分 ~ 05时22分]"
         },
         {
+          "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
+          "url": "https://flash.jin10.com/detail/20260810052934153800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
+        },
+        {
           "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
           "url": "https://flash.jin10.com/detail/20260810025259260800",
           "source": "金十数据",
@@ -375,17 +416,6 @@
           "time_info": "[00时21分 ~ 01时21分]"
         },
         {
-          "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
-          "url": "https://flash.jin10.com/detail/20260810052934153800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
           "url": "https://flash.jin10.com/detail/20260809212948063800",
           "source": "金十数据",
@@ -400,7 +430,7 @@
     },
     {
       "keyword_group": "CPI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -410,8 +440,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
@@ -422,8 +452,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
@@ -433,11 +463,12 @@
             9,
             10,
             12,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
@@ -447,8 +478,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "分析｜受汽油价格涨幅回落影响，7月CPI同比涨幅有所回落",
@@ -462,6 +493,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时21分 ~ 06时19分]"
+        },
+        {
+          "title": "本周重要事件与数据预告：美国CPI；成品油调价、腾讯财报",
+          "url": "https://flash.jin10.com/detail/20260810065707221800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——周三美国CPI数据重磅来袭；国内成品油将调价、京东与腾讯等将公布二季度财报",
@@ -499,8 +541,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "开学三件套全线暴涨",
@@ -512,11 +554,12 @@
             17,
             25,
             24,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "佛得角门将身价暴涨1000%",
@@ -529,8 +572,52 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国创新药企迈入价值兑现期：创新药纳保打开确定性增长通道",
+          "url": "https://wallstreetcn.com/livenews/3147109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            12,
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时20分]"
+        },
+        {
+          "title": "61%！7月挖掘机出口占比再破纪录，出海持续释放增长动能",
+          "url": "https://wallstreetcn.com/livenews/3147092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
           "time_info": "[00时21分 ~ 06时19分]"
+        },
+        {
+          "title": "中证报头版文章：重大项目加快推进，扩投资稳增长有支撑",
+          "url": "https://wallstreetcn.com/livenews/3147136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
@@ -545,11 +632,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "温州发布海水倒灌风险预警",
@@ -565,34 +653,32 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
+      "keyword_group": "芯片 光模块",
       "match_count": 2,
       "titles": [
         {
-          "title": "中国创新药企迈入价值兑现期：创新药纳保打开确定性增长通道",
-          "url": "https://wallstreetcn.com/livenews/3147109",
+          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
+          "url": "https://wallstreetcn.com/livenews/3147106",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            12,
-            13
+            13,
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 06时19分]"
         },
         {
-          "title": "61%！7月挖掘机出口占比再破纪录，出海持续释放增长动能",
-          "url": "https://wallstreetcn.com/livenews/3147092",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克凭什么建全球最大的芯片厂",
+          "url": "https://www.toutiao.com/trending/7671960489291382810/",
+          "source": "今日头条",
           "ranks": [
-            24,
-            25,
-            26
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时20分"
         }
       ]
     },
@@ -608,19 +694,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "美联储9月加息25个基点的概率为44.4%",
           "url": "https://flash.jin10.com/detail/20260810055655060800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
         }
       ]
     },
@@ -636,8 +723,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         },
         {
           "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
@@ -647,8 +734,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         }
       ]
     },
@@ -661,11 +748,29 @@
           "url": "https://flash.jin10.com/detail/20260810053536334800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证报头版文章：货币政策工具储备充足，增量措施有望适时出台",
+          "url": "https://wallstreetcn.com/livenews/3147131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "07时20分"
         }
       ]
     },
@@ -682,8 +787,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         }
       ]
     },
@@ -699,27 +804,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
-          "url": "https://wallstreetcn.com/livenews/3147106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         }
       ]
     },
@@ -735,8 +821,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
         }
       ]
     }
