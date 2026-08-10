@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T04:31:27.198113+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-08-11T05:32:27.258394+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 40,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -39,8 +39,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普称要向伊朗索赔",
+          "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -54,15 +65,27 @@
           "time_info": "02时42分"
         },
         {
-          "title": "特朗普称要向伊朗索赔",
-          "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
-          "source": "凤凰网",
+          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
+          "url": "https://wallstreetcn.com/articles/3779034",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
+        },
+        {
+          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         },
         {
           "title": "特朗普政府撤销超17.5万份外国人签证",
@@ -74,29 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
-          "url": "https://wallstreetcn.com/articles/3779034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
-        },
-        {
-          "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33561179",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
@@ -222,7 +222,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -277,7 +277,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -299,9 +299,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普称自沃什履新以来仅与其短暂交谈一次 否认频繁沟通",
+          "url": "https://flash.jin10.com/detail/20260811042819105800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "美国总统特朗普签署关于疫苗推荐的命令。",
@@ -310,7 +321,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -326,13 +337,24 @@
           "time_info": "02时42分"
         },
         {
+          "title": "特朗普媒体科技集团(DJT.O)第二季度营收170万美元，第二季度净亏损2.381亿美元，调整后EBITDA亏损2.235亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811042521507800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美国总统特朗普：自沃什获得任命以来，我只与他通过一次电话。（否认华尔街日报报道称双方频繁通话）",
           "url": "https://flash.jin10.com/detail/20260811033805170800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -343,7 +365,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -365,9 +387,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普媒体科技集团二季度净利润2.38亿美元，上年同期亏损0.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
@@ -387,7 +420,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -398,7 +431,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -409,15 +442,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普淡化与沃什接触：自从沃什接任美联储主席以来，和他谈过一次",
+          "url": "https://wallstreetcn.com/livenews/3147674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -427,8 +471,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -453,28 +497,6 @@
           "time_info": "02时42分"
         },
         {
-          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
-          "url": "https://flash.jin10.com/detail/20260811041240333800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
-          "url": "https://wallstreetcn.com/livenews/3147684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
           "title": "伊朗外交部发言人巴加埃：不会被诸如经济制裁这些已经失效的手段所“扼杀”。",
           "url": "https://flash.jin10.com/detail/20260811031809186800",
           "source": "金十数据",
@@ -495,6 +517,31 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
+          "url": "https://flash.jin10.com/detail/20260811045926051800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "伊朗最高领袖将任命数名高级指挥官",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            21,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时42分 ~ 05时32分]"
         },
         {
           "title": "伊朗：每当华盛顿发现自己无力开展外交，就会退而诉诸制裁",
@@ -521,6 +568,30 @@
           "time_info": "[01时43分 ~ 02时42分]"
         },
         {
+          "title": "德国外长瓦德富尔：在与伊朗外长阿拉格奇的通话中，我敦促伊朗与地区邻国和美国进行建设性谈判，以结束冲突。霍尔木兹海峡必须无条件开放，确保所有船只自由安全地航行。",
+          "url": "https://flash.jin10.com/detail/20260811041240333800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈七八个小时，其健康状况很好",
+          "url": "https://wallstreetcn.com/livenews/3147684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
+        },
+        {
           "title": "WTI原油日内涨幅达4.5%，报81.73美元/桶；布伦特原油日内涨幅达4.5%，报87.32美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3147637",
           "source": "华尔街见闻-快讯",
@@ -531,19 +602,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时48分]"
-        },
-        {
-          "title": "伊朗最高领袖将任命数名高级指挥官",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%BB%BB%E5%91%BD%E6%95%B0%E5%90%8D%E9%AB%98%E7%BA%A7%E6%8C%87%E6%8C%A5%E5%AE%98",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时42分 ~ 04时31分]"
         },
         {
           "title": "伊朗革命卫队海军司令：任何外国船只经过霍尔木兹海峡，都逃不过伊朗军方的识别、追踪与监控。",
@@ -589,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "伊朗“圣城旅”指挥官到访巴格达，同伊拉克多方会晤",
+          "url": "https://wallstreetcn.com/livenews/3147698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "布伦特原油期货结算价为每桶87.72美元，上涨4.17美元，涨幅4.99%。",
@@ -649,8 +718,19 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "周一（8月10日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7460元，较上周五（非农日）纽约尾盘跌31点，日内整体交投于6.7419-6.7481元区间，脱离2023年2月3日（盘中最高位6.7342元）以来最高位6.7401元。",
+          "url": "https://wallstreetcn.com/livenews/3147702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
         {
           "title": "周一（8月10日），美联储隔夜逆回购协议（RRP）使用规模为9.75亿美元（交易对手2家），上个交易日报14.50亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147634",
@@ -697,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "货币政策分析公司（Monetary Policy Analytics）经济学家Derek Tang：（相比1998年、2011年）2026年这一次美国与日本联手干预日元汇率时，美联储”并未出资”参与美方的干预行动。 官方数据可能要到今年晚些时候才会公布以证实这一点。 其干预能力理论上仅受限于其意愿。",
+          "url": "https://wallstreetcn.com/livenews/3147693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "美联储哈玛克：市场是美联储的补充，而非替代品。",
@@ -752,12 +843,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "道指在非农次日收跌0.1%、成分股英伟达领跌，生物科技指数创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3147679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -767,19 +869,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
-        },
-        {
-          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
-          "url": "https://wallstreetcn.com/livenews/3147681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         },
         {
           "title": "周一（8月10日）纽约尾盘，ICE美元指数涨0.29%，刷新日高至99.829点，整体处于上涨状态，亚太盘初以来冲高回落、北京时间16:15回落至99.603点刷新日低，之后一度持续扩大涨幅。 彭博美元指数涨0.25%，逼近21:53刷新的日高1203.67点。",
@@ -794,13 +885,25 @@
           "time_info": "[03时48分 ~ 04时31分]"
         },
         {
+          "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
+          "url": "https://wallstreetcn.com/livenews/3147681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
+        },
+        {
           "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
           "url": "https://flash.jin10.com/detail/20260811040205708800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         },
@@ -816,13 +919,35 @@
           "time_info": "01时43分"
         },
         {
+          "title": "周一（8月10日），美股存储芯片与硬件供应链指数跌1.22%，报184.13点，美股盘初冲高回落，结束交易前30分钟内（再次）开启一波显著下跌的行情。 成分股Rambus收跌5.55%，泰瑞达跌3.75%，应用材料跌3.16%，美光科技、拉姆研究、希捷科技至少跌1.45%，西部数据收涨0.93%，闪迪涨2.12%。 此外，铠侠ADR跌4.01%，SK海力士ADR跌1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3147690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "北美科技软件股指数ETF收涨2.26%，报105.01美元，逼近6月1日收盘位107.68美元和2025年9月份顶部117.97美元。",
+          "url": "https://wallstreetcn.com/livenews/3147689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美元指数10日上涨",
           "url": "https://flash.jin10.com/detail/20260811033207795800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
         }
@@ -830,8 +955,43 @@
     },
     {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "周一（8月10日）纽约尾盘，标普500股指期货最终跌0.05%，道指期货跌0.15%，纳斯达克100股指期货跌0.25%。 罗素2000股指期货跌0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3147703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
+          "url": "https://wallstreetcn.com/livenews/3147676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
+        },
+        {
+          "title": "道琼斯指数8月10日（周一）收盘下跌61.30点，跌幅0.11%，报53975.63点；<br/>标普500指数8月10日（周一）收盘下跌4.62点，跌幅0.06%，报7753.02点；<br/>纳斯达克综合指数8月10日（周一）收盘下跌85.26点，跌幅0.32%，报26605.36点。",
+          "url": "https://flash.jin10.com/detail/20260811040525568800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
+        },
         {
           "title": "英伟达跌幅扩大至3%，刷新日低，标普500指数跌0.1%，道指跌0.16%，纳指跌0.4%，半导体指数跌超1.8%。",
           "url": "https://wallstreetcn.com/livenews/3147620",
@@ -863,31 +1023,88 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
-          "url": "https://wallstreetcn.com/livenews/3147676",
-          "source": "华尔街见闻-快讯",
+          "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
+          "url": "https://flash.jin10.com/detail/20260811051431874800",
+          "source": "金十数据",
           "ranks": [
-            8
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时31分"
+          "time_info": "05时32分"
         },
         {
-          "title": "道琼斯指数8月10日（周一）收盘下跌61.30点，跌幅0.11%，报53975.63点；<br/>标普500指数8月10日（周一）收盘下跌4.62点，跌幅0.06%，报7753.02点；<br/>纳斯达克综合指数8月10日（周一）收盘下跌85.26点，跌幅0.32%，报26605.36点。",
-          "url": "https://flash.jin10.com/detail/20260811040525568800",
+          "title": "智利国家铜业委员会：智利埃斯孔迪达铜矿6月份铜产量同比增长45.8%，达到111,400吨。",
+          "url": "https://flash.jin10.com/detail/20260811051428380800",
           "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "价值87亿美元的SpaceX押注推动安大略教师养老金实现收益增长",
+          "url": "https://wallstreetcn.com/livenews/3147622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "江波龙上半年净利超百亿，拟最高8亿元回购股份",
+          "url": "https://www.cls.cn/detail/2450426",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
+        },
+        {
+          "title": "OpenAI回购70亿美元员工股份",
+          "url": "https://wallstreetcn.com/livenews/3147697",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时31分"
+          "time_info": "05时32分"
+        },
+        {
+          "title": "据悉OpenAI回购70亿美元员工股份",
+          "url": "https://flash.jin10.com/detail/20260811044344828800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         }
       ]
     },
@@ -904,8 +1121,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -915,8 +1132,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         }
       ]
     },
@@ -932,8 +1149,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         },
         {
           "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
@@ -944,8 +1161,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         }
       ]
     },
@@ -960,11 +1177,12 @@
           "ranks": [
             6,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -985,17 +1203,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
-          "url": "https://wallstreetcn.com/livenews/3147686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
           "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
           "url": "https://wallstreetcn.com/articles/3779037",
           "source": "华尔街见闻",
@@ -1003,8 +1210,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
+        },
+        {
+          "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
+          "url": "https://wallstreetcn.com/livenews/3147686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时32分]"
         }
       ]
     },
@@ -1020,8 +1239,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         }
       ]
     },
@@ -1037,8 +1256,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         }
       ]
     },
@@ -1060,24 +1279,6 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "价值87亿美元的SpaceX押注推动安大略教师养老金实现收益增长",
-          "url": "https://wallstreetcn.com/livenews/3147622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时42分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "复盘",
       "match_count": 1,
       "titles": [
@@ -1089,8 +1290,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 04时31分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 05时32分]"
         }
       ]
     },
@@ -1109,23 +1310,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时43分 ~ 04时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "江波龙上半年净利超百亿，拟最高8亿元回购股份",
-          "url": "https://www.cls.cn/detail/2450426",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
           "time_info": "[01时43分 ~ 04时31分]"
         }
       ]
