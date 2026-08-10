@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T15:09:03.417114+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-08-10T17:07:14.514562+08:00",
+  "total_titles_processed": 1238,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 32,
+      "match_count": 39,
       "titles": [
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 08时54分]"
+        },
+        {
+          "title": "伊朗高层变动，最高领袖发出新任命",
+          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时53分 ~ 17时07分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
@@ -56,19 +67,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时09分]"
-        },
-        {
-          "title": "伊朗高层变动，最高领袖发出新任命",
-          "url": "https://news.ifeng.com/c/8vSqCKLbBLT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时53分 ~ 15时09分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 17时07分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -90,8 +90,30 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时53分 ~ 15时09分]"
+          "appearance_count": 9,
+          "time_info": "[08时53分 ~ 17时07分]"
+        },
+        {
+          "title": "伊朗密集更换高层，释放何种信号？",
+          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 17时07分]"
+        },
+        {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 17时07分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -117,28 +139,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
-          "title": "伊朗密集更换高层，释放何种信号？",
-          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
-        },
-        {
-          "title": "伊朗的5个条件，美国是否会照单全收？",
-          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "伊朗在谈判关键时刻撤换最高安全官员",
@@ -352,6 +352,28 @@
           "time_info": "[04时20分 ~ 05时22分]"
         },
         {
+          "title": "伊朗外交部发言人：我们正与地区所有国家就增进信任与内生安全机制进行对话。",
+          "url": "https://flash.jin10.com/detail/20260810163121033800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们对任何有关美国军事实力的报告——无论正面还是负面——都不予采信。对伊朗而言，最重要的是保持自身处于最高水平的战备状态。",
+          "url": "https://flash.jin10.com/detail/20260810163047735800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.douyin.com/hot/2603545",
           "source": "抖音",
@@ -361,6 +383,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "伊朗外交部发言人：无论是谈判秘密进行还是公开进行，伊朗人都是高明的“棋手”。",
+          "url": "https://flash.jin10.com/detail/20260810162939150800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         },
         {
           "title": "战略专家警告：伊朗袭击暴露美军漏洞，美军海外资产面临毁灭风险！",
@@ -374,6 +407,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "伊朗外交部发言人：霍尔木兹海峡的关闭并非源于伊朗与阿曼之间的分歧。",
+          "url": "https://flash.jin10.com/detail/20260810162519529800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
           "title": "据伊朗媒体报道，巴勒斯坦伊斯兰圣战组织谴责以色列总理内塔尼亚胡反对加沙15点计划的行为，称此举公然否认停火协议，并直接反对美国的计划。",
           "url": "https://flash.jin10.com/detail/20260810100917229800",
           "source": "金十数据",
@@ -385,6 +429,17 @@
           "time_info": "11时06分"
         },
         {
+          "title": "伊朗称谈判代表将在“适当的时候”访问巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3147367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
           "title": "伊朗机场公司首席执行官：尽管遭受重大破坏，但受战争影响的机场已恢复运营。",
           "url": "https://flash.jin10.com/detail/20260810122646591800",
           "source": "金十数据",
@@ -394,12 +449,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时17分"
+        },
+        {
+          "title": "伊朗：与阿曼有关霍尔木兹海峡的协议包含海上服务费。",
+          "url": "https://wallstreetcn.com/livenews/3147358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "伊朗外交部发言人：重新开放海峡需美国结束封锁并予以赔偿。",
+          "url": "https://wallstreetcn.com/livenews/3147356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -423,8 +500,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时21分 ~ 15时09分]"
+          "appearance_count": 18,
+          "time_info": "[01时21分 ~ 17时07分]"
+        },
+        {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时53分 ~ 17时07分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -438,17 +529,17 @@
           "time_info": "[00时21分 ~ 07时20分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
           "ranks": [
-            10,
-            5,
-            7
+            9,
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时53分 ~ 15时09分]"
+          "appearance_count": 9,
+          "time_info": "[08时53分 ~ 17时07分]"
         },
         {
           "title": "特朗普公布新任总统助理人选",
@@ -462,19 +553,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时53分 ~ 13时17分]"
-        },
-        {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时53分 ~ 15时09分]"
         },
         {
           "title": "美媒：特朗普暂缓对伊动武，称正“低调处理”伊朗问题",
@@ -504,6 +582,17 @@
           "time_info": "[05时22分 ~ 07时20分]"
         },
         {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 17时07分]"
+        },
+        {
           "title": "特朗普宣布威尔·沙夫将出任总统助理兼白宫法律顾问",
           "url": "https://wallstreetcn.com/livenews/3147162",
           "source": "华尔街见闻-快讯",
@@ -515,15 +604,16 @@
           "time_info": "08时54分"
         },
         {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
           "ranks": [
-            11
+            30,
+            23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时16分 ~ 15时09分]"
+          "time_info": "[15时08分 ~ 17时07分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -536,6 +626,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时20分 ~ 05时22分]"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
         },
         {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
@@ -584,17 +685,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时21分 ~ 01时21分]"
-        },
-        {
-          "title": "前美国官员：特朗普使美国安全恶化",
-          "url": "https://www.toutiao.com/trending/7671249968112173098/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
         },
         {
           "title": "新闻交易员：特朗普说低调处理，市场可能听得太认真了",
@@ -655,8 +745,19 @@
     },
     {
       "keyword_group": "涨停 跌停",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "沈腾掌勺“龙餐馆”引爆票房，两家上市公司股价涨停",
+          "url": "https://www.cls.cn/detail/2449834",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
+        },
         {
           "title": "A股煤化工板块走高，金牛化工涨停，江苏索普、华昌化工、诚志股份、宝丰能源、鲁西化工等纷纷走高。",
           "url": "https://flash.jin10.com/detail/20260810130945639800",
@@ -669,13 +770,24 @@
           "time_info": "13时17分"
         },
         {
+          "title": "沈腾龙餐馆口碑大爆 出品方一字涨停",
+          "url": "https://www.baidu.com/s?wd=%E6%B2%88%E8%85%BE%E9%BE%99%E9%A4%90%E9%A6%86%E5%8F%A3%E7%A2%91%E5%A4%A7%E7%88%86+%E5%87%BA%E5%93%81%E6%96%B9%E4%B8%80%E5%AD%97%E6%B6%A8%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
+        },
+        {
           "title": "A股爱丽家居尾盘涨停，走出12天11板。",
           "url": "https://flash.jin10.com/detail/20260810144835745800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -697,7 +809,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -730,7 +842,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -774,7 +886,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -785,7 +897,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -873,7 +985,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -882,11 +994,12 @@
           "url": "https://www.cls.cn/detail/2449503",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 17时07分]"
         },
         {
           "title": "温州发布海水倒灌风险预警",
@@ -1115,6 +1228,117 @@
       ]
     },
     {
+      "keyword_group": "芯片 光模块",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "苹果被曝正测试长鑫存储芯片 用于在中国市场销售的设备",
+          "url": "https://www.cls.cn/detail/2449544",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 17时07分]"
+        },
+        {
+          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
+          "url": "https://wallstreetcn.com/livenews/3147106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 06时19分]"
+        },
+        {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://flash.jin10.com/detail/20260810130539699800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
+        },
+        {
+          "title": "马斯克凭什么建全球最大的芯片厂",
+          "url": "https://www.toutiao.com/trending/7671960489291382810/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 08时54分]"
+        },
+        {
+          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
+          "url": "https://www.zhihu.com/question/2068943667189002947",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 17时07分]"
+        },
+        {
+          "title": "马斯克的8000亿芯片梦会是灾难吗",
+          "url": "https://www.toutiao.com/trending/7672219771949026870/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时16分 ~ 13时17分]"
+        },
+        {
+          "title": "芯片通胀压力下苹果寻求采购长鑫科技芯片？公司回应：以公告披露为准",
+          "url": "https://flash.jin10.com/detail/20260810162306346800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时06分"
+        },
+        {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "日经 韩国股市",
       "match_count": 8,
       "titles": [
@@ -1125,7 +1349,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -1210,104 +1434,6 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
-          "url": "https://wallstreetcn.com/livenews/3147106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 06时19分]"
-        },
-        {
-          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260810130539699800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        },
-        {
-          "title": "马斯克凭什么建全球最大的芯片厂",
-          "url": "https://www.toutiao.com/trending/7671960489291382810/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 08时54分]"
-        },
-        {
-          "title": "苹果被曝正测试长鑫存储芯片 用于在中国市场销售的设备",
-          "url": "https://www.cls.cn/detail/2449544",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 15时09分]"
-        },
-        {
-          "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
-          "url": "https://www.zhihu.com/question/2068943667189002947",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
-        },
-        {
-          "title": "马斯克的8000亿芯片梦会是灾难吗",
-          "url": "https://www.toutiao.com/trending/7672219771949026870/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
-        },
-        {
-          "title": "A股存储芯片板块震荡走低，朗科科技跌超13%，普冉股份、托伦斯、圣邦股份、北京君正、佰维存储跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3147211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        },
-        {
-          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
-          "url": "https://wallstreetcn.com/livenews/3147290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "增长 亮眼",
       "match_count": 7,
       "titles": [
@@ -1379,7 +1505,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时09分"
         },
@@ -1397,8 +1523,91 @@
       ]
     },
     {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "原字节跳动机器人一号位加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E5%8F%B7%E4%BD%8D%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时20分]"
+        },
+        {
+          "title": "“人形机器人第一股”宇树科技今日申购！“肉签”成色几何？",
+          "url": "https://www.cls.cn/detail/2449568",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
+        },
+        {
+          "title": "原字节跳动机器人一号位加入小米",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E5%8F%B7%E4%BD%8D%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "人形机器人第一股",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC%E4%B8%80%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "A股机器人概念股表现活跃，北投科技直线涨停，华中数控、百达精工、建设工业、东土科技、捷强装备涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        },
+        {
+          "title": "天津：到2028年底，全市智能机器人产业核心产值突破200亿元，产值年均增速超过15%",
+          "url": "https://wallstreetcn.com/livenews/3147388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "两部门：大力实施灾害严重矿井、发生较大及以上事故矿井智能化改造 推动危险繁重岗位机器人作业替代",
+          "url": "https://wallstreetcn.com/livenews/3147377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "创业板指跌超2%，沪指涨0.29%，深成指跌0.93%，CPO、玻璃基板、PCB、6G等方向跌幅居前，沪深京三市下跌个股超1900只。",
@@ -1411,6 +1620,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时06分 ~ 13时17分]"
+        },
+        {
+          "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
+          "url": "https://wallstreetcn.com/articles/3779046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 17时07分]"
         },
         {
           "title": "8月10日午间收评：创业板指半日跌超2%，医药、消费股逆势走强",
@@ -1448,58 +1668,8 @@
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "原字节跳动机器人一号位加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%8E%9F%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E5%8F%B7%E4%BD%8D%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时20分]"
-        },
-        {
-          "title": "原字节跳动机器人一号位加入小米",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%80%E5%8F%B7%E4%BD%8D%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
-          "title": "人形机器人第一股",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%AC%AC%E4%B8%80%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时53分 ~ 08时54分]"
-        },
-        {
-          "title": "A股机器人概念股表现活跃，北投科技直线涨停，华中数控、百达精工、建设工业、东土科技、捷强装备涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3147319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时09分"
-        }
-      ]
-    },
-    {
       "keyword_group": "回购",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -1546,6 +1716,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        },
+        {
+          "title": "永茂泰：拟以1.5亿元-3亿元回购公司股份",
+          "url": "https://flash.jin10.com/detail/20260810161238713800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周末热议：“空存储、多光”？",
+          "url": "https://wallstreetcn.com/articles/3778999",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 13时17分]"
+        },
+        {
+          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
+          "url": "https://wallstreetcn.com/articles/3779037",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时08分 ~ 17时07分]"
+        },
+        {
+          "title": "韩国总统办公室：将设立规模达5万亿韩元的新基金，重点投资于有前景的半导体材料、零部件和设备领域。",
+          "url": "https://wallstreetcn.com/livenews/3147397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "全球最大半导体ETF管理人：长鑫科技最早或于9月底纳入公司旗下ETF",
+          "url": "https://wallstreetcn.com/articles/3779017",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时06分 ~ 17时07分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "摩根大通上调标普500目标至8000点！AI行情将进入新阶段？",
+          "url": "https://flash.jin10.com/detail/20260810163412248800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时07分"
+        },
+        {
+          "title": "摩根大通：将标普500指数2026年年底目标值从7800点上调至8000点。",
+          "url": "https://wallstreetcn.com/livenews/3147286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 15时09分]"
+        },
+        {
+          "title": "摩根大通：将2026年末标普500指数目标上调至8000点，之前为7800点。",
+          "url": "https://flash.jin10.com/detail/20260810123555188800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时17分"
         }
       ]
     },
@@ -1640,76 +1915,6 @@
       ]
     },
     {
-      "keyword_group": "存储 半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周末热议：“空存储、多光”？",
-          "url": "https://wallstreetcn.com/articles/3778999",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 13时17分]"
-        },
-        {
-          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
-          "url": "https://wallstreetcn.com/articles/3779037",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 15时09分]"
-        },
-        {
-          "title": "全球最大半导体ETF管理人：长鑫科技最早或于9月底纳入公司旗下ETF",
-          "url": "https://wallstreetcn.com/articles/3779017",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩根大通：将标普500指数2026年年底目标值从7800点上调至8000点。",
-          "url": "https://wallstreetcn.com/livenews/3147286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时17分 ~ 15时09分]"
-        },
-        {
-          "title": "摩根大通：将2026年末标普500指数目标上调至8000点，之前为7800点。",
-          "url": "https://flash.jin10.com/detail/20260810123555188800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "涨价 核心材料",
       "match_count": 2,
       "titles": [
@@ -1731,11 +1936,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时06分 ~ 15时09分]"
+          "appearance_count": 7,
+          "time_info": "[11时06分 ~ 17时07分]"
         }
       ]
     },
