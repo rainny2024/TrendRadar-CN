@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-08-11T06:26:51.753985+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-08-11T07:25:39.947705+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
           "url": "https://news.ifeng.com/c/8vTlIUCd26B",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         },
         {
           "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
@@ -39,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -50,19 +51,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时26分]"
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 07时25分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -88,6 +90,17 @@
           "time_info": "[01时43分 ~ 05时32分]"
         },
         {
+          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
+          "url": "https://flash.jin10.com/detail/20260811071100479800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "特朗普政府撤销超17.5万份外国人签证",
           "url": "https://flash.jin10.com/detail/20260811021754743800",
           "source": "金十数据",
@@ -97,17 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
-          "url": "https://wallstreetcn.com/livenews/3147708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
         },
         {
           "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
@@ -146,6 +148,18 @@
           "time_info": "[01时43分 ~ 02时42分]"
         },
         {
+          "title": "美国总统特朗普：伊朗已经“囊中羞涩”，在约300%的通胀背景下无力给士兵发放军饷。",
+          "url": "https://wallstreetcn.com/livenews/3147708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
           "title": "白宫官员：美国总统特朗普延长了《琼斯法案》的豁免，但附加了一些限制。",
           "url": "https://flash.jin10.com/detail/20260811011059897800",
           "source": "金十数据",
@@ -167,6 +181,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时42分]"
+        },
+        {
+          "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
+          "url": "https://flash.jin10.com/detail/20260811055607188800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普宣布“美国疫苗推荐”。 特朗普声称：政府仅认可 11 种核心疫苗的儿童接种建议。 不再建议所有儿童接种乙肝、新冠、流感等疫苗。",
@@ -226,17 +252,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "特朗普称美军实际控制霍尔木兹并清除了水雷",
-          "url": "https://flash.jin10.com/detail/20260811055607188800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
         },
         {
           "title": "美国总统特朗普：不再建议所有儿童接种乙型肝炎、COVID-19和流感等疫苗。",
@@ -382,6 +397,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3147719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "美国总统特朗普：自沃什获得任命以来，我只与他通过一次电话。（否认华尔街日报报道称双方频繁通话）",
           "url": "https://flash.jin10.com/detail/20260811033805170800",
           "source": "金十数据",
@@ -484,7 +510,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -507,6 +533,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 03时48分]"
+        },
+        {
+          "title": "伊朗总统称与最高领袖会谈了七八个小时",
+          "url": "https://news.ifeng.com/c/8vUUCRouqKj",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "布伦特原油突破87美元/桶，日内涨6.77%。",
@@ -747,17 +784,6 @@
       "match_count": 13,
       "titles": [
         {
-          "title": "美联储9月加息25个基点的概率为51.2%",
-          "url": "https://flash.jin10.com/detail/20260811060701693800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
           "title": "周一（8月10日），美联储隔夜逆回购协议（RRP）使用规模为9.75亿美元（交易对手2家），上个交易日报14.50亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147634",
           "source": "华尔街见闻-快讯",
@@ -768,6 +794,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时42分]"
+        },
+        {
+          "title": "周一（8月10日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7460元，较上周五（非农日）纽约尾盘跌31点，日内整体交投于6.7419-6.7481元区间，脱离2023年2月3日（盘中最高位6.7342元）以来最高位6.7401元。",
+          "url": "https://wallstreetcn.com/livenews/3147702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时25分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的9.75亿美元。",
@@ -782,16 +821,16 @@
           "time_info": "[01时43分 ~ 02时42分]"
         },
         {
-          "title": "周一（8月10日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7460元，较上周五（非农日）纽约尾盘跌31点，日内整体交投于6.7419-6.7481元区间，脱离2023年2月3日（盘中最高位6.7342元）以来最高位6.7401元。",
-          "url": "https://wallstreetcn.com/livenews/3147702",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储9月加息25个基点的概率为51.2%",
+          "url": "https://flash.jin10.com/detail/20260811060701693800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            9
+            2,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时26分]"
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "货币政策分析公司（Monetary Policy Analytics）经济学家Derek Tang：（相比1998年、2011年）2026年这一次美国与日本联手干预日元汇率时，美联储”并未出资”参与美方的干预行动。 官方数据可能要到今年晚些时候才会公布以证实这一点。 其干预能力理论上仅受限于其意愿。",
@@ -916,11 +955,24 @@
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
           "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8,
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "周一（8月10日），美股行业ETF普遍收跌，全球航空业ETF跌3.38%，半导体ETF跌2.28%，全球科技股指数ETF、科技行业ETF至多跌1.03%，网络股指数ETF涨1.29%，能源业ETF涨4.68%。 标普500指数的11个板块中，房地产板块收跌1.23%，公用事业、信息技术/科技板块至多跌1.11%，能源板块涨4.63%。",
@@ -972,17 +1024,6 @@
           "time_info": "[05时32分 ~ 06时26分]"
         },
         {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
           "title": "美股收盘：三大股指收跌 金龙指数涨1.6%",
           "url": "https://flash.jin10.com/detail/20260811040205708800",
           "source": "金十数据",
@@ -1027,11 +1068,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时26分]"
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数收涨1.65%，报6730.14点。 热门中概股里，陆控初步收涨14.3%，BOSS直聘涨5.4%，小马智行涨4.2%，阿里巴巴涨2.9%，新东方涨2.6%，世纪互联涨2.5%，比亚迪涨2%，携程涨1.9%，拼多多涨1.1%，日月光半导体、B站、百胜中国、中通快递、再鼎医药、亚朵至少涨0.7%，腾讯跌0.7%，理想跌0.9%，小鹏跌1.2%。 ETF中，中概互联网指数ETF（KWEB）收涨1.61%，中国科技指数ETF（CQQQ）收跌0.40%。 XtrackersHarvest中证50（ASHS）收跌0.19%，德银嘉实沪深300指数ETF（ASHR）收跌0.46%，MSCI新兴市场ex中国ETF（EMXC）收跌1.01%。",
@@ -1096,7 +1138,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
@@ -1133,12 +1175,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时42分]"
+        },
+        {
+          "title": "江波龙上半年净利润同比增长71529%，拟最高8亿元回购股份 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "银行理财机构短期限产品规模增长过快触发监管提示",
+          "url": "https://wallstreetcn.com/livenews/3147718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
@@ -1148,11 +1212,24 @@
             6,
             9,
             11,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
+        },
+        {
+          "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
+          "url": "https://flash.jin10.com/detail/20260811055637856800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "微软希望在仅生产数万个当前一代Maia人工智能芯片后，大幅扩大该芯片的产能。",
@@ -1167,15 +1244,26 @@
           "time_info": "[03时48分 ~ 04时31分]"
         },
         {
-          "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
-          "url": "https://flash.jin10.com/detail/20260811055637856800",
-          "source": "金十数据",
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
+          "source": "财联社热门",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美股收盘：芯片股、光通信概念重挫",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E6%A6%82%E5%BF%B5%E9%87%8D%E6%8C%AB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
@@ -1188,11 +1276,12 @@
           "url": "https://www.cls.cn/detail/2450426",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         },
         {
           "title": "OpenAI回购70亿美元员工股份",
@@ -1230,22 +1319,52 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
           "url": "https://wallstreetcn.com/articles/3779046",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "鼠标也涨价,装机党全面崩盘",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356996&amp;topic_name=%E9%BC%A0%E6%A0%87%E4%B9%9F%E6%B6%A8%E4%BB%B7%2C%E8%A3%85%E6%9C%BA%E5%85%9A%E5%85%A8%E9%9D%A2%E5%B4%A9%E7%9B%98",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
+        },
+        {
+          "title": "取消涨价50%计划：Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳",
+          "url": "https://wallstreetcn.com/livenews/3147724",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
@@ -1258,11 +1377,12 @@
           "url": "https://www.cls.cn/detail/2450388",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         },
         {
           "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
@@ -1271,11 +1391,12 @@
           "ranks": [
             13,
             15,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         }
       ]
     },
@@ -1288,11 +1409,12 @@
           "url": "https://wallstreetcn.com/articles/3779037",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         },
         {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
@@ -1310,19 +1432,19 @@
       ]
     },
     {
-      "keyword_group": "涨价 核心材料",
+      "keyword_group": "上证 深证",
       "match_count": 1,
       "titles": [
         {
-          "title": "鼠标也涨价,装机党全面崩盘",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356996&amp;topic_name=%E9%BC%A0%E6%A0%87%E4%B9%9F%E6%B6%A8%E4%BB%B7%2C%E8%A3%85%E6%9C%BA%E5%85%9A%E5%85%A8%E9%9D%A2%E5%B4%A9%E7%9B%98",
-          "source": "贴吧",
+          "title": "上证报头版文章：多重稳市信号释放，资本市场着力强韧性、提信心",
+          "url": "https://wallstreetcn.com/livenews/3147717",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            17
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     },
@@ -1335,11 +1457,12 @@
           "url": "https://www.cls.cn/detail/2450169",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         }
       ]
     },
@@ -1369,11 +1492,12 @@
           "url": "https://www.cls.cn/detail/2450137",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
         }
       ]
     },
