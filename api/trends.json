@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T07:25:39.947705+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-08-11T08:53:09.259785+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 49,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -13,11 +13,25 @@
           "source": "凤凰网",
           "ranks": [
             1,
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 08时53分]"
+        },
+        {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 08时53分]"
         },
         {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
@@ -31,28 +45,16 @@
           "time_info": "[01时43分 ~ 07时25分]"
         },
         {
-          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
-        },
-        {
           "title": "特朗普称要向伊朗索赔",
           "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时31分 ~ 07时25分]"
+          "appearance_count": 6,
+          "time_info": "[04时31分 ~ 08时53分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -65,6 +67,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时43分 ~ 07时25分]"
+        },
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -90,17 +103,6 @@
           "time_info": "[01时43分 ~ 05时32分]"
         },
         {
-          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
-          "url": "https://flash.jin10.com/detail/20260811071100479800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
           "title": "特朗普政府撤销超17.5万份外国人签证",
           "url": "https://flash.jin10.com/detail/20260811021754743800",
           "source": "金十数据",
@@ -122,6 +124,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 03时48分]"
+        },
+        {
+          "title": "特朗普“狮子大开口”向伊朗开出“赔偿清单”，霍尔木兹海峡协议前景瞬间黯淡",
+          "url": "https://flash.jin10.com/detail/20260811071100479800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 08时53分]"
         },
         {
           "title": "特朗普延长《琼斯法案》航运豁免90天 适用范围转向能源运输",
@@ -195,6 +209,39 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
+          "url": "https://www.cls.cn/detail/2450675",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
           "title": "美国总统特朗普宣布“美国疫苗推荐”。 特朗普声称：政府仅认可 11 种核心疫苗的儿童接种建议。 不再建议所有儿童接种乙肝、新冠、流感等疫苗。",
           "url": "https://wallstreetcn.com/livenews/3147654",
           "source": "华尔街见闻-快讯",
@@ -217,6 +264,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时42分]"
+        },
+        {
+          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3147719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 08时53分]"
         },
         {
           "title": "特朗普：将赔偿问题纳入未来的谈判",
@@ -397,17 +456,6 @@
           "time_info": "05时32分"
         },
         {
-          "title": "特朗普称美军已“100%控制”霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3147719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
           "title": "美国总统特朗普：自沃什获得任命以来，我只与他通过一次电话。（否认华尔街日报报道称双方频繁通话）",
           "url": "https://flash.jin10.com/detail/20260811033805170800",
           "source": "金十数据",
@@ -485,6 +533,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普自曝与美联储主席“通过话”，但强调“就一次”",
+          "url": "https://flash.jin10.com/detail/20260811073104520800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及伊朗战争接下来会发生什么时）你们很快就会知道了。",
           "url": "https://flash.jin10.com/detail/20260811032829058800",
           "source": "金十数据",
@@ -510,7 +569,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -539,11 +598,45 @@
           "url": "https://news.ifeng.com/c/8vUUCRouqKj",
           "source": "凤凰网",
           "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 08时53分]"
+        },
+        {
+          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
+          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
+          "source": "凤凰网",
+          "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "伊朗最高领袖任命6人担任高级军官",
+          "url": "https://news.ifeng.com/c/8vUC8C2pHLn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
+          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "布伦特原油突破87美元/桶，日内涨6.77%。",
@@ -781,8 +874,19 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美联储鹰派释放强硬信号：一次升息不够 或需多次加息",
+          "url": "https://www.cls.cn/detail/2450633",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
         {
           "title": "周一（8月10日），美联储隔夜逆回购协议（RRP）使用规模为9.75亿美元（交易对手2家），上个交易日报14.50亿美元。",
           "url": "https://wallstreetcn.com/livenews/3147634",
@@ -951,24 +1055,25 @@
           "time_info": "[01时43分 ~ 05时32分]"
         },
         {
+          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
+          "url": "https://www.cls.cn/detail/2450652",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时26分 ~ 08时53分]"
+        },
+        {
           "title": "霍尔木兹僵局推油价大涨5%，英伟达\"循环融资\"担忧打压美股指，芯片指数跌3%，黄金续涨",
           "url": "https://wallstreetcn.com/articles/3779052",
           "source": "华尔街见闻",
           "ranks": [
             3,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "美股收盘：芯片股&光通信概念重挫 三大指数收低中概逆市走强",
-          "url": "https://www.cls.cn/detail/2450652",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1059,6 +1164,104 @@
       ]
     },
     {
+      "keyword_group": "增长 亮眼",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "新加坡第二季度GDP同比增长5.9%，预估5.8%。 新加坡第二季度GDP环比增长1.4%，预估1.2%。",
+          "url": "https://wallstreetcn.com/livenews/3147749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
+          "url": "https://flash.jin10.com/detail/20260811051431874800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时26分]"
+        },
+        {
+          "title": "智利国家铜业委员会：智利埃斯孔迪达铜矿6月份铜产量同比增长45.8%，达到111,400吨。",
+          "url": "https://flash.jin10.com/detail/20260811051428380800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时26分]"
+        },
+        {
+          "title": "江波龙上半年净利润同比增长71529%，拟最高8亿元回购股份 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 08时53分]"
+        },
+        {
+          "title": "价值87亿美元的SpaceX押注推动安大略教师养老金实现收益增长",
+          "url": "https://wallstreetcn.com/livenews/3147622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时42分]"
+        },
+        {
+          "title": "银行理财机构短期限产品规模增长过快触发监管提示",
+          "url": "https://wallstreetcn.com/livenews/3147718",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 08时53分]"
+        },
+        {
+          "title": "韩国海关总署：8月1日至10日出口同比增长45.3%，进口同比增长23.1%，贸易余额初步数据显示为18亿美元。",
+          "url": "https://flash.jin10.com/detail/20260811081335169800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "新加坡贸工部：将2026年GDP增长预期从之前的2.0%-4.0%上调至4.5%-5.5%。",
+          "url": "https://flash.jin10.com/detail/20260811081111594800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "纳斯达克 标普 道琼斯",
       "match_count": 6,
       "titles": [
@@ -1137,70 +1340,6 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "智利国家铜业委员会：智利科拉瓦西矿6月份铜产量同比增长1.7%，达到34,900吨。",
-          "url": "https://flash.jin10.com/detail/20260811051431874800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时26分]"
-        },
-        {
-          "title": "智利国家铜业委员会：智利埃斯孔迪达铜矿6月份铜产量同比增长45.8%，达到111,400吨。",
-          "url": "https://flash.jin10.com/detail/20260811051428380800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时26分]"
-        },
-        {
-          "title": "价值87亿美元的SpaceX押注推动安大略教师养老金实现收益增长",
-          "url": "https://wallstreetcn.com/livenews/3147622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 02时42分]"
-        },
-        {
-          "title": "江波龙上半年净利润同比增长71529%，拟最高8亿元回购股份 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779092",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "银行理财机构短期限产品规模增长过快触发监管提示",
-          "url": "https://wallstreetcn.com/livenews/3147718",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 光模块",
       "match_count": 5,
       "titles": [
@@ -1218,6 +1357,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时43分 ~ 07时25分]"
+        },
+        {
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 08时53分]"
         },
         {
           "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
@@ -1244,26 +1395,112 @@
           "time_info": "[03时48分 ~ 04时31分]"
         },
         {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
           "title": "美股收盘：芯片股、光通信概念重挫",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%8A%AF%E7%89%87%E8%82%A1%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E6%A6%82%E5%BF%B5%E9%87%8D%E6%8C%AB",
           "source": "百度热搜",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
+          "url": "https://www.cls.cn/detail/2450388",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 08时53分]"
+        },
+        {
+          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
+        },
+        {
+          "title": "中信建投：宇树IPO定价超出预期利好机器人板块",
+          "url": "https://flash.jin10.com/detail/20260811082327107800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
+          "url": "https://www.zhihu.com/question/2069868469005326051",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
+          "url": "https://wallstreetcn.com/articles/3779037",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 08时53分]"
+        },
+        {
+          "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
+          "url": "https://wallstreetcn.com/livenews/3147686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时31分 ~ 06时26分]"
+        },
+        {
+          "title": "中国存储开始把定价权拿回来了",
+          "url": "https://www.toutiao.com/trending/7672403466110635574/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     },
@@ -1277,11 +1514,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 08时53分]"
         },
         {
           "title": "OpenAI回购70亿美元员工股份",
@@ -1320,11 +1558,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 08时53分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -1335,8 +1574,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 08时53分]"
         }
       ]
     },
@@ -1352,82 +1591,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 08时53分]"
         },
         {
           "title": "取消涨价50%计划：Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳",
           "url": "https://wallstreetcn.com/livenews/3147724",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
-          "url": "https://www.cls.cn/detail/2450388",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
+            9,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
-        },
-        {
-          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
-          "url": "https://wallstreetcn.com/articles/3779037",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
-        },
-        {
-          "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
-          "url": "https://wallstreetcn.com/livenews/3147686",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时26分]"
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 08时53分]"
         }
       ]
     },
@@ -1440,11 +1617,12 @@
           "url": "https://wallstreetcn.com/livenews/3147717",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时25分 ~ 08时53分]"
         }
       ]
     },
@@ -1458,11 +1636,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 08时53分]"
         }
       ]
     },
@@ -1498,6 +1677,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时43分 ~ 07时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "加速落地 订单爆发",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新增专项债加速落地，年内置换债发行近九成",
+          "url": "https://wallstreetcn.com/livenews/3147743",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时53分"
         }
       ]
     },
