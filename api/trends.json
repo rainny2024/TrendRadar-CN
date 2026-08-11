@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-11T14:46:07.161370+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-08-11T16:03:21.695944+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 56,
       "titles": [
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 16时03分]"
+        },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
           "url": "https://news.ifeng.com/c/8vTlIUCd26B",
@@ -34,17 +45,6 @@
           "time_info": "[01时43分 ~ 11时00分]"
         },
         {
-          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
-          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 14时46分]"
-        },
-        {
           "title": "伊朗回应特朗普“棋局”比喻：伊朗人是“专业棋手”",
           "url": "https://news.ifeng.com/c/8vTu2Im0JsI",
           "source": "凤凰网",
@@ -54,6 +54,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时43分 ~ 07时25分]"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 16时03分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -69,6 +81,19 @@
           "time_info": "[08时52分 ~ 13时47分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 16时03分]"
+        },
+        {
           "title": "特朗普称要向伊朗索赔",
           "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
           "source": "凤凰网",
@@ -79,18 +104,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时31分 ~ 08时53分]"
-        },
-        {
-          "title": "特朗普：美军已100%控制霍尔木兹海峡",
-          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 14时46分]"
         },
         {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
@@ -105,18 +118,6 @@
           "time_info": "[01时43分 ~ 07时25分]"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 14时46分]"
-        },
-        {
           "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -124,8 +125,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 16时03分]"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -163,6 +164,17 @@
           "time_info": "[13时47分 ~ 14时46分]"
         },
         {
+          "title": "曝特朗普上月秘密乘运输机回国",
+          "url": "https://www.toutiao.com/trending/7672053116451389486/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "特朗普政府撤销超17.5万份外国人签证",
           "url": "https://flash.jin10.com/detail/20260811021754743800",
           "source": "金十数据",
@@ -172,6 +184,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
+          "url": "https://www.cls.cn/detail/2450709",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时19分 ~ 16时03分]"
         },
         {
           "title": "美国总统特朗普将于当地时间周一签署关于儿童接种疫苗的行政命令。（CBS）",
@@ -232,18 +256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "和平希望又受挫！特朗普称美军已“100%控制”霍尔木兹，并向伊朗索赔",
-          "url": "https://www.cls.cn/detail/2450709",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时19分 ~ 14时46分]"
         },
         {
           "title": "特朗普称美军已“100%控制”霍尔木兹海峡 | 环球市场",
@@ -606,6 +618,17 @@
           "time_info": "08时53分"
         },
         {
+          "title": "特朗普称美国对伊朗有三种“策略”",
+          "url": "https://wallstreetcn.com/livenews/3147920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "美国总统特朗普：（当被问及伊朗战争接下来会发生什么时）你们很快就会知道了。",
           "url": "https://flash.jin10.com/detail/20260811032829058800",
           "source": "金十数据",
@@ -631,7 +654,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 35,
+      "match_count": 43,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -642,8 +665,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 14时46分]"
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 16时03分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -664,8 +687,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 14时46分]"
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 16时03分]"
+        },
+        {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时59分 ~ 16时03分]"
         },
         {
           "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
@@ -689,18 +724,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 03时48分]"
-        },
-        {
-          "title": "伊朗更强硬的强硬派来了",
-          "url": "https://news.ifeng.com/c/8vUncUovk9A",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时59分 ~ 14时46分]"
         },
         {
           "title": "伊朗：若乌不赔偿 伊朗就自己动手了",
@@ -738,6 +761,19 @@
           "time_info": "[08时52分 ~ 08时53分]"
         },
         {
+          "title": "伊朗警告乌克兰不赔偿就动手",
+          "url": "https://www.toutiao.com/trending/7671598956682723379/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 16时03分]"
+        },
+        {
           "title": "布伦特原油突破87美元/桶，日内涨6.77%。",
           "url": "https://flash.jin10.com/detail/20260811022019927800",
           "source": "金十数据",
@@ -747,18 +783,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "伊朗警告乌克兰不赔偿就动手",
-          "url": "https://www.toutiao.com/trending/7671598956682723379/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 14时46分]"
         },
         {
           "title": "伊朗外交部发言人巴加埃：不会被诸如经济制裁这些已经失效的手段所“扼杀”。",
@@ -781,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "伊朗石油部官方网站Shana：伊朗石油部长帕克内贾德称，到九月底将有9500万立方米天然气的生产周期恢复。",
+          "url": "https://flash.jin10.com/detail/20260811154832896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "伊朗最高领袖将任命数名高级指挥官",
@@ -986,6 +1021,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "伊朗石油部长表示，到9月底将有9500万立方米的天然气恢复进入生产循环。（伊朗官方通讯社Shana）",
+          "url": "https://wallstreetcn.com/livenews/3147937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶87.72美元，上涨4.17美元，涨幅4.99%。",
           "url": "https://flash.jin10.com/detail/20260811025226920800",
           "source": "金十数据",
@@ -997,6 +1043,28 @@
           "time_info": "03时48分"
         },
         {
+          "title": "布伦特原油日内涨幅达2.0%，报89.49美元/桶；WTI原油日内涨幅达2.0%，报83.81美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3147925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "布伦特原油、WTI原油期货均上涨逾2%，升至7月31日以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260811153633420800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "伊朗最高领袖公布多项任命 调整武装力量领导层",
           "url": "https://flash.jin10.com/detail/20260811003027747800",
           "source": "金十数据",
@@ -1006,6 +1074,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "伊朗警告乌克兰：不赔偿就动手",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%9A%E4%B8%8D%E8%B5%94%E5%81%BF%E5%B0%B1%E5%8A%A8%E6%89%8B",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：在最近的战争中，伊朗向全世界证明了自己，展现出其作为一支强大且不可战胜的力量的形象。",
+          "url": "https://flash.jin10.com/detail/20260811153518529800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "WTI原油日内涨幅达5.0%，报82.1美元/桶；布伦特原油日内涨幅达5.0%，报87.74美元/桶。",
@@ -1030,6 +1120,28 @@
           "time_info": "01时43分"
         },
         {
+          "title": "伊朗外长阿拉格齐： 我们的武装力量牺牲了生命，击败了世界上最大的所谓军队。这不是口号，而是全世界公认的事实。",
+          "url": "https://flash.jin10.com/detail/20260811153504492800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：没人料到伊朗可以迫使敌人提出谈判要求。",
+          "url": "https://flash.jin10.com/detail/20260811153421582800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "伊朗与巴基斯坦外长通电话，讨论霍尔木兹海峡谈判与防务协议。",
           "url": "https://wallstreetcn.com/livenews/3147604",
           "source": "华尔街见闻-快讯",
@@ -1044,7 +1156,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美联储鹰派释放强硬信号：一次升息不够 或需多次加息",
@@ -1056,8 +1168,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时52分 ~ 14时46分]"
+          "appearance_count": 9,
+          "time_info": "[08时52分 ~ 16时03分]"
         },
         {
           "title": "7月CPI可能反弹，但美联储当前更怕错杀而非落后——新版发布",
@@ -1221,6 +1333,17 @@
           "time_info": "03时48分"
         },
         {
+          "title": "国际金空头仓位骤减42%，夏末筑底为非农后的强势反弹打下基础 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260811153619419800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
           "title": "加息还是继续等？美联储传声筒：两份通胀报告将“检验”沃什的强硬立场",
           "url": "https://flash.jin10.com/detail/20260811102735390800",
           "source": "金十数据",
@@ -1246,7 +1369,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "江波龙上半年净利润同比增长71529%，拟最高8亿元回购股份 | 财报见闻",
@@ -1257,8 +1380,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 14时46分]"
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 16时03分]"
         },
         {
           "title": "上半年规上互联网企业完成互联网业务收入超万亿元 同比增长10.1%",
@@ -1270,6 +1393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "乘联分会：7月新能源车零售同比下降3.9%，其中自主下降4%，主流合资增长36%，豪华下降23%，自主经济型电动车国内零售受到补贴暴跌的影响较大。由于新能源商用车补贴力度强，MPV中低端与小型商用车的功能有相通之处，因此MPV中低端下滑较大。",
+          "url": "https://wallstreetcn.com/livenews/3147942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         },
         {
           "title": "新加坡第二季度GDP同比增长5.9%，预估5.8%。 新加坡第二季度GDP环比增长1.4%，预估1.2%。",
@@ -1396,6 +1530,282 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "农村电商物流业务量涨势亮眼",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%86%9C%E6%9D%91%E7%94%B5%E5%95%86%E7%89%A9%E6%B5%81%E4%B8%9A%E5%8A%A1%E9%87%8F%E6%B6%A8%E5%8A%BF%E4%BA%AE%E7%9C%BC%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "河南发布红色山洪灾害气象风险预警",
+          "url": "https://wallstreetcn.com/livenews/3147818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 13时47分]"
+        },
+        {
+          "title": "凯投宏观：澳洲联储不排除加息可能性 但条件是“上行风险成为现实”",
+          "url": "https://flash.jin10.com/detail/20260811133804498800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "澳洲联储：今日的政策决定一致通过。 尽管中东冲突对通胀的影响目前来看低于预期，但整体通胀率依然过高。 委员会将密切关注数据以及对前景和风险的动态评估，以此指导未来决策。 2025年下半年通胀显著回升，今年初以来的信息证实，部分涨幅反映了更大的产能压力。 委员会仍然专注于确保高通胀不会根深蒂固。 委员会将继续采取其认为必要的措施，以使通胀可持续地回到目标水平；如果上行风险成为现实，将进一步提高现金利率目标。 通胀依然过高。短期通胀预期指标有所缓解，但仍高于今年早些时候。 截尾均值通胀率也依然保持高位，且与一季度相比变化不大。 劳动力市场领先指标显示短期内只会出现有限的缓和。 鉴于货币政策被认为具有一定限制性，委员会决定在评估经济演变情况的同时，维持现金利率目标不变。",
+          "url": "https://wallstreetcn.com/livenews/3147855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：不希望失业率升至非加速通胀失业率（NAIRU）水平之上。 我们需要经济增长放缓，劳动市场的紧俏程度也需要降低。 我们很有可能还需要再次升息。 房市下滑不会对金融稳定构成重大风险。 委员会所有成员至少都对通胀有些担忧。",
+          "url": "https://wallstreetcn.com/livenews/3147884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "金十图示：北京时间8月11日22:00将有欧元、日元等外汇期权大单到期，3个行权价10亿以上大单，敬请管理风险。",
+          "url": "https://flash.jin10.com/detail/20260811141306297800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：正在认真思考何时可能适合加息。 房地产市场并不是让我们按兵不动的理由。 支持加息的理由包括通胀仍然过高，以及中东局势带来的通胀上行风险。 决定等待更多信息，但加息仍是首要考量。",
+          "url": "https://wallstreetcn.com/livenews/3147876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局周二表示，特斯拉因近光灯可能过亮，导致迎面而来的驾驶员视野受阻并增加碰撞风险，正在美国召回20,349辆汽车。",
+          "url": "https://wallstreetcn.com/livenews/3147926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "澳洲联储主席布洛克：委员会希望放缓经济增长，认为通胀存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20260811133129300800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "美国国家公路交通安全管理局周二表示，丰田公司正在美国召回508,354辆汽车，原因是仪表盘无法显示关键安全信息，从而增加了发生碰撞或造成人员受伤的风险。",
+          "url": "https://wallstreetcn.com/livenews/3147922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "澳洲联储主席Bullock：澳洲联储希望放缓经济，认为通胀存在上行风险。 预计需要一段经济低增长来降低通胀。 如有必要，将再次加息。 不排除进一步加息的可能，但需要更多信息。",
+          "url": "https://wallstreetcn.com/livenews/3147869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时46分"
+        },
+        {
+          "title": "霍尔木兹海峡风险推高油轮租船成本，中东航线日费逼近50万美元",
+          "url": "https://wallstreetcn.com/livenews/3147603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
+          "url": "https://www.cls.cn/detail/2450388",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时43分 ~ 11时00分]"
+        },
+        {
+          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时25分]"
+        },
+        {
+          "title": "红警蜘蛛机器人走进现实",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        },
+        {
+          "title": "中信建投：宇树IPO定价超出预期利好机器人板块",
+          "url": "https://flash.jin10.com/detail/20260811082327107800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时53分"
+        },
+        {
+          "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
+          "url": "https://wallstreetcn.com/livenews/3147843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时47分]"
+        },
+        {
+          "title": "A股人形机器人概念股午后拉升，巨轮智能、北特科技直线涨停，斯菱智驱涨超17%，瑞迪智驱、禾川科技、安培龙、丰光精密等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时47分 ~ 14时46分]"
+        },
+        {
+          "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
+          "url": "https://www.zhihu.com/question/2069868469005326051",
+          "source": "知乎",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时52分 ~ 11时00分]"
+        },
+        {
+          "title": "广州为何盯上一台炒菜机器人",
+          "url": "https://www.toutiao.com/trending/7672615468112314419/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 16时03分]"
+        },
+        {
+          "title": "A股人形机器人概念震荡拉升，斯菱智驱涨超10%，拓斯达、五洲新春、奥比中光、北自科技、三花智控跟涨。",
+          "url": "https://flash.jin10.com/detail/20260811105022482800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3147780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "A股午后机器人板块快速拉升，绿地谐波、中大力德等涨超8%。机器人ETF富国（159272）、 机器人ETF鹏华（159278）、 机器人ETF易方达（159530）等多支机器人ETF涨超2%。",
+          "url": "https://flash.jin10.com/detail/20260811132413159800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时47分"
         }
       ]
     },
@@ -1413,8 +1823,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时26分 ~ 14时46分]"
+          "appearance_count": 11,
+          "time_info": "[06时26分 ~ 16时03分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -1524,237 +1934,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
-          "url": "https://www.cls.cn/detail/2450388",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时43分 ~ 11时00分]"
-        },
-        {
-          "title": "IPO周报｜本周4只新股申购，“人形机器人第一股”宇树科技今日打新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33750281",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时43分 ~ 07时25分]"
-        },
-        {
-          "title": "中信建投：宇树IPO定价超出预期利好机器人板块",
-          "url": "https://flash.jin10.com/detail/20260811082327107800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        },
-        {
-          "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
-          "url": "https://wallstreetcn.com/livenews/3147843",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时47分]"
-        },
-        {
-          "title": "A股人形机器人概念股午后拉升，巨轮智能、北特科技直线涨停，斯菱智驱涨超17%，瑞迪智驱、禾川科技、安培龙、丰光精密等跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3147863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时47分 ~ 14时46分]"
-        },
-        {
-          "title": "原字节跳动机器人一号位加入小米，负责基座模型研发，这透露出小米在人工智能领域的哪些战略意图？",
-          "url": "https://www.zhihu.com/question/2069868469005326051",
-          "source": "知乎",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时52分 ~ 11时00分]"
-        },
-        {
-          "title": "广州为何盯上一台炒菜机器人",
-          "url": "https://www.toutiao.com/trending/7672615468112314419/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
-        },
-        {
-          "title": "A股人形机器人概念震荡拉升，斯菱智驱涨超10%，拓斯达、五洲新春、奥比中光、北自科技、三花智控跟涨。",
-          "url": "https://flash.jin10.com/detail/20260811105022482800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股商业航天概念早盘下挫，中国卫星逼近跌停，超捷股份、斯瑞新材跌超10%，神剑股份、电科蓝天、航天环宇、金风科技跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3147780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        },
-        {
-          "title": "A股午后机器人板块快速拉升，绿地谐波、中大力德等涨超8%。机器人ETF富国（159272）、 机器人ETF鹏华（159278）、 机器人ETF易方达（159530）等多支机器人ETF涨超2%。",
-          "url": "https://flash.jin10.com/detail/20260811132413159800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "河南发布红色山洪灾害气象风险预警",
-          "url": "https://wallstreetcn.com/livenews/3147818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 13时47分]"
-        },
-        {
-          "title": "凯投宏观：澳洲联储不排除加息可能性 但条件是“上行风险成为现实”",
-          "url": "https://flash.jin10.com/detail/20260811133804498800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "澳洲联储：今日的政策决定一致通过。 尽管中东冲突对通胀的影响目前来看低于预期，但整体通胀率依然过高。 委员会将密切关注数据以及对前景和风险的动态评估，以此指导未来决策。 2025年下半年通胀显著回升，今年初以来的信息证实，部分涨幅反映了更大的产能压力。 委员会仍然专注于确保高通胀不会根深蒂固。 委员会将继续采取其认为必要的措施，以使通胀可持续地回到目标水平；如果上行风险成为现实，将进一步提高现金利率目标。 通胀依然过高。短期通胀预期指标有所缓解，但仍高于今年早些时候。 截尾均值通胀率也依然保持高位，且与一季度相比变化不大。 劳动力市场领先指标显示短期内只会出现有限的缓和。 鉴于货币政策被认为具有一定限制性，委员会决定在评估经济演变情况的同时，维持现金利率目标不变。",
-          "url": "https://wallstreetcn.com/livenews/3147855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：不希望失业率升至非加速通胀失业率（NAIRU）水平之上。 我们需要经济增长放缓，劳动市场的紧俏程度也需要降低。 我们很有可能还需要再次升息。 房市下滑不会对金融稳定构成重大风险。 委员会所有成员至少都对通胀有些担忧。",
-          "url": "https://wallstreetcn.com/livenews/3147884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "金十图示：北京时间8月11日22:00将有欧元、日元等外汇期权大单到期，3个行权价10亿以上大单，敬请管理风险。",
-          "url": "https://flash.jin10.com/detail/20260811141306297800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：正在认真思考何时可能适合加息。 房地产市场并不是让我们按兵不动的理由。 支持加息的理由包括通胀仍然过高，以及中东局势带来的通胀上行风险。 决定等待更多信息，但加息仍是首要考量。",
-          "url": "https://wallstreetcn.com/livenews/3147876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "澳洲联储主席布洛克：委员会希望放缓经济增长，认为通胀存在上行风险。",
-          "url": "https://flash.jin10.com/detail/20260811133129300800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        },
-        {
-          "title": "澳洲联储主席Bullock：澳洲联储希望放缓经济，认为通胀存在上行风险。 预计需要一段经济低增长来降低通胀。 如有必要，将再次加息。 不排除进一步加息的可能，但需要更多信息。",
-          "url": "https://wallstreetcn.com/livenews/3147869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        },
-        {
-          "title": "霍尔木兹海峡风险推高油轮租船成本，中东航线日费逼近50万美元",
-          "url": "https://wallstreetcn.com/livenews/3147603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 光模块",
       "match_count": 9,
       "titles": [
@@ -1767,8 +1946,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 14时46分]"
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 16时03分]"
         },
         {
           "title": "特斯拉将建史上最大芯片厂，这对全球芯片产业有何影响？",
@@ -1784,6 +1963,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时43分 ~ 07时25分]"
+        },
+        {
+          "title": "世界芯片巨头为何突然“抱紧”河南",
+          "url": "https://www.toutiao.com/trending/7672386510922973190/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 16时03分]"
         },
         {
           "title": "台积电因内存短缺积压10亿美元苹果芯片？分析师郭明錤否认",
@@ -1820,17 +2011,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时00分 ~ 12时19分]"
-        },
-        {
-          "title": "世界芯片巨头为何突然“抱紧”河南",
-          "url": "https://www.toutiao.com/trending/7672386510922973190/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
         },
         {
           "title": "爱芯元智下一代大算力AI芯片完成流片，支持多芯级联实现边缘侧满血大模型推理",
@@ -1880,19 +2060,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 16时03分]"
         },
         {
           "title": "帕拉梅拉价格跌破百万",
           "url": "https://www.toutiao.com/trending/7672593633412910646/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时45分 ~ 14时46分]"
+          "appearance_count": 3,
+          "time_info": "[14时45分 ~ 16时03分]"
         },
         {
           "title": "A股*ST闻泰短线异动拉升，现涨超7%。",
@@ -1901,7 +2082,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -1912,7 +2093,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -1934,7 +2115,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -2044,8 +2225,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时43分 ~ 14时46分]"
+          "appearance_count": 17,
+          "time_info": "[01时43分 ~ 16时03分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -2057,8 +2238,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时43分 ~ 12时19分]"
+          "appearance_count": 14,
+          "time_info": "[01时43分 ~ 16时03分]"
         },
         {
           "title": "创业板指涨超1%，沪指跌0.3%，深成指涨0.27%，医药医疗、MLCC、油气、影视等方向涨幅居前，沪深京三市上涨个股近1800只。",
@@ -2166,7 +2347,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -2177,7 +2358,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
@@ -2210,8 +2391,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 16时03分]"
         },
         {
           "title": "OpenAI回购70亿美元员工股份",
@@ -2263,7 +2444,7 @@
     },
     {
       "keyword_group": "上证 深证",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "上证指数早盘收报3964.79点，跌0.05%。 深证成指早盘收报14410.34点，涨0.65%。 创业板指早盘收报3587.24点，涨1.41%。 沪深300早盘收报4709.10点，涨0.15%。 科创50早盘收报1740.62点，涨0.16%。 中证500早盘收报8062.88点，涨0.40%。 中证1000早盘收报7771.45点，涨0.49%。",
@@ -2296,7 +2477,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         },
@@ -2310,6 +2491,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时00分"
+        },
+        {
+          "title": "上证指数收报3934.09点，跌0.82%。 深证成指收报14259.44点，跌0.40%。 创业板指收报3549.16点，涨0.34%。 沪深300收报4663.79点，跌0.81%。 科创50收报1709.50点，跌1.63%。 中证500收报7967.54点，跌0.79%。 中证1000收报7698.05点，跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3147911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         }
       ]
     },
@@ -2348,11 +2540,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 16时03分]"
         },
         {
           "title": "中国存储开始把定价权拿回来了",
@@ -2379,11 +2572,12 @@
             12,
             15,
             17,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时43分 ~ 14时46分]"
+          "appearance_count": 17,
+          "time_info": "[01时43分 ~ 16时03分]"
         },
         {
           "title": "驾校抱团涨价、协会牵头串谋，全国市场监管部门整治驾培垄断",
@@ -2432,9 +2626,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国股市大起大落催生“炒股综艺”：明星艺人镜头前晒盈亏",
+          "url": "https://wallstreetcn.com/livenews/3147939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时03分"
         }
       ]
     },
