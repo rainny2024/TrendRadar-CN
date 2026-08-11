@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T06:32:26.063693+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-08-12T07:30:34.766008+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -16,8 +16,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
+        },
+        {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            12,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
         },
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -29,20 +44,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时46分 ~ 01时48分]"
-        },
-        {
-          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
-          "url": "https://www.zhihu.com/question/2070450417981469090",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
         },
         {
           "title": "据伊朗媒体FarsNews：一些消息来源报道称，沙特雇佣军在也门马里布的阵地再次发生两起爆炸。",
@@ -135,6 +136,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
+        },
+        {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://wallstreetcn.com/livenews/3148273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "伊朗石油部长：伊天然气日产能有望大幅回升",
+          "url": "https://flash.jin10.com/detail/20260812063020231800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         },
         {
           "title": "美军称使用导弹袭击一艘驶向伊朗港口的商船",
@@ -250,7 +273,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -261,8 +284,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
         },
         {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
@@ -272,8 +295,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -281,11 +304,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            9
+            9,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时30分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -300,6 +324,18 @@
           "time_info": "[05时36分 ~ 06时32分]"
         },
         {
+          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3148261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
           "title": "美国法官阻止邮政服务根据特朗普命令限制邮寄投票。",
           "url": "https://flash.jin10.com/detail/20260812050519717800",
           "source": "金十数据",
@@ -312,15 +348,15 @@
           "time_info": "[05时36分 ~ 06时32分]"
         },
         {
-          "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
-          "url": "https://wallstreetcn.com/livenews/3148261",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普据悉考虑削减资本利得税以提振中期选举",
+          "url": "https://flash.jin10.com/detail/20260812064319870800",
+          "source": "金十数据",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时30分"
         },
         {
           "title": "特朗普威胁将针对纽约市税收采取联邦层面行动",
@@ -351,7 +387,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -424,8 +460,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
         },
         {
           "title": "激活中国经济增长潜力",
@@ -435,8 +471,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
         },
         {
           "title": "超微电脑(SMCI.O)CFO：第四季度企业和渠道客户升级计算、存储和网络基础设施的需求有所增长。",
@@ -444,11 +480,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            10
+            10,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时30分]"
         },
         {
           "title": "智利铜委员会预计，智利2027年铜产量将达555万吨，较2026年增长5.2%。",
@@ -461,6 +498,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时47分 ~ 01时48分]"
+        },
+        {
+          "title": "CoreWeave首席执行官：预计国际市场将成为主要增长驱动力。",
+          "url": "https://wallstreetcn.com/livenews/3148258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         },
         {
           "title": "智利铜业委员会Cochilco预计，智利2027年铜产量将达到555万吨，比2026年增长5.2%。",
@@ -483,17 +532,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时55分"
-        },
-        {
-          "title": "CoreWeave首席执行官：预计国际市场将成为主要增长驱动力。",
-          "url": "https://wallstreetcn.com/livenews/3148258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "智利铜业委员会Cochilco预计，2026年全球铜产量将达到2350万吨，较2025年增长0.2%。",
@@ -520,6 +558,89 @@
       ]
     },
     {
+      "keyword_group": "美联储 非农",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美联储古尔斯比：经济面临的最大问题是通货膨胀。",
+          "url": "https://flash.jin10.com/detail/20260812002512067800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "美联储古尔斯比：只要消费保持稳健，经济就会保持健康。",
+          "url": "https://flash.jin10.com/detail/20260812002458099800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "周二（8月11日），美联储隔夜逆回购协议（RRP）使用规模为12.50亿美元（交易对手2家），上个交易日报9.75亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3148192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美联储古尔斯比：价格和可负担性，这是我们目前面临的最大问题。",
+          "url": "https://flash.jin10.com/detail/20260812002400565800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的12.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260812011611952800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美联储9月加息25个基点的概率为48%",
+          "url": "https://flash.jin10.com/detail/20260812060532896800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "美联储古尔斯比：劳动力市场指标显示稳定，但表现不强。",
+          "url": "https://flash.jin10.com/detail/20260812001257483800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "纳斯达克 标普 道琼斯",
       "match_count": 6,
       "titles": [
@@ -529,11 +650,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时36分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时30分]"
         },
         {
           "title": "纳斯达克100指数跌0.5%。",
@@ -594,81 +716,20 @@
       ]
     },
     {
-      "keyword_group": "美联储 非农",
-      "match_count": 6,
+      "keyword_group": "美债 美股 美元",
+      "match_count": 5,
       "titles": [
         {
-          "title": "美联储古尔斯比：经济面临的最大问题是通货膨胀。",
-          "url": "https://flash.jin10.com/detail/20260812002512067800",
-          "source": "金十数据",
+          "title": "美股收盘：美伊僵局施压三大指数续跌 存储&光通信概念整体反弹",
+          "url": "https://www.cls.cn/detail/2451784",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
         },
-        {
-          "title": "美联储古尔斯比：只要消费保持稳健，经济就会保持健康。",
-          "url": "https://flash.jin10.com/detail/20260812002458099800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "周二（8月11日），美联储隔夜逆回购协议（RRP）使用规模为12.50亿美元（交易对手2家），上个交易日报9.75亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3148192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美联储古尔斯比：价格和可负担性，这是我们目前面临的最大问题。",
-          "url": "https://flash.jin10.com/detail/20260812002400565800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了2个对手方的12.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260812011611952800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美联储古尔斯比：劳动力市场指标显示稳定，但表现不强。",
-          "url": "https://flash.jin10.com/detail/20260812001257483800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 4,
-      "titles": [
         {
           "title": "美元指数11日上涨",
           "url": "https://flash.jin10.com/detail/20260812032920147800",
@@ -771,6 +832,47 @@
       ]
     },
     {
+      "keyword_group": "存储 半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "蓄力下一代DRAM 存储龙头拟提升EUV光刻性能 相移掩模版成关键",
+          "url": "https://www.cls.cn/detail/2451127",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 06时32分]"
+        },
+        {
+          "title": "存储见顶担忧升温，韩国多家券商下调三星、SK海力士目标价，最深下调超30%",
+          "url": "https://wallstreetcn.com/articles/3779183",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
+        },
+        {
+          "title": "【早报】美存储板块，逆势走高；油价上涨、黄金回落；上海印发重磅规划，事关GPU、CPO等",
+          "url": "https://www.cls.cn/detail/2451806",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时29分 ~ 07时30分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "CPI",
       "match_count": 3,
       "titles": [
@@ -783,8 +885,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[01时48分 ~ 07时30分]"
         },
         {
           "title": "美银：美元对CPI低于预期会更为敏感",
@@ -819,11 +921,12 @@
           "url": "https://www.cls.cn/detail/2451347",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
         },
         {
           "title": "韩国股市暴跌，聚焦三星电子和SK海力士的投资节目成娱乐新热点",
@@ -833,8 +936,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
         }
       ]
     },
@@ -851,19 +954,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
         },
         {
           "title": "CoreWeave首席财务官：7月调价针对各产品规格，整体上调约25%，来应对当前市场需求。公司正在转嫁零部件涨价带来的成本。 营业利润率改善发生在7月调价之前。",
           "url": "https://wallstreetcn.com/livenews/3148262",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         }
       ]
     },
@@ -920,41 +1024,12 @@
             23,
             29,
             7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时48分 ~ 06时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "蓄力下一代DRAM 存储龙头拟提升EUV光刻性能 相移掩模版成关键",
-          "url": "https://www.cls.cn/detail/2451127",
-          "source": "财联社热门",
-          "ranks": [
-            2
+            16,
+            17
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
-        },
-        {
-          "title": "存储见顶担忧升温，韩国多家券商下调三星、SK海力士目标价，最深下调超30%",
-          "url": "https://wallstreetcn.com/articles/3779183",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "time_info": "[01时48分 ~ 07时30分]"
         }
       ]
     },
@@ -989,8 +1064,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "降息",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳大利亚国民银行：仍预期澳洲联储将在2026年剩余时间内维持现金利率不变，首次降息仍预计将在2027年年中左右进行。",
+          "url": "https://flash.jin10.com/detail/20260812070345576800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         }
       ]
     },
@@ -1006,8 +1098,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时46分 ~ 06时32分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 07时30分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "央行逆回购再现“零操作”，分析称债市调整多出于止盈需求",
+          "url": "https://wallstreetcn.com/livenews/3148271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         }
       ]
     }
