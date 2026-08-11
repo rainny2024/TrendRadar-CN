@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T16:03:21.695944+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-08-11T18:42:23.163849+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时52分 ~ 16时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 18时42分]"
         },
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -56,6 +56,20 @@
           "time_info": "[01时43分 ~ 07时25分]"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时59分 ~ 18时42分]"
+        },
+        {
           "title": "特朗普：美军已100%控制霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
           "source": "凤凰网",
@@ -64,8 +78,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时52分 ~ 16时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 18时42分]"
         },
         {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
@@ -81,19 +95,6 @@
           "time_info": "[08时52分 ~ 13时47分]"
         },
         {
-          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
-          "url": "https://wallstreetcn.com/articles/3779107",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时59分 ~ 16时03分]"
-        },
-        {
           "title": "特朗普称要向伊朗索赔",
           "url": "https://news.ifeng.com/c/8vUHiH9a6Bz",
           "source": "凤凰网",
@@ -106,6 +107,17 @@
           "time_info": "[04时31分 ~ 08时53分]"
         },
         {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时45分 ~ 18时42分]"
+        },
+        {
           "title": "伊朗称“目前伊美没有进行任何谈判”，特朗普表态“正在低调处理”",
           "url": "https://wallstreetcn.com/articles/3779034",
           "source": "华尔街见闻",
@@ -116,17 +128,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时43分 ~ 07时25分]"
-        },
-        {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时45分 ~ 16时03分]"
         },
         {
           "title": "据Axios：特朗普政府正在制定一项行政命令，计划将儿童麻疹、腮腺炎和风疹联合疫苗拆分为三针，并要求在不同医疗就诊中分别接种。",
@@ -170,7 +171,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -624,7 +625,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -654,7 +655,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -665,8 +666,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时52分 ~ 16时03分]"
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 18时42分]"
+        },
+        {
+          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
+          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时59分 ~ 18时42分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -680,17 +692,6 @@
           "time_info": "[01时43分 ~ 06时26分]"
         },
         {
-          "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
-          "url": "https://news.ifeng.com/c/8vUtL7Lqyat",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时59分 ~ 16时03分]"
-        },
-        {
           "title": "伊朗更强硬的强硬派来了",
           "url": "https://news.ifeng.com/c/8vUncUovk9A",
           "source": "凤凰网",
@@ -699,8 +700,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时59分 ~ 16时03分]"
+          "appearance_count": 8,
+          "time_info": "[10时59分 ~ 18时42分]"
         },
         {
           "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
@@ -761,6 +762,17 @@
           "time_info": "[08时52分 ~ 08时53分]"
         },
         {
+          "title": "卡塔尔称阿曼与伊朗的会谈已进入深入阶段。（半岛电视台）",
+          "url": "https://wallstreetcn.com/livenews/3148024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "伊朗警告乌克兰不赔偿就动手",
           "url": "https://www.toutiao.com/trending/7671598956682723379/",
           "source": "今日头条",
@@ -813,7 +825,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1027,7 +1039,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1049,7 +1061,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1060,7 +1072,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1082,7 +1094,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1093,7 +1105,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1126,7 +1138,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1137,7 +1149,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1156,7 +1168,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美联储鹰派释放强硬信号：一次升息不够 或需多次加息",
@@ -1278,6 +1290,28 @@
           "time_info": "03时48分"
         },
         {
+          "title": "“新美联储通讯社”重磅警示：9月加息与否 通胀数据说了算！",
+          "url": "https://www.cls.cn/detail/2450914",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "美联储年内不会加息？高盛预言下半年“三大顺风”，建议投资者别撤！",
+          "url": "https://www.cls.cn/detail/2450809",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "美联储哈玛克：市场是美联储的补充，而非替代品。",
           "url": "https://flash.jin10.com/detail/20260811025145804800",
           "source": "金十数据",
@@ -1339,7 +1373,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1369,7 +1403,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "江波龙上半年净利润同比增长71529%，拟最高8亿元回购股份 | 财报见闻",
@@ -1377,11 +1411,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时25分 ~ 16时03分]"
+          "appearance_count": 11,
+          "time_info": "[07时25分 ~ 18时42分]"
         },
         {
           "title": "上半年规上互联网企业完成互联网业务收入超万亿元 同比增长10.1%",
@@ -1401,7 +1436,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1488,6 +1523,17 @@
           "time_info": "08时53分"
         },
         {
+          "title": "上海：到2030年把上海软件和信息服务业打造成经济增长“动力源” 产业规模力争达到4万亿元",
+          "url": "https://www.cls.cn/detail/2451324",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "新加坡贸工部：将2026年GDP增长预期从之前的2.0%-4.0%上调至4.5%-5.5%。",
           "url": "https://flash.jin10.com/detail/20260811081111594800",
           "source": "金十数据",
@@ -1499,6 +1545,28 @@
           "time_info": "08时53分"
         },
         {
+          "title": "前7个月中老铁路进出口货值同比增长29.9%",
+          "url": "https://flash.jin10.com/detail/20260811181317979800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "前7个月中老铁路进出口货值同比增长29.9%",
+          "url": "https://wallstreetcn.com/livenews/3148014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "澳洲联储主席布洛克：预计需要一段时间的经济增长放缓才能降低通胀。",
           "url": "https://flash.jin10.com/detail/20260811133228402800",
           "source": "金十数据",
@@ -1508,6 +1576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "江河集团：2026年上半年净利润4.41亿元，同比增长34.34%",
+          "url": "https://flash.jin10.com/detail/20260811175401657800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "新任印尼央行行长面临平衡增长与独立性的考验",
@@ -1538,7 +1617,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
@@ -1546,7 +1625,7 @@
     },
     {
       "keyword_group": "风险",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "河南发布红色山洪灾害气象风险预警",
@@ -1623,7 +1702,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         },
@@ -1645,9 +1724,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
+        },
+        {
+          "title": "ST逸飞：撤销其他风险警示，8月13日复牌并更名逸飞激光",
+          "url": "https://flash.jin10.com/detail/20260811174815631800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         },
         {
           "title": "澳洲联储主席Bullock：澳洲联储希望放缓经济，认为通胀存在上行风险。 预计需要一段经济低增长来降低通胀。 如有必要，将再次加息。 不排除进一步加息的可能，但需要更多信息。",
@@ -1675,7 +1765,7 @@
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "中签率0.0181%！宇树科技今天打新，机器人产业链迎来估值锚点",
@@ -1705,17 +1795,6 @@
           "time_info": "[01时43分 ~ 07时25分]"
         },
         {
-          "title": "红警蜘蛛机器人走进现实",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        },
-        {
           "title": "中信建投：宇树IPO定价超出预期利好机器人板块",
           "url": "https://flash.jin10.com/detail/20260811082327107800",
           "source": "金十数据",
@@ -1725,6 +1804,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        },
+        {
+          "title": "红警蜘蛛机器人走进现实",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%AD%A6%E8%9C%98%E8%9B%9B%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B0%E8%BF%9B%E7%8E%B0%E5%AE%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时03分 ~ 18时42分]"
         },
         {
           "title": "蚂蚁集团领投 戴盟机器人宣布完成数亿元融资",
@@ -1806,6 +1897,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时47分"
+        },
+        {
+          "title": "上海：大力推动开源体系建设，推动智能软件、语料、算法、模型、智能体、人形机器人软硬件等开源项目在沪“首发”",
+          "url": "https://wallstreetcn.com/livenews/3147986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
@@ -1935,7 +2037,7 @@
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
@@ -2044,12 +2146,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "上海：推动自主芯片与主流大模型深度融合",
+          "url": "https://wallstreetcn.com/livenews/3147983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
     {
       "keyword_group": "跌破 拉升",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "帕拉梅拉价格跌破百万",
@@ -2057,11 +2170,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            1
+            1,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 16时03分]"
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 18时42分]"
         },
         {
           "title": "帕拉梅拉价格跌破百万",
@@ -2120,11 +2234,123 @@
           "time_info": "14时46分"
         },
         {
+          "title": "帕拉梅拉价格跌破百万",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B8%95%E6%8B%89%E6%A2%85%E6%8B%89%E4%BB%B7%E6%A0%BC%E8%B7%8C%E7%A0%B4%E7%99%BE%E4%B8%87%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "A股光伏设备板块拉升，琏升科技涨超6%，德业股份、阳光电源、华民股份、TCL中环跟涨。",
           "url": "https://flash.jin10.com/detail/20260811102254064800",
           "source": "金十数据",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "江波龙上半年净利超百亿，拟最高8亿元回购股份",
+          "url": "https://www.cls.cn/detail/2450426",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[01时43分 ~ 11时00分]"
+        },
+        {
+          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
+          "url": "https://www.cls.cn/detail/2450955",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 18时42分]"
+        },
+        {
+          "title": "OpenAI回购70亿美元员工股份",
+          "url": "https://wallstreetcn.com/livenews/3147697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时26分]"
+        },
+        {
+          "title": "据悉OpenAI回购70亿美元员工股份",
+          "url": "https://flash.jin10.com/detail/20260811044344828800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时26分]"
+        },
+        {
+          "title": "离岸人民币同业拆息利率涨跌互现，HKMA日间回购协议流动性被用过半",
+          "url": "https://flash.jin10.com/detail/20260811113603455800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时19分"
+        },
+        {
+          "title": "江波龙：取得7.2亿元股票回购专项贷款承诺函",
+          "url": "https://wallstreetcn.com/livenews/3148003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "江波龙：取得中国建设银行股份有限公司深圳市分行出具的《承诺函》，同意为公司本次回购股份提供专项贷款额度，承诺贷款额度为不超过人民币7.2亿元。",
+          "url": "https://flash.jin10.com/detail/20260811174738336800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
+          "title": "中国央行公开市场7天期逆回购操作量为零。今日465亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3147769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -2225,8 +2451,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时43分 ~ 16时03分]"
+          "appearance_count": 18,
+          "time_info": "[01时43分 ~ 18时42分]"
         },
         {
           "title": "创业板触底回升跌0.7%，医药、消费大涨，芯片算力集体下挫、寒武纪跌超6%，港股老铺黄金大涨12%",
@@ -2365,84 +2591,6 @@
       ]
     },
     {
-      "keyword_group": "回购",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "江波龙上半年净利超百亿，拟最高8亿元回购股份",
-          "url": "https://www.cls.cn/detail/2450426",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时43分 ~ 11时00分]"
-        },
-        {
-          "title": "财联社C50风向指数调查：8月资金面有望均衡偏松，MLF与买断式逆回购或加量续作",
-          "url": "https://www.cls.cn/detail/2450955",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 16时03分]"
-        },
-        {
-          "title": "OpenAI回购70亿美元员工股份",
-          "url": "https://wallstreetcn.com/livenews/3147697",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时26分]"
-        },
-        {
-          "title": "据悉OpenAI回购70亿美元员工股份",
-          "url": "https://flash.jin10.com/detail/20260811044344828800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时26分]"
-        },
-        {
-          "title": "离岸人民币同业拆息利率涨跌互现，HKMA日间回购协议流动性被用过半",
-          "url": "https://flash.jin10.com/detail/20260811113603455800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时19分"
-        },
-        {
-          "title": "中国央行公开市场7天期逆回购操作量为零。今日465亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3147769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证 深证",
       "match_count": 5,
       "titles": [
@@ -2499,7 +2647,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
         }
@@ -2507,7 +2655,7 @@
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "硅基vs碳基、光vs存储、开源vs闭源--这是高盛顶级科技交易员最关注的10张图表",
@@ -2522,6 +2670,31 @@
           "time_info": "[01时43分 ~ 08时53分]"
         },
         {
+          "title": "非科技板块的春天？医药板块调研热度超越半导体",
+          "url": "https://www.cls.cn/detail/2450966",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时47分 ~ 18时42分]"
+        },
+        {
+          "title": "蓄力下一代DRAM 存储龙头拟提升EUV光刻性能 相移掩模版成关键",
+          "url": "https://www.cls.cn/detail/2451127",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        },
+        {
           "title": "大摩：计划未来十年促成最高1.5万亿美元资金，用于美国创新基建计划，涵盖AI、半导体等战略领域",
           "url": "https://wallstreetcn.com/livenews/3147686",
           "source": "华尔街见闻-快讯",
@@ -2533,19 +2706,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时26分]"
-        },
-        {
-          "title": "非科技板块的春天？医药板块调研热度超越半导体",
-          "url": "https://www.cls.cn/detail/2450966",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时47分 ~ 16时03分]"
         },
         {
           "title": "中国存储开始把定价权拿回来了",
@@ -2573,11 +2733,12 @@
             15,
             17,
             20,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时43分 ~ 16时03分]"
+          "appearance_count": 18,
+          "time_info": "[01时43分 ~ 18时42分]"
         },
         {
           "title": "驾校抱团涨价、协会牵头串谋，全国市场监管部门整治驾培垄断",
@@ -2601,6 +2762,36 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 08时53分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "暴涨",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "9天8板暴涨130%！民爆热股月涨幅市场第二，连涨股近日扫描，这些方向占比较高",
+          "url": "https://www.cls.cn/detail/2450169",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 08时53分]"
+        },
+        {
+          "title": "沪指缩量调整跌0.8%，医药、机器人逆势大涨，半导体新股IPO首日暴涨740%，恒科指跌近2%",
+          "url": "https://wallstreetcn.com/articles/3779141",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
@@ -2633,44 +2824,8 @@
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国股市大起大落催生“炒股综艺”：明星艺人镜头前晒盈亏",
-          "url": "https://wallstreetcn.com/livenews/3147939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "暴涨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "9天8板暴涨130%！民爆热股月涨幅市场第二，连涨股近日扫描，这些方向占比较高",
-          "url": "https://www.cls.cn/detail/2450169",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时43分 ~ 08时53分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "复盘",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【焦点复盘】微盘股指数7连涨站上年线，全市场近百股涨停，AI赋能持续催热创新药概念",
@@ -2683,6 +2838,51 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时43分 ~ 07时25分]"
+        },
+        {
+          "title": "【焦点复盘】沪指缩量探底终结5连阳，算力租赁概念逆势活跃，有色板块现深幅调整",
+          "url": "https://www.cls.cn/detail/2451345",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国股市大起大落催生“炒股综艺”：明星艺人镜头前晒盈亏",
+          "url": "https://wallstreetcn.com/livenews/3147939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "中证2000 指数",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数缩量震荡涨跌不一，医药股持续活跃，机器人概念午后爆发",
+          "url": "https://www.cls.cn/detail/2451276",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
