@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-13T09:01:45.548880+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-08-13T11:28:16.256828+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时45分 ~ 06时30分]"
+        },
+        {
+          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时51分 ~ 11时28分]"
         },
         {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
@@ -66,26 +80,13 @@
           "time_info": "[00时45分 ~ 06时30分]"
         },
         {
-          "title": "新闻蒸馏器｜一辆卡车和三架专机：特朗普证实秘密换机避暗杀，随行记者成诱饵",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765931",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时51分 ~ 09时01分]"
-        },
-        {
           "title": "美国总统特朗普周四日程一览",
           "url": "https://flash.jin10.com/detail/20260813084959344800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -176,6 +177,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时56分 ~ 04时33分]"
+        },
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
         },
         {
           "title": "特朗普：白宫新闻秘书莱维特将于本月底离任",
@@ -301,6 +313,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "伊朗目前经济状况如何？专家：正面临两大困境",
+          "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时28分]"
+        },
+        {
           "title": "伊朗：目前使用武器都是自主研发的",
           "url": "https://www.toutiao.com/trending/7672229042539888694/",
           "source": "今日头条",
@@ -322,17 +345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时30分"
-        },
-        {
-          "title": "伊朗目前经济状况如何？专家：正面临两大困境",
-          "url": "https://news.ifeng.com/c/8vXOuaWRIKP",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
         },
         {
           "title": "伊朗“波斯湾海峡管理局”：霍尔木兹海峡仍关闭",
@@ -360,6 +372,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时56分 ~ 05时35分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2452922",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时28分]"
         },
         {
           "title": "据伊朗媒体Fars News：也门胡塞武装对沙特雇佣军在摩卡港的阵地发动了无人机袭击。",
@@ -410,17 +434,6 @@
           "time_info": "[03时56分 ~ 04时33分]"
         },
         {
-          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2452922",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
           "title": "布伦特原油期货结算价为每桶88.98美元，上涨7美分，涨幅0.08%。",
           "url": "https://flash.jin10.com/detail/20260813024705554800",
           "source": "金十数据",
@@ -467,8 +480,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 09时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时28分]"
         },
         {
           "title": "算力租赁、光通信利好不断 美国7月CPI平稳落地 | 今夜看点",
@@ -480,8 +493,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 09时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时28分]"
         },
         {
           "title": "今晚美国CPI料温和放缓，9月加息预期或再遭一击！",
@@ -489,22 +502,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 09时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时28分]"
         },
         {
           "title": "美银：今夜CPI“下行意外”影响更大，若核心CPI意外走低或将排除9月加息",
           "url": "https://wallstreetcn.com/articles/3779245",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 09时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时28分]"
         },
         {
           "title": "澳洲联储助理主席肯特：需要关注调整后的平均通胀历史数据，以便专注于每月CPI报告，而非季度数据。",
@@ -513,7 +528,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         },
@@ -569,81 +584,8 @@
       ]
     },
     {
-      "keyword_group": "风险",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "澳洲联储助理主席肯特：通胀面临的大部分风险来自上行方面。 生产率增长令人非常失望。 澳洲联储委员会讨论的重点是上行风险。 房价下跌可能会影响消费意愿。 房价正在下跌，但基数很高。",
-          "url": "https://wallstreetcn.com/livenews/3148806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "智利国有铜业公司Codelco高管表示，正在研究扩大埃尔特尼恩特铜矿的矿坑，以弥补因地震风险而推迟的生产。",
-          "url": "https://flash.jin10.com/detail/20260813045126186800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时35分 ~ 06时30分]"
-        },
-        {
-          "title": "澳洲联储助理主席肯特：如果风险成为现实，利率可能进一步上升。",
-          "url": "https://flash.jin10.com/detail/20260813083800776800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "澳洲联储助理主席肯特：澳洲联储主席布洛克强调了不确定性，并指出通胀风险主要偏向上行。",
-          "url": "https://flash.jin10.com/detail/20260813083600736800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "波斯湾油污危机浮现 油轮袭击加剧霍尔木兹环境风险",
-          "url": "https://flash.jin10.com/detail/20260812234157311800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        },
-        {
-          "title": "CoreWeave新增风险提示：若需从英伟达芯片转向其他芯片将面临困难",
-          "url": "https://wallstreetcn.com/livenews/3148787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "增长 亮眼",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "腾讯Q2营收同比增长11%超预期，算力采购大幅推高资本开支至527.8亿元，自由现金流转负 | 财报见闻",
@@ -653,8 +595,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 09时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时28分]"
         },
         {
           "title": "连续两个月突破100万辆，我国汽车出口延续强劲增长态势",
@@ -663,11 +605,12 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 09时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时28分]"
         },
         {
           "title": "腾讯发布二季度财报，上半年资本开支增长 82%，二季度达到 527.84 亿元，如何解读？",
@@ -695,6 +638,17 @@
           "time_info": "06时30分"
         },
         {
+          "title": "同比增长138% 全球16国将参加第二届世界人形机器人运动会",
+          "url": "https://wallstreetcn.com/livenews/3148872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "俄罗斯统计局：第二季度GDP同比增长1.3%，而上一季度同比下降0.2%。",
           "url": "https://flash.jin10.com/detail/20260813000038998800",
           "source": "金十数据",
@@ -712,15 +666,26 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
+        },
+        {
+          "title": "全球16国将参加第二届世界人形机器人运动会 队伍总量同比增长138%",
+          "url": "https://flash.jin10.com/detail/20260813103258330800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国7月CPI通胀全面符合预期 美联储9月加息预期进一步降温 金价刷新日内高点",
@@ -731,8 +696,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 09时01分]"
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时28分]"
         },
         {
           "title": "美联储9月维持利率不变的概率为59.9%",
@@ -780,6 +745,17 @@
           "time_info": "[03时56分 ~ 04时33分]"
         },
         {
+          "title": "还在逼美联储加息？10年期美债发行收益率创金融危机以来最高！",
+          "url": "https://www.cls.cn/detail/2452988",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
           "title": "摩根资产管理：美国的“特氟龙式通胀”黏不住 美联储无需加息",
           "url": "https://wallstreetcn.com/livenews/3148697",
           "source": "华尔街见闻-快讯",
@@ -790,12 +766,96 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时51分]"
+        },
+        {
+          "title": "CPI为美联储赢得更多观望时间，通胀或面临持续下行压力——新版发布",
+          "url": "https://flash.jin10.com/detail/20260813110752254800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "澳洲联储助理主席肯特：通胀面临的大部分风险来自上行方面。 生产率增长令人非常失望。 澳洲联储委员会讨论的重点是上行风险。 房价下跌可能会影响消费意愿。 房价正在下跌，但基数很高。",
+          "url": "https://wallstreetcn.com/livenews/3148806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "智利国有铜业公司Codelco高管表示，正在研究扩大埃尔特尼恩特铜矿的矿坑，以弥补因地震风险而推迟的生产。",
+          "url": "https://flash.jin10.com/detail/20260813045126186800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时35分 ~ 06时30分]"
+        },
+        {
+          "title": "澳洲联储助理主席肯特：如果风险成为现实，利率可能进一步上升。",
+          "url": "https://flash.jin10.com/detail/20260813083800776800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "澳洲联储助理主席肯特：澳洲联储主席布洛克强调了不确定性，并指出通胀风险主要偏向上行。",
+          "url": "https://flash.jin10.com/detail/20260813083600736800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "波斯湾油污危机浮现 油轮袭击加剧霍尔木兹环境风险",
+          "url": "https://flash.jin10.com/detail/20260812234157311800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "CoreWeave新增风险提示：若需从英伟达芯片转向其他芯片将面临困难",
+          "url": "https://wallstreetcn.com/livenews/3148787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "中国人形机器人一骑绝尘",
@@ -822,15 +882,27 @@
           "time_info": "[00时45分 ~ 09时01分]"
         },
         {
+          "title": "小马智行在佛山新设科技公司，含智能机器人研发业务",
+          "url": "https://wallstreetcn.com/livenews/3148882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
           "title": "机器人手机发布首日官网商城售罄",
           "url": "https://www.toutiao.com/trending/7673201821930995748/",
           "source": "今日头条",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时28分]"
         },
         {
           "title": "周三（8月12日），美股行业ETF普遍收涨，半导体ETF收涨2.32%，KBW银行ETF涨1.08%，房地产ETF涨0.91%，机器人与人工智能ETF涨0.88%，地区银行ETF涨0.74%。太阳能ETF则收跌0.70%，可选消费ETF收跌1.15%。",
@@ -970,48 +1042,8 @@
       ]
     },
     {
-      "keyword_group": "涨价 核心材料",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "涨价持续+高端产品占比提升 覆铜板头部企业：毛利率或突破30%，加快扩产布局上游|传真",
-          "url": "https://www.cls.cn/detail/2452564",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 09时01分]"
-        },
-        {
-          "title": "亏损严重,红米手机抗压涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357251&amp;topic_name=%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D%2C%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E6%8A%97%E5%8E%8B%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 09时01分]"
-        },
-        {
-          "title": "咖啡期货涨价近40% ！全球食品价格飙至近3年最高，150年最强厄尔尼诺来袭",
-          "url": "https://wallstreetcn.com/livenews/3148691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 光模块",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
@@ -1038,21 +1070,163 @@
           "time_info": "[04时33分 ~ 06时30分]"
         },
         {
+          "title": "苹果被曝正测试长鑫存储芯片，将用于在中国市场销售的设备，双方最终达成合作的可能性有多大？",
+          "url": "https://www.zhihu.com/question/2070073820929419121",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
           "title": "美股AI算力和存储芯片爆发",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%AE%97%E5%8A%9B%E5%92%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91",
           "source": "百度热搜",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
       ]
     },
     {
+      "keyword_group": "存储 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
+          "url": "https://www.cls.cn/detail/2452897",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 11时28分]"
+        },
+        {
+          "title": "三星、SK海力士股价大涨！淡马锡据悉拟投资 认为存储仍被低估",
+          "url": "https://www.cls.cn/detail/2452409",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时30分]"
+        },
+        {
+          "title": "长江存储市占率跻身全球前3",
+          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%B8%82%E5%8D%A0%E7%8E%87%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E5%89%8D3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
+        },
+        {
+          "title": "金十数据整理：每日存储市场要闻速递（2026-08-13）",
+          "url": "https://flash.jin10.com/detail/20260813110705985800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日经225指数高开0.8%，韩国首尔综指涨3%。 韩国首尔综指较7月30日低点上涨20%。",
+          "url": "https://wallstreetcn.com/livenews/3148802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数涨1.6%，东证指数涨0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3148867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "10天暴涨22%！韩国股市“V型反转”又闯入技术性牛市",
+          "url": "https://flash.jin10.com/detail/20260813105157744800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "亏损严重,红米手机抗压涨价",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357251&amp;topic_name=%E4%BA%8F%E6%8D%9F%E4%B8%A5%E9%87%8D%2C%E7%BA%A2%E7%B1%B3%E6%89%8B%E6%9C%BA%E6%8A%97%E5%8E%8B%E6%B6%A8%E4%BB%B7",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时45分 ~ 11时28分]"
+        },
+        {
+          "title": "涨价持续+高端产品占比提升 覆铜板头部企业：毛利率或突破30%，加快扩产布局上游|传真",
+          "url": "https://www.cls.cn/detail/2452564",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 09时01分]"
+        },
+        {
+          "title": "咖啡期货涨价近40% ！全球食品价格飙至近3年最高，150年最强厄尔尼诺来袭",
+          "url": "https://wallstreetcn.com/livenews/3148691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "暴涨",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
@@ -1074,37 +1248,58 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时30分 ~ 11时28分]"
+        },
+        {
+          "title": "日本“失去的三十年”有些行业却暴涨",
+          "url": "https://www.toutiao.com/trending/7673163890577903110/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时30分 ~ 09时01分]"
+          "time_info": "[11时27分 ~ 11时28分]"
         }
       ]
     },
     {
-      "keyword_group": "存储 半导体",
-      "match_count": 2,
+      "keyword_group": "涨停 跌停",
+      "match_count": 3,
       "titles": [
         {
-          "title": "三星、SK海力士股价大涨！淡马锡据悉拟投资 认为存储仍被低估",
-          "url": "https://www.cls.cn/detail/2452409",
-          "source": "财联社热门",
+          "title": "CPO概念股持续拉升，天孚通信、德科立涨超10%，共进股份此前涨停，炬光科技、华懋科技、东山精密、锐捷网络涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3148855",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时30分]"
-        },
-        {
-          "title": "美股收盘：CPI如期放缓削弱加息预期 存储、光通信、新云板块齐飞",
-          "url": "https://www.cls.cn/detail/2452897",
-          "source": "财联社热门",
-          "ranks": [
-            4
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "11时28分"
+        },
+        {
+          "title": "A股肉制品板块午盘前直线拉升，得利斯涨停，光明肉业、华统股份、广弘控股、双汇发展、益客食品等纷纷走高。",
+          "url": "https://flash.jin10.com/detail/20260813105346846800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "数据中心电源概念开盘拉升，麦格米特涨停，欧陆通涨超10%，中恒电气、科士达、爱科赛博、科泰电源涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3148835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
@@ -1132,11 +1327,12 @@
             14,
             15,
             18,
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时30分]"
+          "appearance_count": 9,
+          "time_info": "[00时45分 ~ 11时28分]"
         }
       ]
     },
@@ -1163,7 +1359,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
@@ -1181,11 +1377,12 @@
             7,
             9,
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时56分 ~ 09时01分]"
+          "appearance_count": 7,
+          "time_info": "[03时56分 ~ 11时28分]"
         },
         {
           "title": "分红、回购、增持常态化推进，A股公司以实际行动稳市场强信心",
@@ -1194,26 +1391,43 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
         }
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
+      "keyword_group": "金价 黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "日经225指数高开0.8%，韩国首尔综指涨3%。 韩国首尔综指较7月30日低点上涨20%。",
-          "url": "https://wallstreetcn.com/livenews/3148802",
-          "source": "华尔街见闻-快讯",
+          "title": "美国通胀数据温和，9月加息概率回落，黄金价格一度走高，多头占比现略微占优，白银多头占比进一步升至94%；IEA和欧佩克下调全球原油需求预期，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260813105123099800",
+          "source": "金十数据",
           "ranks": [
-            9
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "11时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创业板指、科创50均涨超2%，沪指涨0.45%，深成指涨1.08%，算力租赁、CPO、半导体、PCB等方向涨幅居前，沪深京三市上涨个股超2200只。",
+          "url": "https://wallstreetcn.com/livenews/3148843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时28分"
         }
       ]
     },
@@ -1232,6 +1446,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时46分 ~ 01时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "立案调查",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "郭德纲演出中即兴改编红歌遭举报，武汉市文旅局立案调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773834",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时27分 ~ 11时28分]"
         }
       ]
     }
