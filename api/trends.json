@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:48:50.502220+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-08-14T19:37:12.578616+08:00",
+  "total_titles_processed": 1371,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,17 @@
           "time_info": "[11时24分 ~ 15时08分]"
         },
         {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
           "url": "https://www.toutiao.com/trending/7673136089955352622/",
           "source": "今日头条",
@@ -77,17 +88,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时01分 ~ 15时08分]"
-        },
-        {
-          "title": "事关特朗普与马斯克，美媒最新爆料",
-          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
@@ -134,6 +134,17 @@
           "time_info": "[11时24分 ~ 15时08分]"
         },
         {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时07分 ~ 19时37分]"
+        },
+        {
           "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
           "url": "https://wallstreetcn.com/livenews/3149281",
           "source": "华尔街见闻-快讯",
@@ -158,15 +169,16 @@
           "time_info": "[02时46分 ~ 06时31分]"
         },
         {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814181940361800",
+          "source": "金十数据",
           "ranks": [
-            16
+            9,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 18时48分]"
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
           "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -200,17 +212,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
-          "url": "https://flash.jin10.com/detail/20260814181940361800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "特朗普的美军科技路线有多矛盾？中东搞无人战争联盟，航母却要退回蒸汽时代",
@@ -392,7 +393,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "业绩增长超预期 中芯国际Q2销售收入达30亿美元 产能利用率进一步提升",
@@ -441,26 +442,120 @@
           "time_info": "13时24分"
         },
         {
-          "title": "金融监管总局：上半年保险公司原保险保费收入3.9万亿元，同比增长3.2%",
-          "url": "https://wallstreetcn.com/livenews/3149709",
-          "source": "华尔街见闻-快讯",
+          "title": "卫星化学：2026年上半年净利润62.27亿元，同比增长126.94%",
+          "url": "https://flash.jin10.com/detail/20260814191232103800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "19时37分"
         },
         {
-          "title": "金融监管总局：二季度末我国银行业金融机构本外币资产总额同比增长6.6%",
-          "url": "https://wallstreetcn.com/livenews/3149707",
+          "title": "众兴菌业：2026年上半年净利润1.91亿元，同比增长176.51%",
+          "url": "https://flash.jin10.com/detail/20260814191020686800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
+          "title": "星网锐捷：2026年上半年净利润3.73亿元，同比增长75.86%",
+          "url": "https://wallstreetcn.com/livenews/3149727",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时48分"
+          "time_info": "19时37分"
+        },
+        {
+          "title": "金融监管总局：上半年保险公司原保险保费收入3.9万亿元，同比增长3.2%",
+          "url": "https://wallstreetcn.com/livenews/3149709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "金融监管总局：二季度末我国银行业金融机构本外币资产总额同比增长6.6%",
+          "url": "https://wallstreetcn.com/livenews/3149707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
+          "url": "https://www.cls.cn/detail/2454635",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "前7个月新增社融22.25万亿元，新增贷款10.38万亿元，7月末M2同比增长7.7%",
+          "url": "https://www.cls.cn/detail/2454584",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "国家金融监督管理总局：二季度末我国银行业金融机构本外币资产总额498万亿元，同比增长6.6%",
+          "url": "https://flash.jin10.com/detail/20260814182234741800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "继峰股份：2026年上半年净利润3.65亿元，同比增长137.26%",
+          "url": "https://flash.jin10.com/detail/20260814182018836800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "紫光国微：2026年上半年净利润7.98亿元，同比增长15.29%",
+          "url": "https://flash.jin10.com/detail/20260814181616490800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
           "title": "闪迪定“超高”长期目标：FY2028-30营收中高双位数增长、毛利率80%，股价一度涨近20%",
@@ -474,39 +569,6 @@
           "time_info": "06时31分"
         },
         {
-          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
-          "url": "https://www.cls.cn/detail/2454635",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "国家金融监督管理总局：二季度末我国银行业金融机构本外币资产总额498万亿元，同比增长6.6%",
-          "url": "https://flash.jin10.com/detail/20260814182234741800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "继峰股份：2026年上半年净利润3.65亿元，同比增长137.26%",
-          "url": "https://flash.jin10.com/detail/20260814182018836800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
           "title": "截至8月13日，已有30余家北交所上市公司披露2026年半年报，企业成长成色初现。总体来看，已披露半年报的公司业绩表现抢眼，约三分之一企业上半年归母净利润同比增长超80%。算力服务、新能源、半导体等高景气赛道成为拉动业绩增长的核心引擎，凸显北交所“专精特新”企业的成长活力。（经济参考报）",
           "url": "https://wallstreetcn.com/livenews/3149302",
           "source": "华尔街见闻-快讯",
@@ -518,35 +580,13 @@
           "time_info": "04时31分"
         },
         {
-          "title": "紫光国微：2026年上半年净利润7.98亿元，同比增长15.29%",
-          "url": "https://flash.jin10.com/detail/20260814181616490800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "前7个月新增社融22.25万亿元，新增贷款10.38万亿元，7月末M2同比增长7.7%",
-          "url": "https://www.cls.cn/detail/2454584",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
           "title": "【紫光国微：2026年上半年净利润7.98亿元，同比增长15.29%】紫光国微公告，2026年上半年营业收入34.43亿元，同比增长13.00%。归属于上市公司股东的净利润7.98亿元，同比增长15.29%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
           "url": "https://wallstreetcn.com/livenews/3149693",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -568,7 +608,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -601,7 +641,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -623,7 +663,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -634,7 +674,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
         },
@@ -648,6 +688,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "紫光国微：2026年上半年净利润7.98亿元，同比增长15.29%",
+          "url": "https://wallstreetcn.com/livenews/3149693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
         }
       ]
     },
@@ -1130,185 +1181,8 @@
       ]
     },
     {
-      "keyword_group": "涨停 跌停",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
-          "url": "https://www.cls.cn/detail/2454593",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "A股PCB概念股震荡拉升，中富电路涨近15%，华正新材此前涨停，南亚新材、奕东电子、威尔高、德福科技等涨超6%。",
-          "url": "https://wallstreetcn.com/livenews/3149531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "A股电力板块持续下挫，华银电力、梅雁吉祥逼近跌停，立新能源、豫能控股、粤电力A、京能电力均大幅下挫。",
-          "url": "https://flash.jin10.com/detail/20260814104858523800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "A股电子化学品板块持续走高，海星股份涨停，中石科技此前封板, 思泉新材、龙辰科技涨超10%，方邦股份、国瓷材料、同宇新材、天承科技、金宏气体等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260814142845425800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "“一字板”涨停后股价大跌，群兴玩具回应：前期签订的算力租赁合作业务仍在正常推进中",
-          "url": "https://wallstreetcn.com/livenews/3149675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "四连板后皇氏集团跌停 公司回应",
-          "url": "https://flash.jin10.com/detail/20260814103952205800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "日经225指数涨幅扩大至1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3149381",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "日经225指数高开0.6%，韩国首尔综指高开2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3149374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        },
-        {
-          "title": "截至早盘收盘，日经225指数涨0.8%，东证指数涨0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3149441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "韩国股市暴涨22%，但几乎“无人持仓”",
-          "url": "https://wallstreetcn.com/articles/3779396",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "日经225指数收盘涨0.6%，报68,713.80点。 日本东证指数收盘涨0.5%，报4,197.20点。 韩国首尔综指收盘涨2.41%，报6977.34点。",
-          "url": "https://wallstreetcn.com/livenews/3149532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "日经225指数8月14日（周五）收盘上涨405.21点，涨幅0.59%，报68713.80点。",
-          "url": "https://flash.jin10.com/detail/20260814143049003800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "日经225指数8月14日（周五）开盘上涨438.23点，涨幅0.64%，报68746.82点。",
-          "url": "https://flash.jin10.com/detail/20260814080132693800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "风险",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "新西兰联储：金融政策委员会考虑了房价发展、近期抵押贷款的风险状况以及借款人的财务压力。",
@@ -1377,6 +1251,17 @@
           "time_info": "13时24分"
         },
         {
+          "title": "机构权益配置触及多年高位，风险偏好为何逆势扩张？",
+          "url": "https://flash.jin10.com/detail/20260814184606609800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时37分"
+        },
+        {
           "title": "马来西亚央行：将继续密切关注最新动态，评估国内通胀和经济增长前景所涉及的风险平衡。",
           "url": "https://flash.jin10.com/detail/20260814120236896800",
           "source": "金十数据",
@@ -1386,6 +1271,184 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
+          "url": "https://www.cls.cn/detail/2454593",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "A股PCB概念股震荡拉升，中富电路涨近15%，华正新材此前涨停，南亚新材、奕东电子、威尔高、德福科技等涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3149531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "A股电力板块持续下挫，华银电力、梅雁吉祥逼近跌停，立新能源、豫能控股、粤电力A、京能电力均大幅下挫。",
+          "url": "https://flash.jin10.com/detail/20260814104858523800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "A股电子化学品板块持续走高，海星股份涨停，中石科技此前封板, 思泉新材、龙辰科技涨超10%，方邦股份、国瓷材料、同宇新材、天承科技、金宏气体等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260814142845425800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "“一字板”涨停后股价大跌，群兴玩具回应：前期签订的算力租赁合作业务仍在正常推进中",
+          "url": "https://wallstreetcn.com/livenews/3149675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "四连板后皇氏集团跌停 公司回应",
+          "url": "https://flash.jin10.com/detail/20260814103952205800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "日经225指数涨幅扩大至1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3149381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "韩国股市暴涨22%，但几乎“无人持仓”",
+          "url": "https://wallstreetcn.com/articles/3779396",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "日经225指数高开0.6%，韩国首尔综指高开2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3149374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "截至早盘收盘，日经225指数涨0.8%，东证指数涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3149441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "日经225指数收盘涨0.6%，报68,713.80点。 日本东证指数收盘涨0.5%，报4,197.20点。 韩国首尔综指收盘涨2.41%，报6977.34点。",
+          "url": "https://wallstreetcn.com/livenews/3149532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "日经225指数8月14日（周五）收盘上涨405.21点，涨幅0.59%，报68713.80点。",
+          "url": "https://flash.jin10.com/detail/20260814143049003800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时08分"
+        },
+        {
+          "title": "日经225指数8月14日（周五）开盘上涨438.23点，涨幅0.64%，报68746.82点。",
+          "url": "https://flash.jin10.com/detail/20260814080132693800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         }
       ]
     },
@@ -1421,11 +1484,24 @@
           "url": "https://www.cls.cn/detail/2454270",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
+          "title": "明年或出现最严重存储荒",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E6%88%96%E5%87%BA%E7%8E%B0%E6%9C%80%E4%B8%A5%E9%87%8D%E5%AD%98%E5%82%A8%E8%8D%92%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
           "title": "美股收盘：三大股指收涨 存储概念走强",
@@ -1448,17 +1524,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
-        },
-        {
-          "title": "明年或出现最严重存储荒",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E6%88%96%E5%87%BA%E7%8E%B0%E6%9C%80%E4%B8%A5%E9%87%8D%E5%AD%98%E5%82%A8%E8%8D%92%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "周四（8月13日），美股行业ETF普遍收涨，房地产ETF涨1.42%，日常消费ETF涨1.07%，半导体ETF涨0.76%，金融精选ETF涨0.56%，太阳能ETF、可选消费ETF、地区银行、公用事业ETF涨0.42%-0.48%不等。医疗保健ETF则微跌0.04%。",
@@ -1485,8 +1550,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时01分 ~ 18时48分]"
+          "appearance_count": 9,
+          "time_info": "[09时01分 ~ 19时37分]"
         },
         {
           "title": "标普冲击新高 费城半导体指数即将重回“牛市” | 今夜看点",
@@ -1513,6 +1578,18 @@
           "time_info": "04时31分"
         },
         {
+          "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
+          "url": "https://www.zhihu.com/question/2070634579422196628",
+          "source": "知乎",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
           "title": "Reddit将于8月18日开盘前纳入标普500指数，取代AvalonBay Communities。该公司股价盘后一度大涨10%。",
           "url": "https://wallstreetcn.com/livenews/3149332",
           "source": "华尔街见闻-快讯",
@@ -1522,17 +1599,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        },
-        {
-          "title": "纳斯达克即将开启 23 小时连续交易，对投资者是好事还是坏事？",
-          "url": "https://www.zhihu.com/question/2070634579422196628",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "美股标普收新高 闪迪涨逾13%",
@@ -1561,8 +1627,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时46分 ~ 18时48分]"
+          "appearance_count": 14,
+          "time_info": "[02时46分 ~ 19时37分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -1574,8 +1640,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时46分 ~ 18时48分]"
+          "appearance_count": 14,
+          "time_info": "[02时46分 ~ 19时37分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -1631,6 +1697,17 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "这些中国机器人“小众”却好用",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E5%B0%8F%E4%BC%97%E2%80%9D%E5%8D%B4%E5%A5%BD%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
+        },
+        {
           "title": "8月14日投资避雷针：5连板人气股澄清 主营业务不涉及人形机器人及零配件的生产制造",
           "url": "https://www.cls.cn/detail/2454041",
           "source": "财联社热门",
@@ -1641,17 +1718,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时24分 ~ 15时08分]"
-        },
-        {
-          "title": "这些中国机器人“小众”却好用",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E4%BA%9B%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E2%80%9C%E5%B0%8F%E4%BC%97%E2%80%9D%E5%8D%B4%E5%A5%BD%E7%94%A8",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "中国机器人按下发令枪",
@@ -1712,8 +1778,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时07分 ~ 18时48分]"
+          "appearance_count": 5,
+          "time_info": "[15时07分 ~ 19时37分]"
+        },
+        {
+          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
           "title": "芯擎科技加速芯片“天工100”量产交付",
@@ -1736,17 +1814,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时01分"
-        },
-        {
-          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3149692",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
         },
         {
           "title": "投入翻倍仍谋划赴美建厂！SK崔泰源预判明年存储芯片供应缺口最大",
@@ -1857,9 +1924,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
           "title": "创业板指涨超1%，沪指跌0.1%，深成指涨0.51%，电子特气、CPO、存储芯片、6G等方向领涨，沪深京三市上涨个股超2400只。",
@@ -1890,17 +1957,6 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "据港交所文件：小米集团(01810.HK)于8月14日回购了190万股B类股份，耗资4980万港元。",
-          "url": "https://flash.jin10.com/detail/20260814183011727800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
           "title": "央行开展10000亿元买断式逆回购",
           "url": "https://www.douyin.com/hot/2608549",
           "source": "抖音",
@@ -1911,6 +1967,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时24分 ~ 15时08分]"
+        },
+        {
+          "title": "据港交所文件：小米集团(01810.HK)于8月14日回购了190万股B类股份，耗资4980万港元。",
+          "url": "https://flash.jin10.com/detail/20260814183011727800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 19时37分]"
         },
         {
           "title": "央行今日开展10000亿元买断式逆回购操作 专家：体现了稳健偏松的货币政策取向",
@@ -1967,11 +2035,12 @@
           "url": "https://www.cls.cn/detail/2454516",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时48分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时48分 ~ 19时37分]"
         }
       ]
     },
