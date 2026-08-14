@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T11:25:10.104891+08:00",
-  "total_titles_processed": 813,
+  "generated_at": "2026-08-14T13:24:59.719101+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,17 @@
           "time_info": "[02时46分 ~ 06时31分]"
         },
         {
+          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
+          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时24分]"
+        },
+        {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
           "url": "https://www.cls.cn/detail/2453615",
           "source": "财联社热门",
@@ -41,17 +52,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时46分 ~ 09时01分]"
-        },
-        {
-          "title": "下黑手！特朗普政府开发AI工具打击贸易伙伴：让你们帮中国",
-          "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
@@ -82,7 +82,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -107,8 +107,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时24分]"
         },
         {
           "title": "美新闻机构起诉特朗普",
@@ -130,8 +130,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时24分]"
         },
         {
           "title": "美媒披露特朗普换机疑因受到伊朗肩扛式导弹袭击的威胁，鲁比奥、贝森特留在了「空军一号」上，如何看待此事？",
@@ -151,7 +151,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -217,7 +217,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -368,8 +368,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时24分]"
+        },
+        {
+          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
+          "url": "https://www.cls.cn/detail/2454017",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时24分]"
+        },
+        {
+          "title": "美防长称可“无限期”对伊朗进行海上封锁",
+          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时24分]"
         },
         {
           "title": "伊朗：美若敢用核弹 全球基地将成靶子",
@@ -382,29 +406,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 11时25分]"
-        },
-        {
-          "title": "美防长称可无限期封锁伊朗 美联储官员重申现在必须加息 | 环球市场",
-          "url": "https://www.cls.cn/detail/2454017",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时25分]"
-        },
-        {
-          "title": "美防长称可“无限期”对伊朗进行海上封锁",
-          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
         },
         {
           "title": "伊朗议会国家安全委员会主席阿齐兹：若有人继续向伊朗的敌人屈服，你们的主权就将持续面临风险，国家地位也会被削弱。但若有人甘当敌人的工具，在地区内轻举妄动，伊朗将作出果断而强硬的回应。",
@@ -509,7 +510,7 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国7月PPI通胀不及预期 美联储9月加息预期进一步降温",
@@ -520,8 +521,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时46分 ~ 11时25分]"
+          "appearance_count": 9,
+          "time_info": "[02时46分 ~ 13时24分]"
         },
         {
           "title": "美联储古尔斯比：美国经济保持稳定。",
@@ -587,8 +588,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时24分]"
         },
         {
           "title": "油价下跌、通胀降温，市场不再完全押注美联储年内加息",
@@ -609,8 +610,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时24分]"
+        },
+        {
+          "title": "加息还是观望？美联储内部鹰鸽对峙升级 华尔街大行分歧难消",
+          "url": "https://www.cls.cn/detail/2454140",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美联储9月维持利率不变的概率为65.2%",
@@ -652,7 +664,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
@@ -660,7 +672,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "业绩增长超预期 中芯国际Q2销售收入达30亿美元 产能利用率进一步提升",
@@ -693,9 +705,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "菲律宾总统马科斯：经济增长率令人失望。",
+          "url": "https://flash.jin10.com/detail/20260814125039758800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "闪迪定“超高”长期目标：FY2028-30营收中高双位数增长、毛利率80%，股价一度涨近20%",
@@ -726,7 +749,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -740,6 +763,111 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "马来西亚第二季度GDP终值同比增长6%，预估5.8%。",
+          "url": "https://wallstreetcn.com/livenews/3149470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "上海前7个月累计实现进出口3万亿元，同比增长17.7%",
+          "url": "https://wallstreetcn.com/livenews/3149456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "新西兰联储：金融政策委员会考虑了房价发展、近期抵押贷款的风险状况以及借款人的财务压力。",
+          "url": "https://flash.jin10.com/detail/20260814060455667800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "联合国特使警告也门面临重新陷入大规模冲突风险",
+          "url": "https://wallstreetcn.com/livenews/3149275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "高盛交易员：市场从怕加息转向“怎么都利好”，自满风险开始升温",
+          "url": "https://flash.jin10.com/detail/20260814123826316800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "联合国特使警告也门面临重新陷入大规模冲突风险",
+          "url": "https://flash.jin10.com/detail/20260814021021857800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时47分"
+        },
+        {
+          "title": "中信建投：霍尔木兹海峡僵局持续 地缘风险溢价维持高位",
+          "url": "https://wallstreetcn.com/livenews/3149370",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "SK集团董事长崔泰源表示，SK海力士正考虑以合资方式建设新的存储芯片工厂，以降低传统行业盛衰周期下巨额资本支出和产能过剩带来的风险。",
+          "url": "https://wallstreetcn.com/livenews/3149476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "马来西亚央行：将继续密切关注最新动态，评估国内通胀和经济增长前景所涉及的风险平衡。",
+          "url": "https://flash.jin10.com/detail/20260814120236896800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
@@ -755,8 +883,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时24分]"
         },
         {
           "title": "美股三大指数集体高开",
@@ -830,8 +958,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时24分]"
         },
         {
           "title": "道琼斯指数8月13日（周四）收盘上涨69.81点，涨幅0.13%，报53840.08点；<br/>标普500指数8月13日（周四）收盘上涨50.65点，涨幅0.65%，报7799.15点；<br/>纳斯达克综合指数8月13日（周四）收盘上涨214.54点，涨幅0.81%，报26803.03点。",
@@ -878,11 +1006,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时46分 ~ 11时25分]"
+          "appearance_count": 9,
+          "time_info": "[02时46分 ~ 13时24分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -894,8 +1023,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时46分 ~ 11时25分]"
+          "appearance_count": 9,
+          "time_info": "[02时46分 ~ 13时24分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -944,11 +1073,12 @@
           "url": "https://www.cls.cn/detail/2454041",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时24分]"
         },
         {
           "title": "中国机器人按下发令枪",
@@ -979,7 +1109,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -990,7 +1120,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
@@ -1020,8 +1150,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时01分 ~ 11时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时24分]"
         },
         {
           "title": "美股收盘：三大股指收涨 存储概念走强",
@@ -1041,7 +1171,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -1091,7 +1221,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -1109,108 +1239,8 @@
       ]
     },
     {
-      "keyword_group": "风险",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "新西兰联储：金融政策委员会考虑了房价发展、近期抵押贷款的风险状况以及借款人的财务压力。",
-          "url": "https://flash.jin10.com/detail/20260814060455667800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "联合国特使警告也门面临重新陷入大规模冲突风险",
-          "url": "https://wallstreetcn.com/livenews/3149275",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "联合国特使警告也门面临重新陷入大规模冲突风险",
-          "url": "https://flash.jin10.com/detail/20260814021021857800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时47分"
-        },
-        {
-          "title": "中信建投：霍尔木兹海峡僵局持续 地缘风险溢价维持高位",
-          "url": "https://wallstreetcn.com/livenews/3149370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "涨停 跌停",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "A股电力板块持续下挫，华银电力、梅雁吉祥逼近跌停，立新能源、豫能控股、粤电力A、京能电力均大幅下挫。",
-          "url": "https://flash.jin10.com/detail/20260814104858523800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
-          "url": "https://wallstreetcn.com/livenews/3149415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        },
-        {
-          "title": "四连板后皇氏集团跌停 公司回应",
-          "url": "https://flash.jin10.com/detail/20260814103952205800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 光模块",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "芯擎科技加速芯片“天工100”量产交付",
@@ -1219,7 +1249,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         },
@@ -1235,13 +1265,74 @@
           "time_info": "09时01分"
         },
         {
+          "title": "投入翻倍仍谋划赴美建厂！SK崔泰源预判明年存储芯片供应缺口最大",
+          "url": "https://wallstreetcn.com/livenews/3149475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "A股存储芯片板块开盘活跃，阿莱德涨超10%，联芸科技、普冉股份、兆易创新、德明利、长鑫科技等集体高开。",
           "url": "https://wallstreetcn.com/livenews/3149410",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股电力板块持续下挫，华银电力、梅雁吉祥逼近跌停，立新能源、豫能控股、粤电力A、京能电力均大幅下挫。",
+          "url": "https://flash.jin10.com/detail/20260814104858523800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "A股稀土永磁板块异动拉升，金田股份触及涨停，中国稀土涨超8%，华宏科技、中稀有色、九菱科技、北方稀土跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "A股AI应用方向开盘拉升，理工能科2连板，石基信息、久其软件直线涨停，大恒科技、合合信息、达梦数据跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3149415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "四连板后皇氏集团跌停 公司回应",
+          "url": "https://flash.jin10.com/detail/20260814103952205800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
         }
@@ -1249,7 +1340,7 @@
     },
     {
       "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【焦点复盘】科创50高开低走跌超1%，两市成交额放大近4000亿，电力板块午后逆势拉升",
@@ -1270,9 +1361,88 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "8月14日午间收评：创业板指冲高回落涨0.65%，CPO概念股集体走强",
+          "url": "https://wallstreetcn.com/livenews/3149460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "央行开展10000亿元买断式逆回购",
+          "url": "https://www.douyin.com/hot/2608549",
+          "source": "抖音",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时24分]"
+        },
+        {
+          "title": "央行今日开展10000亿元买断式逆回购操作 专家：体现了稳健偏松的货币政策取向",
+          "url": "https://flash.jin10.com/detail/20260814122929918800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "中国央行连续4日7天期逆回购操作量为零。同时，开展了3490亿元隔夜逆回购操作。今日10亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3149406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证指数开盘报3930.02点，涨0.08%。 深证成指开盘报14335.41点，涨0.32%。 创业板指开盘报3610.19点，涨0.67%。 沪深300开盘报4672.98点，涨0.19%。 科创50开盘报1738.82点，涨1.23%。 中证500开盘报7989.65点，涨0.27%。 中证1000开盘报7750.99点，涨0.45%。",
+          "url": "https://wallstreetcn.com/livenews/3149407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
+          "title": "上证指数早盘收报3918.65点，跌0.21%。 深证成指早盘收报14300.46点，涨0.08%。 创业板指早盘收报3609.50点，涨0.65%。 沪深300早盘收报4658.48点，跌0.12%。 科创50早盘收报1707.94点，跌0.57%。 中证500早盘收报7949.45点，跌0.24%。 中证1000早盘收报7730.05点，涨0.18%。",
+          "url": "https://wallstreetcn.com/livenews/3149461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     },
@@ -1299,36 +1469,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时46分 ~ 11时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "央行开展10000亿元买断式逆回购",
-          "url": "https://www.douyin.com/hot/2608549",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
-        },
-        {
-          "title": "中国央行连续4日7天期逆回购操作量为零。同时，开展了3490亿元隔夜逆回购操作。今日10亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3149406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
+          "appearance_count": 9,
+          "time_info": "[02时46分 ~ 13时24分]"
         }
       ]
     },
@@ -1347,23 +1489,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时01分 ~ 11时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上证指数开盘报3930.02点，涨0.08%。 深证成指开盘报14335.41点，涨0.32%。 创业板指开盘报3610.19点，涨0.67%。 沪深300开盘报4672.98点，涨0.19%。 科创50开盘报1738.82点，涨1.23%。 中证500开盘报7989.65点，涨0.27%。 中证1000开盘报7750.99点，涨0.45%。",
-          "url": "https://wallstreetcn.com/livenews/3149407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时25分"
         }
       ]
     },
