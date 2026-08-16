@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T14:21:53.153068+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-08-16T16:17:38.429712+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 16时17分]"
+        },
+        {
+          "title": "伊朗三大权力机构负责人举行会晤",
+          "url": "https://news.ifeng.com/c/8vd393ITLzT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -31,26 +42,15 @@
           "time_info": "[07时12分 ~ 08时37分]"
         },
         {
-          "title": "伊朗三大权力机构负责人举行会晤",
-          "url": "https://news.ifeng.com/c/8vd393ITLzT",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "伊朗防空专家：战争爆发至今，我们从没引进国外的武器或系统",
           "url": "https://news.ifeng.com/c/8vd8ID5xoBc",
           "source": "凤凰网",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
         },
         {
           "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -59,9 +59,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
         },
         {
           "title": "美国中央司令部：以圣地亚哥为母港的“亚伯拉罕·林肯”号于去年11月启程执行部署任务，并于1月抵达中东。该打击群已成功执行数千次作战飞行任务，以支持“史诗狂怒”行动、地区安全任务以及美国目前对伊朗实施的海上封锁。",
@@ -100,6 +100,18 @@
           "time_info": "[07时12分 ~ 08时37分]"
         },
         {
+          "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
+          "url": "https://wallstreetcn.com/livenews/3150030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
+        },
+        {
           "title": "伊朗能源优化组织负责人：第一种方案中，汽油价格保持不变，但总分配量上限为1.21亿升，一旦用完，加油口将关闭。第二种方案中，每日生产的1.21亿升汽油将分配给各车辆，任何希望超出配额的人必须按自由市场价格购买汽油；第三种方案中，汽油配额分配给民众，每人每月30升，且允许进行配额转让、购买和出售。",
           "url": "https://flash.jin10.com/detail/20260816050035901800",
           "source": "金十数据",
@@ -110,6 +122,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 08时37分]"
+        },
+        {
+          "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
+          "url": "https://flash.jin10.com/detail/20260816123659202800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
         },
         {
           "title": "伊朗能源优化组织负责人：作为正在审议的三项管理伊朗汽油供应方案的一部分，伊朗正在考虑一项提案，即每月向每人分配30升汽油，且该配额可转让、可交易。",
@@ -148,26 +172,70 @@
           "time_info": "[07时12分 ~ 08时37分]"
         },
         {
-          "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
-          "url": "https://wallstreetcn.com/livenews/3150030",
+          "title": "伊朗外交部强烈谴责以色列对黎袭击",
+          "url": "https://wallstreetcn.com/livenews/3150039",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "16时17分"
         },
         {
-          "title": "伊朗称3名飞行员遭卡塔尔扣押 卡塔尔否认",
-          "url": "https://flash.jin10.com/detail/20260816123659202800",
+          "title": "伊朗武装部队总参谋部：在彻底击败敌人之前，我们绝不会退缩",
+          "url": "https://flash.jin10.com/detail/20260816151427691800",
           "source": "金十数据",
           "ranks": [
-            11
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时21分"
+          "time_info": "16时17分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队表示，卡塔尔应该允许伊朗的专家团队入驻调查失踪的飞行员事件，而不是否认对飞行员采取了拘留措施。",
+          "url": "https://flash.jin10.com/detail/20260816145833255800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗军方失踪人员负责人表示，卡塔尔必须允许伊朗空军的调查团进入该国。",
+          "url": "https://flash.jin10.com/detail/20260816144950823800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "伊朗外交部强烈谴责以色列对黎袭击",
+          "url": "https://flash.jin10.com/detail/20260816144217334800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "伊朗称三名飞行员被卡塔尔活捉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%89%E5%90%8D%E9%A3%9E%E8%A1%8C%E5%91%98%E8%A2%AB%E5%8D%A1%E5%A1%94%E5%B0%94%E6%B4%BB%E6%8D%89%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "伊朗宣布与阿曼达成协议",
@@ -176,7 +244,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -220,6 +288,17 @@
       "match_count": 13,
       "titles": [
         {
+          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
+          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
+        },
+        {
           "title": "美国总统特朗普周日日程一览",
           "url": "https://flash.jin10.com/detail/20260816080736055800",
           "source": "金十数据",
@@ -242,17 +321,6 @@
           "time_info": "08时37分"
         },
         {
-          "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
-          "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "哥伦比亚总统：因地震影响，在与美国总统特朗普的电话中请求美国暂时暂停对哥伦比亚产品的关税。",
           "url": "https://flash.jin10.com/detail/20260816080613858800",
           "source": "金十数据",
@@ -264,6 +332,18 @@
           "time_info": "08时37分"
         },
         {
+          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
+          "url": "https://wallstreetcn.com/articles/3779521",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
+        },
+        {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
           "url": "https://www.cls.cn/detail/2455058",
           "source": "财联社热门",
@@ -271,8 +351,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 16时17分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -282,8 +362,32 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 16时17分]"
+        },
+        {
+          "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
+          "url": "https://flash.jin10.com/detail/20260816130111375800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时12分 ~ 14时21分]"
+          "time_info": "[14时21分 ~ 16时17分]"
+        },
+        {
+          "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
+          "url": "https://flash.jin10.com/detail/20260816123425273800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
@@ -310,46 +414,13 @@
           "time_info": "[07时12分 ~ 08时37分]"
         },
         {
-          "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
-          "url": "https://wallstreetcn.com/articles/3779521",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "美媒：应特朗普要求，美国海军正研究重新设计战舰",
-          "url": "https://flash.jin10.com/detail/20260816130111375800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
           "title": "特朗普称林肯号部署时间不够长",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9E%97%E8%82%AF%E5%8F%B7%E9%83%A8%E7%BD%B2%E6%97%B6%E9%97%B4%E4%B8%8D%E5%A4%9F%E9%95%BF",
           "source": "bilibili 热搜",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "民调：大多数美国选民认为，在特朗普领导下生活状况变得更糟",
-          "url": "https://flash.jin10.com/detail/20260816123425273800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         },
@@ -360,7 +431,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
@@ -370,6 +441,18 @@
       "keyword_group": "涨价 核心材料",
       "match_count": 6,
       "titles": [
+        {
+          "title": "厄尔尼诺致糖期货大涨价",
+          "url": "https://wallstreetcn.com/livenews/3150031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
+        },
         {
           "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
           "url": "https://www.zhihu.com/question/2071746265390506374",
@@ -383,6 +466,18 @@
           "time_info": "[07时12分 ~ 08时37分]"
         },
         {
+          "title": "手机涨价何时是个头",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
+        },
+        {
           "title": "俱往矣!DeepSeek大幅涨价",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
@@ -392,28 +487,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时12分 ~ 08时37分]"
-        },
-        {
-          "title": "厄尔尼诺致糖期货大涨价",
-          "url": "https://wallstreetcn.com/livenews/3150031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
-        },
-        {
-          "title": "手机涨价何时是个头",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
         },
         {
           "title": "如何看待「大学新生三件套」涨价近五成，如果只给 5000 元预算配齐「开学三件套」，你会怎么分配？",
@@ -433,9 +506,119 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "频准激光：将于8月18日科创板上市",
+          "url": "https://wallstreetcn.com/livenews/3150042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "年内最贵新股频准激光：将于8月18日科创板上市",
+          "url": "https://flash.jin10.com/detail/20260816153519640800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
+          "url": "https://wallstreetcn.com/articles/3779528",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "盛科通信：签订超1亿元以太网交换芯片销售合同",
+          "url": "https://flash.jin10.com/detail/20260816155301812800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
+          "url": "https://wallstreetcn.com/articles/3779508",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时37分 ~ 14时21分]"
+        },
+        {
+          "title": "机构：AI“芯片通胀”正冲击英国经济",
+          "url": "https://flash.jin10.com/detail/20260816045317873800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "暴涨",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "url": "https://www.cls.cn/detail/2455064",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 16时17分]"
+        },
+        {
+          "title": "Anthropic二季度营收同比暴涨1400%",
+          "url": "https://www.toutiao.com/trending/7674506368329453102/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
@@ -478,11 +661,12 @@
           "url": "https://wallstreetcn.com/livenews/3150026",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 16时17分]"
         },
         {
           "title": "入境游增长28% 南京凭什么圈粉全球",
@@ -494,36 +678,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
-          "url": "https://wallstreetcn.com/articles/3779508",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时37分 ~ 14时21分]"
-        },
-        {
-          "title": "机构：AI“芯片通胀”正冲击英国经济",
-          "url": "https://flash.jin10.com/detail/20260816045317873800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 08时37分]"
         }
       ]
     },
@@ -551,8 +705,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 16时17分]"
         }
       ]
     },
@@ -579,7 +733,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
         }
@@ -598,27 +752,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 14时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "暴涨",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
-          "url": "https://www.cls.cn/detail/2455064",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时12分 ~ 14时21分]"
+          "appearance_count": 4,
+          "time_info": "[07时12分 ~ 16时17分]"
         }
       ]
     }
