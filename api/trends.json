@@ -1,11 +1,408 @@
 {
-  "generated_at": "2026-08-17T14:32:38.681693+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-08-17T16:32:10.811387+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时13分 ~ 08时36分]"
+        },
+        {
+          "title": "伊朗高层换血，革命卫队更强势了？",
+          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时13分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗三大权力机构负责人举行会晤",
+          "url": "https://news.ifeng.com/c/8vd393ITLzT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时13分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3150079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://www.toutiao.com/trending/7674484727768301577/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            14,
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时13分 ~ 14时32分]"
+        },
+        {
+          "title": "伊朗：美军不得进入霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%86%9B%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时13分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时36分 ~ 16时32分]"
+        },
+        {
+          "title": "伊朗称正在起草与阿曼的海上航线计划",
+          "url": "https://wallstreetcn.com/livenews/3150377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://www.toutiao.com/trending/7673769080869191734/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时13分 ~ 06时11分]"
+        },
+        {
+          "title": "据半岛电视台：伊朗议会议长表示，我们必须达到一种威慑水平，以免陷入战争、和平再到战争消耗的循环中。",
+          "url": "https://flash.jin10.com/detail/20260817040612612800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗议会通过反渗透法案",
+          "url": "https://wallstreetcn.com/livenews/3150070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
+          "url": "https://flash.jin10.com/detail/20260817010920231800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时14分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://wallstreetcn.com/livenews/3150068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://wallstreetcn.com/livenews/3150063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时14分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时32分]"
+        },
+        {
+          "title": "伊朗第一副总统：敌人企图通过经济战来弥补其军事上的失败，我们必须予以应对。",
+          "url": "https://flash.jin10.com/detail/20260817010814570800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时14分 ~ 03时14分]"
+        },
+        {
+          "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
+          "url": "https://flash.jin10.com/detail/20260817033655350800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，这是美国和以色列政权遭受的绝对最惨痛的失败。",
+          "url": "https://flash.jin10.com/detail/20260817025702745800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，我们在军事和政治上都赢得了这场战争。这并非指我们摧毁了美军；而是指美国和以色列曾带着9项明确且公开宣称的目标向我们发动攻击，但无论在哪个层面，他们都未能实现其中任何一项。",
+          "url": "https://flash.jin10.com/detail/20260817025637231800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "卡塔尔外交部：首相强调，各方必须坚持对话与外交，落实美国与伊朗之间谅解备忘录中达成的共识，包括确保霍尔木兹海的航行自由，以维护地区安全，保护已取得的成就，并增强地区稳定。",
+          "url": "https://flash.jin10.com/detail/20260817025315208800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时11分]"
+        },
+        {
+          "title": "伊朗秘密升级战争计划曝光！强硬派已定下全新打法",
+          "url": "https://flash.jin10.com/detail/20260817140632271800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗将主办里海沿岸国家会议。",
+          "url": "https://flash.jin10.com/detail/20260817160907045800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
+          "url": "https://wallstreetcn.com/livenews/3150110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时36分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：很遗憾，美国屡屡背弃承诺，正如先前在阿曼问题上所发生的那样，此次也使巴基斯坦的调解角色受到了损害。",
+          "url": "https://flash.jin10.com/detail/20260817160625266800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
+          "url": "https://flash.jin10.com/detail/20260817000751905800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗陆军总司表示，我们确信，林肯号航空母舰至少被伊朗发射的弹药击中一次，以至于在一段时间内，舰上所有战斗机均无法起飞。",
+          "url": "https://flash.jin10.com/detail/20260817000142424800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "伊朗：媒体即战场 我方成功抵御舆论攻势",
+          "url": "https://flash.jin10.com/detail/20260817140035500800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗与巴基斯坦作为两个邻国，双边往来仍在继续。巴基斯坦正努力利用自身能力在伊朗与美国之间进行调解。",
+          "url": "https://flash.jin10.com/detail/20260817160604537800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗将扩大与阿富汗的经济和商业关系。",
+          "url": "https://flash.jin10.com/detail/20260817160544779800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗：仍在与阿曼就霍尔木兹海峡问题进行密集磋商",
+          "url": "https://wallstreetcn.com/livenews/3150348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗不会忘记侵略者在米纳布、拉默尔德和格什姆岛犯下的罪行。",
+          "url": "https://flash.jin10.com/detail/20260817160529057800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗警告不要拿霍尔木兹海峡开玩笑",
+          "url": "https://wallstreetcn.com/livenews/3150228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
+          "title": "伊朗称美国违反谅解备忘录 导致60天谈判期失去意义",
+          "url": "https://wallstreetcn.com/livenews/3150341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%B7%B2%E8%A2%AB%E9%A9%B1%E9%80%90%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时36分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "海峡控制权“各说各话”：特朗普放话“拿下”霍尔木兹，伊朗称已与阿曼就通行方案达成协议",
@@ -34,11 +431,12 @@
           "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时36分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[08时36分 ~ 16时32分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -48,8 +446,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时36分 ~ 14时32分]"
+          "appearance_count": 4,
+          "time_info": "[08时36分 ~ 16时32分]"
         },
         {
           "title": "特朗普：欢迎沙土巴三国签署共同防务协议",
@@ -80,7 +478,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -118,6 +516,18 @@
           "time_info": "06时11分"
         },
         {
+          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
+          "url": "https://wallstreetcn.com/articles/3779545",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时32分]"
+        },
+        {
           "title": "美国总统特朗普：非常高兴看到沙特、土耳其和巴基斯坦最近终于签署了麦加联合防御协议。",
           "url": "https://flash.jin10.com/detail/20260817050503839800",
           "source": "金十数据",
@@ -127,17 +537,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
-        },
-        {
-          "title": "英伟达5000亿AI融资计划暗藏隐忧，特朗普顾问警示“暗GPU”过剩风险",
-          "url": "https://wallstreetcn.com/articles/3779545",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
         },
         {
           "title": "美国总统特朗普表示，他度过了一个“很棒”的周末，进行了“许多会议”。",
@@ -161,6 +560,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时14分 ~ 06时11分]"
+        },
+        {
+          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
+          "url": "https://www.zhihu.com/question/2072595818725336495",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时32分]"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -265,24 +675,13 @@
           "time_info": "03时14分"
         },
         {
-          "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
-          "url": "https://www.zhihu.com/question/2072595818725336495",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "特朗普称被韩方拒绝",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A2%AB%E9%9F%A9%E6%96%B9%E6%8B%92%E7%BB%9D%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -351,321 +750,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时13分 ~ 08时36分]"
         },
         {
-          "title": "伊朗高层换血，革命卫队更强势了？",
-          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时13分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗三大权力机构负责人举行会晤",
-          "url": "https://news.ifeng.com/c/8vd393ITLzT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时13分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3150079",
+          "title": "特朗普缩减美韩联合军演规模会威胁中朝关系吗？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3150337",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://www.toutiao.com/trending/7674484727768301577/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            14,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时13分 ~ 14时32分]"
-        },
-        {
-          "title": "伊朗：美军不得进入霍尔木兹海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%86%9B%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            20,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时13分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://www.toutiao.com/trending/7673769080869191734/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时13分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
-          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时36分 ~ 14时32分]"
-        },
-        {
-          "title": "据半岛电视台：伊朗议会议长表示，我们必须达到一种威慑水平，以免陷入战争、和平再到战争消耗的循环中。",
-          "url": "https://flash.jin10.com/detail/20260817040612612800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗议会通过反渗透法案",
-          "url": "https://wallstreetcn.com/livenews/3150070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
-          "url": "https://flash.jin10.com/detail/20260817010920231800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时14分]"
-        },
-        {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://wallstreetcn.com/livenews/3150068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://wallstreetcn.com/livenews/3150063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时14分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗第一副总统：敌人企图通过经济战来弥补其军事上的失败，我们必须予以应对。",
-          "url": "https://flash.jin10.com/detail/20260817010814570800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时14分 ~ 03时14分]"
-        },
-        {
-          "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
-          "url": "https://flash.jin10.com/detail/20260817033655350800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，这是美国和以色列政权遭受的绝对最惨痛的失败。",
-          "url": "https://flash.jin10.com/detail/20260817025702745800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，我们在军事和政治上都赢得了这场战争。这并非指我们摧毁了美军；而是指美国和以色列曾带着9项明确且公开宣称的目标向我们发动攻击，但无论在哪个层面，他们都未能实现其中任何一项。",
-          "url": "https://flash.jin10.com/detail/20260817025637231800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
-          "title": "卡塔尔外交部：首相强调，各方必须坚持对话与外交，落实美国与伊朗之间谅解备忘录中达成的共识，包括确保霍尔木兹海的航行自由，以维护地区安全，保护已取得的成就，并增强地区稳定。",
-          "url": "https://flash.jin10.com/detail/20260817025315208800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时11分]"
-        },
-        {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "伊朗秘密升级战争计划曝光！强硬派已定下全新打法",
-          "url": "https://flash.jin10.com/detail/20260817140632271800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
-          "url": "https://wallstreetcn.com/livenews/3150110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时36分"
-        },
-        {
-          "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
-          "url": "https://flash.jin10.com/detail/20260817000751905800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗陆军总司表示，我们确信，林肯号航空母舰至少被伊朗发射的弹药击中一次，以至于在一段时间内，舰上所有战斗机均无法起飞。",
-          "url": "https://flash.jin10.com/detail/20260817000142424800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
-        },
-        {
-          "title": "伊朗：媒体即战场 我方成功抵御舆论攻势",
-          "url": "https://flash.jin10.com/detail/20260817140035500800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "伊朗警告不要拿霍尔木兹海峡开玩笑",
-          "url": "https://wallstreetcn.com/livenews/3150228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%B7%B2%E8%A2%AB%E9%A9%B1%E9%80%90%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
           "ranks": [
             29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时36分"
+          "time_info": "16时32分"
         }
       ]
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国工程机械5年出口规模3倍增长",
@@ -690,6 +791,40 @@
           "time_info": "[02时14分 ~ 06时11分]"
         },
         {
+          "title": "宁波韵升：2026年上半年净利润2.74亿元，同比增长154.18%",
+          "url": "https://wallstreetcn.com/livenews/3150376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "孚日股份：2026年上半年净利润4.03亿元，同比增长64.01%",
+          "url": "https://flash.jin10.com/detail/20260817161411252800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "上海硅巷13小时激辩：当算力重返增长快车道 产业下一站锚定何方？",
+          "url": "https://www.cls.cn/detail/2455700",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时32分]"
+        },
+        {
           "title": "紫金黄金国际：上半年矿产金产量同比增长44%至约27.3吨",
           "url": "https://wallstreetcn.com/livenews/3150058",
           "source": "华尔街见闻-快讯",
@@ -712,15 +847,15 @@
           "time_info": "[02时14分 ~ 06时11分]"
         },
         {
-          "title": "上海硅巷13小时激辩：当算力重返增长快车道 产业下一站锚定何方？",
-          "url": "https://www.cls.cn/detail/2455700",
-          "source": "财联社热门",
+          "title": "传音控股：上半年净利润17.7亿元，同比增长46.22%；拟10派8元。",
+          "url": "https://wallstreetcn.com/livenews/3150370",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时32分"
+          "time_info": "16时32分"
         },
         {
           "title": "日本第二季度GDP增长低于预期，使日本央行加息时间表更加复杂",
@@ -734,13 +869,24 @@
           "time_info": "08时36分"
         },
         {
+          "title": "两部门：“十五五”保持储量增长高峰态势 确保石油储量接替率保持1以上 天然气储量接替率力争更高",
+          "url": "https://wallstreetcn.com/livenews/3150359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
           "title": "大和证券：日本经济增长乏力，政府或推迟宣布通缩结束",
           "url": "https://flash.jin10.com/detail/20260817140607266800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -765,6 +911,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时36分"
+        },
+        {
+          "title": "德赛电池：2026年上半年净利润2.05亿元，同比增长110.44%",
+          "url": "https://wallstreetcn.com/livenews/3150350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "国家统计局：前7个月工业新动能对规模以上工业增长贡献达到五成",
+          "url": "https://wallstreetcn.com/livenews/3150347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -772,6 +940,18 @@
       "keyword_group": "涨价 核心材料",
       "match_count": 6,
       "titles": [
+        {
+          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
+          "url": "https://www.cls.cn/detail/2455490",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时32分]"
+        },
         {
           "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
           "url": "https://www.zhihu.com/question/2072481373085028433",
@@ -784,37 +964,28 @@
           "time_info": "08时36分"
         },
         {
-          "title": "券商晨会精华：AI定价重心将从“涨价”转向“量增”",
-          "url": "https://www.cls.cn/detail/2455490",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        },
-        {
           "title": "DeepSeek正式涨价",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时32分]"
         },
         {
           "title": "\"有钱也买不到\"！供需失衡加剧，磷化铟掀史上最大涨价潮",
           "url": "https://wallstreetcn.com/articles/3779558",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时32分]"
         },
         {
           "title": "DeepSeek正式涨价",
@@ -834,7 +1005,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
@@ -842,7 +1013,7 @@
     },
     {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "纳斯达克一天交易23小时，抢的是谁的生意？",
@@ -853,8 +1024,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时13分 ~ 14时32分]"
+          "appearance_count": 11,
+          "time_info": "[02时13分 ~ 16时32分]"
         },
         {
           "title": "纳斯达克100指数期货涨幅扩大至0.5%。",
@@ -863,7 +1034,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -874,9 +1045,72 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        },
+        {
+          "title": "美国标普500 E-Mini期货上涨0.18%，纳斯达克100期货上涨0.54%，道琼斯期货下跌0.09%。",
+          "url": "https://flash.jin10.com/detail/20260817160109909800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "宇树发布超人机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "宇树发布超人机器人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E8%B6%85%E4%BA%BA%E6%9C%BA%E5%99%A8%E4%BA%BA%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "30美元1小时 机器人上门做保洁",
+          "url": "https://www.baidu.com/s?wd=30%E7%BE%8E%E5%85%831%E5%B0%8F%E6%97%B6+%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E9%97%A8%E5%81%9A%E4%BF%9D%E6%B4%81",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时13分 ~ 08时36分]"
+        },
+        {
+          "title": "调查 | 手术机器人：狂欢与退潮之间，洗牌已至",
+          "url": "https://www.cls.cn/detail/2455431",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
         }
       ]
     },
@@ -930,7 +1164,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -941,7 +1175,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -952,9 +1186,48 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
+          "url": "https://wallstreetcn.com/articles/3779528",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时13分 ~ 08时36分]"
+        },
+        {
+          "title": "创业板涨超2%，长鑫大涨10%市值超4.07万亿创新高，贵州茅台跌超4%，恒科指涨超2%",
+          "url": "https://wallstreetcn.com/articles/3779568",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时31分 ~ 16时32分]"
+        },
+        {
+          "title": "频准激光：将于8月18日科创板上市",
+          "url": "https://www.cls.cn/detail/2455340",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时36分"
         }
       ]
     },
@@ -980,7 +1253,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -991,9 +1264,48 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "港股收评：恒指收涨1.3% 芯片股、光通信走强",
+          "url": "https://flash.jin10.com/detail/20260817161345158800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "港股收盘，恒指收涨1.34%，科指收涨1.58%。光通信、芯片股走强，长飞光纤光缆(06869.HK)涨12%，中际旭创(03308.HK)涨8.2%，华虹宏力(01347.HK)涨7.45%。",
+          "url": "https://flash.jin10.com/detail/20260817160928311800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
+          "url": "https://wallstreetcn.com/livenews/3150351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
         }
       ]
     },
@@ -1019,7 +1331,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         },
@@ -1029,34 +1341,6 @@
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "从成人电影创业到“硅谷第一夫人”：深挖Anthropic背后的神秘女人",
-          "url": "https://wallstreetcn.com/articles/3779528",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时13分 ~ 08时36分]"
-        },
-        {
-          "title": "频准激光：将于8月18日科创板上市",
-          "url": "https://www.cls.cn/detail/2455340",
-          "source": "财联社热门",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1123,6 +1407,51 @@
       ]
     },
     {
+      "keyword_group": "跌破 拉升",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小作文发酵，中际旭创、新易盛盘中直线拉升",
+          "url": "https://wallstreetcn.com/livenews/3150366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        },
+        {
+          "title": "中际旭创午后持续拉升，涨超7%。",
+          "url": "https://wallstreetcn.com/livenews/3150239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.3%，报99.32。",
+          "url": "https://wallstreetcn.com/livenews/3150340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "暴涨",
       "match_count": 1,
       "titles": [
@@ -1143,25 +1472,6 @@
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "30美元1小时 机器人上门做保洁",
-          "url": "https://www.baidu.com/s?wd=30%E7%BE%8E%E5%85%831%E5%B0%8F%E6%97%B6+%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E9%97%A8%E5%81%9A%E4%BF%9D%E6%B4%81",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时13分 ~ 08时36分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "加速落地 订单爆发",
       "match_count": 1,
       "titles": [
@@ -1172,9 +1482,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时32分 ~ 16时32分]"
         }
       ]
     },
@@ -1189,24 +1499,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中际旭创午后持续拉升，涨超7%。",
-          "url": "https://wallstreetcn.com/livenews/3150239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时32分"
         }
