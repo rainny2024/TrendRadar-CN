@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T01:04:02.741578+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-17T04:13:15.199603+08:00",
+  "total_titles_processed": 403,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时13分]"
         },
         {
           "title": "特朗普称可能打击伊朗镐山核设施",
@@ -26,8 +26,19 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时13分]"
+        },
+        {
+          "title": "特朗普：为确保伊朗无法获得核武器 可能会对镐山核设施发动打击",
+          "url": "https://www.cls.cn/detail/2507307",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         },
         {
           "title": "特朗普外交政策拖累加拿大原油价格",
@@ -36,7 +47,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -58,9 +69,42 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "美国总统特朗普称他“不急于”任命新的新闻秘书。 特朗普没有列出新闻秘书接替人选的候选名单。",
+          "url": "https://wallstreetcn.com/livenews/3180440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美国总统特朗普：刚抵达佐治亚州，正前往大型集会现场。",
+          "url": "https://flash.jin10.com/detail/20261017031358454800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示并不急于任命新的新闻秘书。",
+          "url": "https://flash.jin10.com/detail/20261017030317470800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "美国议员提出法案，拟阻止特朗普与俄罗斯达成柴油交易。",
@@ -69,7 +113,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }
@@ -77,7 +121,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗称新型武器装备投入使用",
@@ -87,8 +131,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时13分]"
+        },
+        {
+          "title": "俄罗斯能源论坛重点讨论伊朗-俄罗斯天然气协议及高加索能源网络互联问题。",
+          "url": "https://wallstreetcn.com/livenews/3180448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         },
         {
           "title": "布伦特原油日内涨幅达2.00%，现报106.15美元/桶。",
@@ -97,9 +152,148 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗与俄罗斯天然气协议及高加索能源网络互联成为俄罗斯能源论坛讨论焦点。",
+          "url": "https://flash.jin10.com/detail/20261017031855400800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "布伦特原油期货涨至110美元/桶，为5月20日以来首次。WTI原油日内涨幅达3.5%，报101.41美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3180431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时13分]"
+        },
+        {
+          "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 04时13分]"
+        },
+        {
+          "title": "美元指数本周跌约0.4%",
+          "url": "https://wallstreetcn.com/livenews/3180442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美元指数16日下跌",
+          "url": "https://flash.jin10.com/detail/20261017031439108800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国商品期货交易委员会（CFTC）：10月13日当周，股票基金投机者将芝加哥商业交易所（CME）标普500指数期货的净空头头寸削减5,804手合约，至390,896手合约。",
+          "url": "https://wallstreetcn.com/livenews/3180452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至10月13日当周，股票基金投机者在CME标普500指数期货的净空头头寸减少5,804手，至390,896手。",
+          "url": "https://flash.jin10.com/detail/20261017033214197800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至10月13日当周，股票基金经理在CME标普500指数期货的净多头头寸增加8,186手，至912,542手。",
+          "url": "https://flash.jin10.com/detail/20261017033206894800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴克莱：近期油价风险仍偏向上行。",
+          "url": "https://flash.jin10.com/detail/20261017004311552800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
+        },
+        {
+          "title": "美国原油收盘站上101美元，本周涨超10%，供应风险重燃",
+          "url": "https://wallstreetcn.com/livenews/3180430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
         }
       ]
     },
@@ -115,8 +309,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时13分]"
         },
         {
           "title": "美联储10月加息预期减弱 美元或创六周来最差单周表现",
@@ -125,26 +319,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
-          "url": "https://wallstreetcn.com/articles/3783663",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
         }
       ]
     },
@@ -166,19 +343,19 @@
       ]
     },
     {
-      "keyword_group": "风险",
+      "keyword_group": "商业航天 机器人",
       "match_count": 1,
       "titles": [
         {
-          "title": "巴克莱：近期油价风险仍偏向上行。",
-          "url": "https://flash.jin10.com/detail/20261017004311552800",
-          "source": "金十数据",
+          "title": "马斯克：正在开发专用议价机器人，每年可为全球节省6万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3180443",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "04时13分"
         }
       ]
     },
@@ -194,8 +371,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时13分]"
         }
       ]
     },
@@ -208,11 +385,12 @@
           "url": "https://wallstreetcn.com/articles/3783750",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时13分]"
         }
       ]
     },
@@ -225,11 +403,12 @@
           "url": "https://www.cls.cn/detail/2507143",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 04时13分]"
         }
       ]
     }
