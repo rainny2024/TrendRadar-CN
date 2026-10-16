@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T04:13:15.199603+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-10-17T07:07:46.948527+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 20,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时07分]"
+        },
+        {
+          "title": "美国总统特朗普：拜登向乌克兰提供了价值3500亿美元的装备和现金。这不好，非常不好，实在太糟糕了。",
+          "url": "https://flash.jin10.com/detail/20261017053548187800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "特朗普称可能打击伊朗镐山核设施",
@@ -26,8 +37,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时07分]"
         },
         {
           "title": "特朗普：为确保伊朗无法获得核武器 可能会对镐山核设施发动打击",
@@ -39,6 +50,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 04时13分]"
+        },
+        {
+          "title": "美国总统特朗普：（关于霍尔木兹海峡）如果我们把它改名为“特朗普海峡”，阿拉伯国家会作何感想呢？我们轻松就能搞定这件事。",
+          "url": "https://flash.jin10.com/detail/20261017053413059800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "特朗普：白宫未干预乌克兰卫星系统 马斯克也没有",
+          "url": "https://flash.jin10.com/detail/20261017052606064800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "特朗普外交政策拖累加拿大原油价格",
@@ -63,6 +96,39 @@
           "time_info": "01时04分"
         },
         {
+          "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
+          "url": "https://wallstreetcn.com/livenews/3180498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美国总统特朗普：欧洲人想得到格陵兰岛。他们当时就知道我是对的。",
+          "url": "https://flash.jin10.com/detail/20261017051053149800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗战事）这只是一次军事演习而已，明白吗？",
+          "url": "https://flash.jin10.com/detail/20261017051013918800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "美国跨党派议员们提出法案，建议阻止总统特朗普的俄罗斯柴油交易",
           "url": "https://wallstreetcn.com/livenews/3180374",
           "source": "华尔街见闻-快讯",
@@ -74,15 +140,48 @@
           "time_info": "01时04分"
         },
         {
+          "title": "美国总统特朗普：我可能对伊朗领导人太过火了。现在没人可以跟我谈了。",
+          "url": "https://flash.jin10.com/detail/20261017050227383800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "特朗普指责泽连斯基制造麻烦",
+          "url": "https://www.douyin.com/hot/2697687",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
           "title": "美国总统特朗普称他“不急于”任命新的新闻秘书。 特朗普没有列出新闻秘书接替人选的候选名单。",
           "url": "https://wallstreetcn.com/livenews/3180440",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗问题很快就会结束。",
+          "url": "https://flash.jin10.com/detail/20261017044631868800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "美国总统特朗普：刚抵达佐治亚州，正前往大型集会现场。",
@@ -91,7 +190,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -102,9 +201,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗：我可能对伊朗领导人做得太过火了。 我没有人可以谈。",
+          "url": "https://wallstreetcn.com/livenews/3180479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "美国议员提出法案，拟阻止特朗普与俄罗斯达成柴油交易。",
@@ -121,7 +231,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗称新型武器装备投入使用",
@@ -131,8 +241,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时07分]"
+        },
+        {
+          "title": "报道：美伊停战提议仍待回应 亲伊朗武装被指向革命卫队回输资金",
+          "url": "https://flash.jin10.com/detail/20261017051253308800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "俄罗斯能源论坛重点讨论伊朗-俄罗斯天然气协议及高加索能源网络互联问题。",
@@ -141,9 +262,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "报道：美伊停战提议仍待回应，亲伊朗武装被指向革命卫队回输资金",
+          "url": "https://wallstreetcn.com/livenews/3180497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "布伦特原油日内涨幅达2.00%，现报106.15美元/桶。",
@@ -163,7 +295,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -174,15 +306,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "据Axios：美国中央司令部司令布拉德·库珀海军上将周五表示，伊朗支持的地区武装组织一直在向伊朗革命卫队输送资金，以缓解持续九个月的战争给其带来的经济压力。",
+          "url": "https://flash.jin10.com/detail/20261017043200446800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
@@ -194,6 +337,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时03分 ~ 04时13分]"
+        },
+        {
+          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110",
+          "url": "https://wallstreetcn.com/articles/3783778",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         },
         {
           "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
@@ -213,7 +367,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -224,7 +378,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         }
@@ -241,7 +395,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -252,7 +406,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
         },
@@ -263,9 +417,48 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要",
+          "url": "https://wallstreetcn.com/articles/3783763",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时07分]"
+        },
+        {
+          "title": "沃什曼谷发言“偏鸽”，市场押注美联储10月按兵不动，加息概率跌破15%",
+          "url": "https://wallstreetcn.com/articles/3783799",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
+        },
+        {
+          "title": "美联储10月加息预期减弱 美元或创六周来最差单周表现",
+          "url": "https://flash.jin10.com/detail/20261017003506117800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时04分"
         }
       ]
     },
@@ -291,37 +484,9 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美联储 非农",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要",
-          "url": "https://wallstreetcn.com/articles/3783763",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时13分]"
-        },
-        {
-          "title": "美联储10月加息预期减弱 美元或创六周来最差单周表现",
-          "url": "https://flash.jin10.com/detail/20261017003506117800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
         }
       ]
     },
@@ -353,9 +518,26 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芯片股暴跌重创多头，做空者七天账面则获利320亿美元",
+          "url": "https://wallstreetcn.com/livenews/3180496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时07分"
         }
       ]
     },
@@ -368,11 +550,12 @@
           "url": "https://www.cls.cn/detail/2506984",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时07分]"
         }
       ]
     },
@@ -389,8 +572,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时07分]"
         }
       ]
     },
@@ -404,11 +587,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时03分 ~ 07时07分]"
         }
       ]
     }
