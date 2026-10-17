@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-17T07:07:46.948527+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-10-17T09:59:18.997567+08:00",
+  "total_titles_processed": 634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 09时59分]"
         },
         {
           "title": "美国总统特朗普：拜登向乌克兰提供了价值3500亿美元的装备和现金。这不好，非常不好，实在太糟糕了。",
@@ -25,9 +25,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
+          "url": "https://wallstreetcn.com/livenews/3180516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "特朗普称可能打击伊朗镐山核设施",
@@ -39,6 +50,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时03分 ~ 07时07分]"
+        },
+        {
+          "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
+          "url": "https://wallstreetcn.com/livenews/3180498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 09时59分]"
         },
         {
           "title": "特朗普：为确保伊朗无法获得核武器 可能会对镐山核设施发动打击",
@@ -58,9 +81,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20261017093800660800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "特朗普：白宫未干预乌克兰卫星系统 马斯克也没有",
@@ -69,7 +103,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -85,6 +119,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "特朗普：我化妆很淡，都是自己动手，因为不化妆看起来像个死人",
+          "url": "https://v.ifeng.com/c/8xI38csArPf",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
           "title": "市场消息：美国总统特朗普重启与黎巴嫩的直接美国航班计划遭遇障碍。",
           "url": "https://flash.jin10.com/detail/20261017003823673800",
           "source": "金十数据",
@@ -96,26 +141,26 @@
           "time_info": "01时04分"
         },
         {
-          "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
-          "url": "https://wallstreetcn.com/livenews/3180498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
           "title": "美国总统特朗普：欧洲人想得到格陵兰岛。他们当时就知道我是对的。",
           "url": "https://flash.jin10.com/detail/20261017051053149800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
+          "url": "https://www.cls.cn/detail/2507355",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗战事）这只是一次军事演习而已，明白吗？",
@@ -124,9 +169,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "白宫前新闻秘书扎卡里亚：特朗普总统是一位善良、出色、宽厚、体贴、充满热情的人，也是最勤奋的人。我希望有更多美国人能够欣赏他。没有人能够像他过去所做的、以及如今仍在继续做的那样，让美国再次伟大。能够为他工作是我的荣幸。（金十注：美国白宫官员当地时间16日透露，扎卡里亚在上任一周后实际上已被解职。）",
+          "url": "https://flash.jin10.com/detail/20261017091125002800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "美国跨党派议员们提出法案，建议阻止总统特朗普的俄罗斯柴油交易",
@@ -146,7 +202,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -157,7 +213,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -179,7 +235,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -193,6 +249,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        },
+        {
+          "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
+          "url": "https://flash.jin10.com/detail/20261017084801915800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "据白宫发布的行政命令，美国总统特朗普表示，他已向国会提交一份证明文件，确认实施豁免符合美国国家利益。",
+          "url": "https://flash.jin10.com/detail/20261017084220650800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "美国总统特朗普在一项行政命令中表示，他即日起豁免适用《格雷厄姆制裁俄罗斯和伊朗法案》规定的部分制裁、限制措施及关税。",
+          "url": "https://flash.jin10.com/detail/20261017084033403800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "据福克斯新闻：美国总统特朗普表示并不急于任命新的新闻秘书。",
@@ -212,7 +301,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -231,7 +320,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗称新型武器装备投入使用",
@@ -241,8 +330,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 09时59分]"
+        },
+        {
+          "title": "报道：美伊停战提议仍待回应，亲伊朗武装被指向革命卫队回输资金",
+          "url": "https://wallstreetcn.com/livenews/3180497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 09时59分]"
+        },
+        {
+          "title": "伊朗革命卫队称一艘超级油轮在霍尔木兹海峡触雷爆炸",
+          "url": "https://flash.jin10.com/detail/20261017094028958800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         },
         {
           "title": "报道：美伊停战提议仍待回应 亲伊朗武装被指向革命卫队回输资金",
@@ -251,7 +363,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -265,17 +377,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
-        },
-        {
-          "title": "报道：美伊停战提议仍待回应，亲伊朗武装被指向革命卫队回输资金",
-          "url": "https://wallstreetcn.com/livenews/3180497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
         },
         {
           "title": "布伦特原油日内涨幅达2.00%，现报106.15美元/桶。",
@@ -317,7 +418,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         }
@@ -345,7 +446,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
         },
@@ -381,6 +482,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "芯片股暴跌重创多头，做空者七天账面则获利320亿美元",
+          "url": "https://wallstreetcn.com/livenews/3180496",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 09时59分]"
+        },
+        {
+          "title": "Anthropic据悉为600亿美元芯片融资向黑石提供逾10%收益率",
+          "url": "https://flash.jin10.com/detail/20261017085305335800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "芯片股暴跌做空者7天获利320亿美元",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%81%9A%E7%A9%BA%E8%80%857%E5%A4%A9%E8%8E%B7%E5%88%A9320%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "据英国金融时报：Anthropic在最新一轮芯片融资交易中，向黑石集团提供两位数收益率。",
+          "url": "https://flash.jin10.com/detail/20261017084933804800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
@@ -435,19 +587,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 09时59分]"
         },
         {
           "title": "沃什曼谷发言“偏鸽”，市场押注美联储10月按兵不动，加息概率跌破15%",
           "url": "https://wallstreetcn.com/articles/3783799",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时07分 ~ 09时59分]"
         },
         {
           "title": "美联储10月加息预期减弱 美元或创六周来最差单周表现",
@@ -491,6 +644,34 @@
       ]
     },
     {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德国一机器人涉嫌猥亵 16 岁少女，警方调查疑系机器人主人远程操控，案件调查难点在哪？如何认定相关责任 ？",
+          "url": "https://www.zhihu.com/question/2094141358558502945",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "马斯克：正在开发专用议价机器人，每年可为全球节省6万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3180443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创 创业 创业板 科创板",
       "match_count": 1,
       "titles": [
@@ -508,36 +689,19 @@
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
+      "keyword_group": "存储 半导体",
       "match_count": 1,
       "titles": [
         {
-          "title": "马斯克：正在开发专用议价机器人，每年可为全球节省6万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3180443",
-          "source": "华尔街见闻-快讯",
+          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
+          "url": "https://www.cls.cn/detail/2507382",
+          "source": "财联社热门",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "芯片股暴跌重创多头，做空者七天账面则获利320亿美元",
-          "url": "https://wallstreetcn.com/livenews/3180496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时07分"
+          "time_info": "09时59分"
         }
       ]
     },
@@ -551,11 +715,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 09时59分]"
         }
       ]
     },
@@ -569,11 +734,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 09时59分]"
         }
       ]
     },
