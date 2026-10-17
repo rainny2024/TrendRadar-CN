@@ -1,34 +1,128 @@
 {
-  "generated_at": "2026-10-17T22:36:11.396893+08:00",
-  "total_titles_processed": 1184,
+  "generated_at": "2026-10-18T01:37:11.027969+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 41,
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 10,
       "titles": [
         {
-          "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
-          "url": "https://original.ifeng.com/c/8xH0F3ptd5e",
+          "title": "凤凰记者：伊朗强硬表态，意在迫使美方放弃动武念头",
+          "url": "https://original.ifeng.com/c/8xIaMUyrmpk",
           "source": "凤凰网",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
-          "url": "https://news.ifeng.com/c/8xIg9fCOn9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "time_info": "[01时36分 ~ 01时37分]"
         },
+        {
+          "title": "伊朗外交部发言人巴加埃：不过，伊朗与巴基斯坦相关部门一直保持密切联系，正在研究并协商解决这一问题，力争尽快恢复边境口岸的正常运行。",
+          "url": "https://flash.jin10.com/detail/20261018012731355800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊祝贺伊朗U23国家古典式摔跤队在美国拉斯维加斯举行的世界U23古典式摔跤锦标赛上夺得冠军。",
+          "url": "https://wallstreetcn.com/livenews/3180590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：（回应有关伊朗与巴基斯坦陆地边境关闭的报道）由于出现一些技术问题，且需要采取预防措施，边境通行及往来暂时中止。",
+          "url": "https://flash.jin10.com/detail/20261018012720841800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "美军称霍尔木兹海峡仍保持通航，约97%过境船舶未被伊朗击中",
+          "url": "https://flash.jin10.com/detail/20261018012203977800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "也门外长谴责伊朗借“调解”之名干涉也门",
+          "url": "https://flash.jin10.com/detail/20261018004118748800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "巴基斯坦暂时关闭与伊朗的边境贸易通道",
+          "url": "https://flash.jin10.com/detail/20261018003541245800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：罗马尼亚F-16战机在黑海上空击落了两架进入该国空域的无人机。",
+          "url": "https://flash.jin10.com/detail/20261018001227968800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "伊朗革命卫队：又一超级油轮在霍尔木兹海峡触雷起火",
+          "url": "https://wallstreetcn.com/livenews/3180571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "伊朗有意在沙特与胡塞武装之间斡旋",
+          "url": "https://wallstreetcn.com/livenews/3180563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 8,
+      "titles": [
         {
           "title": "“特朗普暂停对俄制裁，是历史性时刻”",
           "url": "https://news.ifeng.com/c/8xIg4YWs1S4",
@@ -38,7 +132,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时36分]"
+          "time_info": "[01时36分 ~ 01时37分]"
         },
         {
           "title": "白宫宴会厅捐款名单曝光，曾说要捐钱的特朗普未在其中",
@@ -49,99 +143,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时36分]"
-        },
-        {
-          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
-          "url": "https://www.cls.cn/detail/2507355",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 22时36分]"
-        },
-        {
-          "title": "特朗普宣布暂缓实施新一轮对俄制裁",
-          "url": "https://www.toutiao.com/trending/7697430509244416054/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "美国总统特朗普：拜登向乌克兰提供了价值3500亿美元的装备和现金。这不好，非常不好，实在太糟糕了。",
-          "url": "https://flash.jin10.com/detail/20261017053548187800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "特朗普称可能打击伊朗镐山核设施",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E9%95%90%E5%B1%B1%E6%A0%B8%E8%AE%BE%E6%96%BD",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时07分]"
-        },
-        {
-          "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
-          "url": "https://wallstreetcn.com/livenews/3180516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 14时30分]"
-        },
-        {
-          "title": "特朗普称乌军“星盾”故障与美国无关",
-          "url": "https://wallstreetcn.com/livenews/3180539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 19时16分]"
-        },
-        {
-          "title": "特朗普签署行政令豁免对俄多项制裁",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时36分]"
-        },
-        {
-          "title": "意大利防长：特朗普在援乌问题上“完全错误”",
-          "url": "https://news.ifeng.com/c/8xIbqb7Qg1x",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "time_info": "[01时36分 ~ 01时37分]"
         },
         {
           "title": "特朗普：希望能在G20峰会见到普京",
@@ -152,1181 +154,140 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时36分]"
+          "time_info": "[01时36分 ~ 01时37分]"
         },
         {
-          "title": "特朗普：我化妆很淡，都是自己动手，因为不化妆看起来像个死人",
-          "url": "https://v.ifeng.com/c/8xI38csArPf",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 14时30分]"
-        },
-        {
-          "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
-          "url": "https://wallstreetcn.com/livenews/3180498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 09时59分]"
-        },
-        {
-          "title": "特朗普：为确保伊朗无法获得核武器 可能会对镐山核设施发动打击",
-          "url": "https://www.cls.cn/detail/2507307",
+          "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
+          "url": "https://www.cls.cn/detail/2507355",
           "source": "财联社热门",
           "ranks": [
-            13
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时12分 ~ 04时13分]"
+          "time_info": "[01时36分 ~ 01时37分]"
         },
         {
-          "title": "AI改名SI：特朗普无厘头操作背后的科技、外交和政治心机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34263975",
+          "title": "特朗普签署行政令豁免对俄多项制裁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34269052",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时36分]"
+          "time_info": "[01时36分 ~ 01时37分]"
         },
         {
-          "title": "美国总统特朗普：（关于霍尔木兹海峡）如果我们把它改名为“特朗普海峡”，阿拉伯国家会作何感想呢？我们轻松就能搞定这件事。",
-          "url": "https://flash.jin10.com/detail/20261017053413059800",
-          "source": "金十数据",
+          "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34268856",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "美国总统特朗普周六日程一览",
-          "url": "https://flash.jin10.com/detail/20261017093800660800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "特朗普：白宫未干预乌克兰卫星系统 马斯克也没有",
-          "url": "https://flash.jin10.com/detail/20261017052606064800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "特朗普外交政策拖累加拿大原油价格",
-          "url": "https://wallstreetcn.com/livenews/3180379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普重启与黎巴嫩的直接美国航班计划遭遇障碍。",
-          "url": "https://flash.jin10.com/detail/20261017003823673800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "美国总统特朗普：欧洲人想得到格陵兰岛。他们当时就知道我是对的。",
-          "url": "https://flash.jin10.com/detail/20261017051053149800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗战事）这只是一次军事演习而已，明白吗？",
-          "url": "https://flash.jin10.com/detail/20261017051013918800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "白宫前新闻秘书扎卡里亚：特朗普总统是一位善良、出色、宽厚、体贴、充满热情的人，也是最勤奋的人。我希望有更多美国人能够欣赏他。没有人能够像他过去所做的、以及如今仍在继续做的那样，让美国再次伟大。能够为他工作是我的荣幸。（金十注：美国白宫官员当地时间16日透露，扎卡里亚在上任一周后实际上已被解职。）",
-          "url": "https://flash.jin10.com/detail/20261017091125002800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "美国跨党派议员们提出法案，建议阻止总统特朗普的俄罗斯柴油交易",
-          "url": "https://wallstreetcn.com/livenews/3180374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "美国总统特朗普：我可能对伊朗领导人太过火了。现在没人可以跟我谈了。",
-          "url": "https://flash.jin10.com/detail/20261017050227383800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "特朗普指责泽连斯基制造麻烦",
-          "url": "https://www.douyin.com/hot/2697687",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 01时37分]"
         },
         {
           "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
           "url": "https://wallstreetcn.com/livenews/3180574",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "美国总统特朗普称他“不急于”任命新的新闻秘书。 特朗普没有列出新闻秘书接替人选的候选名单。",
-          "url": "https://wallstreetcn.com/livenews/3180440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗问题很快就会结束。",
-          "url": "https://flash.jin10.com/detail/20261017044631868800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "美国总统特朗普：刚抵达佐治亚州，正前往大型集会现场。",
-          "url": "https://flash.jin10.com/detail/20261017031358454800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
-          "url": "https://flash.jin10.com/detail/20261017084801915800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "据白宫发布的行政命令，美国总统特朗普表示，他已向国会提交一份证明文件，确认实施豁免符合美国国家利益。",
-          "url": "https://flash.jin10.com/detail/20261017084220650800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "美国总统特朗普在一项行政命令中表示，他即日起豁免适用《格雷厄姆制裁俄罗斯和伊朗法案》规定的部分制裁、限制措施及关税。",
-          "url": "https://flash.jin10.com/detail/20261017084033403800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普表示并不急于任命新的新闻秘书。",
-          "url": "https://flash.jin10.com/detail/20261017030317470800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-10-17）",
-          "url": "https://flash.jin10.com/detail/20261017203232356800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "美国总统特朗普谈伊朗：我可能对伊朗领导人做得太过火了。 我没有人可以谈。",
-          "url": "https://wallstreetcn.com/livenews/3180479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "美国议员提出法案，拟阻止特朗普与俄罗斯达成柴油交易。",
-          "url": "https://flash.jin10.com/detail/20261016234619711800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "特朗普新闻秘书上任五天被解职，美媒：一瓶牛奶保质期比这都长",
-          "url": "https://flash.jin10.com/detail/20261017202606160800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "01时37分"
         },
         {
           "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
           "url": "https://wallstreetcn.com/livenews/3180561",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "凤凰记者：伊朗强硬表态，意在迫使美方放弃动武念头",
-          "url": "https://original.ifeng.com/c/8xIaMUyrmpk",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时36分]"
-        },
-        {
-          "title": "伊朗称新型武器装备投入使用",
-          "url": "https://news.ifeng.com/c/8xH7iOj4L3T",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 14时30分]"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊祝贺伊朗U23国家古典式摔跤队在美国拉斯维加斯举行的世界U23古典式摔跤锦标赛上夺得冠军。",
-          "url": "https://wallstreetcn.com/livenews/3180590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "伊朗官员：决定局势的是伊朗导弹，而非美国炸弹",
-          "url": "https://flash.jin10.com/detail/20261017141834541800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "报道：美伊停战提议仍待回应，亲伊朗武装被指向革命卫队回输资金",
-          "url": "https://wallstreetcn.com/livenews/3180497",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 09时59分]"
-        },
-        {
-          "title": "伊朗革命卫队：一艘油轮在霍尔木兹海峡触雷爆炸",
-          "url": "https://wallstreetcn.com/livenews/3180528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
             30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 19时16分]"
-        },
-        {
-          "title": "伊朗革命卫队称一艘超级油轮在霍尔木兹海峡触雷爆炸",
-          "url": "https://flash.jin10.com/detail/20261017094028958800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "报道：美伊停战提议仍待回应 亲伊朗武装被指向革命卫队回输资金",
-          "url": "https://flash.jin10.com/detail/20261017051253308800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "俄罗斯能源论坛重点讨论伊朗-俄罗斯天然气协议及高加索能源网络互联问题。",
-          "url": "https://wallstreetcn.com/livenews/3180448",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美媒：伊朗向胡塞武装提供目标定位和情报，协助其袭击沙特",
-          "url": "https://flash.jin10.com/detail/20261017205913035800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "伊朗革命卫队：又一超级油轮在霍尔木兹海峡触雷起火",
-          "url": "https://flash.jin10.com/detail/20261017205501866800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "埃及和伊朗外长就中东危机举行会晤。",
-          "url": "https://flash.jin10.com/detail/20261017204757217800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达2.00%，现报106.15美元/桶。",
-          "url": "https://flash.jin10.com/detail/20261017002131051800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗与俄罗斯天然气协议及高加索能源网络互联成为俄罗斯能源论坛讨论焦点。",
-          "url": "https://flash.jin10.com/detail/20261017031855400800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "伊朗革命卫队：又一超级油轮在霍尔木兹海峡触雷起火",
-          "url": "https://wallstreetcn.com/livenews/3180571",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "伊拉克外交部长表示，伊朗支持沙特与胡塞武装之间的政治解决方案。",
-          "url": "https://flash.jin10.com/detail/20261017203422429800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "布伦特原油期货涨至110美元/桶，为5月20日以来首次。WTI原油日内涨幅达3.5%，报101.41美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3180431",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "据Axios：美国中央司令部司令布拉德·库珀海军上将周五表示，伊朗支持的地区武装组织一直在向伊朗革命卫队输送资金，以缓解持续九个月的战争给其带来的经济压力。",
-          "url": "https://flash.jin10.com/detail/20261017043200446800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "伊朗有意在沙特与胡塞武装之间斡旋",
-          "url": "https://wallstreetcn.com/livenews/3180563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "01时37分"
         }
       ]
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "德媒：今年德国拒服兵役人数增长近三倍",
-          "url": "https://flash.jin10.com/detail/20261017221313704800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "英国国研究公司BMI：9月份，欧洲电车交付创历史新高，销售了将近60万辆，环比增长10%。9月份，北美电车销售锐减44%，创2026年迄今最大单月降幅。",
-          "url": "https://flash.jin10.com/detail/20261017214233450800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
         {
           "title": "重阳节银发族开启错峰游：“县城康养”搜索热度同比增长203%",
           "url": "https://m.thepaper.cn/newsDetail_forward_34269748",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时36分]"
-        },
-        {
-          "title": "抖音电商双11首日数据：首次参加双11且成交额突破百万达人数量同比增长30%",
-          "url": "https://wallstreetcn.com/livenews/3180534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            24
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时30分 ~ 19时16分]"
-        },
-        {
-          "title": "英国国研究公司BMI：1-9月全球电车销售累计增长3%，至1550万辆。",
-          "url": "https://flash.jin10.com/detail/20261017214222211800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "英国国研究公司BMI：全球9月电动汽车销售下降2%至215万辆，结束此前连续六个月增长的趋势。",
-          "url": "https://flash.jin10.com/detail/20261017214210692800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "[01时36分 ~ 01时37分]"
         },
         {
           "title": "据英国研究公司Benchmark Mineral Intelligence（BMI）：全球9月电动汽车销售下降2%至215万辆，结束此前连续六个月增长的趋势。 9月份，欧洲电车交付创历史新高，销售了将近60万辆，环比增长10%。 9月份，北美电车销售锐减44%，创2026年迄今最大单月降幅。 1-9月全球电车销售累计增长3%，至1550万辆。",
           "url": "https://wallstreetcn.com/livenews/3180584",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：高油价利好加拿大经济增长。",
-          "url": "https://flash.jin10.com/detail/20261017210531521800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "01时37分"
         },
         {
           "title": "加拿大央行：油价走高将提振增长与通胀",
           "url": "https://wallstreetcn.com/livenews/3180579",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "01时37分"
         },
         {
-          "title": "IMF总裁格奥尔基耶娃：国际货币基金组织将中东和北非地区的经济增长预期下调了2%。",
-          "url": "https://flash.jin10.com/detail/20261017135707303800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：国际货币基金组织正努力扩大向低收入国家提供贷款的减贫与增长信托基金（PRGT）的资金规模。我们认为，许多低收入国家没有必要进行大幅度的经济调整。",
-          "url": "https://flash.jin10.com/detail/20261017135321295800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "国际货币与金融委员会声明：“先进智能技术”推动经济增长总体保持稳定，但不同经济体的经济表现出现分化。",
-          "url": "https://flash.jin10.com/detail/20261017134324017800",
+          "title": "德媒：今年德国拒服兵役人数增长近三倍",
+          "url": "https://flash.jin10.com/detail/20261017221313704800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "IMF总裁警告非银行机构、网络攻击及欺诈风险",
-          "url": "https://flash.jin10.com/detail/20261017142611963800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "巴克莱：近期油价风险仍偏向上行。",
-          "url": "https://flash.jin10.com/detail/20261017004311552800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        },
-        {
-          "title": "中青评论：硫磺熏制桂花顶风作案，监管要跑在风险前面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34267914",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时30分 ~ 22时36分]"
-        },
-        {
-          "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：讨论的风险包括人工智能、通货膨胀、高债务水平以及日益恶化的气候变化。 顽固的通胀、不断上升的利率正在加剧各国本已高企的偿债压力。",
-          "url": "https://wallstreetcn.com/livenews/3180543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时30分 ~ 19时16分]"
-        },
-        {
-          "title": "国际海事组织秘书长：霍尔木兹海峡通行风险仍高",
-          "url": "https://wallstreetcn.com/livenews/3180552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "拉加德强调财政稳健重要性 警示通胀上行风险",
-          "url": "https://flash.jin10.com/detail/20261017140656102800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "加拿大央行行长麦克勒姆：高油价提振了加拿大的投资。油价上涨引发广泛通胀的风险有所上升。",
-          "url": "https://flash.jin10.com/detail/20261017210429175800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：战争带来通胀上行风险。 财政可持续性仍是整体经济稳定的“重要支柱”，各国政府应当确保针对能源冲击出台的财政举措具备临时性、定向性与适配性。 经济前景下行风险存在，通胀风险上行；应采取适度政策举措遏制通胀。",
-          "url": "https://wallstreetcn.com/livenews/3180545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：监管机构和金融监管人员必须对非银行金融机构、网络攻击及欺诈行为带来的风险保持警惕。",
-          "url": "https://flash.jin10.com/detail/20261017134710913800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        },
-        {
-          "title": "美国原油收盘站上101美元，本周涨超10%，供应风险重燃",
-          "url": "https://wallstreetcn.com/livenews/3180430",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
-          "url": "https://wallstreetcn.com/articles/3783663",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 04时13分]"
-        },
-        {
-          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时07分"
-        },
-        {
-          "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 04时13分]"
-        },
-        {
-          "title": "美元指数本周跌约0.4%",
-          "url": "https://wallstreetcn.com/livenews/3180442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美元指数16日下跌",
-          "url": "https://flash.jin10.com/detail/20261017031439108800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "01时37分"
         }
       ]
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "德国一机器人涉嫌猥亵 16 岁少女，警方调查疑系机器人主人远程操控，案件调查难点在哪？如何认定相关责任 ？",
-          "url": "https://www.zhihu.com/question/2094141358558502945",
-          "source": "知乎",
+          "title": "人形机器人产业前景究竟如何",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A7%E4%B8%9A%E5%89%8D%E6%99%AF%E7%A9%B6%E7%AB%9F%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时59分 ~ 14时30分]"
-        },
-        {
-          "title": "全球人形机器人收入前五全是中国企业 前8个月深圳机器人出口激增超1200%",
-          "url": "https://flash.jin10.com/detail/20261017185408397800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时16分"
-        },
-        {
-          "title": "马斯克：正在开发专用议价机器人，每年可为全球节省6万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3180443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "[01时36分 ~ 01时37分]"
         },
         {
           "title": "马斯克：AI和机器人是化解美国债务的唯一途径",
           "url": "https://wallstreetcn.com/livenews/3180575",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "马斯克：解决美债问题的唯一办法是依靠人工智能和机器人",
-          "url": "https://flash.jin10.com/detail/20261017203804811800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美芯片股八连跌！2万亿美元市值蒸发，创2008年来最长跌势",
-          "url": "https://wallstreetcn.com/articles/3783819",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时36分]"
-        },
-        {
-          "title": "芯片股暴跌重创多头，做空者七天账面则获利320亿美元",
-          "url": "https://wallstreetcn.com/livenews/3180496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时07分 ~ 09时59分]"
-        },
-        {
-          "title": "Anthropic据悉为600亿美元芯片融资向黑石提供逾10%收益率",
-          "url": "https://flash.jin10.com/detail/20261017085305335800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "芯片股暴跌做空者7天获利320亿美元",
-          "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E8%82%A1%E6%9A%B4%E8%B7%8C%E5%81%9A%E7%A9%BA%E8%80%857%E5%A4%A9%E8%8E%B7%E5%88%A9320%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "据英国金融时报：Anthropic在最新一轮芯片融资交易中，向黑石集团提供两位数收益率。",
-          "url": "https://flash.jin10.com/detail/20261017084933804800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美国商品期货交易委员会（CFTC）：10月13日当周，股票基金投机者将芝加哥商业交易所（CME）标普500指数期货的净空头头寸削减5,804手合约，至390,896手合约。",
-          "url": "https://wallstreetcn.com/livenews/3180452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至10月13日当周，股票基金投机者在CME标普500指数期货的净空头头寸减少5,804手，至390,896手。",
-          "url": "https://flash.jin10.com/detail/20261017033214197800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）：截至10月13日当周，股票基金经理在CME标普500指数期货的净多头头寸增加8,186手，至912,542手。",
-          "url": "https://flash.jin10.com/detail/20261017033206894800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
-          "url": "https://www.cls.cn/detail/2507382",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 22时36分]"
-        },
-        {
-          "title": "费城半导体连跌八个交易日，黄仁勋：“这一切终将过去”，AI变革才刚刚开始",
-          "url": "https://wallstreetcn.com/articles/3783817",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时36分]"
-        },
-        {
-          "title": "美半导体股遭遇2006年以来最长抛售潮，做空者却获利320亿美元",
-          "url": "https://tech.ifeng.com/c/8xI9BnMFpsn",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美联储 非农",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要",
-          "url": "https://wallstreetcn.com/articles/3783763",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 14时30分]"
-        },
-        {
-          "title": "沃什曼谷发言“偏鸽”，市场押注美联储10月按兵不动，加息概率跌破15%",
-          "url": "https://wallstreetcn.com/articles/3783799",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时07分 ~ 19时16分]"
-        },
-        {
-          "title": "美联储10月加息预期减弱 美元或创六周来最差单周表现",
-          "url": "https://flash.jin10.com/detail/20261017003506117800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指高开低走小幅收跌，全市场超3300股上涨，低空经济概念股集体爆发",
-          "url": "https://www.cls.cn/detail/2506906",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "长鑫科技、佰维存储、拓荆科技领衔！多家科创板龙头公司开启新一轮回购",
-          "url": "https://www.cls.cn/detail/2507461",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时35分 ~ 22时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "涨价 核心材料",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "汽油涨价或挤压消费，但美国刷卡消费仍强",
-          "url": "https://flash.jin10.com/detail/20261017220741013800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时36分"
-        },
-        {
-          "title": "欧洲央行管委雷恩：警惕能源涨价引发二轮通胀效应",
-          "url": "https://flash.jin10.com/detail/20261017140058737800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股再次卷起回购浪潮，胜宏科技拟最高回购3亿元",
-          "url": "https://www.cls.cn/detail/2507143",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 07时07分]"
-        },
-        {
-          "title": "日赚4.8亿元！长鑫科技前三季度净利润超1300亿元，同比扭亏为盈，拟最高20亿回购股票",
-          "url": "https://wallstreetcn.com/articles/3783806",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 19时16分]"
+          "time_info": "01时37分"
         }
       ]
     },
@@ -1339,67 +300,96 @@
           "url": "https://wallstreetcn.com/articles/3783830",
           "source": "华尔街见闻",
           "ranks": [
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时36分]"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 01时37分]"
         }
       ]
     },
     {
-      "keyword_group": "复盘",
+      "keyword_group": "科创 创业 创业板 科创板",
       "match_count": 1,
       "titles": [
         {
-          "title": "【焦点复盘】沪指冲高回落涨0.24%，宽基ETF尾盘再度放量，PCB概念遭深幅回调",
-          "url": "https://www.cls.cn/detail/2506984",
+          "title": "长鑫科技、佰维存储、拓荆科技领衔！多家科创板龙头公司开启新一轮回购",
+          "url": "https://www.cls.cn/detail/2507461",
           "source": "财联社热门",
           "ranks": [
-            7,
-            8,
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 09时59分]"
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 01时37分]"
         }
       ]
     },
     {
-      "keyword_group": "涨停 跌停",
+      "keyword_group": "涨价 核心材料",
       "match_count": 1,
       "titles": [
         {
-          "title": "沪指顽强翻红，尾盘宽基ETF放量拉升，低空经济爆发，药明康德触及跌停，恒科指涨超1%",
-          "url": "https://wallstreetcn.com/articles/3783750",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 14时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "印尼铝少了四成，铝价为何还跌破3000美元？",
-          "url": "https://flash.jin10.com/detail/20261017205033150800",
+          "title": "汽油涨价或挤压消费，但美国刷卡消费仍强",
+          "url": "https://flash.jin10.com/detail/20261017220741013800",
           "source": "金十数据",
           "ranks": [
-            16
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时36分"
+          "time_info": "01时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中青评论：硫磺熏制桂花顶风作案，监管要跑在风险前面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34267914",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 01时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美芯片股八连跌！2万亿美元市值蒸发，创2008年来最长跌势",
+          "url": "https://wallstreetcn.com/articles/3783819",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 01时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
+          "url": "https://www.cls.cn/detail/2507382",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时36分 ~ 01时37分]"
         }
       ]
     }
