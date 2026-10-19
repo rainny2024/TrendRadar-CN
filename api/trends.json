@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T10:15:12.982773+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-10-19T16:14:49.452228+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "阿赫拉基出任伊朗新任防长",
@@ -28,6 +28,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 05时10分]"
+        },
+        {
+          "title": "冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34274890",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时21分 ~ 16时14分]"
         },
         {
           "title": "美国财政部长贝森特：美国陷入能源冲击，通胀将在（伊朗）战争结束时放缓。 欧洲继续“大肆抢购”俄罗斯能源。 鲁莽的乌克兰总统泽连斯基指控美国让StarShield（星盾）通信速度放缓。 泽连斯基在谈论美方（情报）支持时小心谨慎。（NBC News）",
@@ -64,17 +77,15 @@
           "time_info": "05时10分"
         },
         {
-          "title": "冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34274890",
-          "source": "澎湃新闻",
+          "title": "卡塔尔副首相：尽管遭遇袭击，卡塔尔仍与伊朗保持着“沟通”",
+          "url": "https://flash.jin10.com/detail/20261019154650802800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            11,
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时21分 ~ 10时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
         },
         {
           "title": "伊朗海军发布油轮在海峡南部触雷视频",
@@ -188,6 +199,17 @@
           "time_info": "07时48分"
         },
         {
+          "title": "伊朗最新表态：已制定全新应战方案，但“重开霍尔木兹”提议仍有效！",
+          "url": "https://www.cls.cn/detail/2507809",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "伊拉克外长：正推动伊朗与海湾国家举行会谈",
           "url": "https://flash.jin10.com/detail/20261019005238716800",
           "source": "金十数据",
@@ -265,6 +287,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "布伦特原油失守105美元/桶，日内跌幅达2.43%；WTI原油跌幅达2.21%，报96.76美元/桶。",
+          "url": "https://flash.jin10.com/detail/20261019152826442800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
           "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火",
           "url": "https://wallstreetcn.com/livenews/3180688",
           "source": "华尔街见闻-快讯",
@@ -274,6 +307,288 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 25,
+      "titles": [
+        {
+          "title": "前三季度我国GDP同比增长4.6% ​",
+          "url": "https://www.douyin.com/hot/2702131",
+          "source": "抖音",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时14分]"
+        },
+        {
+          "title": "星网锐捷：2026年第三季度净利润2.65亿元，同比增长100.36%",
+          "url": "https://wallstreetcn.com/livenews/3180988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "国家统计局：前三季度，生猪出栏53739万头，增长1.4%。",
+          "url": "https://flash.jin10.com/detail/20261019100518545800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "澳洲联储助理主席Kent：现行现金利率估算显示政策具有一定紧缩性。 预计澳大利亚居民家庭消费增长放缓。 整体金融状况略显紧缩。 澳大利亚商业信贷增长相当强劲。",
+          "url": "https://wallstreetcn.com/livenews/3180727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "国家统计局：今年前三季度GDP同比增长4.6%",
+          "url": "https://www.cls.cn/detail/2507795",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "惠誉：惠誉评级预计，印度尼西亚债务资本市场存量规模将保持增长态势，到2026年底有望接近8000亿美元。",
+          "url": "https://flash.jin10.com/detail/20261019100442116800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "国家统计局：天然气生产基本稳定。9月份，规上工业天然气产量210亿立方米，同比下降1.0%；日均产量7.0亿立方米。1—9月份，规上工业天然气产量1967亿立方米，同比增长0.9%。",
+          "url": "https://flash.jin10.com/detail/20261019100436891800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "中国巨石：2026年第三季度净利润24.12亿元，同比增长173.80%",
+          "url": "https://flash.jin10.com/detail/20261019154309777800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "科大讯飞：2026年第三季度净利润2.26亿元，同比增长31.05%",
+          "url": "https://wallstreetcn.com/livenews/3180975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "国家统计局：货物进出口快速增长，贸易结构继续优化",
+          "url": "https://flash.jin10.com/detail/20261019100426047800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "中国三季度GDP同比增长4.5%，前三季度同比增长4.6%、经济运行总体平稳",
+          "url": "https://wallstreetcn.com/articles/3783889",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "国家统计局：前三季度，全国网上商品和服务零售额151471亿元，同比增长4.4%。其中，网上商品零售额95060亿元，增长3.8%；网上服务零售额56411亿元，增长5.3%。",
+          "url": "https://flash.jin10.com/detail/20261019100405077800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "商务部：1—9月重点平台智能眼镜销售额增长1.1倍",
+          "url": "https://wallstreetcn.com/livenews/3180970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "国家统计局：前三季度社会消费商品和服务零售总额同比增长2.6%",
+          "url": "https://flash.jin10.com/detail/20261019100355835800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "澳洲联储助理主席Kent：全球经济增长表现好于多数人的预期。 正在关注上升的中性利率。 市场认为长期CPI预期锚定良好。",
+          "url": "https://wallstreetcn.com/livenews/3180714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "国家统计局：前三季度，服务业增加值同比增长5.2%",
+          "url": "https://flash.jin10.com/detail/20261019100322637800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "纽威数控：2026年第三季度净利润9591.08万元，同比增长25.78%",
+          "url": "https://flash.jin10.com/detail/20261019154210078800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "财政部：9月份全国共销售彩票673.89亿元 同比增长27.3%",
+          "url": "https://wallstreetcn.com/livenews/3180966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "韩国财长：预估2026年经济增长率在3.4%-3.6%。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3180755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "国家统计局：前三季度规模以上工业增加值同比增长5.3%",
+          "url": "https://flash.jin10.com/detail/20261019100302205800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "中国巨石：2026年第三季度净利润24.12亿元，同比增长173.80%",
+          "url": "https://wallstreetcn.com/livenews/3180956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "国家统计局：2026年9月份规模以上工业增加值增长5.5%。",
+          "url": "https://flash.jin10.com/detail/20261019100222802800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "国家统计局：规上工业电力生产有所下降。9月份，规上工业发电量8294亿千瓦时，同比下降1.2%；日均发电276.5亿千瓦时。1—9月份，规上工业发电量74916亿千瓦时，同比增长2.2%。",
+          "url": "https://flash.jin10.com/detail/20261019100218375800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "国家统计局：1—9月份，全国固定资产投资（不含农户）334115亿元，同比下降7.2%。其中，知识产权产品投资同比增长9.3%。",
+          "url": "https://flash.jin10.com/detail/20261019100151687800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
+        },
+        {
+          "title": "日本首相高市早苗：得益于“安倍经济学”，日本已不再处于通货紧缩状态。 企业加薪的努力已开始见效。 经济正处于实现增长良性循环的关键十字路口。",
+          "url": "https://wallstreetcn.com/livenews/3180739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时15分"
         }
       ]
     },
@@ -300,8 +615,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时14分]"
         },
         {
           "title": "美国能源部长Wright：俄罗斯帮助世界的唯一方式就是（与乌克兰）实现能源停火。 总统特朗普暂停对俄制裁是一种创新。 对（美国市场的）汽油价格不满意，但乐见油价正在下跌。 汽油价格、柴油价格已经在数周前见顶，我们希望价格继续下跌。 那些反对美国对俄实施豁免的态度根本就是错误的。",
@@ -321,7 +636,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -337,6 +652,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2094636010722411929",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时14分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常强硬。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3180671",
           "source": "华尔街见闻-快讯",
@@ -346,17 +672,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时21分 ~ 05时10分]"
-        },
-        {
-          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
-          "url": "https://www.zhihu.com/question/2094636010722411929",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
         },
         {
           "title": "特朗普呼吁法国关闭边境",
@@ -460,188 +775,6 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "前三季度我国GDP同比增长4.6% ​",
-          "url": "https://www.douyin.com/hot/2702131",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
-        },
-        {
-          "title": "国家统计局：前三季度，生猪出栏53739万头，增长1.4%。",
-          "url": "https://flash.jin10.com/detail/20261019100518545800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "澳洲联储助理主席Kent：现行现金利率估算显示政策具有一定紧缩性。 预计澳大利亚居民家庭消费增长放缓。 整体金融状况略显紧缩。 澳大利亚商业信贷增长相当强劲。",
-          "url": "https://wallstreetcn.com/livenews/3180727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "惠誉：惠誉评级预计，印度尼西亚债务资本市场存量规模将保持增长态势，到2026年底有望接近8000亿美元。",
-          "url": "https://flash.jin10.com/detail/20261019100442116800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "国家统计局：天然气生产基本稳定。9月份，规上工业天然气产量210亿立方米，同比下降1.0%；日均产量7.0亿立方米。1—9月份，规上工业天然气产量1967亿立方米，同比增长0.9%。",
-          "url": "https://flash.jin10.com/detail/20261019100436891800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "国家统计局：货物进出口快速增长，贸易结构继续优化",
-          "url": "https://flash.jin10.com/detail/20261019100426047800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "国家统计局：前三季度，全国网上商品和服务零售额151471亿元，同比增长4.4%。其中，网上商品零售额95060亿元，增长3.8%；网上服务零售额56411亿元，增长5.3%。",
-          "url": "https://flash.jin10.com/detail/20261019100405077800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "国家统计局：前三季度社会消费商品和服务零售总额同比增长2.6%",
-          "url": "https://flash.jin10.com/detail/20261019100355835800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "澳洲联储助理主席Kent：全球经济增长表现好于多数人的预期。 正在关注上升的中性利率。 市场认为长期CPI预期锚定良好。",
-          "url": "https://wallstreetcn.com/livenews/3180714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
-        },
-        {
-          "title": "国家统计局：前三季度，服务业增加值同比增长5.2%",
-          "url": "https://flash.jin10.com/detail/20261019100322637800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "韩国财长：预估2026年经济增长率在3.4%-3.6%。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3180755",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "国家统计局：前三季度规模以上工业增加值同比增长5.3%",
-          "url": "https://flash.jin10.com/detail/20261019100302205800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "国家统计局：2026年9月份规模以上工业增加值增长5.5%。",
-          "url": "https://flash.jin10.com/detail/20261019100222802800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "国家统计局：规上工业电力生产有所下降。9月份，规上工业发电量8294亿千瓦时，同比下降1.2%；日均发电276.5亿千瓦时。1—9月份，规上工业发电量74916亿千瓦时，同比增长2.2%。",
-          "url": "https://flash.jin10.com/detail/20261019100218375800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "国家统计局：1—9月份，全国固定资产投资（不含农户）334115亿元，同比下降7.2%。其中，知识产权产品投资同比增长9.3%。",
-          "url": "https://flash.jin10.com/detail/20261019100151687800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "日本首相高市早苗：得益于“安倍经济学”，日本已不再处于通货紧缩状态。 企业加薪的努力已开始见效。 经济正处于实现增长良性循环的关键十字路口。",
-          "url": "https://wallstreetcn.com/livenews/3180739",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "回购",
       "match_count": 7,
       "titles": [
@@ -664,8 +797,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时14分]"
         },
         {
           "title": "中国央行公开市场本周有2760亿元逆回购到期",
@@ -708,7 +841,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -736,7 +869,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -778,6 +911,56 @@
       ]
     },
     {
+      "keyword_group": "风险",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "司美格鲁肽在美遭批量起诉，因患者用后患上可致盲的眼病，这真是 GLP-1 导致的吗？此类药物还有哪些风险？",
+          "url": "https://www.zhihu.com/question/2085486428255774078",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "Anthropic IPO前夕设立千亿公益基金：划出5%股份应对AI社会风险",
+          "url": "https://www.cls.cn/detail/2507837",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        },
+        {
+          "title": "央媒：风险动荡加剧、经济承压前行，全球面临新的“增长之问”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34272798",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时21分"
+        },
+        {
+          "title": "中东供应风险升温 欧洲天然气价格创2022年底以来最高",
+          "url": "https://wallstreetcn.com/livenews/3180943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片 光模块",
       "match_count": 3,
       "titles": [
@@ -789,8 +972,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时14分 ~ 10时15分]"
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时14分]"
         },
         {
           "title": "报道：三星将采用台积电技术为英伟达生产下一代内存芯片",
@@ -827,7 +1010,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -855,7 +1038,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -866,7 +1049,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
@@ -883,7 +1066,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         },
@@ -931,6 +1114,36 @@
       ]
     },
     {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
+          "url": "https://www.cls.cn/detail/2507535",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 10时15分]"
+        },
+        {
+          "title": "人形机器人“上工”记",
+          "url": "https://www.cls.cn/detail/2507722",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "存储 半导体",
       "match_count": 2,
       "titles": [
@@ -959,42 +1172,6 @@
       ]
     },
     {
-      "keyword_group": "风险",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "央媒：风险动荡加剧、经济承压前行，全球面临新的“增长之问”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34272798",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
-          "url": "https://www.cls.cn/detail/2507535",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时21分 ~ 10时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "涨停 跌停",
       "match_count": 1,
       "titles": [
@@ -1005,7 +1182,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时15分"
         }
