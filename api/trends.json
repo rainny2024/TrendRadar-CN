@@ -1,29 +1,176 @@
 {
-  "generated_at": "2026-10-20T00:00:53.074919+08:00",
-  "total_titles_processed": 294,
-  "failed_sources": [
-    "ifeng"
-  ],
+  "generated_at": "2026-10-20T04:54:20.884730+08:00",
+  "total_titles_processed": 427,
+  "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 4,
+      "keyword_group": "特朗普",
+      "match_count": 14,
       "titles": [
         {
-          "title": "前三季度我国GDP同比增长4.6% ​",
-          "url": "https://search.bilibili.com/all?keyword=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25%20%E2%80%8B",
-          "source": "bilibili 热搜",
+          "title": "以色列公布通话纪录 特朗普对内塔尼亚胡表支持",
+          "url": "https://flash.jin10.com/detail/20261020044711583800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美国总统特朗普：马斯克将通过“特朗普账户”（trump accounts）将所持SpaceX股票转让给儿童们。",
+          "url": "https://wallstreetcn.com/livenews/3181420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "特朗普感谢马斯克向美儿童捐赠股票",
+          "url": "https://flash.jin10.com/detail/20261020044316943800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "特朗普称该换人代表乌克兰谈判",
+          "url": "https://flash.jin10.com/detail/20261020042436240800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
+          "url": "https://wallstreetcn.com/articles/3783873",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        },
+        {
+          "title": "特朗普称该换人代表乌克兰谈判",
+          "url": "https://wallstreetcn.com/livenews/3181413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "三位知情人士称，特朗普女婿库什纳与美国总统特使威特科夫计划本周前往挪威参加乌克兰问题会谈。两名知情人士称，乌克兰总统泽连斯基预计将参加会谈。",
+          "url": "https://flash.jin10.com/detail/20261020041508785800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "特朗普喊话美国民众别去法国参加革命",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%88%AB%E5%8E%BB%E6%B3%95%E5%9B%BD%E5%8F%82%E5%8A%A0%E9%9D%A9%E5%91%BD%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美国总统特朗普与第一夫人梅拉尼娅·特朗普在玫瑰园活动中签署行政令。",
+          "url": "https://flash.jin10.com/detail/20261019230549591800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
         },
         {
-          "title": "中国三季度GDP同比增长4.5%，前三季度同比增长4.6%、经济运行总体平稳",
-          "url": "https://wallstreetcn.com/articles/3783889",
-          "source": "华尔街见闻",
+          "title": "美国总统特朗普被问及法国的情况时说：情况非常令人遗憾。 法国的情况非常令人难过。 这与移民有关，与学校无关，与其他任何事情都无关。是移民问题。 我告诉法国总统马克龙，让他关闭边境。 他们把法国毁了，要恢复过来会很困难。希望法国能够恢复。",
+          "url": "https://wallstreetcn.com/livenews/3181396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美国总统特朗普：我不知道乌克兰总统泽连斯基在说些什么。",
+          "url": "https://wallstreetcn.com/livenews/3181395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "路透社/益普索民调显示，美国总统特朗普的支持率跌至31%的历史新低。",
+          "url": "https://flash.jin10.com/detail/20261020034004791800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美国总统特朗普：就乌克兰问题与俄罗斯总统普京“谈判”。 与俄罗斯“谈判”柴油供应和伊朗问题。",
+          "url": "https://wallstreetcn.com/livenews/3181392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗局势很好。",
+          "url": "https://wallstreetcn.com/livenews/3181391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "纳斯达克100指数涨幅扩大至2%，成分股迈威尔科技涨7.2%，闪迪涨7.8%，DDOG涨7.2%，西部数据涨6.8%。 存储芯片指数涨5.9%刷新日高。标普涨0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3181301",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
@@ -32,33 +179,99 @@
           "time_info": "00时00分"
         },
         {
-          "title": "机构：认为美国增长前景将推动美元进一步走强",
-          "url": "https://wallstreetcn.com/livenews/3181300",
+          "title": "标普500指数的11个板块中，公用事业板块收跌1.97%，房地产ETF跌1.17%，电信板块涨0.28%，信息技术/科技板块涨1.19%，可选消费板块涨2.73%——成分股亚马逊、特斯拉领跑。",
+          "url": "https://wallstreetcn.com/livenews/3181414",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "恐慌指数VIX内跌幅达12.5%，报17.47。标普500指数目前涨超0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3181299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
         },
         {
-          "title": "国家统计局：前三季度GDP同比增长4.6%，经济运行总体平稳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34278967",
-          "source": "澎湃新闻",
+          "title": "纳斯达克100指数涨幅扩大至2%，标普500指数上涨0.9%。",
+          "url": "https://flash.jin10.com/detail/20261019232914359800",
+          "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "道琼斯指数10月19日（周一）收盘下跌35.54点，跌幅0.07%，报51966.87点；<br/>标普500指数10月19日（周一）收盘上涨31.35点，涨幅0.41%，报7690.79点；<br/>纳斯达克综合指数10月19日（周一）收盘上涨290.85点，涨幅1.11%，报26430.89点。",
+          "url": "https://flash.jin10.com/detail/20261020040517074800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数收跌0.27%，报5680.44点。 热门中概股里，网易有道初步收涨7.4%，禾赛涨4.3%，再鼎医药涨3.6%，日月光半导体涨3.4%，拼多多涨0.5%，百度跌0.4%，网易跌0.5%，阿里巴巴跌0.5%，腾讯跌0.9%。 ETF中，中概互联网指数ETF（KWEB）收跌0.53%，中国科技指数ETF（CQQQ）收跌0.24%。 MSCI新兴市场ex中国ETF（EMXC）收涨1.13%，XtrackersHarvest中证50（ASHS）收涨0.88%，德银嘉实沪深300指数ETF（ASHR）收涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3181405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "标普500指数收涨31.29点，涨幅0.41%，报7690.73点。标普500相等权重指数跌0.40%，报8674.08点，跳空高开之后持续高位震荡。 道琼斯工业平均指数收跌36.38点，跌幅0.07%，报51966.03点。 纳斯达克综合指数（纳指）收涨290.852点，涨幅1.11%，报26430.886点。 纳斯达克100指数收涨341.796点，涨幅1.17%，报29529.345点。 纳斯达克科技市值加权指数收涨1.13%，报2994.7688点，跳空高开之后持续高位震荡。 费城半导体指数收涨179.056点，涨幅1.61%，结束此前连续八个交易日下跌（创2008年金融危机以来最长连跌天数）的趋势，报11316.343点。",
+          "url": "https://wallstreetcn.com/livenews/3181404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "伊朗波斯湾海峡管理局：截至目前，已有122艘船只被列入波斯湾航道管理局的不合规名单。",
+          "url": "https://flash.jin10.com/detail/20261020044813476800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
+          "url": "https://original.ifeng.com/c/8xLtsod5Mjq",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
         {
           "title": "伊朗：即使美国威胁使用“炸弹之母” 也不会有用",
           "url": "https://flash.jin10.com/detail/20261019231608611800",
@@ -91,51 +304,148 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐与巴西外交部长通电话，讨论了最重要的地区议题以及最新的国际动态。",
+          "url": "https://flash.jin10.com/detail/20261020034403136800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
     {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 3,
+      "keyword_group": "美债 美股 美元",
+      "match_count": 5,
       "titles": [
         {
-          "title": "纳斯达克100指数涨幅扩大至2%，成分股迈威尔科技涨7.2%，闪迪涨7.8%，DDOG涨7.2%，西部数据涨6.8%。 存储芯片指数涨5.9%刷新日高。标普涨0.9%。",
-          "url": "https://wallstreetcn.com/livenews/3181301",
+          "title": "美股七巨头收盘播报｜周一（10月19日），美国科技股七巨头（Magnificent 7）指数涨1.26%，报234.71点，早盘显著上涨，北京时间22:30以来持续高位震荡。成分股中，亚马逊收涨4.98%，特斯拉涨3.76%，苹果跌0.15%。 “超大”市值科技股指数涨1.44%，报460.34点。",
+          "url": "https://wallstreetcn.com/livenews/3181415",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "04时54分"
         },
         {
-          "title": "恐慌指数VIX内跌幅达12.5%，报17.47。标普500指数目前涨超0.8%。",
-          "url": "https://wallstreetcn.com/livenews/3181299",
-          "source": "华尔街见闻-快讯",
+          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        },
+        {
+          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2508914",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
         },
         {
-          "title": "纳斯达克100指数涨幅扩大至2%，标普500指数上涨0.9%。",
-          "url": "https://flash.jin10.com/detail/20261019232914359800",
-          "source": "金十数据",
+          "title": "周一（10月19日），美股行业ETF多数下跌，公用事业ETF收跌2.01%，全球航空业ETF跌1.04%，金融业ETF、银行业ETF、区域银行ETF至多跌0.83%，能源业ETF跌0.64%。 生物科技指数ETF、网络股指数ETF、科技行业ETF、全球航空业ETF至少涨1.02%，半导体ETF涨1.61%，可选消费ETF涨1.78%。",
+          "url": "https://wallstreetcn.com/livenews/3181412",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "周一（10月19日）纽约尾盘，ICE美元指数涨0.13%，报101.972点，日内交投区间为101.769-102.080点，北京时间15:00-15:59显著上扬。 彭博美元指数涨0.05%，报1223.09点，日内交投区间为1221.20-1224.03点。",
+          "url": "https://wallstreetcn.com/livenews/3181389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "前三季度我国GDP同比增长4.6% ​",
+          "url": "https://search.bilibili.com/all?keyword=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25%20%E2%80%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        },
+        {
+          "title": "中国三季度GDP同比增长4.5%，前三季度同比增长4.6%、经济运行总体平稳",
+          "url": "https://wallstreetcn.com/articles/3783889",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        },
+        {
+          "title": "国家统计局：前三季度GDP同比增长4.6%，经济运行总体平稳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34278967",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        },
+        {
+          "title": "机构：认为美国增长前景将推动美元进一步走强",
+          "url": "https://wallstreetcn.com/livenews/3181300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "前三季度我国GDP同比增长4.6% ​",
+          "url": "https://www.douyin.com/hot/2702131",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
     {
       "keyword_group": "风险",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "司美格鲁肽在美遭批量起诉，因患者用后患上可致盲的眼病，这真是 GLP-1 导致的吗？此类药物还有哪些风险？",
@@ -156,8 +466,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
         },
         {
           "title": "吴清：全力应对多重超预期输入性风险挑战，近期将推出四项举措，完善违规减持处罚规则",
@@ -167,64 +477,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 2,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        },
         {
-          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
-          "url": "https://wallstreetcn.com/articles/3783911",
-          "source": "华尔街见闻",
+          "title": "美国驻沙特阿拉伯使团发布安全警示，提醒沙特境内公民防范机场遇袭及航班中断风险。",
+          "url": "https://flash.jin10.com/detail/20261020042245555800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2508914",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
-          "url": "https://wallstreetcn.com/articles/3783873",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "美国总统特朗普与第一夫人梅拉尼娅·特朗普在玫瑰园活动中签署行政令。",
-          "url": "https://flash.jin10.com/detail/20261019230549591800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "04时54分"
         }
       ]
     },
@@ -268,8 +533,25 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达：公司CEO黄仁勋宣布对德国敏捷机器人公司、Avelios医疗公司、Mirelo公司和Reflex Aerospace公司进行新的计划投资。",
+          "url": "https://wallstreetcn.com/livenews/3181401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "04时54分"
         }
       ]
     },
@@ -285,8 +567,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
         }
       ]
     },
@@ -299,11 +581,46 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34278954",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美能源部：拟将受制裁油轮转为合规船舶 用于运输未受制裁原油",
+          "url": "https://flash.jin10.com/detail/20261020042223886800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时00分"
+          "time_info": "04时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股又见回购潮：10家公司出手，最高拟回购5亿元",
+          "url": "https://www.cls.cn/detail/2508835",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     }
