@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-20T18:35:48.983824+08:00",
-  "total_titles_processed": 971,
+  "generated_at": "2026-10-20T23:27:19.438535+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
+          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 23时27分]"
+        },
         {
           "title": "普京提议中美俄三方会谈，特朗普表态",
           "url": "https://original.ifeng.com/c/8xN6E5hd4IF",
@@ -19,15 +31,26 @@
           "time_info": "[13时31分 ~ 18时35分]"
         },
         {
-          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
-          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
-          "source": "凤凰网",
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
           "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时31分 ~ 18时35分]"
+          "time_info": "[18时35分 ~ 23时27分]"
+        },
+        {
+          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
+          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "以色列公布通话纪录 特朗普对内塔尼亚胡表支持",
@@ -63,17 +86,6 @@
           "time_info": "04时54分"
         },
         {
-          "title": "特朗普：中方在乌问题上立场很公允",
-          "url": "https://www.toutiao.com/trending/7697897058136604715/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "特朗普称该换人代表乌克兰谈判",
           "url": "https://flash.jin10.com/detail/20261020042436240800",
           "source": "金十数据",
@@ -83,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
+          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
@@ -97,23 +120,23 @@
           "time_info": "[00时00分 ~ 08时03分]"
         },
         {
-          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
-          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 18时35分]"
-        },
-        {
           "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
           "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
           "source": "澎湃新闻",
           "ranks": [
             20,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 23时27分]"
+        },
+        {
+          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
+          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -148,7 +171,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -230,6 +253,28 @@
           "time_info": "04时54分"
         },
         {
+          "title": "特朗普在收获季以80亿美元燃油援助争取农民",
+          "url": "https://wallstreetcn.com/livenews/3182000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E6%96%B9%E5%9C%A8%E4%B9%8C%E9%97%AE%E9%A2%98%E4%B8%8A%E7%AB%8B%E5%9C%BA%E5%BE%88%E5%85%AC%E5%85%81",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "路透社/益普索民调显示，美国总统特朗普的支持率跌至31%的历史新低。",
           "url": "https://flash.jin10.com/detail/20261020034004791800",
           "source": "金十数据",
@@ -272,220 +317,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 18,
-      "titles": [
-        {
-          "title": "前三季度我国GDP同比增长4.6% ​",
-          "url": "https://search.bilibili.com/all?keyword=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25%20%E2%80%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时00分 ~ 18时35分]"
         },
         {
-          "title": "中国三季度GDP同比增长4.5%，前三季度同比增长4.6%、经济运行总体平稳",
-          "url": "https://wallstreetcn.com/articles/3783889",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 08时03分]"
-        },
-        {
-          "title": "通用电气预计全年调整后每股收益8.00美元至8.10美元，此前预计7.65美元至7.85美元，市场预估7.92美元。 通用电气预计全年调整后自由现金流91亿美元至94亿美元，此前预计89亿美元至92亿美元，市场预估91.2亿美元。 通用电气预计全年调整后营业利润109亿美元至110亿美元，此前预计105.5亿美元至107.5亿美元。 通用电气第三季度调整后每股收益2.25美元，上年同期1.66美元，预估2.01美元。 通用电气第三季度经调整营收132.9亿美元，同比增长18%，预估128.6亿美元。 通用电气第三季度调整后自由现金流20.4亿美元，同比下降14%，预估22.2亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3181855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "澜起科技：预计2026年第三季度净利润同比增长153.6%~174.7%",
-          "url": "https://wallstreetcn.com/livenews/3181851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "前三季度我国GDP同比增长4.6% ​",
-          "url": "https://www.douyin.com/hot/2702131",
-          "source": "抖音",
-          "ranks": [
-            20,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时54分 ~ 08时03分]"
-        },
-        {
-          "title": "国家统计局：前三季度GDP同比增长4.6%，经济运行总体平稳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34278967",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 04时54分]"
-        },
-        {
-          "title": "机构：认为美国增长前景将推动美元进一步走强",
-          "url": "https://wallstreetcn.com/livenews/3181300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时00分"
-        },
-        {
-          "title": "长裕集团：第三季度归母净利润1.24亿元，同比增长97.78%。",
-          "url": "https://wallstreetcn.com/livenews/3181849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "春风动力：2026年第三季度净利润9.56亿元，同比增长131.27%",
-          "url": "https://flash.jin10.com/detail/20261020180412763800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "圆通速递：2026年第三季度净利润14.54亿元，同比增长39.06%",
-          "url": "https://flash.jin10.com/detail/20261020180314989800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "春风动力：2026年第三季度净利润9.56亿元，同比增长131.27%",
-          "url": "https://wallstreetcn.com/livenews/3181830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "圆通速递：2026年第三季度净利润14.54亿元，同比增长39.06%",
-          "url": "https://wallstreetcn.com/livenews/3181827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "2026 年前三季度国内生产总值 1071071 亿元，同比增长 4.6%，如何解读这一数据？",
-          "url": "https://www.zhihu.com/question/2095454853577144171",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
-          "title": "昊华能源：2026年前三季度煤炭销量同比增长7.65%",
-          "url": "https://flash.jin10.com/detail/20261020175755481800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "大连重工：2026年第三季度净利润2.03亿元，同比增长14.19%",
-          "url": "https://flash.jin10.com/detail/20261020175718290800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "中船特气：前三季度归母净利润6.61亿元，同比增长169.26%",
-          "url": "https://wallstreetcn.com/livenews/3181818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "中船特气：2026年第三季度净利润3.13亿元，同比增长362.79%",
-          "url": "https://flash.jin10.com/detail/20261020175452421800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "中孚实业：前三季度归母净利润29.44亿元，同比增长147.95%",
-          "url": "https://wallstreetcn.com/livenews/3181802",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普公开支持以总理连任有何考量",
+          "url": "https://www.toutiao.com/trending/7698684709220188681/",
+          "source": "今日头条",
           "ranks": [
             30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "23时27分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
         {
           "title": "以色列总理称已下达“推翻伊朗政权”指令",
@@ -509,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "内塔尼亚胡：以色列“致力于”消除伊朗“恐怖政权”",
+          "url": "https://flash.jin10.com/detail/20261020230951357800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
@@ -566,15 +425,48 @@
           "time_info": "00时00分"
         },
         {
+          "title": "美国中央司令部：我们已完全清除霍尔木兹海峡国际通道中的水雷，伊朗正在霍尔木兹海峡使用导弹和无人机发动袭击。针对海上航运的袭击表明，伊朗伊斯兰革命卫队因封锁而陷入绝望。",
+          "url": "https://flash.jin10.com/detail/20261020224725500800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "美国中央司令部：伊朗有关油轮在霍尔木兹海峡触碰水雷的说法不属实。",
+          "url": "https://flash.jin10.com/detail/20261020224059103800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "伊朗议会国家安全与外交政策委员会发言人卡什卡维：欧洲多地出现的动荡局势是外部势力干预地区事务的结果。",
           "url": "https://flash.jin10.com/detail/20261020175855821800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗海军表示，今日上午，海军监测人员在霍尔木兹海峡东部发现一艘在禁航区起火的违规油轮。",
+          "url": "https://flash.jin10.com/detail/20261020223747517800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "伊朗网站核查：霍尔木兹海峡漂满iPhone是假的",
@@ -621,6 +513,28 @@
           "time_info": "08时03分"
         },
         {
+          "title": "以色列总理内塔尼亚胡：消灭伊朗政权就意味着消灭黎巴嫩真主党。",
+          "url": "https://flash.jin10.com/detail/20261020223659979800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "与伊朗伊斯兰革命卫队有关联的法尔斯通讯社称，部分媒体关于伊朗最高国家安全委员会秘书穆赫辛·雷扎伊在德黑兰拒绝会见巴基斯坦陆军参谋长阿西姆·穆尼尔的报道不实。",
+          "url": "https://wallstreetcn.com/livenews/3182002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "伊朗外长阿拉格齐与巴西外交部长通电话，讨论了最重要的地区议题以及最新的国际动态。",
           "url": "https://flash.jin10.com/detail/20261020034403136800",
           "source": "金十数据",
@@ -630,6 +544,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：必须推翻伊朗政权。",
+          "url": "https://flash.jin10.com/detail/20261020223421274800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "卡塔尔呼吁海湾国家与伊朗开展广泛对话",
@@ -660,9 +585,324 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达2.0%，报107.35美元/桶。 WTI原油日内跌幅达2.0%，报96.56美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3181993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "前三季度我国GDP同比增长4.6% ​",
+          "url": "https://search.bilibili.com/all?keyword=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25%20%E2%80%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时00分 ~ 23时27分]"
+        },
+        {
+          "title": "中国三季度GDP同比增长4.5%，前三季度同比增长4.6%、经济运行总体平稳",
+          "url": "https://wallstreetcn.com/articles/3783889",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 08时03分]"
+        },
+        {
+          "title": "通用电气预计全年调整后每股收益8.00美元至8.10美元，此前预计7.65美元至7.85美元，市场预估7.92美元。 通用电气预计全年调整后自由现金流91亿美元至94亿美元，此前预计89亿美元至92亿美元，市场预估91.2亿美元。 通用电气预计全年调整后营业利润109亿美元至110亿美元，此前预计105.5亿美元至107.5亿美元。 通用电气第三季度调整后每股收益2.25美元，上年同期1.66美元，预估2.01美元。 通用电气第三季度经调整营收132.9亿美元，同比增长18%，预估128.6亿美元。 通用电气第三季度调整后自由现金流20.4亿美元，同比下降14%，预估22.2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3181855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "澜起科技：预计2026年第三季度净利润同比增长153.6%~174.7%",
+          "url": "https://wallstreetcn.com/livenews/3181851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "前三季度我国GDP同比增长4.6% ​",
+          "url": "https://www.douyin.com/hot/2702131",
+          "source": "抖音",
+          "ranks": [
+            20,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时54分 ~ 08时03分]"
+        },
+        {
+          "title": "国家统计局：前三季度GDP同比增长4.6%，经济运行总体平稳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34278967",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        },
+        {
+          "title": "机构：认为美国增长前景将推动美元进一步走强",
+          "url": "https://wallstreetcn.com/livenews/3181300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时00分"
+        },
+        {
+          "title": "长裕集团：第三季度归母净利润1.24亿元，同比增长97.78%。",
+          "url": "https://wallstreetcn.com/livenews/3181849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "春风动力：2026年第三季度净利润9.56亿元，同比增长131.27%",
+          "url": "https://flash.jin10.com/detail/20261020180412763800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "圆通速递：2026年第三季度净利润14.54亿元，同比增长39.06%",
+          "url": "https://flash.jin10.com/detail/20261020180314989800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "春风动力：2026年第三季度净利润9.56亿元，同比增长131.27%",
+          "url": "https://wallstreetcn.com/livenews/3181830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "圆通速递：2026年第三季度净利润14.54亿元，同比增长39.06%",
+          "url": "https://wallstreetcn.com/livenews/3181827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "2026 年前三季度国内生产总值 1071071 亿元，同比增长 4.6%，如何解读这一数据？",
+          "url": "https://www.zhihu.com/question/2095454853577144171",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "昊华能源：2026年前三季度煤炭销量同比增长7.65%",
+          "url": "https://flash.jin10.com/detail/20261020175755481800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "大连重工：2026年第三季度净利润2.03亿元，同比增长14.19%",
+          "url": "https://flash.jin10.com/detail/20261020175718290800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "中船特气：前三季度归母净利润6.61亿元，同比增长169.26%",
+          "url": "https://wallstreetcn.com/livenews/3181818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "中船特气：2026年第三季度净利润3.13亿元，同比增长362.79%",
+          "url": "https://flash.jin10.com/detail/20261020175452421800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
+          "title": "中孚实业：前三季度归母净利润29.44亿元，同比增长147.95%",
+          "url": "https://wallstreetcn.com/livenews/3181802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美股七巨头收盘播报｜周一（10月19日），美国科技股七巨头（Magnificent 7）指数涨1.26%，报234.71点，早盘显著上涨，北京时间22:30以来持续高位震荡。成分股中，亚马逊收涨4.98%，特斯拉涨3.76%，苹果跌0.15%。 “超大”市值科技股指数涨1.44%，报460.34点。",
+          "url": "https://wallstreetcn.com/livenews/3181415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2508914",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时00分 ~ 08时03分]"
+        },
+        {
+          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        },
+        {
+          "title": "美股收盘：费城半导体指数结束下跌",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B4%B9%E5%9F%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E7%BB%93%E6%9D%9F%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "周一（10月19日），美股行业ETF多数下跌，公用事业ETF收跌2.01%，全球航空业ETF跌1.04%，金融业ETF、银行业ETF、区域银行ETF至多跌0.83%，能源业ETF跌0.64%。 生物科技指数ETF、网络股指数ETF、科技行业ETF、全球航空业ETF至少涨1.02%，半导体ETF涨1.61%，可选消费ETF涨1.78%。",
+          "url": "https://wallstreetcn.com/livenews/3181412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "CoreWeave一度涨超5.3%，美股盘初曾跌超6.3%。 美股AI软件先驱指数涨幅扩大至1.1%，AI赢家指数涨幅一度扩大至0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3182015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "彭博美元指数跌0.4%，刷新9月30日以来盘中最低位。",
+          "url": "https://wallstreetcn.com/livenews/3181998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "周一（10月19日）纽约尾盘，ICE美元指数涨0.13%，报101.972点，日内交投区间为101.769-102.080点，北京时间15:00-15:59显著上扬。 彭博美元指数涨0.05%，报1223.09点，日内交投区间为1221.20-1224.03点。",
+          "url": "https://wallstreetcn.com/livenews/3181389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
         }
       ]
     },
@@ -679,8 +919,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时02分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[08时02分 ~ 23时27分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股迈威尔科技涨7.2%，闪迪涨7.8%，DDOG涨7.2%，西部数据涨6.8%。 存储芯片指数涨5.9%刷新日高。标普涨0.9%。",
@@ -762,131 +1002,8 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜周一（10月19日），美国科技股七巨头（Magnificent 7）指数涨1.26%，报234.71点，早盘显著上涨，北京时间22:30以来持续高位震荡。成分股中，亚马逊收涨4.98%，特斯拉涨3.76%，苹果跌0.15%。 “超大”市值科技股指数涨1.44%，报460.34点。",
-          "url": "https://wallstreetcn.com/livenews/3181415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2508914",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 08时03分]"
-        },
-        {
-          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
-          "url": "https://wallstreetcn.com/articles/3783911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 04时54分]"
-        },
-        {
-          "title": "美股收盘：费城半导体指数结束下跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B4%B9%E5%9F%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E7%BB%93%E6%9D%9F%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
-        },
-        {
-          "title": "周一（10月19日），美股行业ETF多数下跌，公用事业ETF收跌2.01%，全球航空业ETF跌1.04%，金融业ETF、银行业ETF、区域银行ETF至多跌0.83%，能源业ETF跌0.64%。 生物科技指数ETF、网络股指数ETF、科技行业ETF、全球航空业ETF至少涨1.02%，半导体ETF涨1.61%，可选消费ETF涨1.78%。",
-          "url": "https://wallstreetcn.com/livenews/3181412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        },
-        {
-          "title": "周一（10月19日）纽约尾盘，ICE美元指数涨0.13%，报101.972点，日内交投区间为101.769-102.080点，北京时间15:00-15:59显著上扬。 彭博美元指数涨0.05%，报1223.09点，日内交投区间为1221.20-1224.03点。",
-          "url": "https://wallstreetcn.com/livenews/3181389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高",
-          "url": "https://www.cls.cn/detail/2508559",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时00分 ~ 04时54分]"
-        },
-        {
-          "title": "十一部门：用好已设立社保科创基金 稳妥有序为科创领域提供资金支持",
-          "url": "https://www.cls.cn/detail/2508777",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
-        },
-        {
-          "title": "【每日收评】科创50指数探底回升涨1%，全市场超3700股收红，机器人概念股全线爆发",
-          "url": "https://www.cls.cn/detail/2509894",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
-          "title": "首批场外科创债指基获批",
-          "url": "https://wallstreetcn.com/livenews/3181561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "风险",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "吴清：全力应对多重超预期输入性风险挑战，近期将推出四项举措，完善违规减持处罚规则",
@@ -935,13 +1052,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "贝森特淡化法国债市外溢风险：避险资金正转向美债",
+          "url": "https://flash.jin10.com/detail/20261020230110902800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "AI投资热潮遭遇融资考验：高盛警告信用风险，德银发现市场估值明显分化",
+          "url": "https://flash.jin10.com/detail/20261020223709834800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%",
+          "url": "https://wallstreetcn.com/articles/3783987",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 23时27分]"
+        },
         {
           "title": "刘强东要开全国最大机器人4S店吗",
           "url": "https://www.toutiao.com/trending/7697543480939282474/",
@@ -955,15 +1106,15 @@
           "time_info": "[13时31分 ~ 18时35分]"
         },
         {
-          "title": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%",
-          "url": "https://wallstreetcn.com/articles/3783987",
-          "source": "华尔街见闻",
+          "title": "智元人形机器人文旅消费场景再下一城：智慧零售仓落地武汉江滩",
+          "url": "https://wallstreetcn.com/livenews/3182010",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时35分"
+          "time_info": "23时27分"
         },
         {
           "title": "英伟达：公司CEO黄仁勋宣布对德国敏捷机器人公司、Avelios医疗公司、Mirelo公司和Reflex Aerospace公司进行新的计划投资。",
@@ -991,7 +1142,7 @@
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹",
@@ -1004,6 +1155,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时02分 ~ 13时31分]"
+        },
+        {
+          "title": "AI交易情绪趋紧，美股存储芯片、光通信板块普跌，CoreWeave转涨，礼来涨近5%股价创新高，美元走软",
+          "url": "https://wallstreetcn.com/articles/3783983",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "高速光模块组件订单排到2027年底，一片玻璃价值提升超60倍",
@@ -1037,6 +1199,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【每日收评】科创50指数探底回升涨1%，全市场超3700股收红，机器人概念股全线爆发",
+          "url": "https://www.cls.cn/detail/2509894",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 23时27分]"
+        },
+        {
+          "title": "【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高",
+          "url": "https://www.cls.cn/detail/2508559",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时00分 ~ 04时54分]"
+        },
+        {
+          "title": "十一部门：用好已设立社保科创基金 稳妥有序为科创领域提供资金支持",
+          "url": "https://www.cls.cn/detail/2508777",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "首批场外科创债指基获批",
+          "url": "https://wallstreetcn.com/livenews/3181561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
@@ -1092,6 +1305,85 @@
       ]
     },
     {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "55万人上街，多地打砸纵火！债务压顶、能源涨价，法国陷入大选前的“紧缩死局”",
+          "url": "https://wallstreetcn.com/articles/3783920",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 18时35分]"
+        },
+        {
+          "title": "首个二手房涨价的城市出现了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E4%BA%8C%E6%89%8B%E6%88%BF%E6%B6%A8%E4%BB%B7%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "瓶装饮料集体涨价",
+          "url": "https://www.baidu.com/s?wd=%E7%93%B6%E8%A3%85%E9%A5%AE%E6%96%99%E9%9B%86%E4%BD%93%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国拟将“影子船队”油轮合法化！能源部长：不取消制裁，改运非受制裁原油",
+          "url": "https://flash.jin10.com/detail/20261020072633636800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "美能源部：拟将受制裁油轮转为合规船舶 用于运输未受制裁原油",
+          "url": "https://flash.jin10.com/detail/20261020042223886800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "欧盟：俄乌冲突结束前不解除对俄制裁",
+          "url": "https://www.toutiao.com/trending/7698535958010151434/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "上证 深证",
       "match_count": 2,
       "titles": [
@@ -1120,31 +1412,31 @@
       ]
     },
     {
-      "keyword_group": "涨价 核心材料",
+      "keyword_group": "存储 半导体",
       "match_count": 2,
       "titles": [
         {
-          "title": "55万人上街，多地打砸纵火！债务压顶、能源涨价，法国陷入大选前的“紧缩死局”",
-          "url": "https://wallstreetcn.com/articles/3783920",
-          "source": "华尔街见闻",
+          "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
+          "url": "https://www.cls.cn/detail/2509124",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            9
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 18时35分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 13时31分]"
         },
         {
-          "title": "首个二手房涨价的城市出现了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E4%BA%8C%E6%89%8B%E6%88%BF%E6%B6%A8%E4%BB%B7%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
+          "url": "https://www.cls.cn/detail/2510147",
+          "source": "财联社热门",
           "ranks": [
-            17
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
@@ -1152,6 +1444,18 @@
       "keyword_group": "复盘",
       "match_count": 2,
       "titles": [
+        {
+          "title": "【焦点复盘】沪指日线3连涨收复5日线，物理AI概念火热依旧，大金融板块逆势走弱",
+          "url": "https://www.cls.cn/detail/2509936",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 23时27分]"
+        },
         {
           "title": "【焦点复盘】沪指低开高走涨0.39%，物理AI概念异军突起，工行重夺总市值“一哥”",
           "url": "https://www.cls.cn/detail/2508604",
@@ -1162,45 +1466,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时00分 ~ 04时54分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线3连涨收复5日线，物理AI概念火热依旧，大金融板块逆势走弱",
-          "url": "https://www.cls.cn/detail/2509936",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国拟将“影子船队”油轮合法化！能源部长：不取消制裁，改运非受制裁原油",
-          "url": "https://flash.jin10.com/detail/20261020072633636800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
-        {
-          "title": "美能源部：拟将受制裁油轮转为合规船舶 用于运输未受制裁原油",
-          "url": "https://flash.jin10.com/detail/20261020042223886800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时54分"
         }
       ]
     },
@@ -1235,24 +1500,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
-          "url": "https://www.cls.cn/detail/2509124",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时02分 ~ 13时31分]"
         }
       ]
     },
