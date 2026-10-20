@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-20T08:03:16.190470+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-10-20T13:31:52.696186+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "普京提议中美俄三方会谈，特朗普表态",
+          "url": "https://original.ifeng.com/c/8xN6E5hd4IF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
         {
           "title": "以色列公布通话纪录 特朗普对内塔尼亚胡表支持",
           "url": "https://flash.jin10.com/detail/20261020044711583800",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
+          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "特朗普感谢马斯克向美儿童捐赠股票",
@@ -81,7 +103,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -97,6 +119,28 @@
           "time_info": "04时54分"
         },
         {
+          "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2509123",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
+          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "特朗普喊话美国民众别去法国参加革命",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%8A%E8%AF%9D%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%BC%97%E5%88%AB%E5%8E%BB%E6%B3%95%E5%9B%BD%E5%8F%82%E5%8A%A0%E9%9D%A9%E5%91%BD%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -106,6 +150,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美国总统特朗普与第一夫人梅拉尼娅·特朗普在玫瑰园活动中签署行政令。",
@@ -128,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "民主党中期选举势头升温，美防务股暴跌：特朗普5000亿美元增军费计划悬了？",
+          "url": "https://flash.jin10.com/detail/20261020125244774800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美国总统特朗普：我不知道乌克兰总统泽连斯基在说些什么。",
@@ -169,7 +235,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -188,19 +254,8 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "以色列总理称已下达“推翻伊朗政权”指令",
-          "url": "https://news.ifeng.com/c/8xMtGPaQbmS",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
-        },
         {
           "title": "伊朗波斯湾海峡管理局：截至目前，已有122艘船只被列入波斯湾航道管理局的不合规名单。",
           "url": "https://flash.jin10.com/detail/20261020044813476800",
@@ -211,6 +266,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        },
+        {
+          "title": "以色列总理称已下达“推翻伊朗政权”指令",
+          "url": "https://news.ifeng.com/c/8xMtGPaQbmS",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 13时31分]"
         },
         {
           "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
@@ -230,9 +297,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
+        },
+        {
+          "title": "伊朗外长说美以欧是多数战争根源",
+          "url": "https://wallstreetcn.com/livenews/3181586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "伊朗驻俄大使：普京与佩泽希齐扬将在莫斯科天然气出口国论坛峰会期间继续磋商",
@@ -241,7 +319,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -268,6 +346,17 @@
           "time_info": "00时00分"
         },
         {
+          "title": "伊朗称击落一架美国MQ-9无人机",
+          "url": "https://wallstreetcn.com/livenews/3181577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "伊朗革命卫队：如今美国甚至无法保障其汽车燃料供应",
           "url": "https://flash.jin10.com/detail/20261019230604357800",
           "source": "金十数据",
@@ -285,7 +374,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -307,7 +396,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -318,7 +407,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         }
@@ -333,11 +422,12 @@
           "url": "https://wallstreetcn.com/articles/3783911",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 13时31分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股迈威尔科技涨7.2%，闪迪涨7.8%，DDOG涨7.2%，西部数据涨6.8%。 存储芯片指数涨5.9%刷新日高。标普涨0.9%。",
@@ -493,18 +583,19 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "前三季度我国GDP同比增长4.6% ​",
           "url": "https://search.bilibili.com/all?keyword=%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25%20%E2%80%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 08时03分]"
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 13时31分]"
         },
         {
           "title": "中国三季度GDP同比增长4.5%，前三季度同比增长4.6%、经济运行总体平稳",
@@ -552,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时00分"
+        },
+        {
+          "title": "2026 年前三季度国内生产总值 1071071 亿元，同比增长 4.6%，如何解读这一数据？",
+          "url": "https://www.zhihu.com/question/2095454853577144171",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
@@ -559,6 +661,19 @@
       "keyword_group": "风险",
       "match_count": 4,
       "titles": [
+        {
+          "title": "吴清：全力应对多重超预期输入性风险挑战，近期将推出四项举措，完善违规减持处罚规则",
+          "url": "https://wallstreetcn.com/articles/3783929",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时00分 ~ 13时31分]"
+        },
         {
           "title": "证监会：全力应对多重超预期输入性风险挑战",
           "url": "https://www.cls.cn/detail/2508614",
@@ -584,18 +699,6 @@
           "time_info": "[00时00分 ~ 08时03分]"
         },
         {
-          "title": "吴清：全力应对多重超预期输入性风险挑战，近期将推出四项举措，完善违规减持处罚规则",
-          "url": "https://wallstreetcn.com/articles/3783929",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时00分 ~ 08时03分]"
-        },
-        {
           "title": "美国驻沙特阿拉伯使团发布安全警示，提醒沙特境内公民防范机场遇袭及航班中断风险。",
           "url": "https://flash.jin10.com/detail/20261020042245555800",
           "source": "金十数据",
@@ -617,11 +720,12 @@
           "url": "https://www.cls.cn/detail/2509104",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 13时31分]"
         },
         {
           "title": "高速光模块组件订单排到2027年底，一片玻璃价值提升超60倍",
@@ -652,15 +756,65 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         }
       ]
     },
     {
+      "keyword_group": "跌破 拉升",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "港股大模型股持续走低，智谱跌超5%，股价跌破500港元；MINIMAX跌超6%。",
+          "url": "https://wallstreetcn.com/livenews/3181598",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "港股大模型双雄齐跌，智谱(02513.HK)跌超5%，股价跌破500港元；MINIMAX-W(00100.HK)跌6.5%。",
+          "url": "https://flash.jin10.com/detail/20261020131806118800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "A股影视院线板块午后走高，华智数媒直线拉升，涨超10%，博纳影业、上海电影、光线传媒、幸福蓝海、奥飞娱乐跟涨。",
+          "url": "https://flash.jin10.com/detail/20261020130310424800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "长鑫科技股价跳水，市值跌破 3 万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？",
+          "url": "https://www.zhihu.com/question/2095452033461511103",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "【每日收评】创业板指缩量震荡跌近1%，机器人概念股全线爆发，工行、建行再创新高",
@@ -683,6 +837,112 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "首批场外科创债指基获批",
+          "url": "https://wallstreetcn.com/livenews/3181561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "刘强东要开全国最大机器人4S店吗",
+          "url": "https://www.toutiao.com/trending/7697543480939282474/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "英伟达：公司CEO黄仁勋宣布对德国敏捷机器人公司、Avelios医疗公司、Mirelo公司和Reflex Aerospace公司进行新的计划投资。",
+          "url": "https://wallstreetcn.com/livenews/3181401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时54分"
+        },
+        {
+          "title": "10月20日午间收评：北证50指数半日涨超4%，机器人概念股集体爆发",
+          "url": "https://wallstreetcn.com/livenews/3181573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上证50指数跌1%，沪深300指数跌0.96%。",
+          "url": "https://flash.jin10.com/detail/20261020130844680800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "上证指数早盘收报3727.75点，跌0.08%。 深证成指早盘收报11838.88点，涨0.18%。 创业板指早盘收报2753.81点，涨0.27%。 沪深300早盘收报4153.11点，跌0.51%。 科创50早盘收报1339.66点，涨0.79%。 中证500早盘收报6856.02点，涨0.81%。 中证1000早盘收报6772.96点，涨1.11%。",
+          "url": "https://wallstreetcn.com/livenews/3181574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "首个二手房涨价的城市出现了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E4%BA%8C%E6%89%8B%E6%88%BF%E6%B6%A8%E4%BB%B7%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时02分 ~ 08时03分]"
+        },
+        {
+          "title": "55万人上街，多地打砸纵火！债务压顶、能源涨价，法国陷入大选前的“紧缩死局”",
+          "url": "https://wallstreetcn.com/articles/3783920",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
@@ -697,7 +957,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         },
@@ -715,36 +975,36 @@
       ]
     },
     {
-      "keyword_group": "涨价 核心材料",
+      "keyword_group": "日经 韩国股市",
       "match_count": 1,
       "titles": [
         {
-          "title": "首个二手房涨价的城市出现了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A6%96%E4%B8%AA%E4%BA%8C%E6%89%8B%E6%88%BF%E6%B6%A8%E4%BB%B7%E7%9A%84%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E4%BA%86%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "据日经新闻：丰田汽车将于2027年12月起在泰国投产氢燃料电池皮卡，投资额达14.9亿泰铢（约70亿日元）。",
+          "url": "https://flash.jin10.com/detail/20261020130300114800",
+          "source": "金十数据",
           "ranks": [
-            17
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
+      "keyword_group": "降息",
       "match_count": 1,
       "titles": [
         {
-          "title": "英伟达：公司CEO黄仁勋宣布对德国敏捷机器人公司、Avelios医疗公司、Mirelo公司和Reflex Aerospace公司进行新的计划投资。",
-          "url": "https://wallstreetcn.com/livenews/3181401",
+          "title": "业内专家：政策利率或从7天过渡至隔夜，但不宜和降息划等号",
+          "url": "https://wallstreetcn.com/livenews/3181595",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时54分"
+          "time_info": "13时31分"
         }
       ]
     },
@@ -757,11 +1017,12 @@
           "url": "https://www.cls.cn/detail/2509124",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 08时03分]"
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 13时31分]"
         }
       ]
     },
@@ -812,7 +1073,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时03分"
         }
