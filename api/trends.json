@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-21T06:48:05.192791+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-10-21T09:07:05.977367+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[03时43分 ~ 09时07分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[03时43分 ~ 09时07分]"
         },
         {
           "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
@@ -46,11 +46,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            21
+            21,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[03时43分 ~ 09时07分]"
         },
         {
           "title": "美国总统特朗普谈2028年背书支持副总统万斯的可能性，称：一切都还言之太早。 我俩压根儿没聊过这事儿。 不知何故，总统总会在中期选举中失利。",
@@ -116,7 +117,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -163,6 +164,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "特朗普：美国国防部将在北卡罗来纳州投资15亿美元用于半导体芯片生产。",
+          "url": "https://flash.jin10.com/detail/20261021084155594800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "美国总统特朗普：副总统万斯非常不错。",
@@ -256,7 +268,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗总统：谈判前提是美方解除施压、威胁和制裁",
@@ -276,9 +288,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "伊朗总统称谈判前提是美方解除施压、威胁和制裁 | 环球市场",
+          "url": "https://www.cls.cn/detail/2510457",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 09时07分]"
         },
         {
           "title": "伊朗外长回应埃及可能介入也门冲突",
@@ -287,7 +310,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -298,7 +321,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -320,7 +343,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -331,7 +354,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         },
@@ -342,7 +365,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
@@ -350,7 +373,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "前三季度我国GDP同比增长4.6% ​",
@@ -361,8 +384,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[03时43分 ~ 09时07分]"
         },
         {
           "title": "肯·格里芬在全球市场未来大会上表示：美国需要处理好自身的财政问题。 债券市场释放的信息是，美国国会山需要让财政恢复秩序。 我们需要实现经济增长。 财政赤字扩大将助燃通胀，削弱美元。 我与纽约市长马姆达尼没有关系。 迈阿密在住房成本、关税方面存在挑战。 盟友们需要改革，从而实现他们自身经济的增长。",
@@ -371,9 +394,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "日本9月份对中国出口同比增长8.6%，对美国出口增长22.9%，对欧盟出口增长10.5%。",
+          "url": "https://wallstreetcn.com/livenews/3182213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "韩国10月前20天出口同比增长105.4%，AI热潮推动半导体出货",
+          "url": "https://flash.jin10.com/detail/20261021084044886800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "韩国9月PPI同比增长7.7%。",
@@ -382,9 +427,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
+        },
+        {
+          "title": "日本9月出口同比增长16.7%，芯片与汽车出口表现强劲",
+          "url": "https://flash.jin10.com/detail/20261021083438746800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
         },
         {
           "title": "马斯克：存在“明年算力达到20 GW”的可能。 如果到明年年底上线算力不足13吉瓦，我会感到意外。 SpaceX计划在2027年新增20吉瓦的电力与冷却基础设施。 SpaceX部署电力、冷却及配套基础设施的速度，有望超过其他所有厂商的总和。 SpaceX相当有信心在2027年实现10吉瓦算力上线。 预计人工智能代理将在3至5年内推动带宽需求增长1000倍。超级智能的制约因素更多在于电力、冷却和基础设施，而非芯片。 Grok Bot是我见过增长速度最快的产品。 随着Grok Bot持续优化，用户使用频次也在提升。 SpaceX将在几周内面向企业大规模部署Grok Bot。",
@@ -393,47 +449,107 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
-      "match_count": 3,
+      "keyword_group": "日经 韩国股市",
+      "match_count": 4,
       "titles": [
         {
-          "title": "马斯克：ASML等公司正在加快为Terafab提供芯片制造设备",
-          "url": "https://flash.jin10.com/detail/20261021064336337800",
+          "title": "日经225指数日内涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3182223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "日经225指数高开1.1%，韩国首尔综指高开2%。",
+          "url": "https://wallstreetcn.com/livenews/3182219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "日经225指数期货在早盘交易中上涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3182208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "日经225指数日内涨幅达2.00%。",
+          "url": "https://flash.jin10.com/detail/20261021083234599800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "原油系期货主力合约短线拉升，SC原油跌幅收窄至3.01%，现报705.4元/桶。低硫燃料油（LU）跌幅收窄至1.46%，现报5956元/吨。燃油跌幅收窄至2.46%，现报4807元/吨。沥青上涨1.14%，现报4969元/吨。",
+          "url": "https://flash.jin10.com/detail/20261021090400486800",
           "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时48分"
+          "time_info": "09时07分"
         },
         {
-          "title": "美股见顶最直接的信号：韩国芯片出口？",
-          "url": "https://wallstreetcn.com/articles/3784011",
-          "source": "华尔街见闻",
+          "title": "长鑫科技股价跳水，市值跌破 3 万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？",
+          "url": "https://www.zhihu.com/question/2095452033461511103",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 06时48分]"
+          "appearance_count": 2,
+          "time_info": "[06时47分 ~ 06时48分]"
         },
         {
-          "title": "马斯克：阿斯麦等正为Terafab加速交付芯片制造设备",
-          "url": "https://wallstreetcn.com/livenews/3182169",
-          "source": "华尔街见闻-快讯",
+          "title": "集运指数（欧线）主力合约跌破2500.0点，日内跌5.94%。",
+          "url": "https://flash.jin10.com/detail/20261021090038857800",
+          "source": "金十数据",
           "ranks": [
-            14
+            7
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "周二（10月20日）纽约尾盘，现货黄金跌0.39%，报4124.75美元/盎司，北京时间18:09跌至4111.70美元刷新日低，22:00过后显著拉升、22:31刷新日高至4155.48美元。 现货白银涨1.50%，报57.9369美元/盎司，22:32刷新日高至58.6023美元。 COMEX铜期货涨0.59%，报6.6150美元/磅。",
+          "url": "https://wallstreetcn.com/livenews/3182155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
@@ -441,8 +557,19 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美股收盘：三大指数涨跌不一 SpaceX绩后股价走强",
+          "url": "https://www.cls.cn/detail/2510428",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时06分 ~ 09时07分]"
+        },
         {
           "title": "美元指数20日下跌",
           "url": "https://flash.jin10.com/detail/20261021033631066800",
@@ -464,6 +591,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股见顶最直接的信号：韩国芯片出口？",
+          "url": "https://wallstreetcn.com/articles/3784011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时43分 ~ 09时07分]"
+        },
+        {
+          "title": "马斯克：ASML等公司正在加快为Terafab提供芯片制造设备",
+          "url": "https://flash.jin10.com/detail/20261021064336337800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "马斯克：阿斯麦等正为Terafab加速交付芯片制造设备",
+          "url": "https://wallstreetcn.com/livenews/3182169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         }
       ]
     },
@@ -496,6 +663,35 @@
       ]
     },
     {
+      "keyword_group": "存储 半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
+          "url": "https://www.cls.cn/detail/2510147",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时43分 ~ 09时07分]"
+        },
+        {
+          "title": "美国商务部长宣布在北卡罗来纳州新增半导体制造业投资。",
+          "url": "https://flash.jin10.com/detail/20261021083820664800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "复盘",
       "match_count": 2,
       "titles": [
@@ -517,7 +713,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
@@ -547,36 +743,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 06时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "长鑫科技股价跳水，市值跌破 3 万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？",
-          "url": "https://www.zhihu.com/question/2095452033461511103",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时47分 ~ 06时48分]"
-        },
-        {
-          "title": "周二（10月20日）纽约尾盘，现货黄金跌0.39%，报4124.75美元/盎司，北京时间18:09跌至4111.70美元刷新日低，22:00过后显著拉升、22:31刷新日高至4155.48美元。 现货白银涨1.50%，报57.9369美元/盎司，22:32刷新日高至58.6023美元。 COMEX铜期货涨0.59%，报6.6150美元/磅。",
-          "url": "https://wallstreetcn.com/livenews/3182155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "appearance_count": 4,
+          "time_info": "[06时47分 ~ 09时07分]"
         }
       ]
     },
@@ -625,7 +793,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
@@ -643,25 +811,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 06时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
-          "url": "https://www.cls.cn/detail/2510147",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时43分 ~ 06时48分]"
+          "appearance_count": 6,
+          "time_info": "[03时43分 ~ 09时07分]"
         }
       ]
     },
@@ -676,7 +827,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时48分"
         }
