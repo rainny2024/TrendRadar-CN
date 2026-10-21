@@ -1,8 +1,80 @@
 {
-  "generated_at": "2026-10-22T01:46:05.155459+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-22T05:01:13.676205+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "泽连斯基和特朗普，彻底决裂了？",
+          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
+        },
+        {
+          "title": "美国总统特朗普：我们继续打击伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3182952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普：无法确定无核化会谈能否举行。",
+          "url": "https://flash.jin10.com/detail/20261022041917604800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普：（关于驻沙特使馆工作人员被告知撤离）我不知道他们是否撤离了。",
+          "url": "https://flash.jin10.com/detail/20261022041425826800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普：我不知道中东使馆人员调动一事。",
+          "url": "https://flash.jin10.com/detail/20261022041354803800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普：更加接近解决俄罗斯与乌克兰的冲突。 现在可能是我们距离结束冲突最近的一次。 （关于哈伯德从俄罗斯获释）我们没有做出任何交换。",
+          "url": "https://wallstreetcn.com/livenews/3182925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
       "match_count": 6,
@@ -14,7 +86,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -25,7 +97,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -36,7 +108,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -47,7 +119,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -58,7 +130,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -69,9 +141,168 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "标普500指数初步收涨0.6%，科技板块涨1.6%，能源板块涨0.3%，房地产板块跌0.8%，电信板块跌1.2%。 纳斯达克100指数初步收涨1.1%，成分股中，SpaceX、Strategy初步收涨7.7%，Datadog涨6.5%，CrowdStrike、Palantir、核电股CEG、西部数据至少涨约4.7%，Lumentum、AMD、希捷科技、特斯拉至少涨3%，阿斯麦ADR涨2.9%，英伟达涨2.5%，谷歌A跌1.5%，拼多多ADR跌3.3%，奈飞跌5%，德康医疗跌6.3%。",
+          "url": "https://wallstreetcn.com/livenews/3182944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌2.3%。 热门中概股里，小鹏初步收跌5.6%，禾赛跌5.5%，小马智行跌4.2%，阿里跌3.9%，京东、理想跌3.6%，万国数据、世纪互联涨1.1%霸王茶姬涨3.8%。 ETF中，KWEB初步收跌2.6%，CQQQ跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3182943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "道琼斯指数10月21日（周三）收盘上涨360.98点，涨幅0.69%，报52856.86点；<br/>标普500指数10月21日（周三）收盘上涨44.67点，涨幅0.58%，报7757.24点；<br/>纳斯达克综合指数10月21日（周三）收盘上涨278.04点，涨幅1.05%，报26702.86点。",
+          "url": "https://flash.jin10.com/detail/20261022040534607800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "五部门发布骗局风险提示",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%83%E9%AA%97%E5%B1%80%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
+        },
+        {
+          "title": "SpaceX债券遭抛售，债务担忧升温致信用风险指标恶化",
+          "url": "https://wallstreetcn.com/livenews/3182882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        },
+        {
+          "title": "美国财长贝森特对投资者否认系统性AI风险。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3182942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗？",
+          "url": "https://www.zhihu.com/question/2096182082548523173",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
+        },
+        {
+          "title": "IBM三季度营收171亿美元，分析师预期168.3亿美元。 维持全年收入将按恒定汇率增长4%-5%的预期不变，分析师预期增长4.12%。",
+          "url": "https://wallstreetcn.com/livenews/3182951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "伦铜下跌，受累于库存增长；伦镍走高",
+          "url": "https://wallstreetcn.com/livenews/3182875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "宇树发布功夫传奇机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
+        },
+        {
+          "title": "揭秘机器人数据采集行业内幕",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：Semi电动半挂卡车已在内华达州开始生产，Optimus人形机器人已在弗里蒙特开始生产。",
+          "url": "https://flash.jin10.com/detail/20261022041710524800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -87,8 +318,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
         },
         {
           "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
@@ -98,92 +329,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "五部门发布骗局风险提示",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%94%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%83%E9%AA%97%E5%B1%80%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
-        },
-        {
-          "title": "SpaceX债券遭抛售，债务担忧升温致信用风险指标恶化",
-          "url": "https://wallstreetcn.com/livenews/3182882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗？",
-          "url": "https://www.zhihu.com/question/2096182082548523173",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
-        },
-        {
-          "title": "伦铜下跌，受累于库存增长；伦镍走高",
-          "url": "https://wallstreetcn.com/livenews/3182875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "宇树发布功夫传奇机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
-        },
-        {
-          "title": "揭秘机器人数据采集行业内幕",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
         }
       ]
     },
@@ -199,8 +346,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
         },
         {
           "title": "黄仁勋“开团”！事关CPO、基板、半导体封装 “达链”扩产潮或启动",
@@ -210,8 +357,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
         }
       ]
     },
@@ -226,7 +373,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -237,26 +384,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 1,
+      "keyword_group": "跌破 拉升",
+      "match_count": 2,
       "titles": [
         {
-          "title": "泽连斯基和特朗普，彻底决裂了？",
-          "url": "https://news.ifeng.com/c/8xPKsnXuGn8",
-          "source": "凤凰网",
+          "title": "能繁母猪跌破调控基准线、猪肉股集体爆发 超长猪周期“见底”了吗？丨行业动态",
+          "url": "https://www.cls.cn/detail/2511101",
+          "source": "财联社热门",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
+        },
+        {
+          "title": "美元、美油短线拉升，报道称美国拟下令海湾地区部分使馆人员撤离",
+          "url": "https://wallstreetcn.com/livenews/3182922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -269,11 +427,12 @@
           "url": "https://www.zhihu.com/question/2095674841978488596",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
         }
       ]
     },
@@ -295,6 +454,23 @@
       ]
     },
     {
+      "keyword_group": "芯片 光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉三季度收入280.5亿美元，分析师预期281.3亿美元。 三季度汽车营收205.6亿美元，分析师预期198.3亿美元。 三季度FSD（全自动驾驶）订阅达到174万，分析师预期157万。 三季度服务与其他营收46.1亿美元，分析师预期43亿美元。 三季度发电与储能营收28.8亿美元，分析师预期39.1亿美元。 连续两个季度实现TTM（滚动12个月）营收超过1000亿美元。 三季度调整后每股收益（EPS）为0.48美元，分析师预期0.44美元。 三季度毛利润率19.6%，分析师预期17.8%。 三季度运营利润7.18亿美元，分析师预期5.993亿美元。 三季度自由现金流（FCF）为15.3亿美元，分析师预期为 -49.9亿美元。 季度末乘用车订单积压创最近四年新高。 储能业务订单速率创历史新高。 对MegaFactory Texas（得州超级工厂）产能的计划为50 GWh。 特斯拉在美国内华达州的Semi已经投产。 在北美市场，FSD普及率超过75%。 计划到年底SI（超级智能）训练算力达到400兆瓦（MW）。 为得州奥斯汀芯片工厂/晶圆厂进行设备调试与投产的准备将于2027年启动。 特斯拉美股盘后涨1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3182948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "复盘",
       "match_count": 1,
       "titles": [
@@ -306,8 +482,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
         }
       ]
     },
@@ -323,8 +499,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
         }
       ]
     },
@@ -339,7 +515,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         }
@@ -357,25 +533,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "能繁母猪跌破调控基准线、猪肉股集体爆发 超长猪周期“见底”了吗？丨行业动态",
-          "url": "https://www.cls.cn/detail/2511101",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
         }
       ]
     },
