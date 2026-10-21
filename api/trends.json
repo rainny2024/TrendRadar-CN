@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-10-21T09:07:05.977367+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-10-21T14:45:05.794806+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
-        {
-          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
-          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时43分 ~ 09时07分]"
-        },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
           "url": "https://news.ifeng.com/c/8xMyNrph5V3",
           "source": "凤凰网",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时43分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
+          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
+          "source": "凤凰网",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -100,6 +100,39 @@
           "time_info": "[03时43分 ~ 06时48分]"
         },
         {
+          "title": "特朗普施压泽连斯基同俄达成协议",
+          "url": "https://www.toutiao.com/trending/7698725891135881252/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "特朗普为何突然对乌克兰翻脸",
+          "url": "https://www.toutiao.com/trending/7698912022229945898/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "民主党若夺回国会，特朗普关税政策将遭围攻！",
+          "url": "https://flash.jin10.com/detail/20261021141105034800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "美国总统特朗普：乌克兰必须愿意达成协议。 我想看看我们能否就乌克兰冲突达成协议。 我们给了乌克兰很多，却什么也没得到。",
           "url": "https://wallstreetcn.com/livenews/3182109",
           "source": "华尔街见闻-快讯",
@@ -172,7 +205,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -186,6 +219,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "特朗普：数据中心应该把多余的电力卖给当地电网。 如果企业想让自己的数据中心受欢迎，就应该向社区支付“红利”。",
+          "url": "https://wallstreetcn.com/livenews/3182363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "美国总统特朗普：不知何故，总统总会在中期选举中失利。",
@@ -254,6 +298,17 @@
           "time_info": "03时44分"
         },
         {
+          "title": "如何看待特朗普频频公开提及台积电？国台办回应",
+          "url": "https://wallstreetcn.com/livenews/3182349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "美国总统特朗普：伊朗战争将很快结束。",
           "url": "https://flash.jin10.com/detail/20261021030818045800",
           "source": "金十数据",
@@ -268,7 +323,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗总统：谈判前提是美方解除施压、威胁和制裁",
@@ -297,11 +352,12 @@
           "url": "https://www.cls.cn/detail/2510457",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 14时45分]"
         },
         {
           "title": "伊朗外长回应埃及可能介入也门冲突",
@@ -359,6 +415,17 @@
           "time_info": "06时48分"
         },
         {
+          "title": "伊朗称三艘油轮在霍尔木兹触雷",
+          "url": "https://wallstreetcn.com/livenews/3182348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
           "title": "据塔斯尼姆通讯社：伊朗外长阿拉格齐称，霍尔木兹海峡位于伊朗和阿曼的内水范围内，与国际水域并无关联。",
           "url": "https://flash.jin10.com/detail/20261021054947250800",
           "source": "金十数据",
@@ -373,7 +440,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "前三季度我国GDP同比增长4.6% ​",
@@ -384,8 +451,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时43分 ~ 09时07分]"
+          "appearance_count": 8,
+          "time_info": "[03时43分 ~ 14时45分]"
+        },
+        {
+          "title": "宁德时代前三季度营收同比增长56.2%，归母净利润增长31.6% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784039",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "肯·格里芬在全球市场未来大会上表示：美国需要处理好自身的财政问题。 债券市场释放的信息是，美国国会山需要让财政恢复秩序。 我们需要实现经济增长。 财政赤字扩大将助燃通胀，削弱美元。 我与纽约市长马姆达尼没有关系。 迈阿密在住房成本、关税方面存在挑战。 盟友们需要改革，从而实现他们自身经济的增长。",
@@ -405,7 +483,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -416,7 +494,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -438,9 +516,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "山东：前三季度进出口总值达2.75万亿元，同比增长4.8%",
+          "url": "https://wallstreetcn.com/livenews/3182342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
         },
         {
           "title": "马斯克：存在“明年算力达到20 GW”的可能。 如果到明年年底上线算力不足13吉瓦，我会感到意外。 SpaceX计划在2027年新增20吉瓦的电力与冷却基础设施。 SpaceX部署电力、冷却及配套基础设施的速度，有望超过其他所有厂商的总和。 SpaceX相当有信心在2027年实现10吉瓦算力上线。 预计人工智能代理将在3至5年内推动带宽需求增长1000倍。超级智能的制约因素更多在于电力、冷却和基础设施，而非芯片。 Grok Bot是我见过增长速度最快的产品。 随着Grok Bot持续优化，用户使用频次也在提升。 SpaceX将在几周内面向企业大规模部署Grok Bot。",
@@ -456,58 +545,69 @@
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 4,
+      "keyword_group": "CPI",
+      "match_count": 5,
       "titles": [
         {
-          "title": "日经225指数日内涨幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3182223",
+          "title": "英国9月核心CPI同比 2.8%，预期 2.8%，前值 2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3182380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "英国9月CPI环比 0.4%，预期 0.3%，前值 0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3182378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "英国9月CPI同比 3.5%，预期 3.4%，前值 3.1%。",
+          "url": "https://wallstreetcn.com/livenews/3182376",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "14时45分"
         },
         {
-          "title": "日经225指数高开1.1%，韩国首尔综指高开2%。",
-          "url": "https://wallstreetcn.com/livenews/3182219",
+          "title": "英国9月调和CPI同比 3.6%，预期 3.5%，前值 3.3%。",
+          "url": "https://wallstreetcn.com/livenews/3182373",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "14时45分"
         },
         {
-          "title": "日经225指数期货在早盘交易中上涨1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3182208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "日经225指数日内涨幅达2.00%。",
-          "url": "https://flash.jin10.com/detail/20261021083234599800",
+          "title": "英国CPI数据公布后，英镑兑美元GBP/USD抹去跌幅，持平于1.3380附近。",
+          "url": "https://flash.jin10.com/detail/20261021140314575800",
           "source": "金十数据",
           "ranks": [
-            29
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "14时45分"
         }
       ]
     },
     {
       "keyword_group": "跌破 拉升",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "原油系期货主力合约短线拉升，SC原油跌幅收窄至3.01%，现报705.4元/桶。低硫燃料油（LU）跌幅收窄至1.46%，现报5956元/吨。燃油跌幅收窄至2.46%，现报4807元/吨。沥青上涨1.14%，现报4969元/吨。",
@@ -516,9 +616,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "国内黄金克价跌破890元",
+          "url": "https://www.douyin.com/hot/2705717",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "长鑫科技股价跳水，市值跌破 3 万亿元，前三季度预赚 1300 多亿还推出回购，为什么股价反而大跌？",
@@ -538,7 +649,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
         },
@@ -556,6 +667,108 @@
       ]
     },
     {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日经225指数日内涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3182223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "日经225指数高开1.1%，韩国首尔综指高开2%。",
+          "url": "https://wallstreetcn.com/livenews/3182219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "日经225指数期货在早盘交易中上涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3182208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "日经225指数日内涨幅达2.00%。",
+          "url": "https://flash.jin10.com/detail/20261021083234599800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美股见顶最直接的信号：韩国芯片出口？",
+          "url": "https://wallstreetcn.com/articles/3784011",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时43分 ~ 14时45分]"
+        },
+        {
+          "title": "马斯克：ASML等公司正在加快为Terafab提供芯片制造设备",
+          "url": "https://flash.jin10.com/detail/20261021064336337800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "马斯克：阿斯麦等正为Terafab加速交付芯片制造设备",
+          "url": "https://wallstreetcn.com/livenews/3182169",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "A股存储芯片概念震荡反弹，德明利逼近涨停，太极实业、同有科技、佰维存储、大普微、香农芯创等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3182356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债 美股 美元",
       "match_count": 3,
       "titles": [
@@ -564,11 +777,12 @@
           "url": "https://www.cls.cn/detail/2510428",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
+          "appearance_count": 4,
+          "time_info": "[09时06分 ~ 14时45分]"
         },
         {
           "title": "美元指数20日下跌",
@@ -595,49 +809,20 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
+      "keyword_group": "风险",
       "match_count": 3,
       "titles": [
         {
-          "title": "美股见顶最直接的信号：韩国芯片出口？",
-          "url": "https://wallstreetcn.com/articles/3784011",
-          "source": "华尔街见闻",
+          "title": "10月21日投资避雷针：机器人概念龙头发布风险提示 行业尚处于商业化早期",
+          "url": "https://www.cls.cn/detail/2510479",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时43分 ~ 09时07分]"
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         },
-        {
-          "title": "马斯克：ASML等公司正在加快为Terafab提供芯片制造设备",
-          "url": "https://flash.jin10.com/detail/20261021064336337800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        },
-        {
-          "title": "马斯克：阿斯麦等正为Terafab加速交付芯片制造设备",
-          "url": "https://wallstreetcn.com/livenews/3182169",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 2,
-      "titles": [
         {
           "title": "专家：A股市场主要风险是输入性风险",
           "url": "https://www.toutiao.com/trending/7698730712362389033/",
@@ -664,7 +849,7 @@
     },
     {
       "keyword_group": "存储 半导体",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "半导体业绩浪来了！多家龙头净利倍增 AI红利成主要推力",
@@ -685,9 +870,49 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
+        },
+        {
+          "title": "A股半导体板块短线拉升，敏芯股份涨停，灿瑞科技、德明利、澜起科技、艾为电子、恒玄科技跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3182354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%",
+          "url": "https://wallstreetcn.com/articles/3783987",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时43分 ~ 14时45分]"
+        },
+        {
+          "title": "揭秘机器人数据采集行业内幕",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         }
       ]
     },
@@ -712,6 +937,62 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股证券板块午后震荡下挫，锦龙股份触及跌停，湘财股份、华鑫股份、国盛证券、华林证券、中信证券等纷纷跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3182366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "A股固态电池板块持续走低，上海洗霸触及跌停。",
+          "url": "https://wallstreetcn.com/livenews/3182352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美联储的通胀战争，正在把美国楼市推入寒冬",
+          "url": "https://www.cls.cn/detail/2510415",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        },
+        {
+          "title": "美联储10月维持利率不变的概率为83.9%",
+          "url": "https://flash.jin10.com/detail/20261021060654746800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -783,6 +1064,23 @@
       ]
     },
     {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本优衣库将涨价 中国市场：不跟涨",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%BC%98%E8%A1%A3%E5%BA%93%E5%B0%86%E6%B6%A8%E4%BB%B7+%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%EF%BC%9A%E4%B8%8D%E8%B7%9F%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "降息",
       "match_count": 1,
       "titles": [
@@ -800,36 +1098,36 @@
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
+      "keyword_group": "加速落地 订单爆发",
       "match_count": 1,
       "titles": [
         {
-          "title": "沪指尾盘翻红，北证50大涨3.8%，人形机器人集体爆发，宁德时代H股一度下挫9%，恒指、恒科指齐跌超1%",
-          "url": "https://wallstreetcn.com/articles/3783987",
-          "source": "华尔街见闻",
+          "title": "多项惠民政策加速落地",
+          "url": "https://www.toutiao.com/trending/7698311071693602842/",
+          "source": "今日头条",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时43分 ~ 09时07分]"
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         }
       ]
     },
     {
-      "keyword_group": "美联储 非农",
+      "keyword_group": "利好 利空",
       "match_count": 1,
       "titles": [
         {
-          "title": "美联储10月维持利率不变的概率为83.9%",
-          "url": "https://flash.jin10.com/detail/20261021060654746800",
-          "source": "金十数据",
+          "title": "医保个人账户跨省共济落地全国，意味着什么？将带来哪些利好？",
+          "url": "https://www.zhihu.com/question/2096149013556721446",
+          "source": "知乎",
           "ranks": [
-            15
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时48分"
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 14时45分]"
         }
       ]
     }
