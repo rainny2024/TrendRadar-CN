@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-22T10:18:59.311576+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-10-22T16:05:03.238298+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "布伦特原油日内走高2.01美元，现报108.40美元/桶，涨幅1.88%。",
+          "url": "https://flash.jin10.com/detail/20261022153725212800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
         {
           "title": "美国制裁与伊朗大宗商品运输相关的个人与实体",
           "url": "https://flash.jin10.com/detail/20261022072241465800",
@@ -97,13 +108,24 @@
           "time_info": "07时55分"
         },
         {
+          "title": "伊朗称美推动船只通过“非法航道”导致冲突加剧",
+          "url": "https://wallstreetcn.com/livenews/3183287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "伊朗最高领袖会见议会议长卡利巴夫",
           "url": "https://www.toutiao.com/trending/7699142459120484914/",
           "source": "今日头条",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -136,9 +158,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
+        },
+        {
+          "title": "伊朗官员：已做好应对全面战争的准备",
+          "url": "https://wallstreetcn.com/livenews/3183266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         },
         {
           "title": "伊朗指责美国在军事行动中使用进攻性太空能力",
@@ -155,7 +188,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -167,17 +200,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时45分 ~ 07时55分]"
-        },
-        {
-          "title": "普京：不排除与特朗普赴华会晤可能性",
-          "url": "https://www.toutiao.com/trending/7698752765752868873/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
         },
         {
           "title": "特朗普称选前不打伊朗，美方却撤人增舰！以军数十架战机据报曾逼近伊朗边境",
@@ -200,6 +222,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "普京：不排除与特朗普赴华会晤可能性",
+          "url": "https://www.toutiao.com/trending/7698752765752868873/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时18分 ~ 16时05分]"
+        },
+        {
+          "title": "特朗普对俄让步为何遭多方不满",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BF%84%E8%AE%A9%E6%AD%A5%E4%B8%BA%E4%BD%95%E9%81%AD%E5%A4%9A%E6%96%B9%E4%B8%8D%E6%BB%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
+        },
+        {
+          "title": "默茨：对华政策，我们跟特朗普不一样",
+          "url": "https://news.ifeng.com/c/8xQF4vpHREI",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
+        },
+        {
+          "title": "克林顿嘲讽特朗普诺贝尔奖言论",
+          "url": "https://www.douyin.com/hot/2707583",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
         },
         {
           "title": "美国总统特朗普：无法确定无核化会谈能否举行。",
@@ -263,7 +330,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         }
@@ -271,8 +338,19 @@
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
+          "url": "https://www.cls.cn/detail/2511957",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
+        },
         {
           "title": "宇树发布功夫传奇机器人",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA",
@@ -293,7 +371,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -315,11 +393,47 @@
           "url": "https://www.cls.cn/detail/2511667",
           "source": "财联社热门",
           "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时18分 ~ 16时05分]"
+        },
+        {
+          "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
+          "url": "https://wallstreetcn.com/articles/3784155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时18分 ~ 16时05分]"
+        },
+        {
+          "title": "10月22日投资避雷针：4连板人气股公告 机器人腱绳产品目前尚未批量生产",
+          "url": "https://www.cls.cn/detail/2511669",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时18分 ~ 16时05分]"
+        },
+        {
+          "title": "马斯克：人形机器人数量将超过人类",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E9%87%8F%E5%B0%86%E8%B6%85%E8%BF%87%E4%BA%BA%E7%B1%BB",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
         },
         {
           "title": "A股机器人概念股反复活跃，大业股份5连板，兆威机电直线涨停，利亚德涨超10%，横河精密、科森科技、南方路机、浙江荣泰涨超6%，消息上，英伟达升级Isaac通用机器人开发平台，推出新的人形机器人参考框架、仿真工作流及数据工具，旨在加速通用机器人开发。",
@@ -328,18 +442,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
-          "url": "https://wallstreetcn.com/articles/3784155",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -353,17 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        },
-        {
-          "title": "10月22日投资避雷针：4连板人气股公告 机器人腱绳产品目前尚未批量生产",
-          "url": "https://www.cls.cn/detail/2511669",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
         },
         {
           "title": "特斯拉高管们被问及Optimus当前面临的最大问题，马斯克称：手。 （最大的问题在于）手指和手掌。 人类有自我修复能力，机器人没有。人的手指是柔软的，皮肤里还布满大量传感器。",
@@ -380,8 +472,19 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "党的十八大以来我国社零总额年均增长7.1%。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3183301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
         {
           "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗？",
           "url": "https://www.zhihu.com/question/2096182082548523173",
@@ -394,6 +497,40 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时45分 ~ 07时55分]"
+        },
+        {
+          "title": "红果短剧宣布将下线金币功能，这一商业决策背后有哪些考虑？是不需要靠「薅羊毛」引流实现增长了吗？",
+          "url": "https://www.zhihu.com/question/2096299255153391558",
+          "source": "知乎",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时18分 ~ 16时05分]"
+        },
+        {
+          "title": "上海：前三季度GDP同比增长5.5%",
+          "url": "https://www.cls.cn/detail/2511834",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
+        },
+        {
+          "title": "越南明年GDP至少增长10%目标能实现吗",
+          "url": "https://www.toutiao.com/trending/7699361069466144319/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
         },
         {
           "title": "IBM三季度营收171亿美元，分析师预期168.3亿美元。 维持全年收入将按恒定汇率增长4%-5%的预期不变，分析师预期增长4.12%。",
@@ -418,15 +555,15 @@
           "time_info": "07时55分"
         },
         {
-          "title": "红果短剧宣布将下线金币功能，这一商业决策背后有哪些考虑？是不需要靠「薅羊毛」引流实现增长了吗？",
-          "url": "https://www.zhihu.com/question/2096299255153391558",
-          "source": "知乎",
+          "title": "瑞士央行会议纪要：预计来自海外的增长刺激因素将会增加。",
+          "url": "https://flash.jin10.com/detail/20261022153321578800",
+          "source": "金十数据",
           "ranks": [
-            11
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时18分"
+          "time_info": "16时05分"
         },
         {
           "title": "伦铜下跌，受累于库存增长；伦镍走高",
@@ -449,6 +586,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3784091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 16时05分]"
+        },
+        {
+          "title": "创业板指跌超2%，恒生科技指数跌3%",
+          "url": "https://wallstreetcn.com/livenews/3183083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.56%，深成指跌0.72%，算力硬件、文化传媒、白酒、煤炭等方向跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3183074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
+          "url": "https://www.cls.cn/detail/2511091",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时55分]"
+        },
+        {
+          "title": "创业板指低开低走跌超4%",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E4%BD%8E%E5%BC%80%E4%BD%8E%E8%B5%B0%E8%B7%8C%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
+        },
+        {
+          "title": "创业板跌近3%，机器人逆势爆发，工行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超4%，科网股集体走低",
+          "url": "https://wallstreetcn.com/articles/3784171",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
+        },
+        {
+          "title": "A股收盘：创业板指跌4.37%失守2600点，工商银行、建设银行再创新高",
+          "url": "https://wallstreetcn.com/livenews/3183265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
         }
       ]
     },
@@ -514,61 +737,8 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3784091",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 10时18分]"
-        },
-        {
-          "title": "创业板指跌超2%，恒生科技指数跌3%",
-          "url": "https://wallstreetcn.com/livenews/3183083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指跌0.56%，深成指跌0.72%，算力硬件、文化传媒、白酒、煤炭等方向跌幅居前，沪深京三市下跌个股近3000只。",
-          "url": "https://wallstreetcn.com/livenews/3183074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
-          "url": "https://www.cls.cn/detail/2511091",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时55分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "风险",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "五部门发布骗局风险提示",
@@ -582,13 +752,24 @@
           "time_info": "[01时45分 ~ 10时18分]"
         },
         {
+          "title": "瑞士央行会议纪要：贸易政策环境及汇率走势带来了额外风险。",
+          "url": "https://flash.jin10.com/detail/20261022153515965800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时05分"
+        },
+        {
           "title": "韩国央行：今天的利率决议是一致通过的。 在评估通胀、国内经济和金融稳定趋势的同时，将决定进一步提高基准利率的时机和步伐。 有必要评估国内外风险因素的发展以及前两次升息的影响。 有必要继续关注与房屋市场和家庭债务相关的金融失衡风险。 预计通胀将在相当长一段时间内保持在目标水平之上。",
           "url": "https://wallstreetcn.com/livenews/3183067",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -609,6 +790,68 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "能繁母猪跌破调控基准线、猪肉股集体爆发 超长猪周期“见底”了吗？丨行业动态",
+          "url": "https://www.cls.cn/detail/2511101",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时55分]"
+        },
+        {
+          "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？",
+          "url": "https://www.zhihu.com/question/2096284238119228758",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
+        },
+        {
+          "title": "宁德时代A股市值跌破万亿关口",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3A%E8%82%A1%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B4%E4%B8%87%E4%BA%BF%E5%85%B3%E5%8F%A3",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时04分 ~ 16时05分]"
+        },
+        {
+          "title": "港股低开低走，恒指跌2%，恒生科技指数跌3.1%，AI应用板块下挫，MINIMAX-W(00100.HK)跌5.4%，盘中一度跌破发行价；阿里巴巴(09988.HK)、智谱(02513.HK)跌超5%。",
+          "url": "https://flash.jin10.com/detail/20261022095407321800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "美元、美油短线拉升，报道称美国拟下令海湾地区部分使馆人员撤离",
+          "url": "https://wallstreetcn.com/livenews/3182922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -638,7 +881,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         },
@@ -660,7 +903,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         }
@@ -745,46 +988,6 @@
       ]
     },
     {
-      "keyword_group": "跌破 拉升",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "能繁母猪跌破调控基准线、猪肉股集体爆发 超长猪周期“见底”了吗？丨行业动态",
-          "url": "https://www.cls.cn/detail/2511101",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时55分]"
-        },
-        {
-          "title": "港股低开低走，恒指跌2%，恒生科技指数跌3.1%，AI应用板块下挫，MINIMAX-W(00100.HK)跌5.4%，盘中一度跌破发行价；阿里巴巴(09988.HK)、智谱(02513.HK)跌超5%。",
-          "url": "https://flash.jin10.com/detail/20261022095407321800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时18分"
-        },
-        {
-          "title": "美元、美油短线拉升，报道称美国拟下令海湾地区部分使馆人员撤离",
-          "url": "https://wallstreetcn.com/livenews/3182922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日经 韩国股市",
       "match_count": 2,
       "titles": [
@@ -806,7 +1009,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         }
@@ -822,11 +1025,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时55分 ~ 10时18分]"
+          "appearance_count": 4,
+          "time_info": "[07时55分 ~ 16时05分]"
         }
       ]
     },
@@ -841,7 +1045,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         }
@@ -930,7 +1134,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         }
@@ -965,8 +1169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时45分 ~ 10时18分]"
+          "appearance_count": 8,
+          "time_info": "[01时45分 ~ 16时05分]"
         }
       ]
     },
@@ -998,7 +1202,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时18分"
         }
