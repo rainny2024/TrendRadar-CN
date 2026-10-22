@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T03:44:46.316663+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-23T06:37:33.475501+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 14,
       "titles": [
         {
           "title": "白宫：美国总统特朗普降低美国民众住房成本。",
@@ -52,6 +52,39 @@
           "time_info": "03时44分"
         },
         {
+          "title": "特朗普暂缓对风机加征关税，180天磋商期为后续留余地",
+          "url": "https://flash.jin10.com/detail/20261023053858916800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级",
+          "url": "https://wallstreetcn.com/livenews/3183984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "特朗普援引《国防生产法》支持美国石油产业扩能",
+          "url": "https://flash.jin10.com/detail/20261023045519594800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
           "title": "特朗普要求马斯克解除对乌星链限速",
           "url": "https://wallstreetcn.com/livenews/3183919",
           "source": "华尔街见闻-快讯",
@@ -63,6 +96,39 @@
           "time_info": "03时44分"
         },
         {
+          "title": "美国总统特朗普援引《国防生产法》第303条，支持美国国内石油生产。",
+          "url": "https://flash.jin10.com/detail/20261023044814627800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普在备忘录中认定，美国国内石油生产、炼油及其他相关活动对国防至关重要。",
+          "url": "https://flash.jin10.com/detail/20261023044700102800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普向美国国防部长赫格塞思发送了一份关于《国防生产法》及石油问题的备忘录。",
+          "url": "https://flash.jin10.com/detail/20261023044659683800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
           "title": "美国总统特朗普致电马斯克，要求其取消在乌克兰的星链项目限制。",
           "url": "https://wallstreetcn.com/livenews/3183914",
           "source": "华尔街见闻-快讯",
@@ -72,34 +138,81 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "美国总统特朗普向国防部长赫格塞思发送有关国防生产法案（DPA）和石油问题的备忘录。 特朗普针对美国石油化工产能签发DPA 303，要求扩大石化产能。",
+          "url": "https://wallstreetcn.com/livenews/3183970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗：可能会进一步采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3183966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34309586",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
+        },
         {
           "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
           "url": "https://www.cls.cn/detail/2512367",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
         },
         {
           "title": "新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击",
           "url": "https://m.thepaper.cn/newsDetail_forward_34306120",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
+        },
+        {
+          "title": "美以密谋新一轮打击？伊朗最高领袖罕见露面，军方警告祭出“炸弹之父”，海底电缆也可能是反击目标",
+          "url": "https://wallstreetcn.com/articles/3784215",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "06时37分"
         },
         {
           "title": "伊朗：不存在所谓“伊朗冲突”，这是美以对伊朗发动的侵略战争",
@@ -107,17 +220,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34309586",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -135,11 +237,116 @@
           "time_info": "03时44分"
         },
         {
+          "title": "明晟公司MSCI新兴市场股票指数跌2.5%，创7月份以来新低，美国科技股业绩报告良莠不齐之际，投资者对AI的乐观情绪退烧。 发展中国家外汇指数跌0.2%，布伦特原油价格创5月份以来最高之际，净石油进口国家南非、智利、波兰的货币领跌，巴西雷亚尔也在周末大选之前跌幅显著。",
+          "url": "https://wallstreetcn.com/livenews/3183969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
           "title": "布伦特原油日内涨幅达4.0%，报113.21美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3183907",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "周四（10月22日），标普500指数的11个板块涨跌各异，电信板块收跌3.01%——21只成分股中有七只收跌（回声星通信跌7.39%、Meta跌6.98%、谷歌A跌3.15%跌幅第三大），信息技术/科技板块跌3%，可选消费板块跌1.71%，能源板块跌0.74%，公用事业板块则涨1.98%，日用消费品板块涨3.11%。",
+          "url": "https://wallstreetcn.com/livenews/3183995",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "澳大利亚10月标普全球服务业PMI初值 47.8，前值51.9。",
+          "url": "https://flash.jin10.com/detail/20261023060148807800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "澳大利亚10月标普全球制造业PMI初值 49.7，前值49.6。",
+          "url": "https://flash.jin10.com/detail/20261023060142696800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "澳大利亚10月标普全球综合PMI初值 47.7，前值51.3。",
+          "url": "https://flash.jin10.com/detail/20261023060136047800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "据韩国经济新闻：SK海力士(SKHY.O)决定撤回旗下公司Solidigm在纳斯达克上市的计划，并准备近期正式公布决定。",
+          "url": "https://flash.jin10.com/detail/20261023054322783800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "周四（10月22日）纽约尾盘，标普500股指期货最终跌1.22%，道指期货涨0.05%，纳斯达克100股指期货跌3.07%。 罗素2000股指期货跌0.05%。",
+          "url": "https://wallstreetcn.com/livenews/3183980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至3%，半导体指数跌6.5%，存储芯片指数跌超8.1%，AI赢家指数跌超6.5%、AI软件先驱指数重新跌1.3%，标普跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3183915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "摩根大通：与特斯拉合并或将成为SpaceX跻身标普500指数的入场券",
+          "url": "https://wallstreetcn.com/livenews/3183906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -156,33 +363,36 @@
           "url": "https://wallstreetcn.com/articles/3784171",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
         },
         {
           "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
           "url": "https://m.thepaper.cn/newsDetail_forward_34306536",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
         },
         {
           "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
           "url": "https://www.cls.cn/detail/2512325",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
         }
       ]
     },
@@ -195,11 +405,12 @@
           "url": "https://wallstreetcn.com/articles/3784197",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
         },
         {
           "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
@@ -209,8 +420,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
         },
         {
           "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
@@ -222,6 +433,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
+          "url": "https://wallstreetcn.com/articles/3784155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
+        },
+        {
+          "title": "如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？",
+          "url": "https://www.zhihu.com/question/2096327185309160809",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
+        },
+        {
+          "title": "美国联邦通信委员会（FCC）批准英特尔(INTC.O)获得豁免，使其可不受针对部分外国制造的先进机器人的禁令限制，继续使用对其在美国的半导体制造业务至关重要的相关设备。",
+          "url": "https://flash.jin10.com/detail/20261023044825062800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         }
       ]
     },
@@ -254,62 +506,6 @@
       ]
     },
     {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳斯达克100指数跌幅扩大至3%，半导体指数跌6.5%，存储芯片指数跌超8.1%，AI赢家指数跌超6.5%、AI软件先驱指数重新跌1.3%，标普跌1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3183915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "摩根大通：与特斯拉合并或将成为SpaceX跻身标普500指数的入场券",
-          "url": "https://wallstreetcn.com/livenews/3183906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
-          "url": "https://wallstreetcn.com/articles/3784155",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？",
-          "url": "https://www.zhihu.com/question/2096327185309160809",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "芯片 光模块",
       "match_count": 2,
       "titles": [
@@ -318,22 +514,52 @@
           "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82",
           "source": "百度热搜",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
         },
         {
           "title": "美股芯片、光通信股深夜跳水",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
           "source": "百度热搜",
           "ranks": [
-            17
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "现货黄金跌破4030美元/盎司，刷新日低，跌幅2.70%。",
+          "url": "https://flash.jin10.com/detail/20261023030054124800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？",
+          "url": "https://www.zhihu.com/question/2096284238119228758",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时37分"
         }
       ]
     },
@@ -346,11 +572,12 @@
           "url": "https://www.cls.cn/detail/2512292",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
         }
       ]
     },
@@ -366,8 +593,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
         }
       ]
     },
@@ -383,25 +610,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
+          "appearance_count": 2,
+          "time_info": "[03时44分 ~ 06时37分]"
         }
       ]
     },
     {
-      "keyword_group": "跌破 拉升",
+      "keyword_group": "美联储 非农",
       "match_count": 1,
       "titles": [
         {
-          "title": "现货黄金跌破4030美元/盎司，刷新日低，跌幅2.70%。",
-          "url": "https://flash.jin10.com/detail/20261023030054124800",
+          "title": "美联储10月维持利率不变的概率为92.8%",
+          "url": "https://flash.jin10.com/detail/20261023060312405800",
           "source": "金十数据",
           "ranks": [
-            11
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
+          "time_info": "06时37分"
         }
       ]
     }
