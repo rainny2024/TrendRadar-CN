@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T07:55:45.706979+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-10-22T10:18:59.311576+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国制裁与伊朗大宗商品运输相关的个人与实体",
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -67,11 +67,12 @@
           "url": "https://wallstreetcn.com/articles/3784121",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时18分]"
         },
         {
           "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，伊朗从未寻求战争，也无意发动战争，但绝不会屈服于武力或欺凌。",
@@ -91,9 +92,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "伊朗最高领袖会见议会议长卡利巴夫",
+          "url": "https://www.toutiao.com/trending/7699142459120484914/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         },
         {
           "title": "美国财政部：发布伊朗相关一般许可证，允许卸载部分受制裁船舶的货物。",
@@ -118,13 +130,24 @@
           "time_info": "01时46分"
         },
         {
+          "title": "消息称美以已制定新一轮对伊朗打击计划",
+          "url": "https://wallstreetcn.com/livenews/3183042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
           "title": "伊朗指责美国在军事行动中使用进攻性太空能力",
           "url": "https://flash.jin10.com/detail/20261022061230479800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -132,7 +155,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -146,13 +169,24 @@
           "time_info": "[01时45分 ~ 07时55分]"
         },
         {
+          "title": "普京：不排除与特朗普赴华会晤可能性",
+          "url": "https://www.toutiao.com/trending/7698752765752868873/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
           "title": "特朗普称选前不打伊朗，美方却撤人增舰！以军数十架战机据报曾逼近伊朗边境",
           "url": "https://flash.jin10.com/detail/20261022071531095800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -207,7 +241,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -221,28 +255,98 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "SpaceX与特斯拉的潜在合并交易据悉可能有意在特朗普任期结束前完成。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3183039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         }
       ]
     },
     {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 5,
+      "keyword_group": "商业航天 机器人",
+      "match_count": 9,
       "titles": [
         {
-          "title": "纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。 当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。",
-          "url": "https://wallstreetcn.com/livenews/3183019",
+          "title": "宇树发布功夫传奇机器人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时55分]"
+        },
+        {
+          "title": "宇树机器人展示举起汽车救人",
+          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B1%95%E7%A4%BA%E4%B8%BE%E8%B5%B7%E6%B1%BD%E8%BD%A6%E6%95%91%E4%BA%BA&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "揭秘机器人数据采集行业内幕",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            26,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时55分]"
+        },
+        {
+          "title": "特斯拉Q3财报出炉：加码AI和机器人汽车主业承压，资本支出远逊预期！",
+          "url": "https://www.cls.cn/detail/2511667",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "A股机器人概念股反复活跃，大业股份5连板，兆威机电直线涨停，利亚德涨超10%，横河精密、科森科技、南方路机、浙江荣泰涨超6%，消息上，英伟达升级Isaac通用机器人开发平台，推出新的人形机器人参考框架、仿真工作流及数据工具，旨在加速通用机器人开发。",
+          "url": "https://wallstreetcn.com/livenews/3183071",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "10时18分"
         },
         {
-          "title": "标普500指数初步收涨0.6%，科技板块涨1.6%，能源板块涨0.3%，房地产板块跌0.8%，电信板块跌1.2%。 纳斯达克100指数初步收涨1.1%，成分股中，SpaceX、Strategy初步收涨7.7%，Datadog涨6.5%，CrowdStrike、Palantir、核电股CEG、西部数据至少涨约4.7%，Lumentum、AMD、希捷科技、特斯拉至少涨3%，阿斯麦ADR涨2.9%，英伟达涨2.5%，谷歌A跌1.5%，拼多多ADR跌3.3%，奈飞跌5%，德康医疗跌6.3%。",
-          "url": "https://wallstreetcn.com/livenews/3182944",
-          "source": "华尔街见闻-快讯",
+          "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
+          "url": "https://wallstreetcn.com/articles/3784155",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "特斯拉(TSLA.O)：Semi电动半挂卡车已在内华达州开始生产，Optimus人形机器人已在弗里蒙特开始生产。",
+          "url": "https://flash.jin10.com/detail/20261022041710524800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
@@ -251,43 +355,32 @@
           "time_info": "05时01分"
         },
         {
-          "title": "纳斯达克金龙中国指数初步收跌2.3%。 热门中概股里，小鹏初步收跌5.6%，禾赛跌5.5%，小马智行跌4.2%，阿里跌3.9%，京东、理想跌3.6%，万国数据、世纪互联涨1.1%霸王茶姬涨3.8%。 ETF中，KWEB初步收跌2.6%，CQQQ跌1.1%。",
-          "url": "https://wallstreetcn.com/livenews/3182943",
-          "source": "华尔街见闻-快讯",
+          "title": "10月22日投资避雷针：4连板人气股公告 机器人腱绳产品目前尚未批量生产",
+          "url": "https://www.cls.cn/detail/2511669",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        },
-        {
-          "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
-          "url": "https://wallstreetcn.com/livenews/3183001",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "10时18分"
         },
         {
-          "title": "道琼斯指数10月21日（周三）收盘上涨360.98点，涨幅0.69%，报52856.86点；<br/>标普500指数10月21日（周三）收盘上涨44.67点，涨幅0.58%，报7757.24点；<br/>纳斯达克综合指数10月21日（周三）收盘上涨278.04点，涨幅1.05%，报26702.86点。",
-          "url": "https://flash.jin10.com/detail/20261022040534607800",
-          "source": "金十数据",
+          "title": "特斯拉高管们被问及Optimus当前面临的最大问题，马斯克称：手。 （最大的问题在于）手指和手掌。 人类有自我修复能力，机器人没有。人的手指是柔软的，皮肤里还布满大量传感器。",
+          "url": "https://wallstreetcn.com/livenews/3183009",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时01分"
+          "time_info": "07时55分"
         }
       ]
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "宁德时代 A 股盘中跌超 10％，本轮大跌有哪些诱因？动力电池行业增长逻辑要变了吗？",
@@ -320,9 +413,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "红果短剧宣布将下线金币功能，这一商业决策背后有哪些考虑？是不需要靠「薅羊毛」引流实现增长了吗？",
+          "url": "https://www.zhihu.com/question/2096299255153391558",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         },
         {
           "title": "伦铜下跌，受累于库存增长；伦镍走高",
@@ -342,46 +446,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 4,
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 5,
       "titles": [
         {
-          "title": "宇树发布功夫传奇机器人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E5%8A%9F%E5%A4%AB%E4%BC%A0%E5%A5%87%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "bilibili 热搜",
+          "title": "纳指期货跌幅扩大至超过0.5%，标普股指期货跌0.3%，道指期货跌0.2%。 当前（美股盘后），IBM跌超3.4%，特斯拉跌超2.9%，NBIS跌超2.4%，英特尔跌1.6%，闪迪跌1.5%，SK海力士ADR跌1.4%，AMD、美光、希捷科技至少跌约1%，Pinterest涨0.1%，奈飞涨0.2%，Meta涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3183019",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            5,
-            10
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时55分]"
+          "appearance_count": 1,
+          "time_info": "07时55分"
         },
         {
-          "title": "揭秘机器人数据采集行业内幕",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%95%B0%E6%8D%AE%E9%87%87%E9%9B%86%E8%A1%8C%E4%B8%9A%E5%86%85%E5%B9%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时55分]"
-        },
-        {
-          "title": "特斯拉(TSLA.O)：Semi电动半挂卡车已在内华达州开始生产，Optimus人形机器人已在弗里蒙特开始生产。",
-          "url": "https://flash.jin10.com/detail/20261022041710524800",
-          "source": "金十数据",
+          "title": "标普500指数初步收涨0.6%，科技板块涨1.6%，能源板块涨0.3%，房地产板块跌0.8%，电信板块跌1.2%。 纳斯达克100指数初步收涨1.1%，成分股中，SpaceX、Strategy初步收涨7.7%，Datadog涨6.5%，CrowdStrike、Palantir、核电股CEG、西部数据至少涨约4.7%，Lumentum、AMD、希捷科技、特斯拉至少涨3%，阿斯麦ADR涨2.9%，英伟达涨2.5%，谷歌A跌1.5%，拼多多ADR跌3.3%，奈飞跌5%，德康医疗跌6.3%。",
+          "url": "https://wallstreetcn.com/livenews/3182944",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
@@ -390,21 +479,96 @@
           "time_info": "05时01分"
         },
         {
-          "title": "特斯拉高管们被问及Optimus当前面临的最大问题，马斯克称：手。 （最大的问题在于）手指和手掌。 人类有自我修复能力，机器人没有。人的手指是柔软的，皮肤里还布满大量传感器。",
-          "url": "https://wallstreetcn.com/livenews/3183009",
+          "title": "纳斯达克金龙中国指数初步收跌2.3%。 热门中概股里，小鹏初步收跌5.6%，禾赛跌5.5%，小马智行跌4.2%，阿里跌3.9%，京东、理想跌3.6%，万国数据、世纪互联涨1.1%霸王茶姬涨3.8%。 ETF中，KWEB初步收跌2.6%，CQQQ跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3182943",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "周四亚太盘初，纳斯达克100股指期货跌0.3%，标普股指期货跌0.1%。 科技股中，特斯拉美股盘后跌幅扩大至2.8%，该公司下调资本开支目标。IBM跌2.5%，Nebius Group NV跌1.4%，英特尔、博通、AMD、SK海力士ADR至多跌0.9%，西部数据涨0.3%，Meta涨2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3183001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "道琼斯指数10月21日（周三）收盘上涨360.98点，涨幅0.69%，报52856.86点；<br/>标普500指数10月21日（周三）收盘上涨44.67点，涨幅0.58%，报7757.24点；<br/>纳斯达克综合指数10月21日（周三）收盘上涨278.04点，涨幅1.05%，报26702.86点。",
+          "url": "https://flash.jin10.com/detail/20261022040534607800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
+          "url": "https://wallstreetcn.com/articles/3784091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 10时18分]"
+        },
+        {
+          "title": "创业板指跌超2%，恒生科技指数跌3%",
+          "url": "https://wallstreetcn.com/livenews/3183083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "10时18分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.56%，深成指跌0.72%，算力硬件、文化传媒、白酒、煤炭等方向跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3183074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
+          "url": "https://www.cls.cn/detail/2511091",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时55分]"
         }
       ]
     },
     {
       "keyword_group": "风险",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "五部门发布骗局风险提示",
@@ -414,8 +578,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 10时18分]"
+        },
+        {
+          "title": "韩国央行：今天的利率决议是一致通过的。 在评估通胀、国内经济和金融稳定趋势的同时，将决定进一步提高基准利率的时机和步伐。 有必要评估国内外风险因素的发展以及前两次升息的影响。 有必要继续关注与房屋市场和家庭债务相关的金融失衡风险。 预计通胀将在相当长一段时间内保持在目标水平之上。",
+          "url": "https://wallstreetcn.com/livenews/3183067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         },
         {
           "title": "SpaceX债券遭抛售，债务担忧升温致信用风险指标恶化",
@@ -438,6 +613,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
+          "url": "https://www.cls.cn/detail/2511081",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时45分 ~ 07时55分]"
+        },
+        {
+          "title": "Toss证券：日本半导体材料、零部件、设备拥有难以替代的竞争力",
+          "url": "https://flash.jin10.com/detail/20261022101142344800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        },
+        {
+          "title": "黄仁勋“开团”！事关CPO、基板、半导体封装 “达链”扩产潮或启动",
+          "url": "https://www.cls.cn/detail/2511358",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 05时01分]"
+        },
+        {
+          "title": "韩国央行：受人工智能（AI）投资放缓担忧影响，股市波动性有所上升。 由于对半导体行业盈利能力放缓的担忧，股市大幅下跌。",
+          "url": "https://wallstreetcn.com/livenews/3183072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         }
       ]
     },
@@ -474,7 +699,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
@@ -502,7 +727,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -513,73 +738,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         }
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "创业板跌超1%，宁德时代跌12%创历史最大单日跌幅，光通信、存储芯片反弹，恒科指跌破4000点，权重科网股普跌",
-          "url": "https://wallstreetcn.com/articles/3784091",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时55分]"
-        },
-        {
-          "title": "【每日收评】创业板指冲高回落跌1.62%，数据要素概念逆势走强，宁德时代重挫12%",
-          "url": "https://www.cls.cn/detail/2511091",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一图看懂 | 半导体产业链三季报“炸场”：已有20家公司净利翻倍，最高预增超30倍",
-          "url": "https://www.cls.cn/detail/2511081",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时55分]"
-        },
-        {
-          "title": "黄仁勋“开团”！事关CPO、基板、半导体封装 “达链”扩产潮或启动",
-          "url": "https://www.cls.cn/detail/2511358",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 05时01分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "跌破 拉升",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "能繁母猪跌破调控基准线、猪肉股集体爆发 超长猪周期“见底”了吗？丨行业动态",
@@ -592,6 +759,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时45分 ~ 07时55分]"
+        },
+        {
+          "title": "港股低开低走，恒指跌2%，恒生科技指数跌3.1%，AI应用板块下挫，MINIMAX-W(00100.HK)跌5.4%，盘中一度跌破发行价；阿里巴巴(09988.HK)、智谱(02513.HK)跌超5%。",
+          "url": "https://flash.jin10.com/detail/20261022095407321800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         },
         {
           "title": "美元、美油短线拉升，报道称美国拟下令海湾地区部分使馆人员撤离",
@@ -607,25 +785,8 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
-          "url": "https://www.cls.cn/detail/2511618",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日经 韩国股市",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "韩国立法者推动针对电动汽车生产的税收抵免。（韩国《每日经济新闻》）",
@@ -634,9 +795,55 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "日经225指数低开0.1%，韩国首尔综指低开1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3183037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：芯片、存储、光集体走强 纳指升超1%领涨三大指数",
+          "url": "https://www.cls.cn/detail/2511618",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时55分 ~ 10时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数开盘报3714.48点，涨0.04%。 深证成指开盘报11690.34点，跌0.12%。 创业板指开盘报2687.94点，跌0.25%。 沪深300开盘报4110.65点，跌0.03%。 科创50开盘报1346.96点，涨0.27%。 中证500开盘报6841.53点，涨0.01%。 中证1000开盘报6782.28点，涨0.03%。",
+          "url": "https://wallstreetcn.com/livenews/3183062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         }
       ]
     },
@@ -713,6 +920,23 @@
       ]
     },
     {
+      "keyword_group": "涨停 跌停",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股MLCC概念局部异动，华瓷股份直线涨停，双星新材涨超9%，国风新材、风华高科、鸿远电子跟涨。",
+          "url": "https://flash.jin10.com/detail/20261022095437679800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "加速落地 订单爆发",
       "match_count": 1,
       "titles": [
@@ -724,8 +948,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 10时18分]"
         }
       ]
     },
@@ -741,8 +965,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 07时55分]"
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 10时18分]"
         }
       ]
     },
@@ -760,6 +984,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 01时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国央行公开市场今日七天期逆回购操作量为零，进行1730亿元人民币隔夜逆回购操作。今日1250亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3183061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时18分"
         }
       ]
     }
