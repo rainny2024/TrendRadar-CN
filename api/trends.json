@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T06:37:33.475501+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-10-23T08:25:36.357474+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "白宫：美国总统特朗普降低美国民众住房成本。",
@@ -58,7 +58,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -102,7 +102,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -113,9 +113,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "特朗普亲自致电马斯克，要求解除乌克兰星链限速！",
+          "url": "https://flash.jin10.com/detail/20261023074329140800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         },
         {
           "title": "美国总统特朗普向美国国防部长赫格塞思发送了一份关于《国防生产法》及石油问题的备忘录。",
@@ -124,9 +135,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        },
+        {
+          "title": "特朗普签署行政令，拟降低美国住房成本及部分房贷利率",
+          "url": "https://flash.jin10.com/detail/20261023074311853800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         },
         {
           "title": "美国总统特朗普致电马斯克，要求其取消在乌克兰的星链项目限制。",
@@ -146,7 +168,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -157,7 +179,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         }
@@ -165,7 +187,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
@@ -173,11 +195,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
@@ -188,8 +211,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
         },
         {
           "title": "新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击",
@@ -200,19 +223,42 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
         },
         {
           "title": "美以密谋新一轮打击？伊朗最高领袖罕见露面，军方警告祭出“炸弹之父”，海底电缆也可能是反击目标",
           "url": "https://wallstreetcn.com/articles/3784215",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时37分 ~ 08时25分]"
+        },
+        {
+          "title": "伊朗国家电视台展示新型无人机",
+          "url": "https://wallstreetcn.com/livenews/3184040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时37分"
+          "time_info": "08时25分"
+        },
+        {
+          "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果 | 环球市场",
+          "url": "https://www.cls.cn/detail/2512918",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         },
         {
           "title": "伊朗：不存在所谓“伊朗冲突”，这是美以对伊朗发动的侵略战争",
@@ -243,7 +289,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -261,6 +307,111 @@
       ]
     },
     {
+      "keyword_group": "CPI",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "日本经济财政大臣城内实：政府是否宣布正式走出通货紧缩，将综合考量CPI、GDP平减指数以及潜在通胀变动背后的深层因素后再作决定。 希望日本央行根据与政府达成的联合声明妥善引导政策。 认为政府正式宣布走出通货紧缩的条件尚未成熟。",
+          "url": "https://wallstreetcn.com/livenews/3184038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：政府是否宣布正式结束通缩，将在综合考量CPI、国内生产总值平减指数以及潜在通胀变动背后背景后作出决定。",
+          "url": "https://flash.jin10.com/detail/20261023075457304800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日本9月CPI(除生鲜食品及能源)同比 2.4%，预期 2.3%，前值 1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3184024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日本9月CPI同比 2.1%，预期 2.1%，前值 1.9%。",
+          "url": "https://wallstreetcn.com/livenews/3184023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日本9月CPI(除生鲜食品)同比 2.1%，预期 2.1%，前值 1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3184022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日本核心-核心CPI涨幅超过2%，为3月以来首次。",
+          "url": "https://flash.jin10.com/detail/20261023073417270800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日本核心CPI涨幅超过2%，为2025年12月以来首次。",
+          "url": "https://flash.jin10.com/detail/20261023073354169800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日本9月全国未季调CPI月率 0%，前值0.1%。",
+          "url": "https://flash.jin10.com/detail/20261023073237751800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日本9月全国CPI年率 2.1%，预期2.10%，前值1.90%。",
+          "url": "https://flash.jin10.com/detail/20261023073011639800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "纳斯达克 标普 道琼斯",
       "match_count": 8,
       "titles": [
@@ -271,7 +422,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -282,7 +433,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -293,7 +444,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -304,7 +455,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -315,7 +466,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -326,7 +477,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         },
@@ -355,50 +506,133 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 3,
+      "keyword_group": "日经 韩国股市",
+      "match_count": 5,
       "titles": [
         {
-          "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
-          "url": "https://wallstreetcn.com/articles/3784171",
-          "source": "华尔街见闻",
+          "title": "韩国首尔综指跌超4%，日经225指数跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3184047",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日经225指数日内跌幅达1.00%。",
+          "url": "https://flash.jin10.com/detail/20261023080400446800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日经225指数低开0.4%，韩国首尔综指低开2.4%。三星电子跌3%。",
+          "url": "https://wallstreetcn.com/livenews/3184044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日经225指数10月23日（周五）开盘下跌293.25点，跌幅0.47%，报62614.59点。",
+          "url": "https://flash.jin10.com/detail/20261023080107554800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "日经225指数期货在盘前交易中下跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3184032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
+          "url": "https://www.cls.cn/detail/2512907",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
+          "url": "https://www.cls.cn/detail/2512879",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "芯片人才百万年薪一将难求",
+          "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            15,
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
         },
         {
-          "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34306536",
-          "source": "澎湃新闻",
+          "title": "美股芯片、光通信股深夜跳水",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
+          "source": "百度热搜",
           "ranks": [
-            6,
-            8
+            17,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 06时37分]"
         },
         {
-          "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2512325",
-          "source": "财联社热门",
+          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，芯片股再现大跌，美债应声大涨",
+          "url": "https://wallstreetcn.com/articles/3784246",
+          "source": "华尔街见闻",
           "ranks": [
-            9,
-            10
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         }
       ]
     },
     {
       "keyword_group": "风险",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价",
@@ -406,22 +640,35 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
         },
         {
           "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
           "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
+        },
+        {
+          "title": "花旗集团表示，尽管海湾地区原油出口有所恢复，但由于航运瓶颈持续导致到岸供应依然紧张，近期油价面临的风险仍偏向上行。",
+          "url": "https://wallstreetcn.com/livenews/3184035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         },
         {
           "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
@@ -437,6 +684,49 @@
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
+          "url": "https://wallstreetcn.com/articles/3784171",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
+        },
+        {
+          "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34306536",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
+        },
+        {
+          "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2512325",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 机器人",
       "match_count": 3,
       "titles": [
@@ -446,11 +736,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
         },
         {
           "title": "如何评价宇树发布全新机器人「H2-X 功夫传奇 守护」，宣称能徒手抬车、勇斗歹徒？在实际生活中会用在哪？",
@@ -458,11 +749,12 @@
           "source": "知乎",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
         },
         {
           "title": "美国联邦通信委员会（FCC）批准英特尔(INTC.O)获得豁免，使其可不受针对部分外国制造的先进机器人的禁令限制，继续使用对其在美国的半导体制造业务至关重要的相关设备。",
@@ -471,7 +763,46 @@
           "ranks": [
             18
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "现货黄金跌破4030美元/盎司，刷新日低，跌幅2.70%。",
+          "url": "https://flash.jin10.com/detail/20261023030054124800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？",
+          "url": "https://www.zhihu.com/question/2096284238119228758",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
         }
@@ -506,66 +837,8 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "芯片人才百万年薪一将难求",
-          "url": "https://www.baidu.com/s?wd=%E8%8A%AF%E7%89%87%E4%BA%BA%E6%89%8D%E7%99%BE%E4%B8%87%E5%B9%B4%E8%96%AA%E4%B8%80%E5%B0%86%E9%9A%BE%E6%B1%82",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
-        },
-        {
-          "title": "美股芯片、光通信股深夜跳水",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E3%80%81%E5%85%89%E9%80%9A%E4%BF%A1%E8%82%A1%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货黄金跌破4030美元/盎司，刷新日低，跌幅2.70%。",
-          "url": "https://flash.jin10.com/detail/20261023030054124800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？",
-          "url": "https://www.zhihu.com/question/2096284238119228758",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "增长 亮眼",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "千亿ETF阵营扩容到5只，越跌越增，谁在搅动逆势增长？",
@@ -578,6 +851,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 06时37分]"
+        },
+        {
+          "title": "前 9 月居民用电十年来首现负增长，可能受哪些因素影响？",
+          "url": "https://www.zhihu.com/question/2096585400211060316",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里云宣布.COM域名即将全面涨价。",
+          "url": "https://flash.jin10.com/detail/20261023075627075800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         }
       ]
     },
@@ -607,11 +908,12 @@
           "url": "https://www.cls.cn/detail/2512417",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时44分 ~ 06时37分]"
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
         }
       ]
     },
@@ -626,9 +928,26 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "利好 利空",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析人士：两大利空驱动金银价格下跌",
+          "url": "https://flash.jin10.com/detail/20261023075533966800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时25分"
         }
       ]
     }
