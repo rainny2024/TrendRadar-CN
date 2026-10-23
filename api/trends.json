@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-23T08:25:36.357474+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-10-23T13:34:03.325562+08:00",
+  "total_titles_processed": 761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "泽连斯基：我跟特朗普没有私人恩怨",
+          "url": "https://original.ifeng.com/c/8xRyzG62x5D",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
         {
           "title": "白宫：美国总统特朗普降低美国民众住房成本。",
           "url": "https://flash.jin10.com/detail/20261023032801942800",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
+        },
+        {
+          "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
+          "url": "https://www.zhihu.com/question/2096894678494884280",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
         },
         {
           "title": "阿克曼敦促特朗普政府放行房利美、房地美",
@@ -107,6 +129,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "特朗普称，庞巴迪将在德克萨斯州、堪萨斯州和印第安纳州投资2.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3184156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "美国总统特朗普在备忘录中认定，美国国内石油生产、炼油及其他相关活动对国防至关重要。",
           "url": "https://flash.jin10.com/detail/20261023044700102800",
           "source": "金十数据",
@@ -124,7 +157,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -146,7 +179,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -187,7 +220,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
@@ -196,11 +229,36 @@
           "ranks": [
             16,
             3,
-            4
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 13时34分]"
+        },
+        {
+          "title": "美以密谋新一轮打击？伊朗最高领袖罕见露面，军方警告祭出“炸弹之父”，海底电缆也可能是反击目标",
+          "url": "https://wallstreetcn.com/articles/3784215",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时37分 ~ 13时34分]"
+        },
+        {
+          "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果 | 环球市场",
+          "url": "https://www.cls.cn/detail/2512918",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时44分 ~ 08时25分]"
+          "time_info": "[08时25分 ~ 13时34分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
@@ -227,36 +285,13 @@
           "time_info": "[03时44分 ~ 08时25分]"
         },
         {
-          "title": "美以密谋新一轮打击？伊朗最高领袖罕见露面，军方警告祭出“炸弹之父”，海底电缆也可能是反击目标",
-          "url": "https://wallstreetcn.com/articles/3784215",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时37分 ~ 08时25分]"
-        },
-        {
           "title": "伊朗国家电视台展示新型无人机",
           "url": "https://wallstreetcn.com/livenews/3184040",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        },
-        {
-          "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果 | 环球市场",
-          "url": "https://www.cls.cn/detail/2512918",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -294,6 +329,17 @@
           "time_info": "06时37分"
         },
         {
+          "title": "据伊朗学生通讯社：内塔尼亚胡称：“我正致力于推动加沙巴勒斯坦人迁移。主要困难在于找到同意接收巴勒斯坦人的国家。控制权将始终掌握在我们手中，我们仍将留在这片土地上，不会离开。”",
+          "url": "https://flash.jin10.com/detail/20261023130053077800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "布伦特原油日内涨幅达4.0%，报113.21美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3183907",
           "source": "华尔街见闻-快讯",
@@ -308,7 +354,7 @@
     },
     {
       "keyword_group": "CPI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "日本经济财政大臣城内实：政府是否宣布正式走出通货紧缩，将综合考量CPI、GDP平减指数以及潜在通胀变动背后的深层因素后再作决定。 希望日本央行根据与政府达成的联合声明妥善引导政策。 认为政府正式宣布走出通货紧缩的条件尚未成熟。",
@@ -317,7 +363,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -328,7 +374,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -339,7 +385,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -350,7 +396,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -361,7 +407,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -372,7 +418,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -383,7 +429,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -394,7 +440,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -405,9 +451,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        },
+        {
+          "title": "新加坡9月CPI年率 2.2%，预期2.40%，前值2.30%。",
+          "url": "https://flash.jin10.com/detail/20261023130002397800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         }
       ]
     },
@@ -506,6 +563,165 @@
       ]
     },
     {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
+          "url": "https://wallstreetcn.com/articles/3784171",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 13时34分]"
+        },
+        {
+          "title": "科技股调整，高增长逻辑还在吗？科创板龙头公司发声：订单饱满、景气向上",
+          "url": "https://www.cls.cn/detail/2512952",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
+        {
+          "title": "创业板指快速拉升涨超1%，全市场超1200只个股上涨。",
+          "url": "https://wallstreetcn.com/livenews/3184187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "创业板指午后翻红，早盘一度跌超3%，深成指、沪指跌幅均大幅收窄，CPO概念、光刻机板块午后冲高。",
+          "url": "https://wallstreetcn.com/livenews/3184185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34306536",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
+        },
+        {
+          "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
+          "url": "https://www.cls.cn/detail/2512325",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时44分 ~ 08时25分]"
+        },
+        {
+          "title": "10月23日午间收评：创业板指半日跌超2%，全市场下跌个股超4800只",
+          "url": "https://wallstreetcn.com/livenews/3184148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 13时34分]"
+        },
+        {
+          "title": "金价跌破870元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E7%A0%B4870%E5%85%83%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
+        {
+          "title": "现货黄金跌破4000美元大关",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
+        {
+          "title": "现货黄金跌破4030美元/盎司，刷新日低，跌幅2.70%。",
+          "url": "https://flash.jin10.com/detail/20261023030054124800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "中证500股指期货（IC）主力合约短线拉升，日内跌幅收窄至0.97%，现报6557点。",
+          "url": "https://flash.jin10.com/detail/20261023131038080800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？",
+          "url": "https://www.zhihu.com/question/2096284238119228758",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "日经 韩国股市",
       "match_count": 5,
       "titles": [
@@ -516,7 +732,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -527,7 +743,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -538,7 +754,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -549,7 +765,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         },
@@ -560,9 +776,74 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价",
+          "url": "https://wallstreetcn.com/articles/3784197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 13时34分]"
+        },
+        {
+          "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时44分 ~ 13时34分]"
+        },
+        {
+          "title": "Meta从盘后大涨到股债双杀：未来支出承诺飙至8250亿美元，信用风险指标创历史新高",
+          "url": "https://wallstreetcn.com/articles/3784232",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
+        {
+          "title": "花旗集团表示，尽管海湾地区原油出口有所恢复，但由于航运瓶颈持续导致到岸供应依然紧张，近期油价面临的风险仍偏向上行。",
+          "url": "https://wallstreetcn.com/livenews/3184035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时25分"
+        },
+        {
+          "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
+          "url": "https://wallstreetcn.com/livenews/3183910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
         }
       ]
     },
@@ -577,20 +858,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 13时34分]"
         },
         {
           "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
           "url": "https://www.cls.cn/detail/2512879",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 13时34分]"
         },
         {
           "title": "芯片人才百万年薪一将难求",
@@ -624,111 +906,65 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         }
       ]
     },
     {
-      "keyword_group": "风险",
+      "keyword_group": "上证 深证",
       "match_count": 4,
       "titles": [
         {
-          "title": "野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价",
-          "url": "https://wallstreetcn.com/articles/3784197",
-          "source": "华尔街见闻",
+          "title": "创业板指涨幅扩大至2%，此前一度跌超3%；深证成指涨近1%，沪指跌0.27%。",
+          "url": "https://flash.jin10.com/detail/20261023131648119800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 08时25分]"
-        },
-        {
-          "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 08时25分]"
-        },
-        {
-          "title": "花旗集团表示，尽管海湾地区原油出口有所恢复，但由于航运瓶颈持续导致到岸供应依然紧张，近期油价面临的风险仍偏向上行。",
-          "url": "https://wallstreetcn.com/livenews/3184035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时25分"
+          "time_info": "13时34分"
         },
         {
-          "title": "加拿大皇家银行：民主党若中期选举横扫两院，AI监管风险或推动美债上涨",
-          "url": "https://wallstreetcn.com/livenews/3183910",
+          "title": "创业板指午后直线拉升，日内涨超1%，深证成指涨0.26%，沪指跌幅收窄至0.48%，全市场超1200只个股上涨。",
+          "url": "https://flash.jin10.com/detail/20261023130803935800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "创业板指午后翻红，早盘一度跌超3%；深证成指跌幅收窄至0.28%，沪指现跌0.7%，CPO概念、光刻机板块午后冲高。",
+          "url": "https://flash.jin10.com/detail/20261023130557256800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "上证指数早盘收报3614.12点，跌1.20%。 深证成指早盘收报11175.85点，跌1.60%。 创业板指早盘收报2521.77点，跌2.14%。 沪深300早盘收报4014.60点，跌0.54%。 科创50早盘收报1265.77点，跌3.07%。 中证500早盘收报6510.13点，跌2.18%。 中证1000早盘收报6383.47点，跌2.96%。",
+          "url": "https://wallstreetcn.com/livenews/3184149",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "创业板跌超4%失守2600点，工行、建行再创新高，算力硬件调整、“易中天”齐跌，恒科指跌超5%，生物医药普跌",
-          "url": "https://wallstreetcn.com/articles/3784171",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 08时25分]"
-        },
-        {
-          "title": "资金连续12日“扫货”股票型ETF，创业板、沪深300昨日领衔吸金",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34306536",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 08时25分]"
-        },
-        {
-          "title": "【每日收评】创业板指低开低走跌超4%，全市场近5000股收绿，算力硬件股集体重挫",
-          "url": "https://www.cls.cn/detail/2512325",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 08时25分]"
+          "time_info": "13时34分"
         }
       ]
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
@@ -757,50 +993,22 @@
           "time_info": "[03时44分 ~ 08时25分]"
         },
         {
+          "title": "A股人形机器人板块持续走高，大业股份涨停，杰科技、赛福天、睿能科技等此前涨停，宇树科技、深圳华强、福莱新材、爱仕达等个股跟涨。",
+          "url": "https://flash.jin10.com/detail/20261023131233305800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "美国联邦通信委员会（FCC）批准英特尔(INTC.O)获得豁免，使其可不受针对部分外国制造的先进机器人的禁令限制，继续使用对其在美国的半导体制造业务至关重要的相关设备。",
           "url": "https://flash.jin10.com/detail/20261023044825062800",
           "source": "金十数据",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时25分"
-        },
-        {
-          "title": "现货黄金跌破4030美元/盎司，刷新日低，跌幅2.70%。",
-          "url": "https://flash.jin10.com/detail/20261023030054124800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "腾讯股价跌破 400 港元创新低，市值较高点缩水近四成，问题出在哪？市场对腾讯的估值逻辑发生哪些转变？",
-          "url": "https://www.zhihu.com/question/2096284238119228758",
-          "source": "知乎",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -857,11 +1065,12 @@
           "url": "https://www.zhihu.com/question/2096585400211060316",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时25分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时25分 ~ 13时34分]"
         }
       ]
     },
@@ -876,7 +1085,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
         }
@@ -918,6 +1127,23 @@
       ]
     },
     {
+      "keyword_group": "涨停 跌停",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "A股大金融板块持续反弹，汇金科技触及20CM涨停，此前华林证券涨停，同花顺、大智慧、华信永道、汇金股份、华鑫股份等跟涨。",
+          "url": "https://flash.jin10.com/detail/20261023130900429800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美联储 非农",
       "match_count": 1,
       "titles": [
@@ -945,9 +1171,26 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新易盛：对今明两年业务发展持积极预期，拟8亿元—10亿元回购公司股份",
+          "url": "https://wallstreetcn.com/livenews/3184165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         }
       ]
     }
