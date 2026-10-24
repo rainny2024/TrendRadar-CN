@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T09:15:18.497956+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-10-24T14:39:37.807225+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 09时15分]"
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 14时39分]"
         },
         {
           "title": "梅拉尼娅促成俄乌一地停火，特朗普回应",
@@ -25,20 +25,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 14时39分]"
         },
         {
           "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
           "url": "https://www.cls.cn/detail/2514116",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 14时39分]"
+        },
+        {
+          "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
+          "url": "https://news.ifeng.com/c/8xSeHafFCKO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 14时39分]"
         },
         {
           "title": "特朗普：或与马斯克沟通乌克兰使用“星链”受限问题",
@@ -52,15 +64,17 @@
           "time_info": "03时38分"
         },
         {
-          "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
-          "url": "https://news.ifeng.com/c/8xSeHafFCKO",
-          "source": "凤凰网",
+          "title": "特朗普怒喷詹姆斯不尊重美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
           "ranks": [
-            6
+            12,
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 09时15分]"
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 14时39分]"
         },
         {
           "title": "美驻土耳其大使称周末可能打击伊朗 特朗普称对此不知情",
@@ -73,18 +87,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 09时15分]"
-        },
-        {
-          "title": "特朗普怒喷詹姆斯不尊重美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 09时15分]"
         },
         {
           "title": "美驻土耳其大使称周末可能打击伊朗，特朗普称对此不知情",
@@ -145,13 +147,24 @@
           "time_info": "03时38分"
         },
         {
+          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
+          "url": "https://www.cls.cn/detail/2514121",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "特朗普称可能对伊发动小规模军事行动",
           "url": "https://www.toutiao.com/trending/7700007804479753778/",
           "source": "今日头条",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -165,6 +178,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动 | 环球市场",
+          "url": "https://www.cls.cn/detail/2514115",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "英国政府：（关于马岛）美国总统特朗普与英国首相伯纳姆的通话中提及阿根廷胁迫措施对英国和美国的经济后果。",
@@ -247,7 +271,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 13,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗总统办：港口遭封锁后物资进口量仅下降25%",
@@ -259,6 +283,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "伊朗军方誓言阻止美国军舰进入波斯湾。（伊朗伊斯兰共和国通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3185108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "美情报称伊朗加大对美官员行动力度",
+          "url": "https://wallstreetcn.com/livenews/3185106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "布伦特原油期货结算价为每桶116.72美元，上涨3.55美元，涨幅3.14%。",
@@ -295,6 +341,18 @@
           "time_info": "[03时38分 ~ 06时45分]"
         },
         {
+          "title": "伊朗向中东国家发出最后通牒：一旦美伊重燃战火，必须停止对美方的一切支持，否则将被列为“敌对国家”",
+          "url": "https://wallstreetcn.com/articles/3784332",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 14时39分]"
+        },
+        {
           "title": "美国财长贝森特：尽管伊朗试图扰乱能源运输，但波斯湾的石油出口正强势反弹，已超过冲突前水平。信号很明确：伊朗的威胁未能阻止能源流向全球市场。",
           "url": "https://flash.jin10.com/detail/20261024052147593800",
           "source": "金十数据",
@@ -307,15 +365,15 @@
           "time_info": "[06时45分 ~ 09时15分]"
         },
         {
-          "title": "伊朗向中东国家发出最后通牒：一旦美伊重燃战火，必须停止对美方的一切支持，否则将被列为“敌对国家”",
-          "url": "https://wallstreetcn.com/articles/3784332",
-          "source": "华尔街见闻",
+          "title": "美情报称伊朗加大对美官员行动力度",
+          "url": "https://news.ifeng.com/c/8xTz1XXXr21",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "14时39分"
         },
         {
           "title": "美媒：美国情报警告伊朗暗杀阴谋升级，要求向更多美方人员通报风险",
@@ -324,7 +382,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
@@ -335,9 +393,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
+        },
+        {
+          "title": "美官员称美准备好与伊朗长期对峙",
+          "url": "https://wallstreetcn.com/livenews/3185099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "伊朗总统下周将在莫斯科会见俄罗斯总统普京。（伊朗媒体INSA）",
@@ -349,6 +418,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "伊朗总统将于下周访俄并与普京会谈",
+          "url": "https://wallstreetcn.com/livenews/3185094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "洲际交易所（ICE）：10月20日当周，投机者所持布伦特原油净多头头寸增加8,852手合约，至241,881手合约。",
@@ -373,6 +453,39 @@
           "time_info": "03时38分"
         },
         {
+          "title": "邵永灵：伊朗培养小弟有一套",
+          "url": "https://www.toutiao.com/trending/7700083708006501924/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "出于对伊朗因素的担忧，美国削减4个中东大使馆的人员配置，受影响的美国大使馆位于约旦、黎巴嫩、卡塔尔和阿联酋。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3185087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "伊朗武装部队：绝不允许美国军舰再次进入波斯湾",
+          "url": "https://flash.jin10.com/detail/20261024122446383800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
           "url": "https://wallstreetcn.com/livenews/3184964",
           "source": "华尔街见闻-快讯",
@@ -382,6 +495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时38分"
+        },
+        {
+          "title": "美媒：美方称伊朗威胁升至开战以来最高水平，部分使馆开始缩减人员",
+          "url": "https://flash.jin10.com/detail/20261024121734668800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗代理石油部长将陪同伊朗总统佩泽希齐扬出席10月27日在莫斯科举行的第八届天然气出口国峰会。",
@@ -397,8 +521,102 @@
       ]
     },
     {
+      "keyword_group": "增长 亮眼",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "中国创新指数增长6.4%",
+          "url": "https://www.douyin.com/hot/2709294",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时38分 ~ 09时15分]"
+        },
+        {
+          "title": "居民用电量10年来首次负增长怎么看",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%85%E6%B0%91%E7%94%A8%E7%94%B5%E9%87%8F10%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%B4%9F%E5%A2%9E%E9%95%BF%E6%80%8E%E4%B9%88%E7%9C%8B",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "花旗：在能源市场与关税形势进一步明朗之前，我们对铜维持中性立场，并将相关避险行情视为良好的长期买入机会。 铝空头关注2027年可能出现100万至200万吨的大幅供应过剩，主要原因是印度尼西亚主导的供应增长强劲，而需求前景低迷。",
+          "url": "https://wallstreetcn.com/livenews/3184986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784326",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        },
+        {
+          "title": "花旗：铝空头关注2027年可能出现100万至200万吨的大幅过剩，主要因印尼主导的供应增长强劲且需求前景疲弱。",
+          "url": "https://flash.jin10.com/detail/20261024023031618800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时38分"
+        },
+        {
+          "title": "崔东树：9月我国动力和其它电池合计产量为237GWh，同比增长57%",
+          "url": "https://wallstreetcn.com/livenews/3185096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "穆迪：自上次定期审查法国主权信用评级以来，经济增长放缓、财政赤字扩大，导致法国债务负担有所加重。",
+          "url": "https://flash.jin10.com/detail/20261024045303797800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "海关数据：2026年1—9月，我国摩托车进出口继续呈现增长态势",
+          "url": "https://wallstreetcn.com/livenews/3185085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "风险",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "巴克莱：市场对保障供应的紧迫感正在上升，短期油价风险仍明显偏向上行。",
@@ -465,128 +683,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "中国创新指数增长6.4%",
-          "url": "https://www.douyin.com/hot/2709294",
-          "source": "抖音",
-          "ranks": [
-            3
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 09时15分]"
-        },
-        {
-          "title": "花旗：在能源市场与关税形势进一步明朗之前，我们对铜维持中性立场，并将相关避险行情视为良好的长期买入机会。 铝空头关注2027年可能出现100万至200万吨的大幅供应过剩，主要原因是印度尼西亚主导的供应增长强劲，而需求前景低迷。",
-          "url": "https://wallstreetcn.com/livenews/3184986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "AI芯片需求持续释放，寒武纪Q3营收同比增长104.47%，净利润增147.74%｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784326",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时15分"
         },
         {
-          "title": "花旗：铝空头关注2027年可能出现100万至200万吨的大幅过剩，主要因印尼主导的供应增长强劲且需求前景疲弱。",
-          "url": "https://flash.jin10.com/detail/20261024023031618800",
+          "title": "小麦涨幅几乎吐尽，黑海运粮风险也过去了吗？",
+          "url": "https://flash.jin10.com/detail/20261024120254823800",
           "source": "金十数据",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时38分"
-        },
-        {
-          "title": "穆迪：自上次定期审查法国主权信用评级以来，经济增长放缓、财政赤字扩大，导致法国债务负担有所加重。",
-          "url": "https://flash.jin10.com/detail/20261024045303797800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "以色列总理有关应对国际制裁言论引发国内担忧",
-          "url": "https://flash.jin10.com/detail/20261024053848065800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 09时15分]"
-        },
-        {
-          "title": "以色列总理有关应对国际制裁言论引发国内担忧",
-          "url": "https://wallstreetcn.com/livenews/3185052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时45分 ~ 09时15分]"
-        },
-        {
-          "title": "武契奇选前承诺：不制裁俄罗斯，不承认科索沃",
-          "url": "https://news.ifeng.com/c/8xSAftzwZlJ",
-          "source": "凤凰网",
-          "ranks": [
-            9
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时15分"
-        },
-        {
-          "title": "欧盟考虑解除一项对中企制裁",
-          "url": "https://www.toutiao.com/trending/7699707085755351561/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "time_info": "14时39分"
         }
       ]
     },
     {
       "keyword_group": "跌破 拉升",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "国内黄金克价跌破860元",
@@ -621,12 +737,109 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时44分 ~ 09时15分]"
+        },
+        {
+          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
+          "url": "https://www.cls.cn/detail/2514076",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "避险行情来了，金价为何反而跌破4000美元？",
+          "url": "https://flash.jin10.com/detail/20261024131955763800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "国内金饰价格延续跌势，周六福足金跌破1200元",
+          "url": "https://flash.jin10.com/detail/20261024115036760800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "以色列总理有关应对国际制裁言论引发国内担忧",
+          "url": "https://flash.jin10.com/detail/20261024053848065800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 09时15分]"
+        },
+        {
+          "title": "武契奇选前承诺：不制裁俄罗斯，不承认科索沃",
+          "url": "https://news.ifeng.com/c/8xSAftzwZlJ",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 14时39分]"
+        },
+        {
+          "title": "以色列总理有关应对国际制裁言论引发国内担忧",
+          "url": "https://wallstreetcn.com/livenews/3185052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时45分 ~ 09时15分]"
+        },
+        {
+          "title": "美国阿拉斯加LNG项目被曝获俄制裁巨头融资",
+          "url": "https://flash.jin10.com/detail/20261024124516452800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "欧盟考虑解除一项对中企制裁",
+          "url": "https://www.toutiao.com/trending/7699707085755351561/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时15分"
         }
       ]
     },
     {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "标普：在地方阻力下，数据中心面临信用评级下调风险",
@@ -651,6 +864,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 09时15分]"
+        },
+        {
+          "title": "美国地方反对声浪加剧，标普警告数据中心信用风险上升",
+          "url": "https://flash.jin10.com/detail/20261024114324789800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
@@ -667,8 +891,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 09时15分]"
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 14时39分]"
         },
         {
           "title": "【每日收评】A股午后绝地反攻，创业板指放量涨超4%，全市场超4500股收红",
@@ -694,11 +918,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 09时15分]"
+          "appearance_count": 5,
+          "time_info": "[03时38分 ~ 14时39分]"
         },
         {
           "title": "宇树机器人侧空翻表演时甩断腿",
@@ -707,7 +932,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
@@ -736,7 +961,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
@@ -763,11 +988,12 @@
           "url": "https://wallstreetcn.com/articles/3784342",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 14时39分]"
         }
       ]
     },
@@ -780,11 +1006,12 @@
           "url": "https://www.cls.cn/detail/2514112",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时15分 ~ 14时39分]"
         }
       ]
     },
@@ -816,7 +1043,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时15分"
         }
