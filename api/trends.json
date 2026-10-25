@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T00:55:02.166919+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-10-26T03:23:42.712109+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
-        },
-        {
-          "title": "奥巴马中期选举首秀抨击特朗普",
-          "url": "https://www.douyin.com/hot/2712071",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "美国总统特朗普：我认为俄乌局势将出现新变化。",
@@ -36,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -47,9 +36,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我不希望我们在与普京会晤时失去手中的筹码——既没有制裁，也没有资金，更没有被冻结的资产。因为那样一来，正如特朗普先生所说，我们手中确实就没有多少牌可打了。",
+          "url": "https://flash.jin10.com/detail/20261026030240540800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "美国总统特朗普：我们掌握关于伊朗的非常先进的情报。",
@@ -58,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -69,9 +69,32 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "特朗普在美国密歇根拉票，自夸振兴汽车业",
+          "url": "https://wallstreetcn.com/livenews/3185245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "奥巴马中期选举首秀抨击特朗普",
+          "url": "https://www.douyin.com/hot/2712071",
+          "source": "抖音",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "梅德韦杰夫喊话特朗普：你有10个不得不教训泽连斯基的理由",
@@ -81,8 +104,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
@@ -92,19 +115,32 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "奥巴马怒喷特朗普所为何事",
           "url": "https://www.toutiao.com/trending/7700572569123966502/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
+        },
+        {
+          "title": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。 周末与鲁比奥就俄罗斯问题进行了交谈。 鲁比奥表示美国将进行三方谈判。",
+          "url": "https://wallstreetcn.com/livenews/3185224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "time_info": "[00时55分 ~ 03时23分]"
         },
         {
           "title": "伊朗回应特朗普“今晚不会攻击”：心理战",
@@ -113,7 +149,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -124,7 +160,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -135,7 +171,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
@@ -146,20 +182,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
         },
         {
-          "title": "美国众议院议长迈克·约翰逊：周六与特朗普讨论了俄罗斯问题。 周末与鲁比奥就俄罗斯问题进行了交谈。 鲁比奥表示美国将进行三方谈判。",
-          "url": "https://wallstreetcn.com/livenews/3185224",
+          "title": "特朗普：美俄乌三方会谈“很快”就会举行",
+          "url": "https://wallstreetcn.com/livenews/3185238",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "03时23分"
+        },
+        {
+          "title": "据以色列i24电视台：一名美国官员表示，特朗普准备调整对伊朗的政策方向，袭击伊朗似乎已不再是“会不会发生”的问题，而是“何时发生”的问题。",
+          "url": "https://flash.jin10.com/detail/20261026021655755800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "美国总统特朗普：（谈及马克龙）我第一次见到他时就说，你正在毁掉法国。",
@@ -168,9 +215,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国总统特朗普：我还拯救了塞尔弗里奇空军基地。当时，那些‘愚蠢的民主党人’正准备关闭它，而我保住了数千个就业岗位，以及拥有这样一座基地所带来的声望——只有我能做到这一点！",
+          "url": "https://flash.jin10.com/detail/20261026013036594800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "美国总统特朗普：（谈及西班牙）我早就预料到西班牙会有移民问题。",
@@ -179,9 +237,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国总统特朗普：全国各地，尤其是密歇根州，正在新建和扩建工厂。",
+          "url": "https://flash.jin10.com/detail/20261026013016161800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "美国总统特朗普：（谈及西班牙）那些世世代代在西班牙生活了数百年的人，看看如今有多少人正涌入他们的国家。他们非常愤怒。",
@@ -190,15 +259,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "美国总统特朗普：多亏了我，美国汽车行业的表现比以往任何时候都好。",
+          "url": "https://flash.jin10.com/detail/20261026013008075800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "美航母重填弹药，或再袭伊朗",
@@ -208,8 +288,31 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
+        },
+        {
+          "title": "斯里兰卡：在近海国际水域救起40名伊朗船员",
+          "url": "https://wallstreetcn.com/livenews/3185246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "报道：伊朗并未通过巴基斯坦向美国提交新方案",
+          "url": "https://wallstreetcn.com/livenews/3185226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "time_info": "[00时55分 ~ 03时23分]"
         },
         {
           "title": "收到“伊朗策划袭击”情报后：美国对中东13国更新旅行警告，多国使馆限制运行",
@@ -223,15 +326,37 @@
           "time_info": "[00时54分 ~ 00时55分]"
         },
         {
-          "title": "报道：伊朗并未通过巴基斯坦向美国提交新方案",
-          "url": "https://wallstreetcn.com/livenews/3185226",
+          "title": "伊朗总统：1月份全国性的反政府抗议主要由社会问题引发。 如果民众信任我们，知道我们想要帮助他们、解决他们的问题，他们肯定会与我们合作。",
+          "url": "https://wallstreetcn.com/livenews/3185243",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "03时23分"
+        },
+        {
+          "title": "伊朗塔斯尼姆通讯社公布过去24小时十大被辟谣消息",
+          "url": "https://flash.jin10.com/detail/20261026025429770800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "伊朗革命卫队：时间证明了我们已故殉难领袖话语的真实性。",
+          "url": "https://flash.jin10.com/detail/20261026022336613800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "以色列总理内塔尼亚胡：有迹象表明，伊朗及其代理人可能会攻击以色列，以影响选举。",
@@ -240,9 +365,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：1月份全国性的反政府抗议主要由社会问题引发。如果民众信任我们，知道我们想要帮助他们、解决他们的问题，他们肯定会与我们合作。",
+          "url": "https://flash.jin10.com/detail/20261026015329812800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "斯里兰卡：在近海国际水域救起40名伊朗船员",
+          "url": "https://flash.jin10.com/detail/20261026014745554800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         },
         {
           "title": "伊朗外长：霍尔木兹海峡“不会与过去相同”",
@@ -251,9 +398,100 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "乌克兰总统泽连斯基：长期以来我一直认为，我们不应该以如此高昂的代价换取俄罗斯的合作。否则，我们可能在所有制裁已经解除的情况下进入三方对话，却仍然不知道接下来会发生什么。",
+          "url": "https://flash.jin10.com/detail/20261026030233464800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：实施制裁是因为俄罗斯发动侵略，而不是为了换取一次会谈的机会。因此，如果我们认定战争已经结束，那么解除制裁就应遵循一定的顺序。",
+          "url": "https://flash.jin10.com/detail/20261026030224755800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我不希望在乌克兰、美国和俄罗斯三国领导人举行会晤之前，就已经解除对俄罗斯联邦的所有制裁。",
+          "url": "https://flash.jin10.com/detail/20261026030214909800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
+        },
+        {
+          "title": "津巴布韦总统呼吁西方国家无条件解除制裁",
+          "url": "https://wallstreetcn.com/livenews/3185233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机器人IPO门槛提高 具身智能一级市场预期变了",
+          "url": "https://www.cls.cn/detail/2514289",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
+        },
+        {
+          "title": "启元机器人第5000台个人机器人下线 每2.5分钟产出一台",
+          "url": "https://wallstreetcn.com/livenews/3185217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时23分]"
+        },
+        {
+          "title": "机器人老板们烧香、磕头、翻旧账",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%80%81%E6%9D%BF%E4%BB%AC%E7%83%A7%E9%A6%99%E3%80%81%E7%A3%95%E5%A4%B4%E3%80%81%E7%BF%BB%E6%97%A7%E8%B4%A6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时23分"
         }
       ]
     },
@@ -269,8 +507,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "高盛警告：美联储12月加不加息，市场可能都没准备好",
@@ -280,8 +518,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "环球下周看点：AI巨头财报密集揭晓 美联储议息或为利率定调",
@@ -291,8 +529,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         }
       ]
     },
@@ -308,19 +546,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "明起实施！上证指数、科创综指等拟修订，单样本权重不超15%",
           "url": "https://m.thepaper.cn/newsDetail_forward_34328014",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         }
       ]
     },
@@ -333,50 +572,52 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34326151",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
           "title": "研究：人类活动可能加剧大型湖泊湖啸风险",
           "url": "https://wallstreetcn.com/livenews/3185215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时55分 ~ 03时23分]"
         }
       ]
     },
     {
-      "keyword_group": "商业航天 机器人",
+      "keyword_group": "存储 半导体",
       "match_count": 2,
       "titles": [
         {
-          "title": "机器人IPO门槛提高 具身智能一级市场预期变了",
-          "url": "https://www.cls.cn/detail/2514289",
+          "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
+          "url": "https://www.cls.cn/detail/2514219",
           "source": "财联社热门",
           "ranks": [
-            11
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         },
         {
-          "title": "启元机器人第5000台个人机器人下线 每2.5分钟产出一台",
-          "url": "https://wallstreetcn.com/livenews/3185217",
-          "source": "华尔街见闻-快讯",
+          "title": "市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强",
+          "url": "https://www.cls.cn/detail/2514356",
+          "source": "财联社热门",
           "ranks": [
-            16
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时55分"
+          "time_info": "03时23分"
         }
       ]
     },
@@ -389,11 +630,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34328097",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         }
       ]
     },
@@ -406,11 +648,12 @@
           "url": "https://www.zhihu.com/question/2096531309044692741",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         }
       ]
     },
@@ -426,42 +669,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
-          "url": "https://www.cls.cn/detail/2514219",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "津巴布韦总统呼吁西方国家无条件解除制裁",
-          "url": "https://wallstreetcn.com/livenews/3185233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时55分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         }
       ]
     },
@@ -477,8 +686,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时54分 ~ 00时55分]"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 03时23分]"
         }
       ]
     }
