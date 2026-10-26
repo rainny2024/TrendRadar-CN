@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-26T08:51:36.408679+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-10-26T13:34:28.199506+08:00",
+  "total_titles_processed": 823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "“多管齐下！特朗普政府暗中助选，要帮博索纳罗家族夺权”",
@@ -71,7 +71,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -87,13 +87,24 @@
           "time_info": "00时55分"
         },
         {
+          "title": "据英国金融时报：欧盟考虑在关键矿产保障方面效仿特朗普。",
+          "url": "https://flash.jin10.com/detail/20261026131007148800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "特朗普：美俄乌三方会谈“很快”就会举行",
           "url": "https://news.ifeng.com/c/8xWloHz7H6W",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -126,9 +137,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "特朗普再次给内塔尼亚胡背书",
+          "url": "https://news.ifeng.com/c/8xWtiDBWMKf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "梅德韦杰夫喊话特朗普：你有10个不得不教训泽连斯基的理由",
@@ -296,7 +318,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -318,7 +340,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -365,6 +387,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "梅德韦杰夫喊话特朗普“教训”乌总统",
+          "url": "https://www.toutiao.com/trending/7700578970949075465/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "美国总统特朗普：加拿大此刻愿意给我们任何东西。",
@@ -483,7 +516,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -502,7 +535,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美航母重填弹药，或再袭伊朗",
@@ -586,6 +619,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "伊朗：沙特、巴基斯坦和土耳其官员将在德黑兰会晤。",
+          "url": "https://wallstreetcn.com/livenews/3185394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "伊朗革命卫队：时间证明了我们已故殉难领袖话语的真实性。",
           "url": "https://flash.jin10.com/detail/20261026022336613800",
           "source": "金十数据",
@@ -606,6 +650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "外媒：“麦加协议”三国高官将与伊朗官员会晤",
+          "url": "https://wallstreetcn.com/livenews/3185379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：1月份全国性的反政府抗议主要由社会问题引发。如果民众信任我们，知道我们想要帮助他们、解决他们的问题，他们肯定会与我们合作。",
@@ -644,7 +699,7 @@
     },
     {
       "keyword_group": "商业航天 机器人",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "中信证券：GPT-6 Astra进入机器人控制 物理AI迎来重大拐点",
@@ -653,9 +708,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        },
+        {
+          "title": "A股机器人概念股午后持续走高，江苏北人20cm涨停，永创智能走出2连板，此前福莱新材、模塑科技、锋龙股份、胜通能源、万向钱潮等多股涨停，上纬新材、泛亚微透、华依科技、维宏股份等均涨超10%。",
+          "url": "https://wallstreetcn.com/livenews/3185401",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         },
         {
           "title": "机器人IPO门槛提高 具身智能一级市场预期变了",
@@ -695,15 +761,172 @@
           "time_info": "[00时55分 ~ 03时23分]"
         },
         {
+          "title": "恒辉安防：机器人柔性织物防护件等业务按计划持续迭代推进",
+          "url": "https://flash.jin10.com/detail/20261026124049468800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
           "title": "起猛了 爬泰山被机器人超过去了",
           "url": "https://www.baidu.com/s?wd=%E8%B5%B7%E7%8C%9B%E4%BA%86+%E7%88%AC%E6%B3%B0%E5%B1%B1%E8%A2%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B6%85%E8%BF%87%E5%8E%BB%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "烟草第一大省云南前三季度烟草工业负增长，中国烟草市场正在发生什么变化？为何烤烟卖不动了？",
+          "url": "https://www.zhihu.com/question/2096531309044692741",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 06时21分]"
+        },
+        {
+          "title": "我国雪豹种群数量实现恢复性增长",
+          "url": "https://www.toutiao.com/trending/7700454741750579236/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "日本股东提案数量较2018年增长逾两倍，中型企业利润创历史新高",
+          "url": "https://flash.jin10.com/detail/20261026054622019800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "新易盛：三季度产量环比增长 高速率产品放量提速",
+          "url": "https://wallstreetcn.com/livenews/3185392",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "1-9月商务部重点联系商品市场利润总额同比增长5.8%",
+          "url": "https://wallstreetcn.com/livenews/3185385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "安徽：前三季度地区生产总值42371亿元 同比增长5.3%",
+          "url": "https://wallstreetcn.com/livenews/3185377",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股文化传媒概念午后拉升，南方传媒、创维数字、盛通股份涨停，盛天网络涨超16%，锋尚文化涨超13%，上海电影、元隆雅图跟涨。",
+          "url": "https://flash.jin10.com/detail/20261026130940369800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "A股文化传媒概念午后拉升，南方传媒、创维数字、盛通股份涨停，盛天网络涨超16%，锋尚文化涨超13%，上海电影、元隆雅图跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3185398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "A股脑机接口板块震荡反弹，达瑞电子20cm涨停，亚辉龙涨超8%，亿纬锂能涨超7%，均普智能涨超5%，九州通、汤姆猫跟涨。",
+          "url": "https://flash.jin10.com/detail/20261026130858043800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "锋龙股份涨停走出2连板，成交额超8亿元。",
+          "url": "https://flash.jin10.com/detail/20261026130504837800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "A股地产股逆势拉升，大名城涨停，招商蛇口逼近涨停，保利发展涨超5%，新城控股、深物业A、万科A跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3185364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "A股固态电池概念震荡回升，上海洗霸冲击涨停，力王股份、德尔股份涨超10%，孚能科技、亿纬锂能、信宇人、盟固利涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3185360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         }
       ]
     },
@@ -723,26 +946,28 @@
           "time_info": "[00时54分 ~ 06时21分]"
         },
         {
-          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
-          "url": "https://wallstreetcn.com/articles/3784282",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
           "title": "高盛警告：美联储12月加不加息，市场可能都没准备好",
           "url": "https://wallstreetcn.com/articles/3784408",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 08时51分]"
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 13时34分]"
+        },
+        {
+          "title": "本周重磅日程：最重要的美联储决议和科技巨头财报都来了，这次AI交易能否自救？",
+          "url": "https://wallstreetcn.com/articles/3784282",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 13时34分]"
         },
         {
           "title": "美联储本周维持利率不变的概率为90%",
@@ -766,6 +991,110 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时54分 ~ 08时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "多家科创板龙头企业晒账本：AI产业链景气正变成利润",
+          "url": "https://www.cls.cn/detail/2514496",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "沪指午后拉升翻红，创业板指跌幅缩窄至0.88%，游戏、油气、白酒、食品、医药医疗等方向涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3185400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34328097",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 08时51分]"
+        },
+        {
+          "title": "10月26日午间收评：创业板指半日跌1.65%，大消费板块逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3185371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
+          "url": "https://www.cls.cn/detail/2514219",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 08时51分]"
+        },
+        {
+          "title": "【早报】A股指数重要调整，今起实施；A股存储龙头，Q3净利猛增超2900%；国际油价，开盘下挫",
+          "url": "https://www.cls.cn/detail/2514546",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时51分 ~ 13时34分]"
+        },
+        {
+          "title": "市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强",
+          "url": "https://www.cls.cn/detail/2514356",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时23分 ~ 08时51分]"
+        },
+        {
+          "title": "高盛下调韩股目标价25%，但认为“存储估值过于悲观”，韩股估值已成“全球最低”",
+          "url": "https://wallstreetcn.com/articles/3784421",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         }
       ]
     },
@@ -822,6 +1151,49 @@
       ]
     },
     {
+      "keyword_group": "上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "周末要闻汇总：上证指数、科创综指明起有新变化；高盛下调韩国股指目标价",
+          "url": "https://www.cls.cn/detail/2514420",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时54分 ~ 13时34分]"
+        },
+        {
+          "title": "明起实施！上证指数、科创综指等拟修订，单样本权重不超15%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34328014",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 08时51分]"
+        },
+        {
+          "title": "上证指数早盘收报3683.92点，跌0.18%。 深证成指早盘收报11551.72点，跌1.05%。 创业板指早盘收报2639.85点，跌1.65%。 沪深300早盘收报4083.14点，跌0.54%。 科创50早盘收报1319.97点，跌1.90%。 中证500早盘收报6745.66点，跌1.01%。 中证1000早盘收报6661.80点，跌1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3185372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "风险",
       "match_count": 3,
       "titles": [
@@ -857,49 +1229,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "攸关半导体生产！美国能源部将氦气认定为关键材料",
-          "url": "https://www.cls.cn/detail/2514219",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 08时51分]"
-        },
-        {
-          "title": "【早报】A股指数重要调整，今起实施；A股存储龙头，Q3净利猛增超2900%；国际油价，开盘下挫",
-          "url": "https://www.cls.cn/detail/2514546",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "市场过度恐慌？野村：存储短缺将延续至2028年，AI资本开支韧性仍强",
-          "url": "https://www.cls.cn/detail/2514356",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时23分 ~ 08时51分]"
         }
       ]
     },
@@ -914,7 +1246,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -925,71 +1257,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "上证 深证",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周末要闻汇总：上证指数、科创综指明起有新变化；高盛下调韩国股指目标价",
-          "url": "https://www.cls.cn/detail/2514420",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 08时51分]"
-        },
-        {
-          "title": "明起实施！上证指数、科创综指等拟修订，单样本权重不超15%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34328014",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 08时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "烟草第一大省云南前三季度烟草工业负增长，中国烟草市场正在发生什么变化？为何烤烟卖不动了？",
-          "url": "https://www.zhihu.com/question/2096531309044692741",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 06时21分]"
-        },
-        {
-          "title": "日本股东提案数量较2018年增长逾两倍，中型企业利润创历史新高",
-          "url": "https://flash.jin10.com/detail/20261026054622019800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         }
       ]
     },
@@ -1004,7 +1274,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -1033,7 +1303,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
         },
@@ -1044,9 +1314,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金价格再次下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%86%8D%E6%AC%A1%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         }
       ]
     },
@@ -1064,25 +1351,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "7家科创板公司同日亮成绩单：AI产业链业绩高增，创新药械接力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34328097",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时54分 ~ 08时51分]"
         }
       ]
     },
