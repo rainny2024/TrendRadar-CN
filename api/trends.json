@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T06:03:15.981817+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-10-27T09:42:37.366225+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗与沙特、土耳其、巴基斯坦同意未来继续举行会谈",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -52,13 +52,24 @@
           "time_info": "01时50分"
         },
         {
+          "title": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗",
+          "url": "https://wallstreetcn.com/articles/3784454",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "伊拉克否认按美方指令关闭对伊朗边境口岸",
           "url": "https://wallstreetcn.com/livenews/3186478",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -132,7 +143,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普狂喷：挪威是“粪坑国家”",
@@ -152,7 +163,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -164,19 +175,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 09时42分]"
         },
         {
           "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 09时42分]"
         },
         {
           "title": "特朗普当众轻佻评论女歌手身材",
@@ -190,13 +202,24 @@
           "time_info": "01时50分"
         },
         {
+          "title": "巴西副总统驳斥特朗普言论",
+          "url": "https://www.toutiao.com/trending/7701071685427970587/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
           "title": "美国参议员马克·沃纳：这个收获季，弗吉尼亚州的农民加满柴油油箱要比去年多花2000美元。特朗普发起的这场选择性战争推高了燃料成本，让农民们更加难以维持生计。",
           "url": "https://flash.jin10.com/detail/20261027050505061800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -207,7 +230,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -218,37 +241,144 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "特朗普时期油价超过拜登任期",
+          "url": "https://www.toutiao.com/trending/7700151907554230313/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 4,
+      "keyword_group": "增长 亮眼",
+      "match_count": 8,
       "titles": [
         {
-          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
+          "title": "国家统计局：1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。",
+          "url": "https://flash.jin10.com/detail/20261027093021272800",
+          "source": "金十数据",
           "ranks": [
-            4
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "国家统计局：1-9月不同规模、多种类型企业利润增长较快",
+          "url": "https://wallstreetcn.com/livenews/3186568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "钢铁巨兽海内外订单持续增长",
+          "url": "https://www.douyin.com/hot/2714593",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 09时42分]"
+        },
+        {
+          "title": "Q3净利润同比增长137%！4400亿CRO龙头发布三季报|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2515573",
+          "source": "财联社热门",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时02分 ~ 06时03分]"
         },
         {
+          "title": "国家统计局：1—9月份，电子行业利润同比增长1.0倍",
+          "url": "https://wallstreetcn.com/livenews/3186565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "国家统计局：1-9月规模以上工业企业利润同比增长15.5%",
+          "url": "https://wallstreetcn.com/livenews/3186561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "据德国四大输电网络运营商：德国2027年用于支持可再生电力的账单将增长大约8%，至175.2亿欧元（折合196亿美元）。 其中，光伏安装占比最大，估计将达到96亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3186376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "韩国央行官员：民间消费将从四季度至2027年一季度逐渐复苏。 三季度GDP数据使得今年经济增长预期上调0.35个百分点。 受高带宽内存(HBM)生产影响，预计明年芯片产量将增加，价格将继续上涨，但涨幅将放缓。 预计第四季出口和投资将保持强劲，重点关注民间消费能否反弹。",
+          "url": "https://wallstreetcn.com/livenews/3186534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 09时42分]"
+        },
+        {
           "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
           "url": "https://www.cls.cn/detail/2515881",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 06时03分]"
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 09时42分]"
         },
         {
           "title": "周一（10月26日），美股行业ETF多数收涨，半导体ETF涨2.74%，科技行业ETF、全球科技股指数ETF、工业指数ETF、全球航空业ETF、可选消费ETF至多涨1.69%。 标普500指数的11个板块中，信息技术/科技板块涨1.5%，工业、可选消费板块至多涨1.4%，电信板块则跌1.42%。",
@@ -257,7 +387,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -268,9 +398,121 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "美股期货小幅走高，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3186536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股PCB概念高开，光洋股份涨停，赛腾股份涨超6%，宝鼎科技涨超4%，南亚新材、满坤科技、迅捷兴、高斯贝尔跟涨。",
+          "url": "https://flash.jin10.com/detail/20261027092924552800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "A股影视院线板块低开，慈文传媒跌停，中广天择、博纳影业、上海电影、奥飞娱乐、光线传媒跟跌。",
+          "url": "https://flash.jin10.com/detail/20261027092809956800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "卢拉逆袭吓坏市场：巴西股指期货暴跌20%触及跌停，雷亚尔期货大跌",
+          "url": "https://wallstreetcn.com/articles/3784490",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "A股汽车整车股开盘拉升，曙光股份直线涨停，众泰汽车、安凯客车、江淮汽车、金龙汽车、北汽蓝谷跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3186567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股又一波增持回购来了，金发科技拟最高回购5亿元",
+          "url": "https://www.cls.cn/detail/2515503",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 06时03分]"
+        },
+        {
+          "title": "中国央行逆回购今日净投放10140亿元人民币",
+          "url": "https://flash.jin10.com/detail/20261027092454511800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "中国央行：今日开展4120亿元7天逆回购操作，投标量4120亿元，中标量4120亿元，操作利率为1.40%。同时，开展了10000亿元隔夜逆回购操作。",
+          "url": "https://flash.jin10.com/detail/20261027092108804800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "中国央行逆回购今日净投放10,140亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3186551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     },
@@ -285,7 +527,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         },
@@ -295,11 +537,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 09时42分]"
         },
         {
           "title": "标普500指数三季度净利润率预计达14.9% 有望创历史次高",
@@ -308,9 +551,87 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日本信息科技服务商Sakana AI将从零自研本土模型。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3186395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "据日经新闻：日本AI初创公司Sakana AI宣布，将从零开始训练自主研发的大模型。",
+          "url": "https://flash.jin10.com/detail/20261027005611289800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "日经225指数盘中涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3186538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国上证综指10月27日（周二）开盘上涨0.92点，涨幅：0.02%，报3698.44点；<br/>中国深证成指10月27日（周二）开盘上涨56.98点，涨幅：0.49%，报11591.36点；<br/>中国沪深300指数10月27日（周二）开盘上涨1.94点，涨幅：0.05%，报4105.48点；<br/>中国创业板指数10月27日（周二）开盘上涨23.48点，涨幅：0.89%，报2661.71点；<br/>中国科创50指数10月27日（周二）开盘上涨11.26点，涨幅：0.86%，报1326.76点。",
+          "url": "https://flash.jin10.com/detail/20261027092739808800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "A股开盘，上证指数涨0.02%，深证成指涨0.49%，创业板指涨0.89%。CPO、存储芯片、PCB概念涨幅居前。",
+          "url": "https://flash.jin10.com/detail/20261027092516490800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "上证指数开盘报3698.44点，涨0.02%。 深证成指开盘报11591.36点，涨0.49%。 创业板指开盘报2661.71点，涨0.89%。 沪深300开盘报4105.48点，涨0.05%。 科创50开盘报1326.76点，涨0.86%。 中证500开盘报6745.72点，涨0.49%。 中证1000开盘报6664.61点，涨0.51%。",
+          "url": "https://wallstreetcn.com/livenews/3186553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     },
@@ -323,22 +644,24 @@
           "url": "https://www.toutiao.com/trending/7700928117778419250/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 09时42分]"
         },
         {
           "title": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%",
           "url": "https://wallstreetcn.com/articles/3784435",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时03分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 09时42分]"
         },
         {
           "title": "英伟达H200租赁价暴涨143%",
@@ -354,41 +677,41 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
+      "keyword_group": "芯片 光模块",
       "match_count": 3,
       "titles": [
         {
-          "title": "钢铁巨兽海内外订单持续增长",
-          "url": "https://www.douyin.com/hot/2714593",
-          "source": "抖音",
+          "title": "寒武纪辟谣明年出货100万颗芯片",
+          "url": "https://www.toutiao.com/trending/7700765842505744393/",
+          "source": "今日头条",
           "ranks": [
-            9
+            12
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         },
         {
-          "title": "Q3净利润同比增长137%！4400亿CRO龙头发布三季报|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2515573",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 06时03分]"
-        },
-        {
-          "title": "据德国四大输电网络运营商：德国2027年用于支持可再生电力的账单将增长大约8%，至175.2亿欧元（折合196亿美元）。 其中，光伏安装占比最大，估计将达到96亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3186376",
+          "title": "A股半导体芯片股开盘领涨，天德钰涨超10%，东芯股份、中晶科技、力芯微、普冉股份、长川科技等纷纷高开。",
+          "url": "https://wallstreetcn.com/livenews/3186557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "博通从2027年开始将通过SPV供应XPU AI加速器芯片。 该公司XPU AI芯片将租赁给Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3186464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "06时03分"
         }
       ]
     },
@@ -426,37 +749,94 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
         }
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
+      "keyword_group": "科创 创业 创业板 科创板",
       "match_count": 2,
       "titles": [
         {
-          "title": "日本信息科技服务商Sakana AI将从零自研本土模型。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3186395",
+          "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.71%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市上涨个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3186563",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "09时42分"
         },
         {
-          "title": "据日经新闻：日本AI初创公司Sakana AI宣布，将从零开始训练自主研发的大模型。",
-          "url": "https://flash.jin10.com/detail/20261027005611289800",
-          "source": "金十数据",
+          "title": "【数据看盘】科创50ETF上周份额大增超百亿，多路资金联手抢筹万向钱潮",
+          "url": "https://www.cls.cn/detail/2515331",
+          "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待郑州马拉松一男子系绳带 9 岁儿童跑全马被禁赛三年？儿童跑马拉松有哪些健康风险？",
+          "url": "https://www.zhihu.com/question/2097127599608804818",
+          "source": "知乎",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 06时03分]"
+        },
+        {
+          "title": "10月27日投资避雷针：福莱新材、宇树科技等机器人概念股密集提示风险",
+          "url": "https://www.cls.cn/detail/2515947",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股机器人概念股反复活跃，多伦科技4连板，光洋股份2连板，秦安股份、多利科技涨停，襄阳轴承、瑞迪智驱、怡合达、宏昌科技、山东矿机跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3186571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "鹏辉能源：人形机器人电池方面与国内头部客户有合作和小批量送样",
+          "url": "https://flash.jin10.com/detail/20261027092606001800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时42分"
         }
       ]
     },
@@ -489,71 +869,19 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
+      "keyword_group": "涨价 核心材料",
       "match_count": 1,
       "titles": [
         {
-          "title": "【数据看盘】科创50ETF上周份额大增超百亿，多路资金联手抢筹万向钱潮",
-          "url": "https://www.cls.cn/detail/2515331",
-          "source": "财联社热门",
+          "title": "女子险遭保安性侵后酒店竟涨价",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E9%99%A9%E9%81%AD%E4%BF%9D%E5%AE%89%E6%80%A7%E4%BE%B5%E5%90%8E%E9%85%92%E5%BA%97%E7%AB%9F%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待郑州马拉松一男子系绳带 9 岁儿童跑全马被禁赛三年？儿童跑马拉松有哪些健康风险？",
-          "url": "https://www.zhihu.com/question/2097127599608804818",
-          "source": "知乎",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "博通从2027年开始将通过SPV供应XPU AI加速器芯片。 该公司XPU AI芯片将租赁给Anthropic。",
-          "url": "https://wallstreetcn.com/livenews/3186464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "涨停 跌停",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "卢拉逆袭吓坏市场：巴西股指期货暴跌20%触及跌停，雷亚尔期货大跌",
-          "url": "https://wallstreetcn.com/articles/3784490",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "09时42分"
         }
       ]
     },
@@ -571,24 +899,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股又一波增持回购来了，金发科技拟最高回购5亿元",
-          "url": "https://www.cls.cn/detail/2515503",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时03分]"
         }
       ]
     }
