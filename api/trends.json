@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T09:42:37.366225+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-10-27T15:00:10.580871+08:00",
+  "total_titles_processed": 819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "伊朗与沙特、土耳其、巴基斯坦同意未来继续举行会谈",
@@ -41,6 +41,17 @@
           "time_info": "01时50分"
         },
         {
+          "title": "据伊媒报道，伊朗议会就近期物价上涨问题质询经济部长，议员们对其答复表示不满。最终，议会认为经济部长的答复未能令人信服，共有120名议员投下反对票。",
+          "url": "https://flash.jin10.com/detail/20261027145418247800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
           "title": "伊朗总统：德黑兰与莫斯科的关系正在不断拓展，将在访问俄罗斯期间与俄罗斯总统普京讨论加强双边合作。",
           "url": "https://wallstreetcn.com/livenews/3186401",
           "source": "华尔街见闻-快讯",
@@ -52,13 +63,24 @@
           "time_info": "01时50分"
         },
         {
+          "title": "伊朗议会议长卡利巴夫披露与最高领袖会晤细节",
+          "url": "https://flash.jin10.com/detail/20261027144956544800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
           "title": "美以筹划新打击的敏感时刻，沙特、土耳其、巴基斯坦三国官员将访问伊朗",
           "url": "https://wallstreetcn.com/articles/3784454",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -83,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "伊朗确认拖欠基本商品进口商40.7亿欧元外汇款项",
+          "url": "https://flash.jin10.com/detail/20261027143936437800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "伊拉克否认按美方指令关闭对伊朗边境口岸",
@@ -143,7 +176,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普狂喷：挪威是“粪坑国家”",
@@ -191,6 +224,17 @@
           "time_info": "[01时50分 ~ 09时42分]"
         },
         {
+          "title": "奥巴马称白宫修得像连锁餐厅，特朗普很不爽",
+          "url": "https://news.ifeng.com/c/8xYriizED1y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
           "title": "特朗普当众轻佻评论女歌手身材",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BD%93%E4%BC%97%E8%BD%BB%E4%BD%BB%E8%AF%84%E8%AE%BA%E5%A5%B3%E6%AD%8C%E6%89%8B%E8%BA%AB%E6%9D%90&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -208,7 +252,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -252,7 +296,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         }
@@ -260,7 +304,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "国家统计局：1—9月份，全国规模以上工业企业实现利润总额60337.4亿元，同比增长15.5%。",
@@ -269,7 +313,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -280,7 +324,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -294,6 +338,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时50分 ~ 09时42分]"
+        },
+        {
+          "title": "存储芯片龙头德明利前三季度归母净利润增长 323 倍，股价却跌去 64%，如何看待股价与业绩的背离？",
+          "url": "https://www.zhihu.com/question/2097987892370830970",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "Q3净利润同比增长137%！4400亿CRO龙头发布三季报|盘后公告集锦",
@@ -313,9 +368,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "泰国行业联合会：泰国9月国内汽车销量同比增长14.28%（8月为增长25.59%）。",
+          "url": "https://flash.jin10.com/detail/20261027144958523800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "国家统计局：1-9月规模以上工业企业利润同比增长15.5%",
@@ -324,9 +390,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "泰国行业联合会：泰国汽车制造商在洪灾后已恢复生产。泰国9月汽车产量同比下降6.08%，8月为增长10.93%。",
+          "url": "https://flash.jin10.com/detail/20261027143844281800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         },
         {
           "title": "据德国四大输电网络运营商：德国2027年用于支持可再生电力的账单将增长大约8%，至175.2亿欧元（折合196亿美元）。 其中，光伏安装占比最大，估计将达到96亿欧元。",
@@ -346,9 +423,176 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "创业板指跌超3%。工商银行盘中股价创历史新高，现涨0.58%，报8.66元。",
+          "url": "https://wallstreetcn.com/livenews/3186703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "沪指尾盘跌超1%，科创50指数跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3186699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "沪指尾盘跌超1%，深成指跌超2%，创业板指跌超2.7%。光刻机、卫星导航、CRO概念跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20261027145148818800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.71%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市上涨个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3186563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        },
+        {
+          "title": "科创50指数跌超4%，九号公司跌超8%领跌成分股。",
+          "url": "https://flash.jin10.com/detail/20261027144949441800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "【数据看盘】科创50ETF上周份额大增超百亿，多路资金联手抢筹万向钱潮",
+          "url": "https://www.cls.cn/detail/2515331",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "创业板指跌超2%，联讯仪器退出千元股行列",
+          "url": "https://wallstreetcn.com/livenews/3186687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "创业板指跌超2%，航天装备、AI芯片、CRO、AI应用等板块跌幅居前。",
+          "url": "https://flash.jin10.com/detail/20261027143724698800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "A股半导体板块持续下跌，星宸股份跌超14%，神工股份、寒武纪 、三安光电、力合微均跌超5%。",
+          "url": "https://flash.jin10.com/detail/20261027145511974800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "高盛下调韩股目标价25%，但认为“存储估值过于悲观”，韩股估值已成“全球最低”",
+          "url": "https://wallstreetcn.com/articles/3784421",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 06时03分]"
+        },
+        {
+          "title": "SK海力士又迎唱多声：“存储荒”料持续至2027年 HBM价格明年翻倍",
+          "url": "https://www.cls.cn/detail/2516148",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "应用材料宣布将增加对荷兰半导体封装设备商BE Semiconductor Industries（Besi）的战略投资，将其持股比例提升至约20%。",
+          "url": "https://wallstreetcn.com/livenews/3186472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时03分"
+        },
+        {
+          "title": "半导体封测年会将于11月4日至6日举行 多家上市公司参会",
+          "url": "https://wallstreetcn.com/livenews/3186676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         }
       ]
     },
@@ -362,11 +606,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时02分 ~ 09时42分]"
+          "appearance_count": 5,
+          "time_info": "[06时02分 ~ 15时00分]"
         },
         {
           "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
@@ -409,7 +654,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         }
@@ -417,7 +662,7 @@
     },
     {
       "keyword_group": "涨停 跌停",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股PCB概念高开，光洋股份涨停，赛腾股份涨超6%，宝鼎科技涨超4%，南亚新材、满坤科技、迅捷兴、高斯贝尔跟涨。",
@@ -426,7 +671,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -437,9 +682,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        },
+        {
+          "title": "巴西总统卢拉赢得连任，巴西主题 ETF 大跌，巴西 ETF 华夏、巴西 ETF 易方达跌停，如何解读？",
+          "url": "https://www.zhihu.com/question/2097997813539943104",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         },
         {
           "title": "卢拉逆袭吓坏市场：巴西股指期货暴跌20%触及跌停，雷亚尔期货大跌",
@@ -459,9 +715,109 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日本信息科技服务商Sakana AI将从零自研本土模型。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3186395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "据日经新闻：日本AI初创公司Sakana AI宣布，将从零开始训练自主研发的大模型。",
+          "url": "https://flash.jin10.com/detail/20261027005611289800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "日经225指数收涨1.7%，报63268.37点。 日本东证指数收涨0.6%，报3997.37点。 韩国首尔综指收涨3.1%，报5638.35点。",
+          "url": "https://wallstreetcn.com/livenews/3186683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
+        },
+        {
+          "title": "日经225指数盘中涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3186538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周一（10月26日），美联储隔夜逆回购协议（RRP）使用规模为2亿美元（交易对手1家），上个交易日报2亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3186403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的2亿美元。",
+          "url": "https://flash.jin10.com/detail/20261027011729207800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "本周不加息？美联储决议前“喉舌”重磅放风！",
+          "url": "https://www.cls.cn/detail/2516009",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        },
+        {
+          "title": "机构：通胀或仍将在美联储双重使命中占据主导地位",
+          "url": "https://flash.jin10.com/detail/20261027145109129800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时00分"
         }
       ]
     },
@@ -488,7 +844,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -499,7 +855,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -510,7 +866,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         }
@@ -558,45 +914,6 @@
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "日本信息科技服务商Sakana AI将从零自研本土模型。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3186395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "据日经新闻：日本AI初创公司Sakana AI宣布，将从零开始训练自主研发的大模型。",
-          "url": "https://flash.jin10.com/detail/20261027005611289800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "日经225指数盘中涨幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3186538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "上证 深证",
       "match_count": 3,
       "titles": [
@@ -607,7 +924,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -618,7 +935,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -629,7 +946,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         }
@@ -640,24 +957,24 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "王兴兴两次认错 宇树暴涨1100亿",
-          "url": "https://www.toutiao.com/trending/7700928117778419250/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时50分 ~ 09时42分]"
-        },
-        {
           "title": "沪指探底回升收涨0.2%，中国石油创18年高位，机器人爆发、宇树科技6天暴涨60%，“易中天”再跌，港股科网股分化、美团涨3%",
           "url": "https://wallstreetcn.com/articles/3784435",
           "source": "华尔街见闻",
           "ranks": [
             7,
             6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时50分 ~ 15时00分]"
+        },
+        {
+          "title": "王兴兴两次认错 宇树暴涨1100亿",
+          "url": "https://www.toutiao.com/trending/7700928117778419250/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            20
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -677,6 +994,46 @@
       ]
     },
     {
+      "keyword_group": "风险",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "10月27日投资避雷针：福莱新材、宇树科技等机器人概念股密集提示风险",
+          "url": "https://www.cls.cn/detail/2515947",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 15时00分]"
+        },
+        {
+          "title": "如何看待郑州马拉松一男子系绳带 9 岁儿童跑全马被禁赛三年？儿童跑马拉松有哪些健康风险？",
+          "url": "https://www.zhihu.com/question/2097127599608804818",
+          "source": "知乎",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时50分 ~ 06时03分]"
+        },
+        {
+          "title": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的",
+          "url": "https://wallstreetcn.com/articles/3784524",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "芯片 光模块",
       "match_count": 3,
       "titles": [
@@ -687,9 +1044,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时42分 ~ 15时00分]"
         },
         {
           "title": "A股半导体芯片股开盘领涨，天德钰涨超10%，东芯股份、中晶科技、力芯微、普冉股份、长川科技等纷纷高开。",
@@ -698,7 +1055,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -716,103 +1073,6 @@
       ]
     },
     {
-      "keyword_group": "存储 半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "高盛下调韩股目标价25%，但认为“存储估值过于悲观”，韩股估值已成“全球最低”",
-          "url": "https://wallstreetcn.com/articles/3784421",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时03分]"
-        },
-        {
-          "title": "应用材料宣布将增加对荷兰半导体封装设备商BE Semiconductor Industries（Besi）的战略投资，将其持股比例提升至约20%。",
-          "url": "https://wallstreetcn.com/livenews/3186472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "创业板指涨超1%，沪指涨0.1%，深成指涨0.71%，算力硬件、半导体芯片等方向跌幅居前，沪深京三市上涨个股近4000只。",
-          "url": "https://wallstreetcn.com/livenews/3186563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        },
-        {
-          "title": "【数据看盘】科创50ETF上周份额大增超百亿，多路资金联手抢筹万向钱潮",
-          "url": "https://www.cls.cn/detail/2515331",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "风险",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待郑州马拉松一男子系绳带 9 岁儿童跑全马被禁赛三年？儿童跑马拉松有哪些健康风险？",
-          "url": "https://www.zhihu.com/question/2097127599608804818",
-          "source": "知乎",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 06时03分]"
-        },
-        {
-          "title": "10月27日投资避雷针：福莱新材、宇树科技等机器人概念股密集提示风险",
-          "url": "https://www.cls.cn/detail/2515947",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "商业航天 机器人",
       "match_count": 2,
       "titles": [
@@ -823,7 +1083,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         },
@@ -834,37 +1094,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
         }
       ]
     },
     {
-      "keyword_group": "美联储 非农",
+      "keyword_group": "跌破 拉升",
       "match_count": 2,
       "titles": [
         {
-          "title": "周一（10月26日），美联储隔夜逆回购协议（RRP）使用规模为2亿美元（交易对手1家），上个交易日报2亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3186403",
+          "title": "现货黄金跌破4000美元/盎司，日内跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3186688",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "15时00分"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的2亿美元。",
-          "url": "https://flash.jin10.com/detail/20261027011729207800",
+          "title": "现货黄金跌破4000美元/盎司，日内跌0.42%。",
+          "url": "https://flash.jin10.com/detail/20261027143451072800",
           "source": "金十数据",
           "ranks": [
-            3
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "15时00分"
         }
       ]
     },
@@ -879,9 +1139,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "复盘",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "angel复盘AL比赛",
+          "url": "https://search.bilibili.com/all?keyword=angel%E5%A4%8D%E7%9B%98AL%E6%AF%94%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时00分]"
         }
       ]
     },
