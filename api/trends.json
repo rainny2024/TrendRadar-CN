@@ -1,8 +1,219 @@
 {
-  "generated_at": "2026-10-30T01:12:04.531947+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-10-30T06:11:22.614495+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "增长 亮眼",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "英特尔：预计未来三年定制硅芯片业务将以三倍速度增长。 预计2026年个人电脑市场总规模（TAM）按出货量计算将下降12%，2027年将下降10%。 “尽管如此，我们确实认为个人电脑将迎来复兴”。 明年是公司的投资之年。",
+          "url": "https://wallstreetcn.com/livenews/3190799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "暴雷！新易盛三季度净利润38.43亿元同比增长61.15%、环比下降19%，存货大增141% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784769",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 06时11分]"
+        },
+        {
+          "title": "英特尔(INTC.O)首席财务官：预计未来三年定制芯片业务将以三倍速度增长。",
+          "url": "https://flash.jin10.com/detail/20261030053522342800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "英特尔：2026年资本开支大约为200亿美元，2027年将有所增长。 希望在2027年偿还债务。 明年不会有正现金流。 目前预计2027年和2028年的净现金收入（NCI）均约为11亿美元。 公司对长期盈利能力有信心。",
+          "url": "https://wallstreetcn.com/livenews/3190796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "英特尔首席财务官：我们预计第四季度数据中心和人工智能部门（DCAI）收入将环比增长 15% 左右。 预计2026年、2027年行业服务器CPU出货量增长超过30%。",
+          "url": "https://wallstreetcn.com/livenews/3190792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "英特尔(INTC.O)首席财务官：预计第四季度数据中心与人工智能业务收入将环比增长15百分点左右。",
+          "url": "https://flash.jin10.com/detail/20261030053224545800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)CEO：预计第四季度广告收入同比增速将恢复“近20%”的增长。",
+          "url": "https://flash.jin10.com/detail/20261030052225377800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "英特尔(INTC.O)CEO：预计服务器CPU市场规模五年内最多增长五倍，从400亿美元增至逾2000亿美元。",
+          "url": "https://flash.jin10.com/detail/20261030051852106800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "亚马逊首席执行官：AWS积压订单达5780亿美元，同比增长三位数。 有信心AWS将带来比此前预期更多的收入。",
+          "url": "https://wallstreetcn.com/livenews/3190772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "英特尔CEO：关键零部件的采购承诺将在未来几个季度内增长。",
+          "url": "https://wallstreetcn.com/livenews/3190771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "新易盛：公司已对Q4及明年订单交付做好充分准备，有信心满足大幅增长的交付需求",
+          "url": "https://wallstreetcn.com/livenews/3190629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
+        {
+          "title": "英特尔公司首席执行官：第三季度的需求环境比前几个季度更为均衡。 对未来几个季度满足服务器需求的持续挑战保持“警惕”。 8月份的股权融资为未来的增长提供了财务资源。",
+          "url": "https://wallstreetcn.com/livenews/3190769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "马杜罗案主审法官去世，新任法官与特朗普“很不对付”",
+          "url": "https://news.ifeng.com/c/8xcaVgbuv5d",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 06时11分]"
+        },
+        {
+          "title": "美防长赫格塞思携家人在白宫万圣节活动上向特朗普领糖。",
+          "url": "https://flash.jin10.com/detail/20261030053944883800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "特朗普创纪录国防预算计划难获批准 五角大楼准备砍掉4000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3190797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "得州保守派领袖答凤凰：油价上涨不怪特朗普，警惕“穆斯林危机”",
+          "url": "https://original.ifeng.com/c/8xcGu6PqBfo",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 06时11分]"
+        },
+        {
+          "title": "特朗普创纪录国防预算计划难获批准 五角大楼准备砍掉4000亿美元",
+          "url": "https://flash.jin10.com/detail/20261030053317532800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "美国总统特朗普目前已抵达白宫，稍后准备在白宫与一群儿童进行庆祝万圣节的活动。此前其降落在华盛顿机场时对一名记者进行了猛烈的人身攻击。",
+          "url": "https://flash.jin10.com/detail/20261030052622216800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
     {
       "keyword_group": "美联储 非农",
       "match_count": 5,
@@ -15,19 +226,43 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 06时11分]"
         },
         {
           "title": "美联储等来的仍是“热数据”：美国9月关键通胀指标升温",
           "url": "https://www.cls.cn/detail/2519805",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 06时11分]"
+        },
+        {
+          "title": "美联储宣布维持利率不变",
+          "url": "https://www.douyin.com/hot/2718490",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 06时11分]"
+        },
+        {
+          "title": "美联储10月如期按兵不动，两人投反对票支持加息（附声明全文）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34356992",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 06时11分]"
         },
         {
           "title": "美联储如期按兵不动，重现分歧但鹰派减少，库克等两票委支持加息",
@@ -39,62 +274,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 01时12分]"
-        },
-        {
-          "title": "美联储宣布维持利率不变",
-          "url": "https://www.douyin.com/hot/2718490",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
-        },
-        {
-          "title": "美联储10月如期按兵不动，两人投反对票支持加息（附声明全文）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34356992",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马杜罗案主审法官去世，新任法官与特朗普“很不对付”",
-          "url": "https://news.ifeng.com/c/8xcaVgbuv5d",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
-        },
-        {
-          "title": "得州保守派领袖答凤凰：油价上涨不怪特朗普，警惕“穆斯林危机”",
-          "url": "https://original.ifeng.com/c/8xcGu6PqBfo",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
         }
       ]
     },
     {
       "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "王腾创业首款智能戒指",
@@ -112,56 +297,81 @@
           "url": "https://www.toutiao.com/trending/7701966143396823562/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 06时11分]"
+        },
+        {
+          "title": "李玉刚承认自己创业一败涂地",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%8E%89%E5%88%9A%E6%89%BF%E8%AE%A4%E8%87%AA%E5%B7%B1%E5%88%9B%E4%B8%9A%E4%B8%80%E8%B4%A5%E6%B6%82%E5%9C%B0%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
-      "match_count": 2,
+      "keyword_group": "芯片 光模块",
+      "match_count": 3,
       "titles": [
         {
-          "title": "暴雷！新易盛三季度净利润38.43亿元同比增长61.15%、环比下降19%，存货大增141% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784769",
-          "source": "华尔街见闻",
+          "title": "大赚220亿元！7000亿光模块龙头三季报出炉|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2519648",
+          "source": "财联社热门",
           "ranks": [
-            6
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 06时11分]"
         },
         {
-          "title": "新易盛：公司已对Q4及明年订单交付做好充分准备，有信心满足大幅增长的交付需求",
-          "url": "https://wallstreetcn.com/livenews/3190629",
-          "source": "华尔街见闻-快讯",
+          "title": "英特尔(INTC.O)首席财务官：英特尔在定制芯片、先进封装和对外晶圆代工业务方面看到巨大机遇。",
+          "url": "https://flash.jin10.com/detail/20261030053411443800",
+          "source": "金十数据",
           "ranks": [
-            30
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "06时11分"
+        },
+        {
+          "title": "亚马逊：公司计划明年向AWS之外的用户销售芯片。",
+          "url": "https://wallstreetcn.com/livenews/3190783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     },
     {
       "keyword_group": "回购",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "5家公司披露回购计划，中微公司、华虹宏力拟回购最高5亿元",
           "url": "https://www.cls.cn/detail/2519595",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 06时11分]"
         },
         {
           "title": "A股回购增持潮起：产业资本加速入场，稳市信号不断增强",
@@ -173,6 +383,79 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 01时12分]"
+        },
+        {
+          "title": "SEC文件显示，DaVita从伯克希尔哈撒韦(BRK.A.N、BRK.B.N)回购382,563股，回购后伯克希尔仍持有约2830万股。",
+          "url": "https://flash.jin10.com/detail/20261030053431941800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊首席财务官：机器人技术和人工智能正在提高生产力。 希望充分享受人工智能优势的AWS客户正在向云端迁移 。",
+          "url": "https://wallstreetcn.com/livenews/3190793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)首席财务官：机器人与人工智能正在提升生产率。",
+          "url": "https://flash.jin10.com/detail/20261030052848955800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数集体收跌 纳指跌超1% 谷歌创上市以来最大单日跌幅",
+          "url": "https://www.cls.cn/detail/2519945",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周四（10月29日）纽约尾盘，标普500股指期货最终跌0.87%，道指期货跌0.28%，纳斯达克100股指期货跌2.52%。 罗素2000股指期货涨0.97%。",
+          "url": "https://wallstreetcn.com/livenews/3190770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     },
@@ -204,26 +487,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大赚220亿元！7000亿光模块龙头三季报出炉|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2519648",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
         }
       ]
     }
