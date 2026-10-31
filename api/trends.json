@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-10-31T09:12:59.833966+08:00",
-  "total_titles_processed": 620,
+  "generated_at": "2026-10-31T15:42:13.582161+08:00",
+  "total_titles_processed": 832,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
+          "url": "https://news.ifeng.com/c/8xf1XlqX3zZ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 15时42分]"
+        },
+        {
+          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
+          "url": "https://www.cls.cn/detail/2521415",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 15时42分]"
+        },
         {
           "title": "阿拉斯加上演“真假美猴王”？特朗普下令严查",
           "url": "https://news.ifeng.com/c/8xeG9SuF3iC",
@@ -17,17 +40,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 05时13分]"
-        },
-        {
-          "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
-          "url": "https://news.ifeng.com/c/8xf1XlqX3zZ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
         },
         {
           "title": "据CBS：美国总统特朗普：线上集会是很好的工具，当地时间周一将举行“相当多场”线上集会。",
@@ -41,28 +53,18 @@
           "time_info": "05时13分"
         },
         {
-          "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
-          "url": "https://www.cls.cn/detail/2521415",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
           "title": "特朗普称美伊战争将很快结束 中东局势再临关键窗口",
           "url": "https://www.cls.cn/detail/2521289",
           "source": "财联社热门",
           "ranks": [
             10,
             6,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 09时12分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 15时42分]"
         },
         {
           "title": "王骁谈特朗普中期选举处境",
@@ -70,11 +72,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 09时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 15时42分]"
         },
         {
           "title": "怎么看特朗普前律师疑卖特赦",
@@ -87,6 +90,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 05时13分]"
+        },
+        {
+          "title": "联邦法官叫停特朗普政府对加州选举官员的刑事威胁",
+          "url": "https://flash.jin10.com/detail/20261031142219454800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "美国总统特朗普：我们在伊朗花掉的任何钱，都已经通过我们在委内瑞拉的行动加倍弥补回来，赚取了数千亿美元，很多很多倍。",
@@ -106,7 +120,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -139,7 +153,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -161,7 +175,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -172,7 +186,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -212,124 +226,8 @@
       ]
     },
     {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
-          "url": "https://www.cls.cn/detail/2521391",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "美股恐慌指数VIX波动率日内涨幅达36.5%，报23.52，创4月份以来盘中新高；标普500指数目前跌2.4%。 道指跌737点，跌幅1.4%；纳指跌968.73点，跌幅3.7%，纳斯达克100指数狂泄1270点，跌幅4.3%，费城半导体指数跌1053.994点，跌幅9.15%。",
-          "url": "https://wallstreetcn.com/livenews/3191844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "美元指数30日下跌",
-          "url": "https://flash.jin10.com/detail/20261031042419551800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "美股费城半导体指数跌幅扩大至7.3%，英伟达跌3.59%，博通跌5.34%，美光跌4.99%，英特尔跌28.34%，AMD跌9.63%，高通跌11.19%，台积电跌5.33%，阿斯麦跌5.65%。 存储芯片指数跌超7.6%，标普半导体设备指数跌6.1%，AI软件先驱指数跌4.7%、AI赢家指数跌5.5%。闪迪、高通跌超11%，SK海力士ADR跌7.8%，西部数据跌6.5%。 纳斯达克100指数重新跌超3%。",
-          "url": "https://wallstreetcn.com/livenews/3191777",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "周五（10月30日），美股AI软件先驱指数跌4.62%，报125.42点，10月份累跌2.89%，整体大致呈现出M形走势。 周五当天，成分股Datadog收跌11.5%，MongoDB跌8.31%，Snowflake、甲骨文、Palantir至少跌6.27%，",
-          "url": "https://wallstreetcn.com/livenews/3191877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "周五（10月30日），美股人工智能（AI）赢家指数跌5.87%，报360.85点，10月份累跌15.05%，10月6-16日持续走低。 周五当天，成分股闪迪、高意公司COHR、Astera Labs、AMD、戴尔、Nebius Group、迈威尔科技领跌。",
-          "url": "https://wallstreetcn.com/livenews/3191876",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "美股指数集体低开 英特尔跌超25%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B7%8C%E8%B6%8525%25",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "周五（10月30日）纽约尾盘，现货黄金跌3.65%，报3874.76美元/盎司，10月份累跌6.80%。 COMEX黄金期货累跌7.05%，报3884.90美元/盎司。 现货白银跌5.83%，报49.1077美元/盎司，10月份累跌18.73%。 COMEX白银期货累跌19%，报49.135美元/盎司。 COMEX铜期货跌1.41%，报6.5095美元/磅，10月份累跌约1.83%。 美股费城金银指数收跌5.45%，10月份累跌12.81%。 全天交易的纽交所金矿开采商指数收跌4.85%，10月份累跌11.9%。",
-          "url": "https://wallstreetcn.com/livenews/3191862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "纳斯达克指数再度刷新盘中低点，美债期货成交量骤增",
-          "url": "https://wallstreetcn.com/livenews/3191819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "美股七巨头指数跌向200日均线，10月份累跌约5.3%",
-          "url": "https://wallstreetcn.com/livenews/3191849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "增长 亮眼",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "长鑫科技Q3营收同比增长6倍 归母净利扭亏",
@@ -342,6 +240,40 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 09时12分]"
+        },
+        {
+          "title": "陈茂波：2026年有望是过去五年香港全年经济增长最强劲一年",
+          "url": "https://wallstreetcn.com/livenews/3191937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "长鑫科技Q3归母净利润544.35亿元，同比扭亏、环比增长3.01%，拟最高20亿元回购公司股份 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784870",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 15时42分]"
+        },
+        {
+          "title": "陈茂波：香港经济增长势头强劲，全年增幅或创五年新高",
+          "url": "https://flash.jin10.com/detail/20261031143819216800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "欧洲央行首席经济学家Lane：人工智能（AI）对通胀的影响是有限的。 AI已经在支持欧元区的（经济）活动。 AI对（经济）增长和信用动能都做出贡献。 AI可能会大幅促进生产力的提高。 众多AI企业对货币政策更敏感。 AI造成的最终经济影响还不得而知。",
@@ -365,17 +297,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 05时13分]"
-        },
-        {
-          "title": "长鑫科技Q3归母净利润544.35亿元，同比扭亏、环比增长3.01%，拟最高20亿元回购公司股份 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784870",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
         },
         {
           "title": "闪迪Q1财季营收同比暴增近4倍，Q2营收指引超预期，数据中心仍是明年增长核心｜财报见闻",
@@ -417,7 +338,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -442,6 +363,123 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
+          "url": "https://www.cls.cn/detail/2521391",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 15时42分]"
+        },
+        {
+          "title": "美股恐慌指数VIX波动率日内涨幅达36.5%，报23.52，创4月份以来盘中新高；标普500指数目前跌2.4%。 道指跌737点，跌幅1.4%；纳指跌968.73点，跌幅3.7%，纳斯达克100指数狂泄1270点，跌幅4.3%，费城半导体指数跌1053.994点，跌幅9.15%。",
+          "url": "https://wallstreetcn.com/livenews/3191844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美元指数30日下跌",
+          "url": "https://flash.jin10.com/detail/20261031042419551800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美股费城半导体指数跌幅扩大至7.3%，英伟达跌3.59%，博通跌5.34%，美光跌4.99%，英特尔跌28.34%，AMD跌9.63%，高通跌11.19%，台积电跌5.33%，阿斯麦跌5.65%。 存储芯片指数跌超7.6%，标普半导体设备指数跌6.1%，AI软件先驱指数跌4.7%、AI赢家指数跌5.5%。闪迪、高通跌超11%，SK海力士ADR跌7.8%，西部数据跌6.5%。 纳斯达克100指数重新跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3191777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "周五（10月30日），美股AI软件先驱指数跌4.62%，报125.42点，10月份累跌2.89%，整体大致呈现出M形走势。 周五当天，成分股Datadog收跌11.5%，MongoDB跌8.31%，Snowflake、甲骨文、Palantir至少跌6.27%，",
+          "url": "https://wallstreetcn.com/livenews/3191877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "周五（10月30日），美股人工智能（AI）赢家指数跌5.87%，报360.85点，10月份累跌15.05%，10月6-16日持续走低。 周五当天，成分股闪迪、高意公司COHR、Astera Labs、AMD、戴尔、Nebius Group、迈威尔科技领跌。",
+          "url": "https://wallstreetcn.com/livenews/3191876",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "美股指数集体低开 英特尔跌超25%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E8%8B%B1%E7%89%B9%E5%B0%94%E8%B7%8C%E8%B6%8525%25",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "周五（10月30日）纽约尾盘，现货黄金跌3.65%，报3874.76美元/盎司，10月份累跌6.80%。 COMEX黄金期货累跌7.05%，报3884.90美元/盎司。 现货白银跌5.83%，报49.1077美元/盎司，10月份累跌18.73%。 COMEX白银期货累跌19%，报49.135美元/盎司。 COMEX铜期货跌1.41%，报6.5095美元/磅，10月份累跌约1.83%。 美股费城金银指数收跌5.45%，10月份累跌12.81%。 全天交易的纽交所金矿开采商指数收跌4.85%，10月份累跌11.9%。",
+          "url": "https://wallstreetcn.com/livenews/3191862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "纳斯达克指数再度刷新盘中低点，美债期货成交量骤增",
+          "url": "https://wallstreetcn.com/livenews/3191819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "美股七巨头指数跌向200日均线，10月份累跌约5.3%",
+          "url": "https://wallstreetcn.com/livenews/3191849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         }
       ]
     },
@@ -478,7 +516,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -500,7 +538,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -511,7 +549,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -544,15 +582,98 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         }
       ]
     },
     {
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "卡塔尔与伊朗举行会谈，推动美伊达成协议",
+          "url": "https://wallstreetcn.com/livenews/3191935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "伊朗外交部抨击加拿大支持阿联酋的岛屿主张：此举无异于自断根基",
+          "url": "https://flash.jin10.com/detail/20261031141200546800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "美国中央司令部：伊朗革命卫队有关击毁美军海上无人艇的说法不实。 事实上，目前美国在中东地区的所有军用无人水面艇均已确认状态完好，其中包括一支正在霍尔木兹海峡巡逻、为美国中央司令部防御体系提供支持的先进海上无人艇分队。",
+          "url": "https://wallstreetcn.com/livenews/3191832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "伊朗官员：最高领袖对各领域的全面掌握是国家荣耀的原因",
+          "url": "https://flash.jin10.com/detail/20261030235227242800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台：伊朗革命卫队称，该油轮无视不得使用霍尔木兹海峡“未经授权航线”的警告。",
+          "url": "https://flash.jin10.com/detail/20261031040457351800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：将不再有任何红线",
+          "url": "https://flash.jin10.com/detail/20261031121441232800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台：伊朗革命卫队称，第四艘油轮在霍尔木兹海峡触雷后发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20261031040351337800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美联储 非农",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "美联储戴利：人工智能关系到价格稳定和就业使命。",
@@ -588,6 +709,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "美联储都暂停加息了，金价为何反而涨不动？",
+          "url": "https://flash.jin10.com/detail/20261031123430671800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "美联储票委Logan：仍然预计还需加息两次，但节奏可循序渐进",
           "url": "https://wallstreetcn.com/livenews/3191826",
           "source": "华尔街见闻-快讯",
@@ -608,56 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国中央司令部：伊朗革命卫队有关击毁美军海上无人艇的说法不实。 事实上，目前美国在中东地区的所有军用无人水面艇均已确认状态完好，其中包括一支正在霍尔木兹海峡巡逻、为美国中央司令部防御体系提供支持的先进海上无人艇分队。",
-          "url": "https://wallstreetcn.com/livenews/3191832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
         },
         {
-          "title": "伊朗官员：最高领袖对各领域的全面掌握是国家荣耀的原因",
-          "url": "https://flash.jin10.com/detail/20261030235227242800",
+          "title": "一周热榜精选：金银科技股遭遇黑色星期五！沃什未解美联储12月悬念",
+          "url": "https://flash.jin10.com/detail/20261031114837541800",
           "source": "金十数据",
           "ranks": [
-            16
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台：伊朗革命卫队称，该油轮无视不得使用霍尔木兹海峡“未经授权航线”的警告。",
-          "url": "https://flash.jin10.com/detail/20261031040457351800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台：伊朗革命卫队称，第四艘油轮在霍尔木兹海峡触雷后发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20261031040351337800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "15时42分"
         }
       ]
     },
@@ -695,7 +788,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -706,7 +799,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         }
@@ -714,7 +807,7 @@
     },
     {
       "keyword_group": "回购",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌暴跌背后的逻辑：AI烧穿了现金流，烧没了回购，还烧着了搜索",
@@ -723,7 +816,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -732,11 +825,23 @@
           "url": "https://www.cls.cn/detail/2521354",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 15时42分]"
+        },
+        {
+          "title": "长鑫科技前三季度净利润 1320 亿元，营收暴增 7 倍多，拟最高 20 亿元回购股份并注销其中 50%，如何解读？",
+          "url": "https://www.zhihu.com/question/2099567932477130631",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
         },
         {
           "title": "淡水河谷高管：公司第四季度货运需求已完全覆盖，2027年货运需求已锁定超过80%。 预计2026年铜矿全口径成本（all-in costs）将接近指引区间下限。 预计第四季度镍成本将下降，回落至与第二季度大致相当的水平。 公司已对2027年预期船用燃料（bunker fuel）消耗的67%进行了套期保值。 预计2026年资本支出（CAPEX）将落在指引区间下限附近。 公司正按计划实现2026年各产品线的产量指引。 对实现2026年全部成本指引充满信心。 全球海运铁矿石供应中约10%实际处于”亏损”状态，可能面临调整或关停。 预计第四季度C1成本和全口径成本与第三季度相比相对稳定。 目前公司股价被低估，股票回购极具吸引力。 目前未预见重大并购（M&A）机会。 公司将关注并购可能性，因为当前可能是并购标的相对便宜的窗口期。",
@@ -752,6 +857,113 @@
       ]
     },
     {
+      "keyword_group": "芯片 光模块",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】美芯片股遭重挫，英特尔跌逾28%；原油集体走高、黄金大幅下挫；长鑫科技、贵州茅台等披露三季报",
+          "url": "https://www.cls.cn/detail/2521408",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 15时42分]"
+        },
+        {
+          "title": "英特尔暴跌！Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784798",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 05时13分]"
+        },
+        {
+          "title": "芯片公司股价为何暴跌",
+          "url": "https://www.toutiao.com/trending/7702694580780535359/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科技股抛售加剧，美股低开低走，费半跌超6%，英特尔暴跌超30%，美债上涨，白银跌破50美元",
+          "url": "https://wallstreetcn.com/articles/3784816",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "黄金跌破 3900 美元、白银失守 50 美元，这一轮从历史高点的回落，是深度调整还是大级别上涨行情已经终结？",
+          "url": "https://www.zhihu.com/question/2099634904501842090",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "黄金为何再次跌破4000美元",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "网友无意中摔坏孩子的双层保温碗，发现里面满是霉菌，水都是臭的，为啥会这样？使用这种碗有啥风险？",
+          "url": "https://www.zhihu.com/question/2096642260750357241",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时41分 ~ 15时42分]"
+        },
+        {
+          "title": "英国央行考虑放宽房贷限制，为高风险贷款开闸",
+          "url": "https://flash.jin10.com/detail/20261031131319556800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 机器人",
       "match_count": 2,
       "titles": [
@@ -762,7 +974,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         },
@@ -776,34 +988,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】美芯片股遭重挫，英特尔跌逾28%；原油集体走高、黄金大幅下挫；长鑫科技、贵州茅台等披露三季报",
-          "url": "https://www.cls.cn/detail/2521408",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        },
-        {
-          "title": "英特尔暴跌！Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784798",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 05时13分]"
         }
       ]
     },
@@ -858,35 +1042,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "科技股抛售加剧，美股低开低走，费半跌超6%，英特尔暴跌超30%，美债上涨，白银跌破50美元",
-          "url": "https://wallstreetcn.com/articles/3784816",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "黄金为何再次跌破4000美元",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%B8%BA%E4%BD%95%E5%86%8D%E6%AC%A1%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时12分"
         }
@@ -918,11 +1074,12 @@
           "url": "https://wallstreetcn.com/articles/3784820",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 15时42分]"
         }
       ]
     },
@@ -937,7 +1094,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
         }
