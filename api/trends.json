@@ -1,23 +1,370 @@
 {
-  "generated_at": "2026-10-31T15:42:13.582161+08:00",
-  "total_titles_processed": 832,
+  "generated_at": "2026-10-31T22:00:55.209572+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 19,
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 32,
       "titles": [
         {
-          "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
-          "url": "https://news.ifeng.com/c/8xf1XlqX3zZ",
-          "source": "凤凰网",
+          "title": "伊朗外长：伊朗将继续坚持和抵抗，并凭借自身能力渡过这一艰难时期。",
+          "url": "https://flash.jin10.com/detail/20261031212151756800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：伊方暂无与美方会谈的计划",
+          "url": "https://wallstreetcn.com/livenews/3191984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：我们不否认经济压力的存在，但绝不会屈服，也不会放弃尊严。",
+          "url": "https://flash.jin10.com/detail/20261031212009314800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：目前没有与美国官员会面的计划",
+          "url": "https://wallstreetcn.com/livenews/3191982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：伊朗接受国际原子能机构监督的核设施遭到袭击，而该机构没有针对这类情况的检查规程。伊朗与国际原子能机构的合作距离恢复正常状态仍相去甚远。",
+          "url": "https://flash.jin10.com/detail/20261031211942456800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "卡塔尔与伊朗举行会谈，推动美伊达成协议",
+          "url": "https://wallstreetcn.com/livenews/3191935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 15时42分]"
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
+        {
+          "title": "伊朗外长：伊朗是《不扩散核武器条约》的缔约国，并遵守该条约规定的义务。",
+          "url": "https://flash.jin10.com/detail/20261031211635766800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：我们不排除任何爆发战争的可能性，并已为所有情况做好准备，我们已升级武器装备、弥补了薄弱环节、测试了新型武器，部队已处于最高战备状态。",
+          "url": "https://flash.jin10.com/detail/20261031211611468800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗最高领袖：要对敌方威胁作立即回应",
+          "url": "https://www.toutiao.com/trending/7702780604714061322/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外交部抨击加拿大支持阿联酋的岛屿主张：此举无异于自断根基",
+          "url": "https://flash.jin10.com/detail/20261031141200546800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "伊朗外长：按照我方条件重新开放霍尔木兹海峡，将为就悬而未决的问题与华盛顿恢复谈判铺平道路。",
+          "url": "https://flash.jin10.com/detail/20261031211525288800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：美国重启谈判的举措是“积极的一步”。 目前没有与美国官员会面的计划。 伊朗代表团将在多哈继续会谈。 卡塔尔和巴基斯坦的调解人正在讨论伊朗的条件。 我们要求承认与阿曼商定的航线。 我们要求关闭所有其他霍尔木兹航线。 我们不排除重返战争的可能性。 距离恢复与国际原子能机构的合作还很遥远。",
+          "url": "https://wallstreetcn.com/livenews/3191978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：伊朗要求停止战争，并在所有战线上结束战争，包括黎巴嫩战线。",
+          "url": "https://flash.jin10.com/detail/20261031211414034800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗代表团前往多哈，与卡塔尔举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3191977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：我们要求承认我们与阿曼在霍尔木兹海峡共同划定的新航道，并关闭其余航道。",
+          "url": "https://flash.jin10.com/detail/20261031211259403800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：伊朗提出的条件包括解除《伊斯兰堡备忘录》签署后实施的制裁，以及缩减美国在该地区的驻军规模。我们还要求恢复石油制裁豁免，并解冻伊朗所有被冻结资产，包括存放在卡塔尔的资金。",
+          "url": "https://flash.jin10.com/detail/20261031211033650800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：卡塔尔方面提议将伊朗提案的执行期限缩短至5天。现阶段，我们已达成一项将实施期缩短至两天的提案。",
+          "url": "https://flash.jin10.com/detail/20261031210630433800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：在重新开放霍尔木兹海峡的问题上，目前摆在桌面上的只有伊朗提出的方案。",
+          "url": "https://flash.jin10.com/detail/20261031210539755800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长：感谢卡塔尔和巴基斯坦方面的努力和持续沟通。",
+          "url": "https://flash.jin10.com/detail/20261031210426548800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "美国中央司令部：伊朗革命卫队有关击毁美军海上无人艇的说法不实。 事实上，目前美国在中东地区的所有军用无人水面艇均已确认状态完好，其中包括一支正在霍尔木兹海峡巡逻、为美国中央司令部防御体系提供支持的先进海上无人艇分队。",
+          "url": "https://wallstreetcn.com/livenews/3191832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "伊朗外长：仔细研究了万斯的信函 目前没有与美国官员会面的计划",
+          "url": "https://flash.jin10.com/detail/20261031210345711800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗官员：最高领袖对各领域的全面掌握是国家荣耀的原因",
+          "url": "https://flash.jin10.com/detail/20261030235227242800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "伊朗代表团前往多哈 与卡塔尔举行会谈",
+          "url": "https://flash.jin10.com/detail/20261031205812938800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台：伊朗革命卫队称，该油轮无视不得使用霍尔木兹海峡“未经授权航线”的警告。",
+          "url": "https://flash.jin10.com/detail/20261031040457351800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：必须通过非军事防御措施保护关键基础设施和资产",
+          "url": "https://flash.jin10.com/detail/20261031205736098800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：将不再有任何红线",
+          "url": "https://flash.jin10.com/detail/20261031121441232800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "美媒爆美国或于11月4日攻击伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%AA%92%E7%88%86%E7%BE%8E%E5%9B%BD%E6%88%96%E4%BA%8E11%E6%9C%884%E6%97%A5%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台：伊朗革命卫队称，第四艘油轮在霍尔木兹海峡触雷后发生爆炸。",
+          "url": "https://flash.jin10.com/detail/20261031040351337800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗代表团已抵达多哈，但目前尚无在卡塔尔与美国举行会谈的安排。伊朗代表团此行是为了推进近期与卡塔尔方面谈判相关的事务。",
+          "url": "https://flash.jin10.com/detail/20261031203342913800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "据Axios：由卡塔尔外交官阿里·阿卜杜拉·阿里·塔瓦迪率领的卡塔尔调解代表团正在多哈与伊朗副外长继续进行会谈。一位外交消息人士透露，卡塔尔调解团一直与白宫保持联系。目前，美伊双方尚未就恢复直接谈判达成一致，美国代表团抵达多哈的具体日期也尚未确定。",
+          "url": "https://flash.jin10.com/detail/20261031203108170800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗最高领袖：要对敌方威胁立即采取有效应对措施",
+          "url": "https://wallstreetcn.com/livenews/3191956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊发表声明：必须对任何威胁立即予以回应。 如果敌人恢复攻击，最终结局将由伊朗决定。",
+          "url": "https://wallstreetcn.com/livenews/3191953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 21,
+      "titles": [
         {
           "title": "特朗普据悉计划在中期选举次日恢复对伊朗的打击 | 环球市场",
           "url": "https://www.cls.cn/detail/2521415",
@@ -25,6 +372,17 @@
           "ranks": [
             5,
             4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 22时00分]"
+        },
+        {
+          "title": "美媒：特朗普政府已告知盟友打击伊朗具体日期",
+          "url": "https://news.ifeng.com/c/8xf1XlqX3zZ",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -73,11 +431,12 @@
           "ranks": [
             15,
             20,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 15时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 22时00分]"
         },
         {
           "title": "怎么看特朗普前律师疑卖特赦",
@@ -92,13 +451,24 @@
           "time_info": "[00时22分 ~ 05时13分]"
         },
         {
+          "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日",
+          "url": "https://www.cls.cn/detail/2521560",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
           "title": "联邦法官叫停特朗普政府对加州选举官员的刑事威胁",
           "url": "https://flash.jin10.com/detail/20261031142219454800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -180,6 +550,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "特朗普抱怨：28天连轴转，真是够了",
+          "url": "https://wallstreetcn.com/livenews/3191972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
           "title": "报道：特朗普计划在中期选举次日恢复对伊朗的打击",
           "url": "https://wallstreetcn.com/livenews/3191861",
           "source": "华尔街见闻-快讯",
@@ -227,7 +608,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "长鑫科技Q3营收同比增长6倍 归母净利扭亏",
@@ -248,7 +629,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -271,7 +652,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -321,6 +702,17 @@
           "time_info": "00时22分"
         },
         {
+          "title": "消息人士：日本修订“安保三文件” 欲将国防与经济增长挂钩",
+          "url": "https://wallstreetcn.com/livenews/3191963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
           "title": "同比增长127% 今年前9个月中瑞双边贸易额达890亿美元",
           "url": "https://wallstreetcn.com/livenews/3191766",
           "source": "华尔街见闻-快讯",
@@ -368,7 +760,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：三大指数全线收跌 纳指跌近3% 英特尔创52年来最大日跌幅",
@@ -379,8 +771,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 15时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 22时00分]"
         },
         {
           "title": "美股恐慌指数VIX波动率日内涨幅达36.5%，报23.52，创4月份以来盘中新高；标普500指数目前跌2.4%。 道指跌737点，跌幅1.4%；纳指跌968.73点，跌幅3.7%，纳斯达克100指数狂泄1270点，跌幅4.3%，费城半导体指数跌1053.994点，跌幅9.15%。",
@@ -403,6 +795,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "AI烧钱回报遭拷问！盘中英特尔创纪录暴跌30%、芯片指数跌超9%，科技股“失血”超万亿美元",
+          "url": "https://wallstreetcn.com/articles/3784890",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
         },
         {
           "title": "美股费城半导体指数跌幅扩大至7.3%，英伟达跌3.59%，博通跌5.34%，美光跌4.99%，英特尔跌28.34%，AMD跌9.63%，高通跌11.19%，台积电跌5.33%，阿斯麦跌5.65%。 存储芯片指数跌超7.6%，标普半导体设备指数跌6.1%，AI软件先驱指数跌4.7%、AI赢家指数跌5.5%。闪迪、高通跌超11%，SK海力士ADR跌7.8%，西部数据跌6.5%。 纳斯达克100指数重新跌超3%。",
@@ -485,7 +888,7 @@
     },
     {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "纳斯达克100指数较10月高位回撤10%，料将进入回调阶段。",
@@ -499,6 +902,17 @@
           "time_info": "05时13分"
         },
         {
+          "title": "Meta、谷歌、英特尔增发认购者集体浮亏，标普下调Meta评级展望",
+          "url": "https://wallstreetcn.com/articles/3784895",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
+        },
+        {
           "title": "纳斯达克100指数跌幅扩大至4%，成分股英特尔目前跌31%，闪迪跌15.1%，ALAB跌13.6%，迈威尔科技、高通、Arm控股、Datadog、AMD、Nebius、CoreWeave、Lumentum跌超10%。",
           "url": "https://wallstreetcn.com/livenews/3191838",
           "source": "华尔街见闻-快讯",
@@ -508,6 +922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "标普下调Meta信用展望！巨额资本支出和负自由现金流为主要担忧",
+          "url": "https://www.cls.cn/detail/2521522",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
         },
         {
           "title": "标普道琼斯指数公司：将Okta纳入标普500指数，取代Kenvue。 将McGrath RentCorp.纳入标普小盘股600指数，取代Glaukos。",
@@ -589,89 +1014,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "卡塔尔与伊朗举行会谈，推动美伊达成协议",
-          "url": "https://wallstreetcn.com/livenews/3191935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "伊朗外交部抨击加拿大支持阿联酋的岛屿主张：此举无异于自断根基",
-          "url": "https://flash.jin10.com/detail/20261031141200546800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "美国中央司令部：伊朗革命卫队有关击毁美军海上无人艇的说法不实。 事实上，目前美国在中东地区的所有军用无人水面艇均已确认状态完好，其中包括一支正在霍尔木兹海峡巡逻、为美国中央司令部防御体系提供支持的先进海上无人艇分队。",
-          "url": "https://wallstreetcn.com/livenews/3191832",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "伊朗官员：最高领袖对各领域的全面掌握是国家荣耀的原因",
-          "url": "https://flash.jin10.com/detail/20261030235227242800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台：伊朗革命卫队称，该油轮无视不得使用霍尔木兹海峡“未经授权航线”的警告。",
-          "url": "https://flash.jin10.com/detail/20261031040457351800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "伊朗外长阿拉格齐：将不再有任何红线",
-          "url": "https://flash.jin10.com/detail/20261031121441232800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时42分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台：伊朗革命卫队称，第四艘油轮在霍尔木兹海峡触雷后发生爆炸。",
-          "url": "https://flash.jin10.com/detail/20261031040351337800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美联储 非农",
       "match_count": 7,
       "titles": [
@@ -715,7 +1057,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
@@ -748,7 +1090,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
@@ -869,8 +1211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 15时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 22时00分]"
         },
         {
           "title": "英特尔暴跌！Q4指引远逊预期，以色列工厂爆炸，PC需求疲软，AI芯片供应受限｜财报见闻",
@@ -916,11 +1258,12 @@
           "url": "https://www.zhihu.com/question/2099634904501842090",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 22时00分]"
         },
         {
           "title": "黄金为何再次跌破4000美元",
@@ -944,11 +1287,12 @@
           "url": "https://www.zhihu.com/question/2096642260750357241",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时41分 ~ 15时42分]"
+          "appearance_count": 3,
+          "time_info": "[15时41分 ~ 22时00分]"
         },
         {
           "title": "英国央行考虑放宽房贷限制，为高风险贷款开闸",
@@ -957,7 +1301,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         }
@@ -1080,6 +1424,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时12分 ~ 15时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "暴涨",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "江苏首富夫妇身家一年暴涨1120亿",
+          "url": "https://www.baidu.com/s?wd=%E6%B1%9F%E8%8B%8F%E9%A6%96%E5%AF%8C%E5%A4%AB%E5%A6%87%E8%BA%AB%E5%AE%B6%E4%B8%80%E5%B9%B4%E6%9A%B4%E6%B6%A81120%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时00分"
         }
       ]
     },
