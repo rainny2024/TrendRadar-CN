@@ -1,12 +1,56 @@
 {
-  "generated_at": "2026-11-04T02:10:58.731384+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-11-04T07:47:16.959838+08:00",
+  "total_titles_processed": 443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "特朗普欲阻止加州清点2万多张选票，美最高法驳回",
+          "url": "https://original.ifeng.com/c/8xkm9r1gXqn",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
+        },
+        {
+          "title": "哈里斯“复出”猛批特朗普，直言“美国民众已经等不起了”",
+          "url": "https://news.ifeng.com/c/8xku0TfY0Pg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
+        },
+        {
+          "title": "美国总统特朗普：我们似乎正在实现所有目标。",
+          "url": "https://flash.jin10.com/detail/20261104073859591800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "美国总统特朗普表示，美国没有立即打击伊朗的计划。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3193639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
         {
           "title": "据纽约时报：以色列分享情报，声称伊朗正考虑使用化学武器。美国官员对以色列的报告意见不一，一些人将其与2002年伊拉克大规模杀伤性武器情报相提并论；部分美国和海湾官员怀疑内塔尼亚胡正试图迫使特朗普重新卷入战争。",
           "url": "https://flash.jin10.com/detail/20261104015216705800",
@@ -19,37 +63,50 @@
           "time_info": "02时10分"
         },
         {
-          "title": "特朗普欲阻止加州清点2万多张选票，美最高法驳回",
-          "url": "https://original.ifeng.com/c/8xkm9r1gXqn",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：（关于伊朗）我们似乎正在得到我们想要的一切。",
+          "url": "https://flash.jin10.com/detail/20261104073754248800",
+          "source": "金十数据",
           "ranks": [
-            4
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "07时47分"
+        },
+        {
+          "title": "据英国金融时报：特朗普表示，美国目前没有立即打击伊朗的计划。",
+          "url": "https://flash.jin10.com/detail/20261104073622363800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
           "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
         },
         {
-          "title": "哈里斯“复出”猛批特朗普，直言“美国民众已经等不起了”",
-          "url": "https://news.ifeng.com/c/8xku0TfY0Pg",
-          "source": "凤凰网",
+          "title": "伊朗拒绝开放霍尔木兹，要求美国回应七项条件，特朗普称美军发动“小规模攻击”",
+          "url": "https://wallstreetcn.com/articles/3785095",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
         },
         {
           "title": "胡锡进：若特朗普真对伊朗使用核武器，世界政治规则将被改写",
@@ -59,30 +116,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
         },
         {
           "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34393113",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
         },
         {
-          "title": "伊朗拒绝开放霍尔木兹，要求美国回应七项条件，特朗普称美军发动“小规模攻击”",
-          "url": "https://wallstreetcn.com/articles/3785095",
-          "source": "华尔街见闻",
+          "title": "特朗普回应中期选举魔咒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%AD%94%E5%92%92%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            10
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普宣布停止每年40亿美元对以军援：以色列已不再需要这笔钱",
+          "url": "https://www.cls.cn/detail/2524374",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 07时47分]"
         },
         {
           "title": "美国总统特朗普：将林肯纪念堂倒影池命名为“特朗普”只是玩笑，是《每日邮报》歪曲报道。",
@@ -96,6 +166,28 @@
           "time_info": "02时10分"
         },
         {
+          "title": "特朗普突然宣布年底前停止对以军援助！以色列安全体系震惊",
+          "url": "https://flash.jin10.com/detail/20261104065705958800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "特朗普民调支持率曾一度跌至 31%，创下历史最低纪录，问题出在哪里？该如何「翻盘」？",
+          "url": "https://www.zhihu.com/question/2099492639410058219",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
           "title": "美国总统特朗普：关岛一直被认为是民主党的传统优势地区，但共和党刚刚提前宣布在州长选举中获胜，祝贺托尼·阿达（Tony Ada）！此外，共和党还取得了关岛参议院多数席位。真令人惊讶，希望这预示着接下来还会有更多好消息！",
           "url": "https://flash.jin10.com/detail/20261104011208331800",
           "source": "金十数据",
@@ -107,22 +199,34 @@
           "time_info": "02时10分"
         },
         {
-          "title": "特朗普回应中期选举魔咒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%AD%94%E5%92%92%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "美国民主党全国委员会主席：只要特朗普在任，就不应低估他",
+          "url": "https://flash.jin10.com/detail/20261104065450455800",
+          "source": "金十数据",
           "ranks": [
-            30
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "07时47分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权......",
+          "url": "https://wallstreetcn.com/articles/3785079",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
+        },
         {
           "title": "以色列告诉美国：伊朗考虑使用化学武器。（美国媒体纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3193519",
@@ -135,15 +239,38 @@
           "time_info": "02时10分"
         },
         {
-          "title": "伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权......",
-          "url": "https://wallstreetcn.com/articles/3785079",
+          "title": "边谈边打！报道：美军中选前夕袭击了伊朗格什姆岛，谈判信号同步推进",
+          "url": "https://wallstreetcn.com/articles/3785059",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
+        },
+        {
+          "title": "美伊停战谈判仍存重大分歧！伊朗坚持七项条件：否则霍尔木兹海峡不会重开",
+          "url": "https://www.cls.cn/detail/2524356",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 07时47分]"
+        },
+        {
+          "title": "美官员称美袭击伊朗格什姆岛",
+          "url": "https://www.douyin.com/hot/2726467",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 07时47分]"
         },
         {
           "title": "卡塔尔外交部：将继续努力弥合美国与伊朗之间的分歧",
@@ -151,17 +278,6 @@
           "source": "金十数据",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
-        },
-        {
-          "title": "边谈边打！报道：美军中选前夕袭击了伊朗格什姆岛，谈判信号同步推进",
-          "url": "https://wallstreetcn.com/articles/3785059",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -190,6 +306,17 @@
           "time_info": "02时10分"
         },
         {
+          "title": "伊朗将11月销往亚洲的轻质原油价格定为较阿曼/迪拜均价贴水6.90美元/桶（10月为贴水4.55美元/桶）。",
+          "url": "https://flash.jin10.com/detail/20261104063307638800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
           "title": "伊朗国家电视台和新闻机构正在播放一段视频，指导民众在遭受核打击时如何应对。",
           "url": "https://wallstreetcn.com/livenews/3193488",
           "source": "华尔街见闻-快讯",
@@ -214,37 +341,89 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 3,
+      "keyword_group": "芯片 光模块",
+      "match_count": 4,
       "titles": [
         {
-          "title": "【每日收评】创业板指跌近3%，中际旭创重挫12%，多只宽基ETF放量破百亿",
-          "url": "https://www.cls.cn/detail/2523863",
+          "title": "美国中期选举日，芯片股三日大跌后反弹，纳指涨0.83%，盘后AMD大涨近8%",
+          "url": "https://wallstreetcn.com/articles/3785045",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 07时47分]"
+        },
+        {
+          "title": "【早报】潘功胜发声！维护金融市场平稳运行；美芯片股，全线反弹；原油黄金，双双下跌；新易盛、美的集团、五粮液披露回购进展",
+          "url": "https://www.cls.cn/detail/2524406",
           "source": "财联社热门",
           "ranks": [
-            6
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 07时47分]"
+        },
+        {
+          "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
+          "url": "https://wallstreetcn.com/articles/3784983",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
         },
         {
-          "title": "沪指尾盘险守3600点，多只宽基ETF尾盘“爆量”，科创50跌近4%，“易中天”集体大跌，电池产业链逆势拉升",
-          "url": "https://wallstreetcn.com/articles/3785042",
-          "source": "华尔街见闻",
+          "title": "突发！450亿光模块概念股签订13亿元磷化铟衬底供货协议|盘后公告集锦",
+          "url": "https://www.cls.cn/detail/2524165",
+          "source": "财联社热门",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "沪指尾盘险守3600点，多只宽基ETF尾盘“爆量”，科创50跌近4%，“易中天”集体大跌，电池产业链逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3785042",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
         },
         {
           "title": "【焦点复盘】科创50低开低走跌3.81%，算力硬件股再遭重挫，资金持续逆势热捧“羊字辈”股",
           "url": "https://www.cls.cn/detail/2523918",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
+        },
+        {
+          "title": "【每日收评】创业板指跌近3%，中际旭创重挫12%，多只宽基ETF放量破百亿",
+          "url": "https://www.cls.cn/detail/2523863",
+          "source": "财联社热门",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -292,30 +471,81 @@
       ]
     },
     {
-      "keyword_group": "芯片 光模块",
+      "keyword_group": "增长 亮眼",
       "match_count": 2,
       "titles": [
         {
-          "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
-          "url": "https://wallstreetcn.com/articles/3784983",
-          "source": "华尔街见闻",
+          "title": "AMD：预计2027年营收将增超80%。 对未来数年的收入增长速度有强烈的信心。",
+          "url": "https://wallstreetcn.com/livenews/3193612",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "07时47分"
         },
         {
-          "title": "突发！450亿光模块概念股签订13亿元磷化铟衬底供货协议|盘后公告集锦",
-          "url": "https://www.cls.cn/detail/2524165",
-          "source": "财联社热门",
+          "title": "AMD(AMD.O)CEO：目前预计2027年营收将增长超过80%。",
+          "url": "https://flash.jin10.com/detail/20261104062006125800",
+          "source": "金十数据",
           "ranks": [
-            10
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊展现“谈判意愿”，全球能源价格重挫，黄金强势反弹、创两个月来最大单日涨幅",
+          "url": "https://wallstreetcn.com/articles/3785033",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 07时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股期货走高，标普500指数期货上涨0.3%，纳斯达克100指数期货涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3193632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时10分"
+          "time_info": "07时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "周二（11月3日）纽约尾盘，标普500股指期货最终涨0.49%，道指期货跌0.6%，纳斯达克100股指期货涨1.02%。 罗素2000股指期货涨0.21%。",
+          "url": "https://wallstreetcn.com/livenews/3193611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         }
       ]
     },
@@ -345,11 +575,12 @@
           "url": "https://www.toutiao.com/trending/7703953161530117686/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时10分"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 07时47分]"
         }
       ]
     },
@@ -367,6 +598,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球首款全尺寸超仿真机器人亮相",
+          "url": "https://www.toutiao.com/trending/7703580610329248283/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 07时47分]"
         }
       ]
     },
@@ -401,6 +649,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "WTI原油跌破95美元/桶，日内跌1.03%。",
+          "url": "https://flash.jin10.com/detail/20261104073556074800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         }
       ]
     }
