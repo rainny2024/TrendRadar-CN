@@ -1,29 +1,41 @@
 {
-  "generated_at": "2026-11-03T05:00:31.788354+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-11-03T10:47:26.596088+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "特朗普：没了结伊朗的唯一原因是想“做个好人”",
+          "url": "https://original.ifeng.com/c/8xjCj7c9hdI",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 10时47分]"
+        },
+        {
+          "title": "曾支持特朗普的蓝领工人，变了",
+          "url": "https://original.ifeng.com/c/8xkAIzPlrxi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
         {
           "title": "特朗普置评今日油价：像石头一样下跌 伊朗希望尽快达成方案",
           "url": "https://flash.jin10.com/detail/20261103044800186800",
           "source": "金十数据",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "特朗普：没了结伊朗的唯一原因是想“做个好人”",
-          "url": "https://original.ifeng.com/c/8xjCj7c9hdI",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,6 +75,18 @@
           "time_info": "05时00分"
         },
         {
+          "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34383514",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 10时47分]"
+        },
+        {
           "title": "美国副总统万斯：大约一小时前，我与美国总统特朗普讨论了伊朗问题。",
           "url": "https://flash.jin10.com/detail/20261103042615344800",
           "source": "金十数据",
@@ -79,17 +103,6 @@
           "source": "知乎",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34383514",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -118,6 +131,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "路透社/益普索民调显示，在中期选举前，美国总统特朗普的支持率稳定在32%，接近历史最低水平。",
           "url": "https://flash.jin10.com/detail/20261103042041999800",
           "source": "金十数据",
@@ -138,6 +162,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "特朗普为何在中期选举前密集造势",
+          "url": "https://www.toutiao.com/trending/7703623648187256383/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         },
         {
           "title": "是否考虑在中期选举后恢复打击？ 特朗普回答：不",
@@ -184,6 +219,28 @@
           "time_info": "05时00分"
         },
         {
+          "title": "特朗普：我们输了中期选举美国就完了",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E4%BB%AC%E8%BE%93%E4%BA%86%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E7%BE%8E%E5%9B%BD%E5%B0%B1%E5%AE%8C%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "特朗普撒钱豪赌中期选举",
+          "url": "https://www.douyin.com/hot/2724966",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）事情进展顺利，这就是油价下跌的原因。",
           "url": "https://flash.jin10.com/detail/20261103035604983800",
           "source": "金十数据",
@@ -204,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "特朗普谈中期选举",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%B0%88%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         },
         {
           "title": "中期选举对特朗普有多重要",
@@ -239,6 +307,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "特朗普屡次被曝半夜给员工打电话",
+          "url": "https://www.toutiao.com/trending/7703476793600197170/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "据Axios：美国总统特朗普称，无需急于决定是否在伊朗重启战争。",
           "url": "https://flash.jin10.com/detail/20261103033749064800",
           "source": "金十数据",
@@ -270,30 +349,42 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "特朗普放话不在乎台海问题",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E8%AF%9D%E4%B8%8D%E5%9C%A8%E4%B9%8E%E5%8F%B0%E6%B5%B7%E9%97%AE%E9%A2%98%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "国际油价大幅回落，报道：伊朗最高领袖已授权政府进行谈判",
+          "url": "https://wallstreetcn.com/articles/3785007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 10时47分]"
+        },
         {
           "title": "伊朗革命卫队航空航天部队宣布，借助电子战系统在格什姆岛南部击落两架美军MQM-170侦察无人机，该型号无人机的缴获总数已达四架。",
           "url": "https://wallstreetcn.com/livenews/3192826",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "国际油价大幅回落，报道：伊朗最高领袖已授权政府进行谈判",
-          "url": "https://wallstreetcn.com/articles/3785007",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -333,6 +424,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "伊朗最高领袖释放与美国进一步谈判信号 国际油价应声大跌金价跳涨2%",
+          "url": "https://www.cls.cn/detail/2523079",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "伊朗革命卫队：再缴获两架美军无人机 击落一架MQ-9无人机",
           "url": "https://flash.jin10.com/detail/20261103042310307800",
           "source": "金十数据",
@@ -344,6 +446,28 @@
           "time_info": "05时00分"
         },
         {
+          "title": "外交部副部长苗得雨同伊朗最高国家安全委员会副秘书巴盖里举行会谈",
+          "url": "https://flash.jin10.com/detail/20261103102224589800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "美官员称美袭击伊朗格什姆岛",
+          "url": "https://www.toutiao.com/trending/7703152934749618219/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶104.77美元，下跌8.66美元，跌幅7.63%。",
           "url": "https://flash.jin10.com/detail/20261103035606448800",
           "source": "金十数据",
@@ -353,6 +477,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "伊朗称已组建首支“为伊朗捐躯”旅",
+          "url": "https://www.toutiao.com/trending/7703574929673125907/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         },
         {
           "title": "伊朗最高领袖：无论谁当选，无论是这一位还是那一位，有一件事非常清楚，美国体系在政治、公民和道德层面正在衰落。",
@@ -419,13 +554,142 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "美官员称美袭击伊朗格什姆岛",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E7%BE%8E%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E6%A0%BC%E4%BB%80%E5%A7%86%E5%B2%9B",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "A股PCB概念股探底回升，明阳电路20cm涨停，长阳科技涨超10%，澳弘电子、满坤科技、依顿电子、金百泽跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3192975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "午后拉升！沪指重上3600点，传媒掀涨停潮，券商、金融科技爆发，恒科指涨超2%，权重科网股集体大涨",
+          "url": "https://wallstreetcn.com/articles/3784968",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 10时47分]"
+        },
+        {
+          "title": "A股羊年概念股大涨，太阳能、大西洋、鲁阳节能、岳阳兴长、圣阳股份、华阳国际、阳光照明涨停，长阳科技、久之洋等大涨。此外，七匹狼连续涨停。",
+          "url": "https://wallstreetcn.com/livenews/3192973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "A股锂电池板块持续走高，时代万恒涨停，领湃科技、博力威涨超10%，金杨精密、鹏辉能源、先惠技术、天宏锂电、宁德时代等跟涨。",
+          "url": "https://flash.jin10.com/detail/20261103102327442800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
+          "url": "https://www.cls.cn/detail/2522567",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "A股电池产业链快速反弹，野马电池、紫竹高科双双涨停，领湃科技涨超10%，博力威、珠海冠宇、宁德时代跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3192954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "A股羊年概念股大涨，太阳能、大西洋、鲁阳节能、岳阳兴长、圣阳股份、华阳国际、阳光照明涨停，长阳科技、久之洋等大涨。此外，七匹狼连续涨停。",
+          "url": "https://flash.jin10.com/detail/20261103100950500800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "A股光伏板块早盘走强，永臻股份涨停，高测股份涨超10%，东方日升、钧达股份、中信博、阳光电源跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3192945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "芒果 我涨停了厉娜",
+          "url": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%20%E6%88%91%E6%B6%A8%E5%81%9C%E4%BA%86%E5%8E%89%E5%A8%9C&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
         }
       ]
     },
     {
       "keyword_group": "回购",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "央行优化股票回购增持再贷款利率从1.25%降至1%，参会人员：将进一步提振市场、稳定信心",
+          "url": "https://www.cls.cn/detail/2522955",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 10时47分]"
+        },
         {
           "title": "多家A股公司拟出手回购、增持，协创数据拟增持最高10亿元",
           "url": "https://www.cls.cn/detail/2522799",
@@ -438,15 +702,15 @@
           "time_info": "05时00分"
         },
         {
-          "title": "央行优化股票回购增持再贷款利率从1.25%降至1%，参会人员：将进一步提振市场、稳定信心",
-          "url": "https://www.cls.cn/detail/2522955",
+          "title": "【早报】国际油价，创三个月来最大跌幅；苹果股价，盘后直线跳水；证监会发声，事关稳市场稳预期；一批A股公司拟回购股份",
+          "url": "https://www.cls.cn/detail/2523174",
           "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时00分"
+          "time_info": "10时47分"
         },
         {
           "title": "三部门：股票回购增持再贷款政策由阶段性安排转为长期制度性安排，再贷款利率由1.25%降至1%",
@@ -464,22 +728,46 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34389524",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 10时47分]"
         },
         {
           "title": "证监会稳市再加码：拟优化护盘式回购、鼓励18只主动ETF加快建仓",
           "url": "https://m.thepaper.cn/newsDetail_forward_34389816",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            13,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时00分 ~ 10时47分]"
+        },
+        {
+          "title": "央行等三部门优化资本市场支持工具，回购增持再贷款利率降至1%",
+          "url": "https://wallstreetcn.com/articles/3784999",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时00分"
+          "time_info": "10时47分"
+        },
+        {
+          "title": "报道：股票回购增持贷款利率有望降至1.6%",
+          "url": "https://wallstreetcn.com/livenews/3192963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         },
         {
           "title": "股票回购增持再贷款率降至1%",
@@ -556,47 +844,58 @@
       ]
     },
     {
-      "keyword_group": "涨停 跌停",
-      "match_count": 3,
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 4,
       "titles": [
         {
-          "title": "午后拉升！沪指重上3600点，传媒掀涨停潮，券商、金融科技爆发，恒科指涨超2%，权重科网股集体大涨",
-          "url": "https://wallstreetcn.com/articles/3784968",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "【每日收评】三大指数均涨超1%，全市场逾百股涨停，AI漫剧概念再度爆发",
-          "url": "https://www.cls.cn/detail/2522567",
+          "title": "【焦点复盘】大金融板块做多提振人气，科创50放量涨超3%，AI应用端现大面积涨停",
+          "url": "https://www.cls.cn/detail/2522637",
           "source": "财联社热门",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
         },
         {
-          "title": "芒果 我涨停了厉娜",
-          "url": "https://s.weibo.com/weibo?q=%E8%8A%92%E6%9E%9C%20%E6%88%91%E6%B6%A8%E5%81%9C%E4%BA%86%E5%8E%89%E5%A8%9C&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "创业板指探底回升翻红，此前一度跌超2%，权重股宁德时代、阳光电源、迈瑞医疗等纷纷拉升。",
+          "url": "https://wallstreetcn.com/livenews/3192961",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时00分"
+          "time_info": "10时47分"
+        },
+        {
+          "title": "深成指率先翻红，沪指、创业板指跌幅收窄，贵金属、电池、光伏、游戏等方向涨幅居前，沪深京三市上涨个股超3400只。",
+          "url": "https://wallstreetcn.com/livenews/3192957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "创业板指跌超2%，沪指、深成指均跌超1%，科创50跌近3%，算力硬件、半导体芯片、医药生物、油气等方向跌幅居前，沪深京三市下跌个股近4000只。",
+          "url": "https://wallstreetcn.com/livenews/3192940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "第二届苏超结束，流量断崖下跌，这个比赛未来还有新的破局增长点吗，未来这个比赛将立足于哪里？",
@@ -610,6 +909,17 @@
           "time_info": "05时00分"
         },
         {
+          "title": "黑石集团(BX.N)总裁乔恩·格雷：为跟上人工智能行业的增长步伐，科技领域未来将开展更多融资活动，预计大多数大型科技公司将筹集更多资金。",
+          "url": "https://flash.jin10.com/detail/20261103102409965800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
           "title": "南非政府：注意到《非洲增长与机会法案》优惠待遇被取消，并认识到企业对由此带来的担忧。将支持受影响行业，保护国家利益。美国仍是重要的贸易和投资伙伴。",
           "url": "https://flash.jin10.com/detail/20261103040810068800",
           "source": "金十数据",
@@ -619,6 +929,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时00分"
+        },
+        {
+          "title": "越南统计局：10月大米出口量增长37.2%，至47.5万吨。",
+          "url": "https://flash.jin10.com/detail/20261103100245842800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "时隔近半年！茅台股价重返千四关口，白酒板块均价坐稳榜首，与半导体价差继续扩大",
+          "url": "https://www.cls.cn/detail/2522664",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "费城半导体指数日内跌幅扩大至3%；迈威尔科技(MRVL.O)跌13.18%，英特尔(INTC.O)跌8.68%，AMD(AMD.O)跌6.68%，美光科技(MU.O)跌5.74%。",
+          "url": "https://flash.jin10.com/detail/20261103034854912800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时00分"
+        },
+        {
+          "title": "半导体板块盘初调整，晶华微跌停，君正股份、灿芯股份、炬光科技、聚辰股份、大普微跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3192938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     },
@@ -643,34 +1003,6 @@
           "source": "百度热搜",
           "ranks": [
             24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "时隔近半年！茅台股价重返千四关口，白酒板块均价坐稳榜首，与半导体价差继续扩大",
-          "url": "https://www.cls.cn/detail/2522664",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时00分"
-        },
-        {
-          "title": "费城半导体指数日内跌幅扩大至3%；迈威尔科技(MRVL.O)跌13.18%，英特尔(INTC.O)跌8.68%，AMD(AMD.O)跌6.68%，美光科技(MU.O)跌5.74%。",
-          "url": "https://flash.jin10.com/detail/20261103034854912800",
-          "source": "金十数据",
-          "ranks": [
-            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -713,19 +1045,70 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
+      "keyword_group": "上证 深证",
       "match_count": 1,
       "titles": [
         {
-          "title": "【焦点复盘】大金融板块做多提振人气，科创50放量涨超3%，AI应用端现大面积涨停",
-          "url": "https://www.cls.cn/detail/2522637",
-          "source": "财联社热门",
+          "title": "上证指数开盘报3624.58点，跌0.37%。 深证成指开盘报10934.30点，跌0.69%。 创业板指开盘报2429.77点，跌1.18%。 沪深300开盘报4005.25点，跌0.29%。 科创50开盘报1184.53点，跌1.04%。 中证500开盘报6373.95点，跌0.72%。 中证1000开盘报6288.47点，跌0.65%。",
+          "url": "https://wallstreetcn.com/livenews/3192929",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时00分"
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "风险",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "星展银行首席执行官认为，AI领域的集中风险已经降低。",
+          "url": "https://wallstreetcn.com/livenews/3192941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芯片股拖累美股指，纳指100跌入技术调整，存储、光通信下挫，油价大跌提振黄金大反弹",
+          "url": "https://wallstreetcn.com/articles/3784983",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金跌破3900美元后，华尔街多头集体“投降”，散户蜂拥抄底",
+          "url": "https://wallstreetcn.com/articles/3784994",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时47分"
         }
       ]
     },
