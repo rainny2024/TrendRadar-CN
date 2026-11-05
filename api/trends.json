@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-05T15:32:02.288741+08:00",
-  "total_titles_processed": 705,
+  "generated_at": "2026-11-05T23:55:01.395712+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 49,
       "titles": [
         {
           "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时12分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时12分 ~ 23时55分]"
         },
         {
           "title": "历史性惨败后，特朗普找到最重要原因",
@@ -29,6 +30,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
+          "title": "万斯发长文与特朗普切割？特朗普回应",
+          "url": "https://news.ifeng.com/c/8xo5HAP62LX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "中期选举惨败后，特朗普首次公开露面(图)",
+          "url": "https://news.ifeng.com/c/8xoF88iEdTb",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗",
@@ -52,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 08时12分]"
+        },
+        {
+          "title": "特朗普选输，日本先怕了",
+          "url": "https://news.ifeng.com/c/8xoNqjlAt87",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "万斯“甩锅”伊朗战争，特朗普选举失利后首次露面",
@@ -121,6 +155,18 @@
           "time_info": "03时01分"
         },
         {
+          "title": "特朗普宣布将停止每年约 40 亿美元对以色列援助，背后原因是什么？将对美以关系和中东局势产生什么影响？",
+          "url": "https://www.zhihu.com/question/2101246252964917912",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 23时55分]"
+        },
+        {
           "title": "中选惨败后，特朗普对伊朗态度软化，称“可能没必要再打”",
           "url": "https://wallstreetcn.com/articles/3785177",
           "source": "华尔街见闻",
@@ -143,6 +189,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时12分 ~ 15时32分]"
+        },
+        {
+          "title": "特朗普中期选举失利后首露面",
+          "url": "https://www.douyin.com/hot/2729950",
+          "source": "抖音",
+          "ranks": [
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 23时54分]"
         },
         {
           "title": "特朗普称不惧民主党弹劾 国际原油价格一度暴跌10% | 环球市场",
@@ -190,15 +248,15 @@
           "time_info": "[03时01分 ~ 08时12分]"
         },
         {
-          "title": "特朗普宣布将停止每年约 40 亿美元对以色列援助，背后原因是什么？将对美以关系和中东局势产生什么影响？",
-          "url": "https://www.zhihu.com/question/2101246252964917912",
-          "source": "知乎",
+          "title": "历史性失利后特朗普首次亮相：一场关于吊灯、钢梁与大理石的导览",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34409961",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "特朗普承认伊朗战事影响中期选举",
@@ -211,17 +269,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时01分 ~ 08时12分]"
-        },
-        {
-          "title": "特朗普中期选举失利后首露面",
-          "url": "https://www.douyin.com/hot/2729950",
-          "source": "抖音",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
           "title": "特朗普：我不后悔",
@@ -513,7 +560,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "万斯“甩锅”伊朗战争",
@@ -525,6 +572,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
+          "title": "美对伊朗核打击传闻再起：镐山设施、钻地弹与内塔尼亚胡的“电话攻势”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34409706",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时31分 ~ 23时55分]"
         },
         {
           "title": "美国财长贝森特：我们将制裁那些继续支持伊朗政权的人，无论其通过陆路、海路还是空中进行支持。",
@@ -572,15 +631,26 @@
           "time_info": "[08时12分 ~ 15时32分]"
         },
         {
-          "title": "美对伊朗核打击传闻再起：镐山设施、钻地弹与内塔尼亚胡的“电话攻势”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34409706",
-          "source": "澎湃新闻",
+          "title": "伊朗举行大规模反美集会",
+          "url": "https://www.douyin.com/hot/2730135",
+          "source": "抖音",
           "ranks": [
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "伊朗议长回应万斯：美国就像赌徒",
+          "url": "https://www.toutiao.com/trending/7704645932587926042/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
           "title": "海湾国家反对对伊朗再次开战 美伊谈判预计周五取得更明朗进展",
@@ -622,9 +692,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "伊朗官员向普京转交穆杰塔巴的信息",
+          "url": "https://flash.jin10.com/detail/20261105232029673800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
         },
         {
           "title": "伊朗议长：美选举结果表明对战争说不",
@@ -644,7 +725,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -665,6 +746,350 @@
           "source": "今日头条",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债 美股 美元",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "民主党大胜引发芯片股抛售狂潮，美股三大指数齐跌、纳指大跌3.3%，费半重挫7%，油价持续回落",
+          "url": "https://wallstreetcn.com/articles/3785235",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "民主党横扫国会！美股三大指数上涨，存储普跌，SpaceX跌超5%，黄金站上4000美元",
+          "url": "https://wallstreetcn.com/articles/3785134",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "美股费城银行指数跌2%，高盛跌5.9%创2月份以来最大盘中跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3195225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美股恐慌指数VIX波动率日内涨幅达50.0%，报24.86；标普跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3195222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
+          "url": "https://www.cls.cn/detail/2525696",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至5.1%，标普跌2.8%，美股费城半导体指数跌超9.6%。",
+          "url": "https://wallstreetcn.com/livenews/3195219",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "英伟达跌7.3%，创2025年4月份以来最大盘中跌幅。 美股恐慌指数VIX波动率日内涨幅达40.0%，报23.28；标普500指数跌幅扩大至2.4%。 道指跌超700点，跌幅超过1.3%，纳指狂泄超千点、跌幅超过3.9%，纳斯达克100指数重挫1300点、跌幅超过4.5%，半导体指数跌约900点、跌幅8.7%。",
+          "url": "https://wallstreetcn.com/livenews/3195215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.douyin.com/hot/2729994",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美国10年期国债收益率跌超3个基点，逼近4.85%和北京时间11:46刷新的日低4.8347%，22:29刷新日高至4.9168%以来显著跳水，芯片股被抛售，让投资者寻求避险。 现货黄金5分钟内下跌8.5美元/盎司，报4112.2美元/盎司。 美股恐慌指数VIX波动率日内涨幅达36.5%，报22.63；标普500指数目前跌超2.1%。",
+          "url": "https://wallstreetcn.com/livenews/3195212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "新兴市场外汇指数刷新日高，得益于美元在美国中期选举结果出炉后走弱。",
+          "url": "https://wallstreetcn.com/livenews/3194438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "美股AI硬件产业链遭遇集体抛售，芯片、存储、半导体设备及光通信板块普遍大幅下跌。费城半导体指数跌7.25%。 英伟达跌5.6%，创4月份以来盘中新低。 AMD跌12.94%，台积电跌6.99%，博通跌5.35%，英特尔跌8.12%，高通跌9.00%，Arm跌10.65%。 闪迪跌13.77%，西部数据跌12.78%，希捷科技跌12.74%，美光科技跌10.78%，SK海力士跌9.41%。 迈威尔科技跌10.03%，Lumentum跌12.21%。",
+          "url": "https://wallstreetcn.com/livenews/3195199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "标普500指数与纳斯达克指数跌至7月下旬以来的最低水平，两大指数均将创下五个月来最大单日跌幅。",
+          "url": "https://flash.jin10.com/detail/20261105233056870800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "纳斯达克100指数跌幅扩大至5.1%，标普500指数下跌2.8%。",
+          "url": "https://flash.jin10.com/detail/20261105232938011800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "标普500指数跌幅扩大至2%，道指跌近1%、纳指跌超3.5%，纳斯达克100指数跌超4.3%。费城半导体指数跌超8.3%，闪迪大跌16%。",
+          "url": "https://wallstreetcn.com/livenews/3195210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "纳斯达克综合指数（纳指）较10月6日创下的收盘纪录高点已下跌超过10%。纳斯达克100指数跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3195208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "标普道琼斯指数公布针对土耳其的市场分类处置方案，对土耳其股票部分企业事件调整不予执行。",
+          "url": "https://wallstreetcn.com/livenews/3194531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "标普500指数跌1.2%，纳斯达克100指数跌3%，费城半导体指数一度跌超6%。芯片股下跌带来避险需求，美国10年期国债价格短线反弹，其收益率则短线跳水，日内整体转跌。",
+          "url": "https://wallstreetcn.com/livenews/3195193",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【每日收评】科技赛道集体反攻！科创50指数大涨近10%，两市成交额重回2万亿",
+          "url": "https://www.cls.cn/detail/2525056",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，半导体20CM涨停潮刷屏，恒指、恒科指齐涨超1%",
+          "url": "https://wallstreetcn.com/articles/3785133",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 15时32分]"
+        },
+        {
+          "title": "2026 年 11 月 4 日 A 股超 4600 只个股飘红，三大指数集体大涨，科创 50 暴涨近 10%，怎样解读？",
+          "url": "https://www.zhihu.com/question/2100541228118962863",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
+        },
+        {
+          "title": "【每日收评】创业板指冲高回落涨近1%，全市场超4800股收红，光伏概念股集体爆发",
+          "url": "https://www.cls.cn/detail/2526261",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "A股收盘：创业板指冲高回落涨0.87%，全市场上涨个股超4800只",
+          "url": "https://wallstreetcn.com/livenews/3194822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "A股收评：创业板指宽幅震荡收涨0.87% 光伏设备、贵金属板块涨幅居前",
+          "url": "https://flash.jin10.com/detail/20261105150526695800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "余凯称智驾芯片算力虚标达稠密算力 6 至 7 倍，如何看待这番言论？",
+          "url": "https://www.zhihu.com/question/2099630401035810150",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "美国中期选举日，芯片股三日大跌后反弹，纳指涨0.83%，盘后AMD大涨近8%",
+          "url": "https://wallstreetcn.com/articles/3785045",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "刚刚成立三个月的AI芯片初创公司Tenspresso洽谈按5亿美元估值融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3194557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "【焦点复盘】双创指数创2个多月单日最大涨幅，全市场超350股涨超10%，20余只芯片半导体ETF涨停",
+          "url": "https://www.cls.cn/detail/2525150",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "Bloom Energy重挫18%，创6月26日以来最大盘中跌幅。美国中期选举过后，芯片股被抛售，让投资者担忧AI数据中心供电市场的前景。",
+          "url": "https://wallstreetcn.com/livenews/3195211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "半导体芯片还有大行情吗",
+          "url": "https://www.toutiao.com/trending/7704335906940915241/",
+          "source": "今日头条",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -747,153 +1172,63 @@
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
+      "keyword_group": "美联储 非农",
       "match_count": 5,
       "titles": [
         {
-          "title": "【每日收评】科技赛道集体反攻！科创50指数大涨近10%，两市成交额重回2万亿",
-          "url": "https://www.cls.cn/detail/2525056",
-          "source": "财联社热门",
+          "title": "周三（11月4日），美联储隔夜逆回购协议（RRP）使用规模为2.25亿美元（交易对手1家），上个交易日报4.27亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3194444",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
         },
         {
-          "title": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，半导体20CM涨停潮刷屏，恒指、恒科指齐涨超1%",
-          "url": "https://wallstreetcn.com/articles/3785133",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 15时32分]"
-        },
-        {
-          "title": "2026 年 11 月 4 日 A 股超 4600 只个股飘红，三大指数集体大涨，科创 50 暴涨近 10%，怎样解读？",
-          "url": "https://www.zhihu.com/question/2100541228118962863",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 08时12分]"
-        },
-        {
-          "title": "A股收盘：创业板指冲高回落涨0.87%，全市场上涨个股超4800只",
-          "url": "https://wallstreetcn.com/livenews/3194822",
+          "title": "美联储Hammack：将联邦公开市场委员会（FOMC）一年的议息会议频次从八次缩减为六次是一个温和的转变。",
+          "url": "https://wallstreetcn.com/livenews/3195209",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            17
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的2.25亿美元。",
+          "url": "https://flash.jin10.com/detail/20261105021609113800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "分析师：AI资本支出若放缓，或影响美联储加息前景及美债收益率",
+          "url": "https://flash.jin10.com/detail/20261105150532463800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
         {
-          "title": "A股收评：创业板指宽幅震荡收涨0.87% 光伏设备、贵金属板块涨幅居前",
-          "url": "https://flash.jin10.com/detail/20261105150526695800",
+          "title": "美联储哈玛克：认为劳动力市场可能走强。",
+          "url": "https://flash.jin10.com/detail/20261105231530408800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美国中期选举日，芯片股三日大跌后反弹，纳指涨0.83%，盘后AMD大涨近8%",
-          "url": "https://wallstreetcn.com/articles/3785045",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "刚刚成立三个月的AI芯片初创公司Tenspresso洽谈按5亿美元估值融资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3194557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        },
-        {
-          "title": "【焦点复盘】双创指数创2个多月单日最大涨幅，全市场超350股涨超10%，20余只芯片半导体ETF涨停",
-          "url": "https://www.cls.cn/detail/2525150",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "半导体芯片还有大行情吗",
-          "url": "https://www.toutiao.com/trending/7704335906940915241/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债 美股 美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "民主党横扫国会！美股三大指数上涨，存储普跌，SpaceX跌超5%，黄金站上4000美元",
-          "url": "https://wallstreetcn.com/articles/3785134",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "11月5日投资避雷针：美股三大指数集体收涨 AI硬件股逆势下挫 美光科技、闪迪跌7%",
-          "url": "https://www.cls.cn/detail/2525696",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "新兴市场外汇指数刷新日高，得益于美元在美国中期选举结果出炉后走弱。",
-          "url": "https://wallstreetcn.com/livenews/3194438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "23时55分"
         }
       ]
     },
@@ -937,41 +1272,81 @@
       ]
     },
     {
-      "keyword_group": "美联储 非农",
+      "keyword_group": "存储 半导体",
       "match_count": 3,
       "titles": [
         {
-          "title": "周三（11月4日），美联储隔夜逆回购协议（RRP）使用规模为2.25亿美元（交易对手1家），上个交易日报4.27亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3194444",
-          "source": "华尔街见闻-快讯",
+          "title": "存储巨头闪迪将于两周后拆股",
+          "url": "https://www.toutiao.com/trending/7704686851394637362/",
+          "source": "今日头条",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的2.25亿美元。",
-          "url": "https://flash.jin10.com/detail/20261105021609113800",
-          "source": "金十数据",
+          "title": "美中期选举“蓝潮”震动韩股：“存储双雄”股价重挫 外资持续撤离",
+          "url": "https://www.cls.cn/detail/2525891",
+          "source": "财联社热门",
           "ranks": [
-            18
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
         },
         {
-          "title": "分析师：AI资本支出若放缓，或影响美联储加息前景及美债收益率",
-          "url": "https://flash.jin10.com/detail/20261105150532463800",
+          "title": "金十图示：2026年11月05日（周四）富时中国A50指数成分股今日收盘行情一览：半导体、保险、化学制药、电池、工业金属板块收红，银行、通信设备、炼化及贸易板块下跌",
+          "url": "https://flash.jin10.com/detail/20261105150312023800",
           "source": "金十数据",
           "ranks": [
-            24
+            28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "复盘",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【焦点复盘】市场连续2日现放量普涨，算力租赁概念现久违大涨，煤炭石油板块逆势领跌",
+          "url": "https://www.cls.cn/detail/2526309",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "深度复盘IG战胜TES",
+          "url": "https://www.douyin.com/hot/2728673",
+          "source": "抖音",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
+        },
+        {
+          "title": "深度复盘GEN vs LYON",
+          "url": "https://www.douyin.com/hot/2730437",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
         }
       ]
     },
@@ -1004,76 +1379,86 @@
       ]
     },
     {
-      "keyword_group": "存储 半导体",
+      "keyword_group": "增长 亮眼",
       "match_count": 2,
       "titles": [
         {
-          "title": "美中期选举“蓝潮”震动韩股：“存储双雄”股价重挫 外资持续撤离",
-          "url": "https://www.cls.cn/detail/2525891",
-          "source": "财联社热门",
+          "title": "美国能源信息署（EIA）：美国上周EIA天然气库存增加770亿立方英尺，分析师预期增加794.4亿立方英尺，周环比增长2.07%（之前一周增长2.16%），至3.8万亿立方英尺。",
+          "url": "https://wallstreetcn.com/livenews/3195221",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
-          "title": "金十图示：2026年11月05日（周四）富时中国A50指数成分股今日收盘行情一览：半导体、保险、化学制药、电池、工业金属板块收红，银行、通信设备、炼化及贸易板块下跌",
-          "url": "https://flash.jin10.com/detail/20261105150312023800",
-          "source": "金十数据",
-          "ranks": [
-            28
+            5
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
+        {
+          "title": "马士基第三季度EBITDA 47.1亿美元，同比增长75%，市场预期52.7亿美元。 第三季度EBIT 32.7亿美元，预期36.1亿美元。 第三季度总收入181.0亿美元，同比增长27%，市场预期181.5亿美元。 预计全年基础EBIT为80亿至85亿美元，此前预期45亿至65亿美元。 预计全年基础EBITDA 140亿至145亿美元，此前预期105亿至125亿美元，市场预期140.3亿美元。 预计全年全球集装箱贸易增长约4%。",
+          "url": "https://wallstreetcn.com/livenews/3194812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
       ]
     },
     {
-      "keyword_group": "复盘",
+      "keyword_group": "商业航天 机器人",
       "match_count": 2,
       "titles": [
         {
-          "title": "深度复盘IG战胜TES",
-          "url": "https://www.douyin.com/hot/2728673",
-          "source": "抖音",
+          "title": "全球首个仿生人形机器人新闻主播发布",
+          "url": "https://www.baidu.com/s?wd=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E4%BB%BF%E7%94%9F%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B0%E9%97%BB%E4%B8%BB%E6%92%AD%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时01分 ~ 08时12分]"
+          "time_info": "[23时54分 ~ 23时55分]"
         },
         {
-          "title": "深度复盘GEN vs LYON",
-          "url": "https://www.douyin.com/hot/2730437",
-          "source": "抖音",
+          "title": "机器人格斗表演为什么不如去年有看头了？王兴兴回应",
+          "url": "https://wallstreetcn.com/livenews/3194809",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
     {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 1,
+      "keyword_group": "跌破 拉升",
+      "match_count": 2,
       "titles": [
         {
-          "title": "标普道琼斯指数公布针对土耳其的市场分类处置方案，对土耳其股票部分企业事件调整不予执行。",
-          "url": "https://wallstreetcn.com/livenews/3194531",
-          "source": "华尔街见闻-快讯",
+          "title": "芒果TV崩了，芒果超媒股价暴力拉升",
+          "url": "https://www.cls.cn/detail/2526012",
+          "source": "财联社热门",
           "ranks": [
-            30
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时12分"
+          "appearance_count": 2,
+          "time_info": "[23时54分 ~ 23时55分]"
+        },
+        {
+          "title": "黄金重回 4000 美元上方，此前一度跌破 3800 美元，白银向上触及 52 美元，如何看待这波快速反弹？",
+          "url": "https://www.zhihu.com/question/2101363971957834936",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时31分 ~ 15时32分]"
         }
       ]
     },
@@ -1088,7 +1473,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -1113,36 +1498,19 @@
       ]
     },
     {
-      "keyword_group": "增长 亮眼",
+      "keyword_group": "暴涨",
       "match_count": 1,
       "titles": [
         {
-          "title": "马士基第三季度EBITDA 47.1亿美元，同比增长75%，市场预期52.7亿美元。 第三季度EBIT 32.7亿美元，预期36.1亿美元。 第三季度总收入181.0亿美元，同比增长27%，市场预期181.5亿美元。 预计全年基础EBIT为80亿至85亿美元，此前预期45亿至65亿美元。 预计全年基础EBITDA 140亿至145亿美元，此前预期105亿至125亿美元，市场预期140.3亿美元。 预计全年全球集装箱贸易增长约4%。",
-          "url": "https://wallstreetcn.com/livenews/3194812",
-          "source": "华尔街见闻-快讯",
+          "title": "恐慌指数VIX暴涨40%，报23.29点。",
+          "url": "https://flash.jin10.com/detail/20261105232130884800",
+          "source": "金十数据",
           "ranks": [
-            21
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "机器人格斗表演为什么不如去年有看头了？王兴兴回应",
-          "url": "https://wallstreetcn.com/livenews/3194809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "23时55分"
         }
       ]
     },
@@ -1157,7 +1525,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -1194,23 +1562,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金重回 4000 美元上方，此前一度跌破 3800 美元，白银向上触及 52 美元，如何看待这波快速反弹？",
-          "url": "https://www.zhihu.com/question/2101363971957834936",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
         }
       ]
     }
