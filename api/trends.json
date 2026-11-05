@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-11-05T03:01:39.812779+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-11-05T08:12:53.311571+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗",
+          "url": "https://wallstreetcn.com/articles/3785146",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
+        },
+        {
+          "title": "特朗普为何突然终止军援以色列？专家：看似突然，实则是权宜之计",
+          "url": "https://original.ifeng.com/c/8xmWDdJbh5C",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
+        },
+        {
+          "title": "万斯“甩锅”伊朗战争，特朗普选举失利后首次露面",
+          "url": "https://news.ifeng.com/c/8xn8h8wAVzX",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
         {
           "title": "特朗普态度转折，称渴望与民主党达成协议",
           "url": "https://news.ifeng.com/c/8xmRq6xG2Qj",
@@ -17,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "特朗普中期选举失利后首次露面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "特朗普称不惧民主党弹劾",
@@ -41,26 +86,39 @@
           "time_info": "03时01分"
         },
         {
-          "title": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗",
-          "url": "https://wallstreetcn.com/articles/3785146",
+          "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
+          "url": "https://wallstreetcn.com/articles/3785203",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "08时12分"
         },
         {
-          "title": "特朗普为何突然终止军援以色列？专家：看似突然，实则是权宜之计",
-          "url": "https://original.ifeng.com/c/8xmWDdJbh5C",
-          "source": "凤凰网",
+          "title": "特朗普称将停止对以色列援助",
+          "url": "https://www.douyin.com/hot/2728182",
+          "source": "抖音",
           "ranks": [
-            5
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
+        },
+        {
+          "title": "特朗普承认伊朗战事影响中期选举",
+          "url": "https://www.toutiao.com/trending/7703163902487117865/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
         },
         {
           "title": "特朗普：我不后悔",
@@ -96,6 +154,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "特朗普中期选举失利后首次露面 承认伊朗战争拖累共和党但坚称决策正确",
+          "url": "https://www.cls.cn/detail/2525608",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "美国总统特朗普：美国副总统万斯的帖子不错，我知道万斯对战争持何种看法。",
           "url": "https://wallstreetcn.com/livenews/3194446",
           "source": "华尔街见闻-快讯",
@@ -107,15 +176,15 @@
           "time_info": "03时01分"
         },
         {
-          "title": "特朗普称将停止对以色列援助",
-          "url": "https://www.douyin.com/hot/2728182",
-          "source": "抖音",
+          "title": "中选惨败后，特朗普对伊朗态度软化，称“可能没必要再打”",
+          "url": "https://wallstreetcn.com/articles/3785177",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "08时12分"
         },
         {
           "title": "美国总统特朗普：我不考虑更换美国国防部长赫格塞思，他做得非常好。",
@@ -129,6 +198,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "特朗普中期选举受挫，反数据中心势力悄然崛起",
+          "url": "https://wallstreetcn.com/articles/3785179",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "美国总统特朗普：伊朗战争将在我想结束的时候结束。",
           "url": "https://flash.jin10.com/detail/20261105022259898800",
           "source": "金十数据",
@@ -138,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "民主党横扫国会后，特朗普或加速转向海外！伊朗、乌克兰、古巴成潜在行动焦点",
+          "url": "https://flash.jin10.com/detail/20261105075540012800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "美国总统特朗普：我并不担心（民主党夺取参众两院主导权之后发动）弹劾。 如果民主党人弹劾我，将毁掉民主党。",
@@ -305,6 +396,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "特朗普：会继续争取通过阳光保护法案",
+          "url": "https://flash.jin10.com/detail/20261105073651481800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "美国总统特朗普：股市刚刚再创历史新高，在不到两年的短时间内就创下91次新高。 你们的401(k)退休账户大幅增值。全部创下纪录！",
           "url": "https://wallstreetcn.com/livenews/3194426",
           "source": "华尔街见闻-快讯",
@@ -327,17 +429,6 @@
           "time_info": "03时01分"
         },
         {
-          "title": "特朗普承认伊朗战事影响中期选举",
-          "url": "https://www.toutiao.com/trending/7703163902487117865/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
           "title": "美国总统特朗普猛烈抨击福克斯新闻，将共和党失利归咎于该媒体收视率出现下滑。",
           "url": "https://wallstreetcn.com/livenews/3194422",
           "source": "华尔街见闻-快讯",
@@ -352,7 +443,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国财长贝森特：我们将制裁那些继续支持伊朗政权的人，无论其通过陆路、海路还是空中进行支持。",
@@ -364,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "一名白宫顾问表示，白宫内部的一些官员和工作人员将万斯的帖文视为其在外交政策上与总统的分歧，并认为这公开承认了伊朗战争已对美国经济造成了影响。",
+          "url": "https://flash.jin10.com/detail/20261105080158029800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         },
         {
           "title": "伊朗多地民众举行集会，谴责美以霸权",
@@ -399,6 +501,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "发生了什么？布伦特原油突然跳水暴跌10%",
+          "url": "https://www.cls.cn/detail/2525588",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
           "title": "伊朗外交部：伊朗驻波兰大使于周三拜会伊朗外长阿拉格奇，就使馆最新工作进展、双边关系态势以及德黑兰 — 华沙双边议程重点项目进行汇报。",
           "url": "https://wallstreetcn.com/livenews/3194437",
           "source": "华尔街见闻-快讯",
@@ -430,34 +543,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗官宣已采购苏-35有何意味",
+          "url": "https://www.toutiao.com/trending/7704160947543215679/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         }
       ]
     },
     {
       "keyword_group": "回购",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "近20家A股公司掀“回购潮”，最高拟回购10亿元",
           "url": "https://www.cls.cn/detail/2525406",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
+        },
+        {
+          "title": "【早报】深夜巨震，油价重挫超8%，黄金大涨超3%；美股剧烈分化，中概股集体爆发；亨通光电、凯莱英、三环集团拟回购公司股份",
+          "url": "https://www.cls.cn/detail/2525668",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "08时12分"
         },
         {
           "title": "股票回购增持再贷款今起加力，多家银行加大上市公司对接力度，贷款利率预计跟随下调",
           "url": "https://www.cls.cn/detail/2525126",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
         },
         {
           "title": "回购注销，提高回购金额.......一图看懂这轮科技股回购有多硬核",
@@ -495,6 +632,56 @@
       ]
     },
     {
+      "keyword_group": "芯片 光模块",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美国中期选举日，芯片股三日大跌后反弹，纳指涨0.83%，盘后AMD大涨近8%",
+          "url": "https://wallstreetcn.com/articles/3785045",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "刚刚成立三个月的AI芯片初创公司Tenspresso洽谈按5亿美元估值融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3194557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "【焦点复盘】双创指数创2个多月单日最大涨幅，全市场超350股涨超10%，20余只芯片半导体ETF涨停",
+          "url": "https://www.cls.cn/detail/2525150",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "半导体芯片还有大行情吗",
+          "url": "https://www.toutiao.com/trending/7704335906940915241/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "科创 创业 创业板 科创板",
       "match_count": 3,
       "titles": [
@@ -517,19 +704,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
         },
         {
           "title": "大奇迹日！A股午后爆发：创业板大涨6%，科创50暴涨超9%，半导体20CM涨停潮刷屏，恒指、恒科指齐涨超1%",
           "url": "https://wallstreetcn.com/articles/3785133",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
         }
       ]
     },
@@ -562,6 +750,34 @@
       ]
     },
     {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "日经225指数盘初涨0.2%，韩国首尔综指跌2%。",
+          "url": "https://wallstreetcn.com/livenews/3194568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        },
+        {
+          "title": "日经225指数11月5日（周四）开盘上涨176.32点，涨幅0.28%，报62364.95点。",
+          "url": "https://flash.jin10.com/detail/20261105080110223800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "风险",
       "match_count": 2,
       "titles": [
@@ -582,34 +798,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国中期选举日，芯片股三日大跌后反弹，纳指涨0.83%，盘后AMD大涨近8%",
-          "url": "https://wallstreetcn.com/articles/3785045",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "【焦点复盘】双创指数创2个多月单日最大涨幅，全市场超350股涨超10%，20余只芯片半导体ETF涨停",
-          "url": "https://www.cls.cn/detail/2525150",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -646,6 +834,23 @@
       ]
     },
     {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普道琼斯指数公布针对土耳其的市场分类处置方案，对土耳其股票部分企业事件调整不予执行。",
+          "url": "https://wallstreetcn.com/livenews/3194531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "涨价 核心材料",
       "match_count": 1,
       "titles": [
@@ -654,11 +859,12 @@
           "url": "https://www.cls.cn/detail/2525143",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
         }
       ]
     },
@@ -671,11 +877,12 @@
           "url": "https://www.douyin.com/hot/2728673",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 08时12分]"
         }
       ]
     },
@@ -693,6 +900,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "CPI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本央行9月会议纪要：一位委员表示，CPI涨幅总体上已经达到价格稳定目标。多位委员指出，CPI从初秋开始上升的可能性正在增大。",
+          "url": "https://flash.jin10.com/detail/20261105080417182800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时12分"
         }
       ]
     }
