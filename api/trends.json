@@ -1,11 +1,391 @@
 {
-  "generated_at": "2026-11-07T15:58:06.995805+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-11-07T22:34:42.976329+08:00",
+  "total_titles_processed": 1064,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 34,
+      "titles": [
+        {
+          "title": "2枚导弹击中伊朗格什姆岛 或是美空袭",
+          "url": "https://www.toutiao.com/trending/7705210412316233279/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "两枚导弹击中伊朗格什姆岛",
+          "url": "https://www.douyin.com/hot/2733694",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
+        },
+        {
+          "title": "美以已做好打击准备，伊朗外长紧急连线6国",
+          "url": "https://original.ifeng.com/c/8xpoaSSvEl8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "伊朗革命卫队发言人：最高领袖的讲话为武装部队注入了新的活力",
+          "url": "https://flash.jin10.com/detail/20261107154325186800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "伊朗过去48小时密集的外交接触释放何种信号？",
+          "url": "https://flash.jin10.com/detail/20261107214958852800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器",
+          "url": "https://wallstreetcn.com/livenews/3196432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伊朗外长48小时与12国通话",
+          "url": "https://news.ifeng.com/c/8xrQh7xLyiI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伊朗革命卫队发言人：我们有多种手段让敌人陷入困境，但无法一一透露",
+          "url": "https://flash.jin10.com/detail/20261107153025726800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "美国将成立工作组限制伊朗使用陆路通道和里海。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3196429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "卡塔尔首相：伊朗问题不能悬而未决，我们承受不起又一轮升级",
+          "url": "https://flash.jin10.com/detail/20261107091519700800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "初步报告显示两枚导弹击中伊朗格什姆岛",
+          "url": "https://news.ifeng.com/c/8xqmIVwyIdl",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 15时58分]"
+        },
+        {
+          "title": "俄外交部建议本国公民暂缓赴伊朗旅行",
+          "url": "https://www.toutiao.com/trending/7704698028103451187/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "一个伊朗女人搞崩了美股",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%9C%97%E5%A5%B3%E4%BA%BA%E6%90%9E%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 15时58分]"
+        },
+        {
+          "title": "美军方：成立特别工作组，旨在切断伊朗用于支持非法运输的陆路运输路线",
+          "url": "https://flash.jin10.com/detail/20261107213507186800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伊朗外长：过去48小时，与12国外长就地区局势交换意见",
+          "url": "https://flash.jin10.com/detail/20261107151859829800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "美国中央司令部：下令成立一支特遣部队，以支持美国政府正在采取的行动，防止伊朗利用陆路运输先进武器和其他物资。",
+          "url": "https://flash.jin10.com/detail/20261107213202686800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伊朗革命卫队发言人：如果敌人犯下错误，我们接下来的反击将更加猛烈，足以让他们多年无法恢复元气。",
+          "url": "https://flash.jin10.com/detail/20261107151124835800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "据路透社报道，经过数月的海上封锁，美军中央司令部正在组建一支特遣部队，以加强美国限制伊朗利用陆路和里海运输武器及其他物资的行动。",
+          "url": "https://flash.jin10.com/detail/20261107212738869800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伊朗革命卫队称已解除导弹射程限制",
+          "url": "https://wallstreetcn.com/livenews/3196423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伊朗革命卫队发言人：即使在敌方大规模轰炸下，伊朗仍按照既定时间安排持续实施发射行动，敌方未能扰乱作战进程。",
+          "url": "https://flash.jin10.com/detail/20261107144007357800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "英国每日电讯报：一位伊朗高级官员表示，伊朗对于俄罗斯最终能够交付其寻求已久、备受期待的S-400防空系统持“乐观”态度。",
+          "url": "https://flash.jin10.com/detail/20261106234501571800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "伊朗革命卫队：航空航天部队所有武器均依靠本土技术自主生产",
+          "url": "https://flash.jin10.com/detail/20261107142934187800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "伊朗媒体：格什姆岛遭导弹袭击 一架美无人机被击落",
+          "url": "https://wallstreetcn.com/livenews/3196280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "英国每日电讯报：伊朗和俄罗斯正在就一项向德黑兰输送先进防空系统的协议进行谈判。",
+          "url": "https://flash.jin10.com/detail/20261106234431089800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "伊朗革命卫队发言人：伊朗从航空航天武器进口国转变为出口国",
+          "url": "https://flash.jin10.com/detail/20261107142717652800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "2枚导弹击中伊朗格什姆岛",
+          "url": "https://flash.jin10.com/detail/20261107083111499800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "伊朗称一艘油轮在霍尔木兹海峡起火停航",
+          "url": "https://wallstreetcn.com/livenews/3196413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美国就伊朗核计划悬赏2000万美元",
+          "url": "https://wallstreetcn.com/livenews/3196273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美国就伊朗核计划悬赏2000万美元",
+          "url": "https://flash.jin10.com/detail/20261107082402643800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "伊朗前驻英大使：依据国际法，伊朗封锁霍尔木兹海峡不构成违法行为",
+          "url": "https://flash.jin10.com/detail/20261107203359748800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "2枚导弹击中伊朗格什姆岛",
+          "url": "https://wallstreetcn.com/livenews/3196266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "美国军方对伊朗实施新的定点打击。美国军方对格什姆岛实施了打击。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3196332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "伊朗海军声称，一艘油轮周六在霍尔木兹海峡触雷。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3196405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伊朗革命卫队称又击落一架美军MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3196081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "民主党计划调查苹果、Meta和马斯克，特朗普的硅谷盟友面临“清算”！",
@@ -41,8 +421,31 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 22时34分]"
+        },
+        {
+          "title": "特朗普为何容忍万斯的“攻击”？专家：他不想下台后就坐牢",
+          "url": "https://v.ifeng.com/c/8xrIPvD29En",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "“蓝潮”无碍数据中心建设！白宫高官安抚市场 特朗普称100%支持SI",
+          "url": "https://www.cls.cn/detail/2527984",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 22时34分]"
         },
         {
           "title": "特朗普签发公告：禁止擅改总统办公室",
@@ -66,17 +469,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "“蓝潮”无碍数据中心建设！白宫高官安抚市场 特朗普称100%支持SI",
-          "url": "https://www.cls.cn/detail/2527984",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
         },
         {
           "title": "美股大跌特朗普甩锅民主党",
@@ -111,6 +503,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "不改变政策路线！特朗普撤换白宫幕僚长，任命“强硬派”Stephen Miller",
+          "url": "https://wallstreetcn.com/articles/3785431",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "美方对伊朗发动小规模打击！特朗普证实、伊朗称两枚导弹击中格什姆岛",
+          "url": "https://wallstreetcn.com/articles/3785419",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "特朗普称正在与伊朗进行沟通",
@@ -212,6 +626,17 @@
           "time_info": "09时26分"
         },
         {
+          "title": "特朗普“凯旋门”项目遭叫停，白宫迅速重新包装改称“军事凯旋门”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34425754",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "美国总统特朗普：正在与伊朗人打交道，看看结果如何。预计内阁将有“很少”人员离职。",
           "url": "https://flash.jin10.com/detail/20261107083243341800",
           "source": "金十数据",
@@ -262,7 +687,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -272,265 +697,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "2枚导弹击中伊朗格什姆岛 或是美空袭",
-          "url": "https://www.toutiao.com/trending/7705210412316233279/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "两枚导弹击中伊朗格什姆岛",
-          "url": "https://www.douyin.com/hot/2733694",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
-        },
-        {
-          "title": "美以已做好打击准备，伊朗外长紧急连线6国",
-          "url": "https://original.ifeng.com/c/8xpoaSSvEl8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "伊朗革命卫队发言人：最高领袖的讲话为武装部队注入了新的活力",
-          "url": "https://flash.jin10.com/detail/20261107154325186800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "伊朗革命卫队发言人：我们有多种手段让敌人陷入困境，但无法一一透露",
-          "url": "https://flash.jin10.com/detail/20261107153025726800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "卡塔尔首相：伊朗问题不能悬而未决，我们承受不起又一轮升级",
-          "url": "https://flash.jin10.com/detail/20261107091519700800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "初步报告显示两枚导弹击中伊朗格什姆岛",
-          "url": "https://news.ifeng.com/c/8xqmIVwyIdl",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 15时58分]"
-        },
-        {
-          "title": "俄外交部建议本国公民暂缓赴伊朗旅行",
-          "url": "https://www.toutiao.com/trending/7704698028103451187/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "一个伊朗女人搞崩了美股",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%9C%97%E5%A5%B3%E4%BA%BA%E6%90%9E%E5%B4%A9%E4%BA%86%E7%BE%8E%E8%82%A1",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
-        },
-        {
-          "title": "伊朗外长：过去48小时，与12国外长就地区局势交换意见",
-          "url": "https://flash.jin10.com/detail/20261107151859829800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "伊朗革命卫队发言人：如果敌人犯下错误，我们接下来的反击将更加猛烈，足以让他们多年无法恢复元气。",
-          "url": "https://flash.jin10.com/detail/20261107151124835800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "伊朗革命卫队发言人：即使在敌方大规模轰炸下，伊朗仍按照既定时间安排持续实施发射行动，敌方未能扰乱作战进程。",
-          "url": "https://flash.jin10.com/detail/20261107144007357800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "英国每日电讯报：一位伊朗高级官员表示，伊朗对于俄罗斯最终能够交付其寻求已久、备受期待的S-400防空系统持“乐观”态度。",
-          "url": "https://flash.jin10.com/detail/20261106234501571800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "伊朗革命卫队：航空航天部队所有武器均依靠本土技术自主生产",
-          "url": "https://flash.jin10.com/detail/20261107142934187800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "伊朗媒体：格什姆岛遭导弹袭击 一架美无人机被击落",
-          "url": "https://wallstreetcn.com/livenews/3196280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "英国每日电讯报：伊朗和俄罗斯正在就一项向德黑兰输送先进防空系统的协议进行谈判。",
-          "url": "https://flash.jin10.com/detail/20261106234431089800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "伊朗革命卫队发言人：伊朗从航空航天武器进口国转变为出口国",
-          "url": "https://flash.jin10.com/detail/20261107142717652800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "2枚导弹击中伊朗格什姆岛",
-          "url": "https://flash.jin10.com/detail/20261107083111499800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "美国就伊朗核计划悬赏2000万美元",
-          "url": "https://wallstreetcn.com/livenews/3196273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "美国就伊朗核计划悬赏2000万美元",
-          "url": "https://flash.jin10.com/detail/20261107082402643800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "2枚导弹击中伊朗格什姆岛",
-          "url": "https://wallstreetcn.com/livenews/3196266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "美国军方对伊朗实施新的定点打击。美国军方对格什姆岛实施了打击。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3196332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "伊朗革命卫队称又击落一架美军MQ-1无人机",
-          "url": "https://wallstreetcn.com/livenews/3196081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -700,11 +866,27 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 15时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 22时34分]"
+        },
+        {
+          "title": "AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2527812",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            7,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 22时34分]"
         },
         {
           "title": "撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击",
@@ -719,20 +901,6 @@
           "time_info": "[00时28分 ~ 09时26分]"
         },
         {
-          "title": "AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2527812",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 15时58分]"
-        },
-        {
           "title": "美国10月非农录得16.5万人远超预期 美联储12月加息押注升至近八成",
           "url": "https://www.cls.cn/detail/2527868",
           "source": "财联社热门",
@@ -742,8 +910,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 15时58分]"
+          "appearance_count": 7,
+          "time_info": "[00时28分 ~ 22时34分]"
         },
         {
           "title": "美国10月非农远超预期",
@@ -762,11 +930,12 @@
           "url": "https://wallstreetcn.com/articles/3785400",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 22时34分]"
         },
         {
           "title": "高盛大砍黄金目标价！央行购金抵不过美联储转鹰，当前格局像极了2022年",
@@ -943,7 +1112,7 @@
     },
     {
       "keyword_group": "增长 亮眼",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "IMF总裁格奥尔基耶娃：失衡加剧往往伴随着脆弱的增长，在某些情况下，甚至会先于金融危机发生。",
@@ -990,13 +1159,35 @@
           "time_info": "00时28分"
         },
         {
+          "title": "冰雪游热度提前释放 热门航线预订同比增长两倍",
+          "url": "https://www.cls.cn/detail/2528025",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)：第三季度归属于股东的净利润为221.12亿美元，上年同期为307.96亿美元；第三季度营收增长11%，至1056.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20261107210148080800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "前三季度广告业头部企事业单位收入同比增长8.5%",
           "url": "https://wallstreetcn.com/livenews/3196347",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -1015,29 +1206,31 @@
     },
     {
       "keyword_group": "芯片 光模块",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
           "url": "https://wallstreetcn.com/articles/3785315",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 22时34分]"
         },
         {
           "title": "【早报】美股芯片股反弹，AMD涨超11%，中概股集体走强；多家券商启动第三批互换便利首批股票买入",
           "url": "https://www.cls.cn/detail/2527975",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 22时34分]"
         },
         {
           "title": "美科技股遭“血洗”，纳指重挫超5%，芯片指数跳水12%，闪迪暴跌22%，“恐慌指数”飙升",
@@ -1062,16 +1255,28 @@
           "time_info": "[00时28分 ~ 05时52分]"
         },
         {
+          "title": "外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
+          "url": "https://www.zhihu.com/question/2102096628895240211",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "不愿为旧芯片买单？微软据报逐步终止甲骨文算力租约",
           "url": "https://www.cls.cn/detail/2527960",
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 15时58分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 22时34分]"
         },
         {
           "title": "中国不买英伟达芯片美国人急什么",
@@ -1083,12 +1288,106 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时57分 ~ 15时58分]"
+        },
+        {
+          "title": "中国不买英伟达芯片美国人急什么",
+          "url": "https://www.toutiao.com/trending/7704527128851398719/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "A股回购队伍再扩容，洛阳钼业拟最高20亿元回购股份",
+          "url": "https://www.cls.cn/detail/2527708",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 15时58分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)：截至10月28日，第四季度回购了相当于约2,554股A类股的股份。",
+          "url": "https://flash.jin10.com/detail/20261107213641151800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伯克希尔哈撒韦：截至9月30日，股权投资公允价值总额的65%集中于Alphabet、美国运通、苹果、美国银行及可口可乐。 截至10月28日，第四季度回购了相当于约2,554股A类股的股份。",
+          "url": "https://wallstreetcn.com/livenews/3196427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伯克希尔哈撒韦：第三季度营业利润为127.1亿美元，同比下降5.8%。 第三季度净利润221.1亿美元，同比下降28%。 第三季度保险承保经营收益13.5亿美元，同比下降43%。 第三季度保险投资经营收益27.3亿美元，同比下降14%。 第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。 第三季度回购约96亿美元股份。",
+          "url": "https://wallstreetcn.com/livenews/3196425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伯克希尔哈撒韦加快股票回购步伐，营业利润下滑",
+          "url": "https://flash.jin10.com/detail/20261107211607561800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N、BRK.B.N)：公司第三季度回购了96亿美元股票。",
+          "url": "https://flash.jin10.com/detail/20261107210111581800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "长鑫科技董事长提议加码回购，金额从 10 亿– 20 亿上调到 25 亿– 50 亿，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/2101235473888892299",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     },
     {
       "keyword_group": "风险",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“这是澳大利亚史上最糟糕、风险最大、代价最高的国防决策”",
@@ -1121,7 +1420,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -1132,7 +1431,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
         },
@@ -1146,6 +1445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "欧洲央行行长候选人de Cos称需对通胀风险保持警惕",
+          "url": "https://wallstreetcn.com/livenews/3196404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     },
@@ -1205,6 +1515,109 @@
       ]
     },
     {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "进博观察｜从“展示”到“干活”，人形机器人回到工作场景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34422539",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 22时34分]"
+        },
+        {
+          "title": "这到底是机器人还是真人",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时28分 ~ 09时26分]"
+        },
+        {
+          "title": "在乌镇被机器人“拿捏”了",
+          "url": "https://www.douyin.com/hot/2731993",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "平均成功率91%！苹果披露机器人“大脑”进展，调用千问模型在宇树G1上验证",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34427916",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "资金巨变！香港及上海部分投资者对存储显著转空",
+          "url": "https://wallstreetcn.com/articles/3785324",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "长鑫科技新设投资平台 揭秘半导体龙头产业投资版图",
+          "url": "https://www.cls.cn/detail/2528063",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "存储风暴压顶 小众手机在劫难逃",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E9%A3%8E%E6%9A%B4%E5%8E%8B%E9%A1%B6+%E5%B0%8F%E4%BC%97%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%8A%AB%E9%9A%BE%E9%80%83",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "费城半导体指数涨幅收窄至2.7%，英伟达(NVDA.O)涨幅收窄至3.5%。",
+          "url": "https://flash.jin10.com/detail/20261106233820435800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "实体清单 制裁",
       "match_count": 4,
       "titles": [
@@ -1231,6 +1644,18 @@
           "time_info": "09时26分"
         },
         {
+          "title": "商务部回应“美首次以涉古巴为由制裁中企”：敦促美方尽快纠正错误做法",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34425625",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 22时34分]"
+        },
+        {
           "title": "俄方临时接管日本烟草公司在俄资产，此前日本追加制裁俄罗斯影子船队，日方后续还有拿回资产的可能性吗？",
           "url": "https://www.zhihu.com/question/2101947323517609017",
           "source": "知乎",
@@ -1238,60 +1663,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
-        },
-        {
-          "title": "商务部回应“美首次以涉古巴为由制裁中企”：敦促美方尽快纠正错误做法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34425625",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时57分 ~ 15时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "这到底是机器人还是真人",
-          "url": "https://www.baidu.com/s?wd=%E8%BF%99%E5%88%B0%E5%BA%95%E6%98%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%98%E6%98%AF%E7%9C%9F%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 09时26分]"
-        },
-        {
-          "title": "进博观察｜从“展示”到“干活”，人形机器人回到工作场景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34422539",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 15时58分]"
-        },
-        {
-          "title": "在乌镇被机器人“拿捏”了",
-          "url": "https://www.douyin.com/hot/2731993",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
+          "appearance_count": 3,
+          "time_info": "[15时57分 ~ 22时34分]"
         }
       ]
     },
@@ -1338,58 +1711,19 @@
       ]
     },
     {
-      "keyword_group": "存储 半导体",
-      "match_count": 2,
+      "keyword_group": "涨价 核心材料",
+      "match_count": 1,
       "titles": [
         {
-          "title": "资金巨变！香港及上海部分投资者对存储显著转空",
-          "url": "https://wallstreetcn.com/articles/3785324",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "费城半导体指数涨幅收窄至2.7%，英伟达(NVDA.O)涨幅收窄至3.5%。",
-          "url": "https://flash.jin10.com/detail/20261106233820435800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "A股回购队伍再扩容，洛阳钼业拟最高20亿元回购股份",
-          "url": "https://www.cls.cn/detail/2527708",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 15时58分]"
-        },
-        {
-          "title": "长鑫科技董事长提议加码回购，金额从 10 亿– 20 亿上调到 25 亿– 50 亿，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/2101235473888892299",
+          "title": "曝美光将暂停 45 亿美元内存厂扩产，为何后续会出现要么 AI 崩要么内存涨价的局面？",
+          "url": "https://www.zhihu.com/question/2102194286016082260",
           "source": "知乎",
           "ranks": [
-            20
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "22时34分"
         }
       ]
     },
@@ -1407,6 +1741,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "利好 利空",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "这波黄金上涨是短期还是中长期利好",
+          "url": "https://www.toutiao.com/trending/7705062939354467876/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     }
