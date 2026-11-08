@@ -1,1023 +1,238 @@
 {
-  "generated_at": "2026-11-08T18:52:19.416767+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-11-09T00:51:03.542929+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 30,
-      "titles": [
-        {
-          "title": "伊朗外长48小时与12国通话",
-          "url": "https://news.ifeng.com/c/8xrQh7xLyiI",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 11时09分]"
-        },
-        {
-          "title": "美中央司令部成立特遣队，阻止伊朗通过陆路运输先进武器",
-          "url": "https://wallstreetcn.com/articles/3785463",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时14分 ~ 18时52分]"
-        },
-        {
-          "title": "伊朗解除导弹射程限制",
-          "url": "https://news.ifeng.com/c/8xsUfJlVD5E",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
-        },
-        {
-          "title": "美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器",
-          "url": "https://wallstreetcn.com/livenews/3196432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时11分 ~ 18时52分]"
-        },
-        {
-          "title": "以色列国防部长卡茨：针对伊朗的行动任务尚未完成。",
-          "url": "https://flash.jin10.com/detail/20261108180033540800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "以色列国防部长卡茨：伊朗正试图重启其获取核武器的努力，同时还进行着其他严重威胁以色列安全的行动。我们绝不能接受这些威胁。",
-          "url": "https://flash.jin10.com/detail/20261108175940107800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "美国将成立工作组限制伊朗使用陆路通道和里海。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3196429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 11时09分]"
-        },
-        {
-          "title": "两枚导弹击中伊朗格什姆岛",
-          "url": "https://www.douyin.com/hot/2733694",
-          "source": "抖音",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时14分]"
-        },
-        {
-          "title": "伊朗解除导弹射程限制",
-          "url": "https://www.douyin.com/hot/2734868",
-          "source": "抖音",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 18时52分]"
-        },
-        {
-          "title": "伊朗革命卫队称已解除导弹射程限制",
-          "url": "https://wallstreetcn.com/livenews/3196423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 11时09分]"
-        },
-        {
-          "title": "伊朗称一艘油轮在霍尔木兹海峡起火停航",
-          "url": "https://wallstreetcn.com/livenews/3196413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 11时09分]"
-        },
-        {
-          "title": "伊朗称两艘油轮在霍尔木兹海峡触雷起火",
-          "url": "https://flash.jin10.com/detail/20261108051219204800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 11时09分]"
-        },
-        {
-          "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡触雷起火。",
-          "url": "https://flash.jin10.com/detail/20261108051057785800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 11时09分]"
-        },
-        {
-          "title": "美组建特遣部队防止伊朗“跨境运武”",
-          "url": "https://www.toutiao.com/trending/7705427413781578267/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
-        },
-        {
-          "title": "伊朗海军声称，一艘油轮周六在霍尔木兹海峡触雷。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3196405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 07时14分]"
-        },
-        {
-          "title": "美中央司令部成立铁门特遣队，阻击伊朗陆路运输",
-          "url": "https://original.ifeng.com/c/8xsybBLthfu",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长表示，在过去7个月零15天里，已为基本商品、药品和生产单位所需原材料的进口提供了近300亿美元外汇，这一进程将继续推进，以满足国家需求。",
-          "url": "https://flash.jin10.com/detail/20261108024322057800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：以色列特拉维夫爆发了反对内塔尼亚胡政府的抗议活动。抗议参与者要求更换其政府，并组建有阿拉伯政党参与的新政府。",
-          "url": "https://flash.jin10.com/detail/20261108023409498800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "伊朗革命卫队发言人驳斥美国收紧对伊经济施压的新计划，称其只是“文字游戏”",
-          "url": "https://flash.jin10.com/detail/20261108172155307800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "美国中央司令部：美国军机向该货船船尾发射精确制导弹药，使其失去航行能力。行动前，美国中央司令部部队已要求船员撤离被指定为打击目标的区域。这艘货船此前曾停靠伊朗港口，随后试图驶离该地区海域。",
-          "url": "https://flash.jin10.com/detail/20261108044039132800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国中央司令部：周六美军在阿曼湾使一艘商船失去航行能力。此前，该船民用船员多次无视美方警告，并试图多次违反针对伊朗的海上封锁。",
-          "url": "https://flash.jin10.com/detail/20261108043827362800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：以色列左翼民主党领袖亚伊尔·戈兰呼吁推翻以色列总理内塔尼亚胡并组建新政府。",
-          "url": "https://flash.jin10.com/detail/20261108021129788800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗革命卫队发言人表示，美国无法实现其经济封锁目标，也无法切断德黑兰与邻国的联系。",
-          "url": "https://flash.jin10.com/detail/20261108170036851800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "据伊朗国家电视台：伊朗南部的爆炸事件可能与伊朗军方在霍尔木兹海峡的活动有关。",
-          "url": "https://flash.jin10.com/detail/20261108042432008800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "伊朗南部多地传出爆炸声",
-          "url": "https://flash.jin10.com/detail/20261108042150019800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "据伊朗国家电视台：伊朗南部贾斯克、锡里克、阿巴斯港和格什姆岛传出爆炸声，原因尚不明确。",
-          "url": "https://flash.jin10.com/detail/20261108041602655800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台：伊朗媒体称，霍尔木兹港传出战斗机的声音。",
-          "url": "https://flash.jin10.com/detail/20261108041004065800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "伊朗驻维也纳联合国代表团指控美国以“正义悬赏”计划为名招募同伙，企图袭击伊朗核科学家和核设施，并警告称，任何提供相关信息的主体（包括国际原子能机构在内）都可能面临法律后果。",
-          "url": "https://flash.jin10.com/detail/20261108035516954800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗格什姆岛传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20261108033425932800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国为何对伊朗实施“小型打击”",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%AE%9E%E6%96%BD%E2%80%9C%E5%B0%8F%E5%9E%8B%E6%89%93%E5%87%BB%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 10,
       "titles": [
         {
           "title": "“共和党惨败后，万斯开始与特朗普保持距离”",
           "url": "https://news.ifeng.com/c/8xsU8AGPBWp",
           "source": "凤凰网",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 18时52分]"
-        },
-        {
-          "title": "不改变政策路线！特朗普撤换白宫幕僚长，任命“强硬派”Stephen Miller",
-          "url": "https://wallstreetcn.com/articles/3785431",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 11时09分]"
-        },
-        {
-          "title": "“蓝潮”无碍数据中心建设！白宫高官安抚市场 特朗普称100%支持SI",
-          "url": "https://www.cls.cn/detail/2527984",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 18时52分]"
-        },
-        {
-          "title": "特朗普为何容忍万斯的“攻击”？专家：他不想下台后就坐牢",
-          "url": "https://v.ifeng.com/c/8xrIPvD29En",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场",
-          "url": "https://www.cls.cn/detail/2527972",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 18时52分]"
-        },
-        {
-          "title": "特朗普呼吁向司法部或其本人举报民主党“非法威胁”",
-          "url": "https://flash.jin10.com/detail/20261108025002193800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "消息人士：达纳·怀特拒绝特朗普邀请其出任白宫新闻秘书",
-          "url": "https://flash.jin10.com/detail/20261108054754829800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时14分 ~ 11时09分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "UFC总裁将与特朗普面谈",
-          "url": "https://wallstreetcn.com/livenews/3196440",
+          "title": "美国总统特朗普：可能会对政府进行一些调整，但目前不想透露具体人选。",
+          "url": "https://wallstreetcn.com/livenews/3196488",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            26
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 18时52分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         },
         {
-          "title": "据CNN：消息人士称，UFC首席执行官达纳·怀特拒绝了特朗普提出的邀请，未接受出任白宫新闻秘书一职。",
-          "url": "https://flash.jin10.com/detail/20261108054125488800",
+          "title": "特朗普称可能调整政府团队，重申对战争部长赫格塞思的信任",
+          "url": "https://flash.jin10.com/detail/20261109002712246800",
           "source": "金十数据",
           "ranks": [
-            3,
-            23
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 11时09分]"
-        },
-        {
-          "title": "特朗普邀请UFC掌门人出任白宫新闻秘书遭拒绝",
-          "url": "https://wallstreetcn.com/livenews/3196438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 18时52分]"
-        },
-        {
-          "title": "美方对伊朗发动小规模打击！特朗普证实、伊朗称两枚导弹击中格什姆岛",
-          "url": "https://wallstreetcn.com/articles/3785419",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时14分]"
-        },
-        {
-          "title": "特朗普邀格斗界大佬出任白宫新闻秘书",
-          "url": "https://news.ifeng.com/c/8xs5ZHVK3YV",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "特朗普邀请UFC总裁达纳·怀特担任白宫新闻秘书",
-          "url": "https://flash.jin10.com/detail/20261108024303729800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "美国总统特朗普：达纳·怀特已获邀出任新闻秘书一职。",
-          "url": "https://flash.jin10.com/detail/20261108024111249800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
+          "time_info": "00时51分"
         },
         {
           "title": "带六名格斗冠军上岗？特朗普让UFC总裁当白宫新闻秘书遭拒",
           "url": "https://m.thepaper.cn/newsDetail_forward_34431066",
           "source": "澎湃新闻",
           "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "美国总统特朗普：我们在委内瑞拉和伊朗的战争中获胜，获得了数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20261109001952730800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "美国总统特朗普：我信任赫格塞思，目前他的职位暂时没有危险。",
+          "url": "https://flash.jin10.com/detail/20261109001819510800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "美国总统特朗普：我信任美国国防部长赫格塞思， 我们在委内瑞拉和伊朗进行了两场战争，并且取得了胜利。",
+          "url": "https://flash.jin10.com/detail/20261109001745129800",
+          "source": "金十数据",
+          "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "00时51分"
         },
         {
-          "title": "特朗普下令司法部彻查民主党“敲诈勒索”，指控其滥用弹劾与监禁威胁",
-          "url": "https://flash.jin10.com/detail/20261108015435230800",
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普表示，我可能会对我的政府进行调整。",
+          "url": "https://flash.jin10.com/detail/20261109001722091800",
           "source": "金十数据",
           "ranks": [
-            16
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时11分"
+          "time_info": "00时51分"
         },
         {
-          "title": "特朗普拟邀请UFC总裁出任白宫新闻秘书 双方计划周一会面",
-          "url": "https://flash.jin10.com/detail/20261108084240523800",
+          "title": "特朗普将接受《60分钟》采访：希望节目展示过去两年的施政成果",
+          "url": "https://flash.jin10.com/detail/20261109000222851800",
           "source": "金十数据",
           "ranks": [
-            16
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时09分"
+          "time_info": "00时51分"
         },
         {
-          "title": "美国总统特朗普：民主党人四处威胁许多人，包括美国司法部长和其他人，扬言要弹劾他们。这是最高级别的敲诈勒索，他们应该为此被追究责任。",
-          "url": "https://flash.jin10.com/detail/20261108014720001800",
+          "title": "据沙特阿拉比亚电视台：消息人士透露，一个伊拉克代表团在德黑兰会见了伊朗官员，据悉该整个任务持续约8小时，代表团还向德黑兰转交了美方的信息。伊拉克代表团此次访问德黑兰，发生在美国总统特朗普与伊拉克总理扎伊迪通电话、美国特使汤姆·巴拉克访问巴格达之后。",
+          "url": "https://flash.jin10.com/detail/20261108234754421800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时11分"
-        },
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 6,
+      "titles": [
         {
-          "title": "土耳其总统埃尔多安办公室：土耳其总统埃尔多安告知美国总统特朗普，希望结束乌克兰战争的外交努力将取得积极成果。",
-          "url": "https://flash.jin10.com/detail/20261108014243939800",
-          "source": "金十数据",
+          "title": "美中央司令部成立铁门特遣队，阻击伊朗陆路运输",
+          "url": "https://original.ifeng.com/c/8xsybBLthfu",
+          "source": "凤凰网",
           "ranks": [
-            18
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "土耳其总统埃尔多安办公室：土耳其总统埃尔多安向美国总统特朗普表示，美伊紧张局势应通过外交途径解决，安卡拉将继续为和平作出努力。",
-          "url": "https://flash.jin10.com/detail/20261108014240244800",
+          "title": "据伊朗媒体：伊朗海军称，一艘油轮在霍尔木兹海峡以东触雷起火。",
+          "url": "https://flash.jin10.com/detail/20261109002812216800",
           "source": "金十数据",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "一名携枪男子在白宫附近被捕，嫌疑人自称前来行刺特朗普",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34428612",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "00时51分"
         },
         {
-          "title": "土耳其总统埃尔多安办公室：土耳其总统埃尔多安与美国总统特朗普通电话，讨论地区和全球事态发展。",
-          "url": "https://flash.jin10.com/detail/20261108014236123800",
-          "source": "金十数据",
+          "title": "以色列国防部长称对伊朗任务“尚未完成”",
+          "url": "https://wallstreetcn.com/livenews/3196480",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "特朗普从不为所动到愈发愤怒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%BB%8E%E4%B8%8D%E4%B8%BA%E6%89%80%E5%8A%A8%E5%88%B0%E6%84%88%E5%8F%91%E6%84%A4%E6%80%92%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "00时51分"
         },
         {
-          "title": "特朗普下令美国司法部调查民主党人“威胁弹劾”行为",
-          "url": "https://wallstreetcn.com/livenews/3196444",
+          "title": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火",
+          "url": "https://wallstreetcn.com/livenews/3196477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "伊朗革命卫队：美军特遣部队无法达到施压伊朗目的",
+          "url": "https://wallstreetcn.com/livenews/3196475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "以色列总统赫尔佐格：以色列面临的挑战巨大，其中部分挑战需要立即应对。伊朗的威胁从未停止过哪怕一瞬。",
+          "url": "https://flash.jin10.com/detail/20261108232330200800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上纬新材：消费级具身智能机器人“启元Q1”“启元T1” 下线1万台",
+          "url": "https://wallstreetcn.com/livenews/3196459",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "【早报】美股芯片股反弹，AMD涨超11%，中概股集体走强；多家券商启动第三批互换便利首批股票买入",
-          "url": "https://www.cls.cn/detail/2527975",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时10分 ~ 18时52分]"
-        },
-        {
-          "title": "外媒曝约 60 万枚英伟达芯片滞留香港，美方部分人士指责其为「卡脖子」，为何美方会对此如此着急？",
-          "url": "https://www.zhihu.com/question/2102096628895240211",
-          "source": "知乎",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时14分]"
-        },
-        {
-          "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
-          "url": "https://wallstreetcn.com/articles/3785315",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
-        },
-        {
-          "title": "马斯克再抛惊人目标：明年SpaceX年化收入5000亿美元、星链计算机同步上天，Terafab芯片产能瞄准一太瓦",
-          "url": "https://wallstreetcn.com/articles/3785451",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "中国不买英伟达芯片美国人急什么",
-          "url": "https://www.toutiao.com/trending/7704527128851398719/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时14分]"
-        },
-        {
-          "title": "不愿为旧芯片买单？微软据报逐步终止甲骨文算力租约",
-          "url": "https://www.cls.cn/detail/2527960",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 11时09分]"
-        },
-        {
-          "title": "马斯克再抛惊人目标：明年SpaceX年化收入5000亿美、星链计算机同步上天，Terafab芯片产能瞄准一太瓦",
-          "url": "https://wallstreetcn.com/articles/3785451",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
-        },
-        {
-          "title": "英伟达四处替客户找钱买芯片",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%9B%9B%E5%A4%84%E6%9B%BF%E5%AE%A2%E6%88%B7%E6%89%BE%E9%92%B1%E4%B9%B0%E8%8A%AF%E7%89%87",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
-        },
-        {
-          "title": "英伟达大劫案！超7600万元AI芯片和硬件离奇失踪，嫌疑人尚未抓获",
-          "url": "https://wallstreetcn.com/articles/3785482",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "商业航天 机器人",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "平均成功率91%！苹果披露机器人“大脑”进展，调用千问模型在宇树G1上验证",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34427916",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 11时09分]"
-        },
-        {
-          "title": "“不想打工”的人形机器人在仓库吃灰",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%B8%8D%E6%83%B3%E6%89%93%E5%B7%A5%E2%80%9D%E7%9A%84%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9C%A8%E4%BB%93%E5%BA%93%E5%90%83%E7%81%B0",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 11时09分]"
-        },
-        {
-          "title": "平均成功率91%！苹果研究团队披露机器人“大脑”进展：调用千问模型在宇树G1上验证",
-          "url": "https://wallstreetcn.com/articles/3785445",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 11时09分]"
-        },
-        {
-          "title": "上纬新材：消费级具身智能机器人“启元Q1”“启元T1” 下线1万台",
-          "url": "https://wallstreetcn.com/livenews/3196459",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
+          "time_info": "00时51分"
         },
         {
           "title": "上纬新材第10000台启元机器人下线",
           "url": "https://wallstreetcn.com/livenews/3196453",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "存储 半导体",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "长鑫科技新设投资平台 揭秘半导体龙头产业投资版图",
-          "url": "https://www.cls.cn/detail/2528063",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时10分 ~ 11时09分]"
-        },
-        {
-          "title": "存储风暴压顶 小众手机在劫难逃",
-          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E9%A3%8E%E6%9A%B4%E5%8E%8B%E9%A1%B6+%E5%B0%8F%E4%BC%97%E6%89%8B%E6%9C%BA%E5%9C%A8%E5%8A%AB%E9%9A%BE%E9%80%83",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时14分]"
-        },
-        {
-          "title": "半导体热潮带来资金红利，韩国大额存款创历史新高",
-          "url": "https://flash.jin10.com/detail/20261108051404668800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 11时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "回购",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伯克希尔Q3净利润大降28%，投资收益缩水近半，回购创年内单季新高，现金升至3774亿美元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3785460",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 18时52分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至9月30日，股权投资公允价值总额的65%集中于Alphabet、美国运通、苹果、美国银行及可口可乐。 截至10月28日，第四季度回购了相当于约2,554股A类股的股份。",
-          "url": "https://wallstreetcn.com/livenews/3196427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 11时09分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：第三季度营业利润为127.1亿美元，同比下降5.8%。 第三季度净利润221.1亿美元，同比下降28%。 第三季度保险承保经营收益13.5亿美元，同比下降43%。 第三季度保险投资经营收益27.3亿美元，同比下降14%。 第三季度净投资收益为94.07亿美元，去年同期为173.11亿美元。 第三季度回购约96亿美元股份。",
-          "url": "https://wallstreetcn.com/livenews/3196425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 11时09分]"
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "风险",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "欧洲央行行长候选人de Cos称需对通胀风险保持警惕",
-          "url": "https://wallstreetcn.com/livenews/3196404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 07时14分]"
-        },
-        {
-          "title": "5只热门股集中披露风险提示公告",
-          "url": "https://www.toutiao.com/trending/7705300402119606326/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "复盘",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "复盘GEN如何战胜IG",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98GEN%E5%A6%82%E4%BD%95%E6%88%98%E8%83%9CIG",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
-          "title": "深度复盘IG不敌GenG",
-          "url": "https://www.douyin.com/hot/2735374",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美联储 非农",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI产业链深跌后集体反弹 非农数据大幅超出预期 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2527812",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 03时11分]"
-        },
-        {
-          "title": "美国10月非农录得16.5万人远超预期 美联储12月加息押注升至近八成",
-          "url": "https://www.cls.cn/detail/2527868",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "实体清单 制裁",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】美制裁中国企业，商务部回应；央行连续24个月增持黄金",
-          "url": "https://www.cls.cn/detail/2528174",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 18时52分]"
-        },
-        {
-          "title": "商务部回应“美首次以涉古巴为由制裁中企”：敦促美方尽快纠正错误做法",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34425625",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "涨价 核心材料",
       "match_count": 1,
       "titles": [
         {
-          "title": "曝美光将暂停 45 亿美元内存厂扩产，为何后续会出现要么 AI 崩要么内存涨价的局面？",
-          "url": "https://www.zhihu.com/question/2102194286016082260",
-          "source": "知乎",
+          "title": "以色列正直党领导人埃森科特：我们的失败将对以色列的未来构成重大风险。",
+          "url": "https://flash.jin10.com/detail/20261108235803029800",
+          "source": "金十数据",
           "ranks": [
-            7
+            15
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     },
@@ -1026,16 +241,83 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "冰雪游热度提前释放 热门航线预订同比增长两倍",
-          "url": "https://www.cls.cn/detail/2528025",
-          "source": "财联社热门",
+          "title": "比亚迪李云飞：今年销量预计略有增长",
+          "url": "https://www.toutiao.com/trending/7705803303665418283/",
+          "source": "今日头条",
           "ranks": [
-            13,
-            12
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时10分 ~ 07时14分]"
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "芯片 光模块",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达大劫案！超7600万元AI芯片和硬件离奇失踪，嫌疑人尚未抓获",
+          "url": "https://wallstreetcn.com/articles/3785482",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长鑫科技新设投资平台 揭秘半导体龙头产业投资版图",
+          "url": "https://www.cls.cn/detail/2528063",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "CPI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "下周重磅日程：中美CPI、俄美乌三方会谈、CoreWeave财报与Anthropic路演",
+          "url": "https://wallstreetcn.com/articles/3785467",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "实体清单 制裁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美制裁中国企业，商务部回应；央行连续24个月增持黄金",
+          "url": "https://www.cls.cn/detail/2528174",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
         }
       ]
     }
