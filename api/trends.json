@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-11-10T09:00:04.375825+08:00",
-  "total_titles_processed": 479,
-  "failed_sources": [],
+  "generated_at": "2026-11-10T16:01:24.798072+08:00",
+  "total_titles_processed": 712,
+  "failed_sources": [
+    "bilibili-hot-search"
+  ],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称伊朗战事已“事实上结束”",
@@ -19,6 +21,17 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
+          "title": "特朗普回应是否拿下古巴",
+          "url": "https://news.ifeng.com/c/8xw1pIaWnqw",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
           "title": "特朗普称没必要再对伊朗采取军事行动",
           "url": "https://www.toutiao.com/trending/7705369281621442587/",
           "source": "今日头条",
@@ -28,6 +41,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
+          "title": "特朗普质疑美国中期选举结果，称提前投票数据异常",
+          "url": "https://news.ifeng.com/c/8xvuX0M7OL2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗",
+          "url": "https://www.cls.cn/detail/2529629",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 16时01分]"
         },
         {
           "title": "美国国防部长赫格塞思：（关于伊朗）历史将会对特朗普给予很高的评价。",
@@ -97,6 +133,42 @@
           "time_info": "01时57分"
         },
         {
+          "title": "美共和党议员要求弹劾防长，特朗普回应",
+          "url": "https://original.ifeng.com/c/8xvi7jFdssH",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 16时01分]"
+        },
+        {
+          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
+          "url": "https://wallstreetcn.com/articles/3785603",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 16时01分]"
+        },
+        {
+          "title": "伊朗向特朗普发 48 小时最后通牒，要么接受德黑兰提出的最新方案，要么面临军事冲突升级，特朗普会如何选择？",
+          "url": "https://www.zhihu.com/question/2103246242599756216",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 16时01分]"
+        },
+        {
           "title": "特朗普回应万斯“切割文”",
           "url": "https://www.toutiao.com/trending/7705986679199040009/",
           "source": "今日头条",
@@ -108,48 +180,37 @@
           "time_info": "[08时59分 ~ 09时00分]"
         },
         {
-          "title": "美共和党议员要求弹劾防长，特朗普回应",
-          "url": "https://original.ifeng.com/c/8xvi7jFdssH",
+          "title": "特朗普称伊朗战事已“事实上结束”",
+          "url": "https://news.ifeng.com/c/8xvpfG8oa0G",
           "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "time_info": "[16时00分 ~ 16时01分]"
         },
         {
-          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
-          "url": "https://wallstreetcn.com/articles/3785603",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
-        },
-        {
-          "title": "美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗",
-          "url": "https://www.cls.cn/detail/2529629",
+          "title": "11月10日投资避雷针：特朗普称结束伊朗战争出现积极势头 布油重挫近6%",
+          "url": "https://www.cls.cn/detail/2529648",
           "source": "财联社热门",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "time_info": "[16时00分 ~ 16时01分]"
         },
         {
-          "title": "伊朗向特朗普发 48 小时最后通牒，要么接受德黑兰提出的最新方案，要么面临军事冲突升级，特朗普会如何选择？",
-          "url": "https://www.zhihu.com/question/2103246242599756216",
-          "source": "知乎",
+          "title": "特朗普称俄乌都已厌倦了打仗",
+          "url": "https://www.toutiao.com/trending/7706355587000615434/",
+          "source": "今日头条",
           "ranks": [
-            15
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "time_info": "[16时00分 ~ 16时01分]"
         },
         {
           "title": "特朗普：不希望美在AI领域落后中国",
@@ -161,6 +222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
+          "title": "特朗普称似乎没必要再对伊朗采取军事行动，国际油价早盘一度跌超 5%，中东局势真的进入阶段性降温了吗？",
+          "url": "https://www.zhihu.com/question/2103391365900014384",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
         },
         {
           "title": "美众议员要求弹劾防长 特朗普发声",
@@ -224,7 +296,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -243,8 +315,19 @@
     },
     {
       "keyword_group": "美联储 非农",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "机构：通胀不退，美联储难救科技股",
+          "url": "https://flash.jin10.com/detail/20261110153442587800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
         {
           "title": "美联储巴尔金：消费者信心低迷，但在就业市场保持韧性的支撑下，消费者仍在持续支出。",
           "url": "https://flash.jin10.com/detail/20261110010555201800",
@@ -368,7 +451,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -390,7 +473,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -412,7 +495,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -456,9 +539,94 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗 布伦特原油 原油指数",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "布油跌超4%！伊朗被曝在霍尔木兹问题上松口，总统表态愿以谈判打破“不战不和”僵局",
+          "url": "https://wallstreetcn.com/articles/3785587",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 16时01分]"
+        },
+        {
+          "title": "伊朗最高领袖下令结束非战非和状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8B%E4%BB%A4%E7%BB%93%E6%9D%9F%E9%9D%9E%E6%88%98%E9%9D%9E%E5%92%8C%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 09时00分]"
+        },
+        {
+          "title": "中信证券：伊朗的一系列战略性诉求与目标，对于美国两党均缺乏妥协空间",
+          "url": "https://flash.jin10.com/detail/20261110084047778800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "伊朗政府发言人：已拨付865万亿里亚尔以保障民众购买力",
+          "url": "https://flash.jin10.com/detail/20261110152731113800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "伊朗政府发言人表示，今年冬季天然气供需缺口将达到4.3亿立方米。过去几年，伊朗冬季天然气供需缺口约为3亿立方米。在敌方对伊朗发动的袭击中，部分天然气炼厂受损，导致伊朗额外损失2.3亿立方米天然气。",
+          "url": "https://flash.jin10.com/detail/20261110151916429800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫：以色列方面正竭力将美国拖入一场与伊朗的无休止战争，使其陷入泥潭，无论现任还是未来的美国总统，无论共和党还是民主党，都将难以脱身。除非美国摒弃“以色列优先”的思维模式，否则美国及其盟友将不可避免地走向一个黑暗时代。",
+          "url": "https://flash.jin10.com/detail/20261110005631501800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "法国外长Barrot声称：伊朗伊斯兰革命卫队应该对冰箱遭受的网络攻击负责。",
+          "url": "https://wallstreetcn.com/livenews/3197063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     },
@@ -474,8 +642,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时59分 ~ 09时00分]"
+          "appearance_count": 4,
+          "time_info": "[08时59分 ~ 16时01分]"
         },
         {
           "title": "中方回应外媒涉60万枚英伟达芯片报道",
@@ -518,7 +686,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -529,7 +697,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时00分"
         },
@@ -547,15 +715,87 @@
       ]
     },
     {
-      "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 5,
+      "keyword_group": "增长 亮眼",
+      "match_count": 6,
       "titles": [
         {
-          "title": "布油跌超4%！伊朗被曝在霍尔木兹问题上松口，总统表态愿以谈判打破“不战不和”僵局",
-          "url": "https://wallstreetcn.com/articles/3785587",
-          "source": "华尔街见闻",
+          "title": "前10个月我国外贸保持强劲增长态势",
+          "url": "https://www.douyin.com/hot/2739145",
+          "source": "抖音",
           "ranks": [
-            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "10月中国出口同比增长35.2%！集成电路、自动数据处理设备翻倍，成品油大涨8成",
+          "url": "https://www.cls.cn/detail/2529899",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "英飞凌上调数据中心业务销售展望 预计财年营收将显著增长",
+          "url": "https://wallstreetcn.com/livenews/3197476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "沃达丰集团上半年营收218.5亿欧元，预估215.2亿欧元。 上半年调整后每股收益0.0148欧元，预估0.05欧元。 上半年除税前亏损3.73亿欧元，预估收益31.6亿欧元。 上半年净亏损47.9亿欧元，预估收益8.61亿欧元。 上半年调整后负自由现金流4.40亿欧元。 上半年每股中期派息0.0231欧元。 沃达丰集团第二季度内生性服务业务收入增长6.4％，预估增长5.06％。 沃达丰集团预计全年调整后自由现金流28亿欧元至30亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3197473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Moulin：预计2026年法国GDP增长约0.3%。 认为能源价格出现积极迹象。",
+          "url": "https://wallstreetcn.com/livenews/3197466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
+          "title": "前10个月我国外贸保持强劲增长态势",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%89%8D10%E4%B8%AA%E6%9C%88%E6%88%91%E5%9B%BD%E5%A4%96%E8%B4%B8%E4%BF%9D%E6%8C%81%E5%BC%BA%E5%8A%B2%E5%A2%9E%E9%95%BF%E6%80%81%E5%8A%BF%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "哈工大硕士毕业后创业失败，如今在街头卖气球，被人质疑「浪费资源」，如何评价他的选择？真的是浪费资源吗？",
+          "url": "https://www.zhihu.com/question/2102480088411419212",
+          "source": "知乎",
+          "ranks": [
+            3,
             4
           ],
           "is_new": false,
@@ -563,49 +803,38 @@
           "time_info": "[01时57分 ~ 09时00分]"
         },
         {
-          "title": "伊朗最高领袖下令结束非战非和状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%B8%8B%E4%BB%A4%E7%BB%93%E6%9D%9F%E9%9D%9E%E6%88%98%E9%9D%9E%E5%92%8C%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
+          "title": "观察｜以“进口”为名的博览会，本土科创企业为何组团进场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34418393",
+          "source": "澎湃新闻",
           "ranks": [
             6,
-            12
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时57分 ~ 09时00分]"
         },
         {
-          "title": "中信证券：伊朗的一系列战略性诉求与目标，对于美国两党均缺乏妥协空间",
-          "url": "https://flash.jin10.com/detail/20261110084047778800",
-          "source": "金十数据",
+          "title": "【焦点复盘】创业板指高开低走跌0.27%，全市场超3100股飘绿，寒潮概念现多点开花",
+          "url": "https://www.cls.cn/detail/2529174",
+          "source": "财联社热门",
           "ranks": [
-            12
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "A股收盘：创业板指全天涨1.46%，全市场超4200股飘红",
+          "url": "https://wallstreetcn.com/livenews/3197477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "伊朗议会议长卡利巴夫：以色列方面正竭力将美国拖入一场与伊朗的无休止战争，使其陷入泥潭，无论现任还是未来的美国总统，无论共和党还是民主党，都将难以脱身。除非美国摒弃“以色列优先”的思维模式，否则美国及其盟友将不可避免地走向一个黑暗时代。",
-          "url": "https://flash.jin10.com/detail/20261110005631501800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "法国外长Barrot声称：伊朗伊斯兰革命卫队应该对冰箱遭受的网络攻击负责。",
-          "url": "https://wallstreetcn.com/livenews/3197063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "16时01分"
         }
       ]
     },
@@ -662,88 +891,59 @@
       ]
     },
     {
-      "keyword_group": "日经 韩国股市",
-      "match_count": 3,
+      "keyword_group": "CPI",
+      "match_count": 4,
       "titles": [
         {
-          "title": "日经225指数涨幅扩大至3%。",
-          "url": "https://wallstreetcn.com/livenews/3197245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "韩国首尔综指盘初上涨5%。 日经225指数上涨2.4%。",
-          "url": "https://wallstreetcn.com/livenews/3197237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        },
-        {
-          "title": "日经225指数高开0.9%，韩国首尔综指高开4.6%。",
-          "url": "https://wallstreetcn.com/livenews/3197233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "科创 创业 创业板 科创板",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "哈工大硕士毕业后创业失败，如今在街头卖气球，被人质疑「浪费资源」，如何评价他的选择？真的是浪费资源吗？",
-          "url": "https://www.zhihu.com/question/2102480088411419212",
-          "source": "知乎",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 09时00分]"
-        },
-        {
-          "title": "观察｜以“进口”为名的博览会，本土科创企业为何组团进场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34418393",
+          "title": "分析｜10月CPI同比涨幅回落至0.7%，下阶段走势如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34439524",
           "source": "澎湃新闻",
           "ranks": [
-            6,
+            15,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时57分 ~ 16时01分]"
+        },
+        {
+          "title": "美国10月CPI今晚公布",
+          "url": "https://www.douyin.com/hot/2738440",
+          "source": "抖音",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 09时00分]"
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
         },
         {
-          "title": "【焦点复盘】创业板指高开低走跌0.27%，全市场超3100股飘绿，寒潮概念现多点开花",
-          "url": "https://www.cls.cn/detail/2529174",
-          "source": "财联社热门",
+          "title": "CPI公布日，竞猜赢大奖",
+          "url": "https://flash.jin10.com/detail/20261110153046589800",
+          "source": "金十数据",
           "ranks": [
-            8
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "16时01分"
+        },
+        {
+          "title": "黄金看跌期权押近撤远，多仓在CPI前缩减对4200的埋伏",
+          "url": "https://flash.jin10.com/detail/20261110152312337800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%",
@@ -766,13 +966,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时59分 ~ 09时00分]"
+        },
+        {
+          "title": "美股三大指数均涨超 2%，科技股飙升，英伟达逆市跌 4.2%，如何解读？",
+          "url": "https://www.zhihu.com/question/2103388122998203709",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
         }
       ]
     },
     {
       "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "高盛点名关键趋势线，纳斯达克最后防线岌岌可危",
+          "url": "https://wallstreetcn.com/articles/3785591",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
         {
           "title": "道指扩大涨幅至2%。标普500指数现涨2.23%，纳指涨2.57%。",
           "url": "https://flash.jin10.com/detail/20261110010948107800",
@@ -798,8 +1020,47 @@
       ]
     },
     {
+      "keyword_group": "日经 韩国股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日经225指数涨幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/3197245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "韩国首尔综指盘初上涨5%。 日经225指数上涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3197237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        },
+        {
+          "title": "日经225指数高开0.9%，韩国首尔综指高开4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3197233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "商业航天 机器人",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "凯斯纽（CNH）维持超过13%的涨幅，这家农机制造商改造工厂，为美国农业复苏做准备。 由于美国农业行业经历多年低迷，CNH Industrial NV已放缓其拉辛（Racine）工厂的拖拉机生产，如今一台拖拉机大约需要五天才能驶下装配线。 该公司正投资5,000万美元对拉辛工厂进行现代化改造，引入自动化机器人以协助工人装配拖拉机，这是其到2030年50亿美元研发投入的一部分。 CNH高管对行业可能出现的复苏持乐观态度，CEO Gerrit Marx表示，当前的低谷期让公司能在需求开始回升时准备得更充分。",
@@ -822,6 +1083,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "公司和特斯拉在机器人方面是否有合作？宁波华翔回应",
+          "url": "https://flash.jin10.com/detail/20261110151656875800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨停 跌停",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股收盘：全市场近百股涨停",
+          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E5%85%A8%E5%B8%82%E5%9C%BA%E8%BF%91%E7%99%BE%E8%82%A1%E6%B6%A8%E5%81%9C",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时00分 ~ 16时01分]"
+        },
+        {
+          "title": "商品期货收盘，纯苯主力合约跌停，燃料油、液化气、原油跌超6%，LU燃油、聚丙烯、甲醇、丙烯、沥青跌超5%。集运欧线涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3197472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         }
       ]
     },
@@ -854,6 +1154,23 @@
       ]
     },
     {
+      "keyword_group": "上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证指数收报3663.72点，涨0.08%。 深证成指收报11241.54点，涨0.86%。 创业板指收报2494.40点，涨1.46%。 沪深300收报4059.11点，涨0.07%。 科创50收报1265.02点，涨0.64%。 中证500收报6645.89点，涨0.91%。 中证1000收报6579.36点，涨1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3197475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "中证2000 指数",
       "match_count": 1,
       "titles": [
@@ -867,24 +1184,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "CPI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "分析｜10月CPI同比涨幅回落至0.7%，下阶段走势如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34439524",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 09时00分]"
         }
       ]
     },
