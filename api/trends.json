@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T01:41:10.514854+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-11-12T07:49:47.333081+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "伊朗南部Pars天然气产量稳定，此前该平台出现火情。（IRNA）",
@@ -14,9 +14,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "伊朗最高安全官员警告：若美国再次发动袭击，欧洲境内美军基地也将成为打击目标",
+          "url": "https://www.cls.cn/detail/2532025",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "伊朗议长兼谈判代表团团长卡利巴夫：我们就霍尔木兹海峡的航道及交通分隔系统与阿曼达成共识。 我们准备协助沙特阿拉伯和胡塞武装组织，在双方提出请求时帮助化解彼此间的分歧。 在谈判或战争中，我们不区分以色列和华盛顿，它们是一伙的，而我们与抵抗力量是一伙的。",
@@ -25,7 +36,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -36,9 +47,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "伊朗公布新建地下“导弹城”，隧道内摆满各种导弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34452199",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们就霍尔木兹海峡的航道及交通分隔系统与阿曼达成共识。",
@@ -47,7 +69,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -58,7 +80,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -69,7 +91,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -80,7 +102,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -91,7 +113,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -102,7 +124,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -113,7 +135,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -124,7 +146,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         }
@@ -132,8 +154,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "特朗普政府已获悉，英伟达董事会正准备在近期罢免黄仁勋。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3198671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
         {
           "title": "美国总统特朗普：（关于伊朗）希望我们不必再摧毁那个国家的更多地方了。",
           "url": "https://flash.jin10.com/detail/20261112011732224800",
@@ -141,7 +174,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -152,7 +185,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -163,9 +196,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司：特朗普政府已获悉，英伟达(NVDA.O)董事会正准备在近期讨论罢免首席执行官黄仁勋。",
+          "url": "https://flash.jin10.com/detail/20261112073301655800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "美国总统特朗普：他们需要25年才能重建失去的一切。",
@@ -174,7 +218,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -185,7 +229,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -196,7 +240,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -207,7 +251,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -218,9 +262,70 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "万斯考虑亲自与伊朗强硬派会谈！特朗普授权重启谈判，结束战争再现外交窗口",
+          "url": "https://flash.jin10.com/detail/20261112065020827800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "纳斯达克 标普 道琼斯",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "纳斯达克100指数期货跌幅扩大至1.1%，标普500指数期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3198662",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "纳指涨2.1%，纳斯达克100指数涨2.8%，半导体指数涨7.5%。",
+          "url": "https://wallstreetcn.com/livenews/3198557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "纳指扩大涨幅至2%；标普500指数日内涨1.31%，道指涨0.1%。",
+          "url": "https://flash.jin10.com/detail/20261112005427340800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "周三（11月11日）纽约尾盘，标普500股指期货最终涨1.29%，道指期货涨0.56%，纳斯达克100股指期货涨2.17%。 罗素2000股指期货涨0.93%。",
+          "url": "https://wallstreetcn.com/livenews/3198649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         }
       ]
     },
@@ -235,7 +340,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -246,35 +351,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "纳斯达克 标普 道琼斯",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "纳指涨2.1%，纳斯达克100指数涨2.8%，半导体指数涨7.5%。",
-          "url": "https://wallstreetcn.com/livenews/3198557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "纳指扩大涨幅至2%；标普500指数日内涨1.31%，道指涨0.1%。",
-          "url": "https://flash.jin10.com/detail/20261112005427340800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         }
@@ -289,11 +366,12 @@
           "url": "https://www.cls.cn/detail/2531610",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 07时49分]"
         },
         {
           "title": "【每日收评】创业板指震荡走高涨超3%，全市场超3500股收红，算力硬件股卷土重来",
@@ -317,11 +395,12 @@
           "url": "https://www.cls.cn/detail/2531587",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 07时49分]"
         },
         {
           "title": "中国叫停软银收购瑞士 ABB 机器人业务，将对全球工业数据流转规则产生哪些影响？",
@@ -333,6 +412,124 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 01时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "存储 半导体",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股收盘：科技板块再续昂扬反弹 多只存储、光通信牛股涨幅“上双”",
+          "url": "https://www.cls.cn/detail/2532064",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "费城半导体指数日内涨7%",
+          "url": "https://flash.jin10.com/detail/20261112004636191800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美联储 非农",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
+          "url": "https://wallstreetcn.com/articles/3785613",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 01时41分]"
+        },
+        {
+          "title": "美联储高层人事暗战浮现！威廉姆斯离任时间成争议，沃什或提前掌握关键任命权",
+          "url": "https://flash.jin10.com/detail/20261112072248314800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI交易重燃，美股指反弹，CoreWeave飙升24%，美元续涨，黄金跌破4000",
+          "url": "https://wallstreetcn.com/articles/3785732",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "现货黄金跌破4000美元关口",
+          "url": "https://flash.jin10.com/detail/20261112004058739800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上证报头版文章：政策工具优化迭代，稳市机制加快完善",
+          "url": "https://wallstreetcn.com/livenews/3198655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "涨价 核心材料",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "氯化亚砜一年涨价近3倍",
+          "url": "https://wallstreetcn.com/livenews/3198654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         }
       ]
     },
@@ -382,25 +579,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 07时49分]"
         }
       ]
     },
     {
-      "keyword_group": "存储 半导体",
+      "keyword_group": "芯片 光模块",
       "match_count": 1,
       "titles": [
         {
-          "title": "费城半导体指数日内涨7%",
-          "url": "https://flash.jin10.com/detail/20261112004636191800",
-          "source": "金十数据",
+          "title": "Anthropic披露AI仅用3天适配AMD芯片",
+          "url": "https://www.toutiao.com/trending/7706948038756929087/",
+          "source": "今日头条",
           "ranks": [
-            20
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "07时49分"
         }
       ]
     },
@@ -413,11 +610,12 @@
           "url": "https://www.cls.cn/detail/2531641",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 07时49分]"
         }
       ]
     },
@@ -430,45 +628,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_34453548",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            12,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美联储 非农",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3785613",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "现货黄金跌破4000美元关口",
-          "url": "https://flash.jin10.com/detail/20261112004058739800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时41分"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 07时49分]"
         }
       ]
     },
@@ -484,8 +649,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 07时49分]"
         }
       ]
     }
