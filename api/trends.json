@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T10:22:23.566989+08:00",
-  "total_titles_processed": 604,
+  "generated_at": "2026-11-11T17:59:28.982725+08:00",
+  "total_titles_processed": 840,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美联储 非农",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美联储12月会议悬念升级 理事沃勒称不排除加息50基点",
@@ -31,24 +31,25 @@
           "time_info": "[00时07分 ~ 10时22分]"
         },
         {
+          "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
+          "url": "https://wallstreetcn.com/articles/3785613",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 17时59分]"
+        },
+        {
           "title": "【早报】深夜巨震，美股、原油、黄金全线下挫；美联储加息押注升温，美债遭遇抛售潮；Anthropic IPO有新进展",
           "url": "https://www.cls.cn/detail/2530870",
           "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
-          "url": "https://wallstreetcn.com/articles/3785613",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -63,6 +64,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时07分 ~ 10时22分]"
+        },
+        {
+          "title": "华尔街热议10月CPI：美联储12月加息板上钉钉，幅度或达50个基点！",
+          "url": "https://www.cls.cn/detail/2530992",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "美联储理事鲍曼：需要考虑以何种节奏和何种时间表来解决这一问题。",
@@ -98,13 +110,24 @@
           "time_info": "06时02分"
         },
         {
+          "title": "美联储理事沃勒：倾向于12月加息25个基点，若通胀持续高企应考虑加息50个基点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34445739",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "策略师：美联储加息预期升温 日本央行面临“跟进还是观望”的抉择",
           "url": "https://flash.jin10.com/detail/20261111100058873800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -123,7 +146,7 @@
     },
     {
       "keyword_group": "美债 美股 美元",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股收盘：加息担忧压制三大指数齐跌 英伟达两天蒸发2.85万亿元",
@@ -132,7 +155,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -143,7 +166,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -192,6 +215,17 @@
           "time_info": "06时02分"
         },
         {
+          "title": "美元指数DXY一度升至102.516，创四周新高。",
+          "url": "https://flash.jin10.com/detail/20261111174130358800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "美国CPI数据发布当天，标普500指数收跌29.01点，跌幅0.38%，报7520.93点，整体大致呈现出W形下跌状态，美股早盘冲高回落。标普500相等权重指数涨2.25%，报8944.71点，整体高开高走，逼近11月4日所创收盘历史最高位9044.98点、11月5日（非农日）所创盘中历史最高位9072.42点。 道琼斯工业平均指数收跌157.86点，跌幅0.30%，报52231.89点。 纳斯达克综合指数（纳指）收跌187.264点，跌幅0.74%，报25065.874点。 纳斯达克100指数收跌166.83点，跌幅0.60%，报27740.795点。 纳斯达克科技市值加权指数收跌1.04%，报2705.5249点，美股早盘冲高回落，随后持续低位震荡。 费城半导体指数收跌35.602点，跌幅0.36%，报9998.33点。 费城证交所KBW银行指数收跌0.08%，报174.32点。 道琼斯KBW地区银行指数收跌0.32%，报142.06点。 罗素2000指数收跌0.68%，报2821.375点。 纳斯达克生物科技指数收跌0.86%，报7385.09点。 标普中盘股400指数收跌0.39%，纳斯达克美国中等市值指数跌0.22%。 恐慌指数VIX收跌2.31%，报19.46。",
           "url": "https://wallstreetcn.com/livenews/3197915",
           "source": "华尔街见闻-快讯",
@@ -217,7 +251,7 @@
     },
     {
       "keyword_group": "伊朗 布伦特原油 原油指数",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "伊朗揭幕新地下导弹城，有导弹和人员被打码(图)",
@@ -226,7 +260,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -241,6 +275,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时07分 ~ 06时02分]"
+        },
+        {
+          "title": "热点问答丨美国真不想再打伊朗了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34447563",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 17时59分]"
         },
         {
           "title": "伊拉克调整与伊朗边境口岸的开放安排",
@@ -260,7 +306,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -287,6 +333,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "伊朗情报部称捣毁一个恐怖组织小组和一个走私武器的团伙",
+          "url": "https://wallstreetcn.com/livenews/3198300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "美国务卿：“没必要”对伊朗开展大规模作战行动",
           "url": "https://wallstreetcn.com/livenews/3197782",
           "source": "华尔街见闻-快讯",
@@ -296,17 +353,91 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "特朗普：这笔账，以色列等国必须买单",
+          "url": "https://news.ifeng.com/c/8xwZTnkTl6K",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 06时02分]"
         },
         {
-          "title": "热点问答丨美国真不想再打伊朗了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34447563",
-          "source": "澎湃新闻",
+          "title": "肯尼迪家族反对特朗普建凯旋门：不能让它遮住家族墓地",
+          "url": "https://news.ifeng.com/c/8xxesMaIqls",
+          "source": "凤凰网",
           "ranks": [
-            20
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "中期选举惨败，特朗普却准备更强硬，后两年计划曝光",
+          "url": "https://news.ifeng.com/c/8xxOVJVXDXb",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 17时59分]"
+        },
+        {
+          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
+          "url": "https://wallstreetcn.com/articles/3785603",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 06时02分]"
+        },
+        {
+          "title": "高市早苗称十分想见金正恩，并已获特朗普支持",
+          "url": "https://news.ifeng.com/c/8xwXrLw7BCB",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 06时02分]"
+        },
+        {
+          "title": "特朗普：民主党针对赫格塞思的弹劾“惨败”",
+          "url": "https://wallstreetcn.com/livenews/3198015",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "拜登披露回忆录部分内容：特朗普当选后态度曾异常热情，惊得我一时语塞",
+          "url": "https://wallstreetcn.com/livenews/3197773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
         }
       ]
     },
@@ -343,7 +474,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -354,7 +485,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -365,7 +496,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -387,88 +518,76 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
+      "keyword_group": "芯片 光模块",
+      "match_count": 5,
       "titles": [
         {
-          "title": "特朗普：这笔账，以色列等国必须买单",
-          "url": "https://news.ifeng.com/c/8xwZTnkTl6K",
-          "source": "凤凰网",
+          "title": "美官员呼吁收紧对中国获取先进AI芯片的限制，外交部回应",
+          "url": "https://www.cls.cn/detail/2531438",
+          "source": "财联社热门",
           "ranks": [
             3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 06时02分]"
-        },
-        {
-          "title": "中期选举惨败，特朗普却准备更强硬，后两年计划曝光",
-          "url": "https://news.ifeng.com/c/8xxOVJVXDXb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时22分"
+          "time_info": "17时59分"
         },
         {
-          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
-          "url": "https://wallstreetcn.com/articles/3785603",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 06时02分]"
-        },
-        {
-          "title": "高市早苗称十分想见金正恩，并已获特朗普支持",
-          "url": "https://news.ifeng.com/c/8xwXrLw7BCB",
-          "source": "凤凰网",
+          "title": "确认！阿里巴巴芯片公司平头哥已递交上市申请",
+          "url": "https://www.cls.cn/detail/2530675",
+          "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 06时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时07分 ~ 10时22分]"
         },
         {
-          "title": "特朗普：民主党针对赫格塞思的弹劾“惨败”",
-          "url": "https://wallstreetcn.com/livenews/3198015",
-          "source": "华尔街见闻-快讯",
+          "title": "利好存储芯片！超级周期料延续至2028年 但两大机构价格预期分歧巨大",
+          "url": "https://www.cls.cn/detail/2531464",
+          "source": "财联社热门",
           "ranks": [
-            21
+            6
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "A股半导体芯片股震荡走强，天普股份触及涨停，利扬芯片涨超12%，富瀚微、创耀科技、领先股份、力芯微、复旦微电等涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3198043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
         {
-          "title": "拜登披露回忆录部分内容：特朗普当选后态度曾异常热情，惊得我一时语塞",
-          "url": "https://wallstreetcn.com/livenews/3197773",
+          "title": "美股盘前：CoreWeave涨约17%，存储芯片股、光通信股普涨",
+          "url": "https://wallstreetcn.com/livenews/3198298",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时07分"
+          "time_info": "17时59分"
         }
       ]
     },
     {
       "keyword_group": "涨停 跌停",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "A股燃气概念异动拉升，东方环宇触及涨停，水发燃气、凯添燃气、佛燃能源、贵州燃气、长春燃气跟涨。",
@@ -477,9 +596,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
+        },
+        {
+          "title": "股价排名重返第四！源杰科技斩获20cm涨停，TMT融资余额扫描，这些方向略有回流",
+          "url": "https://www.cls.cn/detail/2531641",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "A股CPO概念股开盘拉升，剑桥科技涨停，太辰光、中际旭创、仕佳光子、新易盛、源杰科技纷纷走高。",
@@ -488,7 +618,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -499,7 +629,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -510,7 +640,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
@@ -518,7 +648,7 @@
     },
     {
       "keyword_group": "CPI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国10月核心CPI环比上涨0.3%超预期，12月加息50基点预期骤然升温",
@@ -526,11 +656,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 10时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 17时59分]"
         },
         {
           "title": "美国10月CPI数据超预期 三大股指期货集体转跌 | 今夜看点",
@@ -544,6 +675,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时07分 ~ 10时22分]"
+        },
+        {
+          "title": "美国10月CPI环比上涨0.4%超预期，市场开始定价12月加息50基点",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34446690",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         },
         {
           "title": "美CPI数据触及加息50点条件，Anthropic最快下周上市| Plus日报",
@@ -570,6 +712,156 @@
       ]
     },
     {
+      "keyword_group": "增长 亮眼",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "泰国央行会议纪要：委员会对增长集中于科技和人工智能相关行业表示担忧。",
+          "url": "https://flash.jin10.com/detail/20261111100344314800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "日本首相高市早苗：根据现有联合声明与日本央行协调。 将与日本央行合作，以达物价稳定与经济增长。",
+          "url": "https://wallstreetcn.com/livenews/3198303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "泰国央行会议纪要：泰国经济整体增长仍低于潜在水平且不均衡。",
+          "url": "https://flash.jin10.com/detail/20261111100158805800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "荷兰统计局：停止发布货物出口月度统计数据。：该指标的季度统计数据将继续作为经济增长估算的一部分发布。",
+          "url": "https://flash.jin10.com/detail/20261111173737878800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跌破 拉升",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "A股PCB概念股再度拉升，光洋股份3连板，股价续创历史新高，四会富仕、杰普特、迅捷兴、东山精密、沪电股份涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3198046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "国际油价短线拉升，WTI原油日内涨幅达1.0%，报86.95美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3198313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "A股PCB概念股再度拉升，光洋股份3连板，股价续创历史新高，四会富仕、杰普特、迅捷兴、东山精密、沪电股份涨超5%。",
+          "url": "https://flash.jin10.com/detail/20261111095129742800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        },
+        {
+          "title": "王楚钦一人拉升男队外战胜率",
+          "url": "https://www.toutiao.com/trending/7706070609305829417/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "回购",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Prosus于11月2-6日当周按均价36.6009欧元回购278.0140万股股票，合计超1.017亿欧元（折合1.140亿美元）。 Naspers同期按均价730.3284南非兰特回购58.7183万股，合计超4.288亿兰特（折合0.259亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3197793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时07分"
+        },
+        {
+          "title": "江西铜业：拟以3亿元-5亿元回购股份，回购股份价格不超过56.34元/股。",
+          "url": "https://wallstreetcn.com/livenews/3198318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "星帅尔：拟斥1亿-1.5亿元回购股份用于出售",
+          "url": "https://flash.jin10.com/detail/20261111174615224800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "中国央行公开市场今日开展1870亿元人民币隔夜逆回购操作，利率为1.25%。中国央行公开市场今日净回笼30亿元人民币。",
+          "url": "https://wallstreetcn.com/livenews/3198024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "纳斯达克 标普 道琼斯",
       "match_count": 3,
       "titles": [
@@ -591,7 +883,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -605,6 +897,85 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "科创 创业 创业板 科创板",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【每日收评】创业板指冲高回落涨1.46%，全市场超4200股飘红，端侧AI概念站上风口",
+          "url": "https://www.cls.cn/detail/2530324",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时07分 ~ 06时02分]"
+        },
+        {
+          "title": "【每日收评】创业板指震荡走高涨超3%，全市场超3500股收红，算力硬件股卷土重来",
+          "url": "https://www.cls.cn/detail/2531555",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "【焦点复盘】硬科技成长股全面反攻，科创50放量收复20日线，“易中天”均大涨超13%",
+          "url": "https://www.cls.cn/detail/2531610",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "商业航天 机器人",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "机器人行情助攻，11月第一只翻倍股来了！",
+          "url": "https://www.cls.cn/detail/2531013",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "十三天七板光洋股份：机器人业务尚处市场拓展阶段 营收占比较低且未盈利",
+          "url": "https://flash.jin10.com/detail/20261111175158996800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
+          "title": "谷歌上线其最强机器人模型 入驻奔驰生产线 分拣成功率96%",
+          "url": "https://www.cls.cn/detail/2531092",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     },
@@ -630,7 +1001,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         },
@@ -641,74 +1012,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "跌破 拉升",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "A股PCB概念股再度拉升，光洋股份3连板，股价续创历史新高，四会富仕、杰普特、迅捷兴、东山精密、沪电股份涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/3198046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "A股PCB概念股再度拉升，光洋股份3连板，股价续创历史新高，四会富仕、杰普特、迅捷兴、东山精密、沪电股份涨超5%。",
-          "url": "https://flash.jin10.com/detail/20261111095129742800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "王楚钦一人拉升男队外战胜率",
-          "url": "https://www.toutiao.com/trending/7706070609305829417/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长 亮眼",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "泰国央行会议纪要：委员会对增长集中于科技和人工智能相关行业表示担忧。",
-          "url": "https://flash.jin10.com/detail/20261111100344314800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        },
-        {
-          "title": "泰国央行会议纪要：泰国经济整体增长仍低于潜在水平且不均衡。",
-          "url": "https://flash.jin10.com/detail/20261111100158805800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
@@ -726,8 +1030,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 10时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时07分 ~ 17时59分]"
         },
         {
           "title": "美联储理事鲍曼：美联储去年逐步降息，随后暂停，之后又恢复降息；未来几个月，我们可能以同样方式应对通胀。",
@@ -739,34 +1043,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "芯片 光模块",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "确认！阿里巴巴芯片公司平头哥已递交上市申请",
-          "url": "https://www.cls.cn/detail/2530675",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时07分 ~ 10时22分]"
-        },
-        {
-          "title": "A股半导体芯片股震荡走强，天普股份触及涨停，利扬芯片涨超12%，富瀚微、创耀科技、领先股份、力芯微、复旦微电等涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/3198043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
         }
       ]
     },
@@ -802,34 +1078,6 @@
       ]
     },
     {
-      "keyword_group": "回购",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Prosus于11月2-6日当周按均价36.6009欧元回购278.0140万股股票，合计超1.017亿欧元（折合1.140亿美元）。 Naspers同期按均价730.3284南非兰特回购58.7183万股，合计超4.288亿兰特（折合0.259亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3197793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时07分"
-        },
-        {
-          "title": "中国央行公开市场今日开展1870亿元人民币隔夜逆回购操作，利率为1.25%。中国央行公开市场今日净回笼30亿元人民币。",
-          "url": "https://wallstreetcn.com/livenews/3198024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日经 韩国股市",
       "match_count": 1,
       "titles": [
@@ -840,7 +1088,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
@@ -857,27 +1105,26 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时22分"
         }
       ]
     },
     {
-      "keyword_group": "科创 创业 创业板 科创板",
+      "keyword_group": "涨价 核心材料",
       "match_count": 1,
       "titles": [
         {
-          "title": "【每日收评】创业板指冲高回落涨1.46%，全市场超4200股飘红，端侧AI概念站上风口",
-          "url": "https://www.cls.cn/detail/2530324",
+          "title": "存储又在酝酿新一轮涨价",
+          "url": "https://www.cls.cn/detail/2531265",
           "source": "财联社热门",
           "ranks": [
-            3,
-            4
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时07分 ~ 06时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
         }
       ]
     },
